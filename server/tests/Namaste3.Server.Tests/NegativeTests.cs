@@ -178,6 +178,34 @@ public sealed class NegativeTests
     }
 
     /// <summary>
+    /// FR : un EN-TÊTE de trame malformé (longueur annoncée au-delà du plafond) n'est PAS une
+    ///      trame tronquée — `FrameReader.TryReadFrame` LÈVE dans ce cas, elle ne rend pas
+    ///      `false`. `Receive` doit transformer cette levée en refus NOMMÉ et fermer la session,
+    ///      jamais laisser l'exception traverser en silence.
+    /// EN : a MALFORMED frame header (declared length above the cap) is NOT a truncated frame —
+    ///      `TryReadFrame` THROWS here, it does not return `false`. `Receive` must turn that throw
+    ///      into a NAMED refusal and close the session, never let the exception cross silently.
+    /// </summary>
+    [Fact]
+    public void UnEnTeteDeTrameHorsPlafond_EstUnRefusNommePasUneException()
+    {
+        OpcodeTable table = TestSupport.Table();
+        var tickets = new TicketRegistry(
+            TestSupport.FrozenClock(), TestSupport.CountingMint(), TimeSpan.FromMinutes(5));
+        (ConnectionSession session, FrameLog log, _, _) = NewSession(table, tickets);
+
+        // Longueur annoncée très au-delà du plafond de FrameReader (131072 o) : aucun octet de
+        // charge utile n'est nécessaire, l'en-tête seul suffit à déclencher le refus.
+        byte[] enTeteHorsPlafond = Varint.Encode(999_999_999UL);
+
+        IReadOnlyList<byte[]> outgoing = session.Receive(enTeteHorsPlafond);
+
+        Assert.Empty(outgoing);
+        Assert.True(session.ShouldClose);
+        Assert.Contains(log.Refusals, r => r.Contains("FrameTooLarge", StringComparison.Ordinal));
+    }
+
+    /// <summary>
     /// FR : un opcode que la table ne lie pas est JOURNALISÉ puis IGNORÉ — pas de réponse, pas de
     ///      refus, pas de fermeture, pas d'exception. Le client en envoie que nous ne traitons
     ///      pas encore ; planter dessus perdrait la session pour un message décoratif.
@@ -381,7 +409,13 @@ public sealed class NegativeTests
         Assert.Equal(15, TestSupport.DecodeGame(open.Receive(frame)).Count);
         Assert.False(open.ShouldClose);
         Assert.Empty(openLog.Refusals);
-        Assert.Contains(openLog.Records, _ => true);
+        // FR : pas juste « le journal n'est pas vide » — le ticket EXTERNE reçu doit être
+        //      journalisé comme tel : ENTRANT et sous l'opcode sémantique AuthTicket. Sans ce
+        //      contrôle, un journal vide de refus passerait le test même si le ticket n'avait
+        //      jamais été observé du tout.
+        // EN : not just "the log is non-empty" — the external ticket must be logged as such:
+        //      INBOUND and under the AuthTicket semantic opcode.
+        Assert.Contains(openLog.Records, r => r.Flow == FrameFlow.In && r.Op == SemanticOp.AuthTicket);
 
         // OUVERT mais ticket VIDE : toujours refusé — le desserrage a une borne.
         (ConnectionSession empty, FrameLog emptyLog) = Session(table, accept: true);

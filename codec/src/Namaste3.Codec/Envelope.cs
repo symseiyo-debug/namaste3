@@ -70,6 +70,31 @@ public sealed class Envelope
     public required IReadOnlyList<ProtoField> AnyFields { get; init; }
 
     /// <summary>
+    /// FR : vrai UNIQUEMENT si le wrapper source (<see cref="WrapperFields"/>) se ré-encode octet
+    ///      pour octet — le même contrat que <see cref="ProtoField.Message"/>. Faux, entre autres,
+    ///      quand un champ interne (ex. l'id de requête) porte un varint non canonique valide mais
+    ///      pas le plus court. <see cref="Encode"/> s'appuie dessus pour ne JAMAIS reconstruire un
+    ///      niveau dont l'exactitude n'est pas prouvée.
+    /// EN : true ONLY if the source wrapper re-encodes byte for byte — same contract as
+    ///      <see cref="ProtoField.Message"/>. False when e.g. an inner field (request id) carries a
+    ///      valid but non-shortest varint. <see cref="Encode"/> relies on this to NEVER rebuild a
+    ///      level whose exactness isn't proven.
+    /// </summary>
+    public required bool WrapperExact { get; init; }
+
+    /// <summary>FR : octets bruts du wrapper, pour ré-émission opaque si <see cref="WrapperExact"/>
+    ///      est faux. EN : raw wrapper bytes, for opaque re-emission if not exact.</summary>
+    public required byte[] WrapperBytes { get; init; }
+
+    /// <summary>FR : même garde que <see cref="WrapperExact"/>, pour l'`Any`.
+    ///      EN : same guard as <see cref="WrapperExact"/>, for the `Any`.</summary>
+    public required bool AnyExact { get; init; }
+
+    /// <summary>FR : octets bruts de l'`Any`, pour ré-émission opaque si <see cref="AnyExact"/> est
+    ///      faux. EN : raw `Any` bytes, for opaque re-emission if not exact.</summary>
+    public required byte[] AnyBytes { get; init; }
+
+    /// <summary>
     /// FR : décode UNE trame déjà délimitée (sans son préfixe de longueur).
     /// EN : decodes ONE already-delimited frame (without its length prefix).
     /// </summary>
@@ -174,7 +199,11 @@ public sealed class Envelope
             RequestId = requestId,
             RootFields = rootFields,
             WrapperFields = wrapperFields,
+            WrapperExact = caseField.Message is not null,
+            WrapperBytes = caseField.Bytes,
             AnyFields = anyFields,
+            AnyExact = anyField.Message is not null,
+            AnyBytes = anyField.Bytes,
         };
     }
 
@@ -186,19 +215,30 @@ public sealed class Envelope
     /// </summary>
     public byte[] Encode()
     {
-        byte[] anyBytes = Rebuild(AnyFields, field => field.Number switch
-        {
-            AnyTypeUrlField when field.WireType == ProtoWireType.LengthDelimited
-                => Encoding.UTF8.GetBytes(TypeUrl),
-            AnyPayloadField when field.WireType == ProtoWireType.LengthDelimited
-                => Payload,
-            _ => null,
-        });
+        // FR : un niveau dont l'exactitude n'est PAS prouvée (varint non canonique, etc.) est
+        //      ré-émis OPAQUE — ses octets d'origine, verbatim — plutôt que reconstruit depuis des
+        //      champs qu'on sait déjà ne pas retomber juste (Varint.Write canonicalise toujours).
+        //      C'est le même contrat que ProtoField.Message : décomposer un niveau non exact pour
+        //      le reconstruire silencieusement est précisément le bug que ce garde empêche.
+        // EN : a level whose exactness is NOT proven is re-emitted OPAQUE — its original bytes,
+        //      verbatim — instead of rebuilt from fields already known not to round-trip.
+        byte[] anyBytes = AnyExact
+            ? Rebuild(AnyFields, field => field.Number switch
+            {
+                AnyTypeUrlField when field.WireType == ProtoWireType.LengthDelimited
+                    => Encoding.UTF8.GetBytes(TypeUrl),
+                AnyPayloadField when field.WireType == ProtoWireType.LengthDelimited
+                    => Payload,
+                _ => null,
+            })
+            : AnyBytes;
 
-        byte[] wrapperBytes = Rebuild(WrapperFields, field =>
-            field.Number == WrapperAnyField && field.WireType == ProtoWireType.LengthDelimited
-                ? anyBytes
-                : null);
+        byte[] wrapperBytes = WrapperExact
+            ? Rebuild(WrapperFields, field =>
+                field.Number == WrapperAnyField && field.WireType == ProtoWireType.LengthDelimited
+                    ? anyBytes
+                    : null)
+            : WrapperBytes;
 
         return Rebuild(RootFields, field =>
             field.Number == (int)Case && field.WireType == ProtoWireType.LengthDelimited

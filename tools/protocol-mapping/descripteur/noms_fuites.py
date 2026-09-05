@@ -126,6 +126,19 @@ def recolter(chemin: Path) -> dict[str, dict]:
     Une passe en flux : pour chaque classe RACINE obfusquée, ce qui a fui d'elle.
     One streaming pass: for every obfuscated ROOT class, everything that leaked out of it.
     """
+    # Contrairement aux trois chargeurs secondaires (charger_reels/messages/porteurs), l'absence
+    # d'IL2CPP n'est PAS un cas à dégrader en silence vers un résultat vide : `chemin` est l'ENTRÉE
+    # dont ce script mesure quelque chose. Un dict vide se lirait comme « 0 fuite trouvée » — un
+    # faux négatif — au lieu de « je n'ai pas pu mesurer ». Refus nommé, mesuré le 05/09.
+    # Unlike the three secondary loaders, a missing IL2CPP is not something to degrade silently
+    # into an empty result: `chemin` is the INPUT this script measures. An empty dict would read
+    # as "0 leaks found" — a false negative — instead of "I couldn't measure". Named refusal.
+    if not chemin.exists():
+        raise FileNotFoundError(
+            f"IL2CPP absent / IL2CPP missing: {chemin} — rien à récolter, "
+            f"pas un résultat vide qui se ferait passer pour une mesure "
+            f"/ nothing to harvest, not an empty result posing as a measurement")
+
     plages = assemblies(chemin)
     trahies: dict[str, dict] = {}
     # Pile des classes ouvertes : (profondeur, nom, nom fuité si c'en est une).

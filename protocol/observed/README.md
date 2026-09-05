@@ -11,9 +11,9 @@
 ## Mesures de la session
 | | |
 |---|---|
-| trames capturées | **plus de 5 000** |
+| trames capturées | **4 435** |
 | opcodes distincts observés | **238** |
-| dont nommés par recoupement | **63** |
+| dont nommés par recoupement | **76** |
 | familles complètes reconstituées | 7 |
 
 ## Méthode
@@ -26,7 +26,7 @@ confrontation.
 ## Fichiers
 - `sequences.md` — les enchaînements canoniques, par famille
 - `manquants.md` — **ce que le client demande et qu'un serveur doit fournir**
-- `opcodes.md` — les 194 opcodes observés, avec sens, fréquence, taille et nom connu
+- `opcodes.md` — les 238 opcodes observés, avec sens, fréquence, taille et nom connu
 
 ## Portée — ce que ces tables NE disent pas
 Un opcode **observé** n'est pas un message **compris** : la sémantique fine des

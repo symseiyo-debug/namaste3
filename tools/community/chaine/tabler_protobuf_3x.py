@@ -40,9 +40,9 @@ import sys
 
 ICI = os.path.dirname(os.path.abspath(__file__))
 # Extracteur voisin, réutilisé tel quel. Son chemin est une CONSTANTE SOURCÉE : il vit dans la zone du
-# matcher (étage 1), écrit ailleurs dans le projet le 04/09 et éprouvé par `verifier_motif.py` 3/3.
+# matcher (étage 1, renommé `protocol-mapping` depuis) et est éprouvé par `verifier_motif.py` 3/3.
 EXTRACTEUR = os.path.normpath(os.path.join(
-    ICI, "..", "..", "etage1-carte", "matcher", "extraire_signatures.py"))
+    ICI, "..", "..", "protocol-mapping", "matcher", "extraire_signatures.py"))
 # Assemblages qui portent le protocole, MESURÉS par gate-g0 le 04/09 : Game.dll 2169 classes
 # IBufferMessage, Connection.dll 37. Les autres (Google, Core) sont de la plomberie protobuf.
 ASSEMBLAGES_PROTOCOLE = ("Ankama.Dofus.Protocol.Game.dll", "Ankama.Dofus.Protocol.Connection.dll")

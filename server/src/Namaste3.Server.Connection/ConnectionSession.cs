@@ -92,17 +92,32 @@ public sealed class ConnectionSession
         var outgoing = new List<byte[]>();
         _reader.Append(segment);
 
-        while (_reader.TryReadFrame(out byte[] frame, out long offset))
+        // FR : TryReadFrame LÈVE (pas un simple `false`) sur un en-tête de trame malformé
+        //      (longueur annoncée hors plafond, varint trop long/débordant) — un en-tête
+        //      corrompu n'est pas "pas encore assez de données", c'est un refus. Sans ce
+        //      try/catch ICI, l'exception traverse Receive() sans jamais passer par
+        //      _log.Refusal : exactement le silence que ce fichier dit refuser ailleurs.
+        // EN : TryReadFrame THROWS (not just `false`) on a malformed frame header — caught here
+        //      so it becomes a NAMED refusal instead of an unobserved exception.
+        try
         {
-            DecidePhase(frame);
-            if (_phase == SessionPhase.Naked)
+            while (_reader.TryReadFrame(out byte[] frame, out long offset))
             {
-                HandleNaked(frame, offset, outgoing);
+                DecidePhase(frame);
+                if (_phase == SessionPhase.Naked)
+                {
+                    HandleNaked(frame, offset, outgoing);
+                }
+                else
+                {
+                    HandleGame(frame, offset, outgoing);
+                }
             }
-            else
-            {
-                HandleGame(frame, offset, outgoing);
-            }
+        }
+        catch (CodecException ex)
+        {
+            _log.Refusal($"en-tête de trame illisible / unreadable frame header: {ex.Code} @{ex.Offset}");
+            ShouldClose = true;
         }
 
         return outgoing;

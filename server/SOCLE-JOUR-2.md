@@ -156,7 +156,7 @@ réconcilier **avec lui**, pas contre lui.
 **VÉRIFIÉ — il existe maintenant DEUX tables qui nomment des opcodes, et elles portent deux builds
 différentes.** `protocol/extract/proto-sync/out/dispatch-3.6.10.10.json` porte **2 206 messages**, générés
 depuis le dump, chacun avec sa source et son statut de nom.
-`server/protocol/binding-3.6.10.11.json` porte **25 messages**, le chemin critique seulement,
+`server/protocol/binding-3.6.10.10.json` porte **25 messages**, le chemin critique seulement,
 avec en plus **la charge exacte à émettre** pour chacun des 15 messages de la rafale — ce que la
 première n'a pas. Les deux se déclarent « le seul fichier qui nomme des opcodes ». Elles ne sont pas
 en conflit, elles sont **complémentaires** : l'une donne la forme de tout le protocole, l'autre le

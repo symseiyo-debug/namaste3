@@ -48,7 +48,14 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-META = "internal/artefacts/temoins-3.0/global-metadata.dat"
+# FR : le chemin du metadata est une RÉFÉRENCE, pas une constante — juger les blobs d'une build
+#      contre le metadata d'une autre passerait par accident (deux builds voisines se ressemblent).
+#      Même mécanique que `gate-g0.py`, qui documente ce défaut comme déjà trouvé et corrigé :
+#      défaut → variable d'environnement → `--meta`, et le chemin RETENU est imprimé.
+# EN : the metadata path is a REFERENCE, not a constant — same mechanism as `gate-g0.py`:
+#      default → env var → `--meta`, and the path actually used is printed.
+META_DEFAUT = "internal/artefacts/temoins-3.0/global-metadata.dat"
+META = os.environ.get("NAMASTE_META", META_DEFAUT)
 OUT_JSONL = os.path.join(HERE, "descripteurs-fichiers.jsonl")
 
 # --- parseur protobuf minimal (wire format brut) ------------------------------------
@@ -273,6 +280,10 @@ def count_messages(fd):
 # Point d'entrée : trouve les blobs base64, décode, classe clair/obfusqué, écrit le JSONL.
 # / Entry point: finds base64 blobs, decodes, classifies clear/obfuscated, writes the JSONL.
 def main():
+    global META
+    if "--meta" in sys.argv:                      # référence explicite / explicit reference
+        META = sys.argv[sys.argv.index("--meta") + 1]
+    log(f"  référence (metadata) : {META}")
     if not os.path.exists(META):
         log(f"ABSENT : {META} — rien à décoder, je n'invente pas.")
         sys.exit(2)

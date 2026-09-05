@@ -26,9 +26,10 @@ imply their endorsement of this project.
   automatically updating Dofus 3 data feed from the game's main channel;
   cross-referenced for build/version tracking.
 - **[dofusdude/ankabuffer](https://github.com/dofusdude/ankabuffer)** —
-  client for Ankama's Cytrus/asset-manifest protocol; informed how our own
-  build-fetching tooling (`tools/community/chaine/obtenir_build.sh`) talks
-  to Ankama's public CDN.
+  client for Ankama's Cytrus/asset-manifest protocol; read to understand how
+  that manifest protocol is shaped. Our own build-fetching script
+  (`tools/community/chaine/obtenir_build.sh`) is a wrapper around cytrus-v6
+  and calls Ankama's public CDN directly — it does not use or port ankabuffer.
 - **[ledouxm/cytrus-v6](https://github.com/ledouxm/cytrus-v6)** — download
   tool for Ankama games via the Cytrus CDN; the name and approach our own
   build-fetch script explicitly reuses.
@@ -87,6 +88,17 @@ imply their endorsement of this project.
   predecessor to Giny.NETCore; studied the same way, and specifically for
   `Symbioz.ProtocolBuilder`, the direct ancestor of the protocol-builder
   pattern this project's own tooling follows.
+- **GinyCore 2.63**, **OneAir 2.68-docker** and **Jiva 2.42** — three further
+  Dofus 2.x server emulators read for ONE precise question: how each one binds
+  a protocol message to its handler. The first two follow the same
+  `[MessageHandler]`-without-argument convention as Giny.NETCore (the handler's
+  first parameter carries the message type); Jiva 2.42 uses stackable
+  `[WorldHandler(X.Id)]` / `[AuthHandler(X.Id)]` attributes instead, where the
+  attribute itself names the message. That contrast is what let this project's
+  extractor read handler tables across conventions rather than assume one.
+  Architecture patterns only — no code copied. We list them by name and version
+  because those are the builds actually read; we do not publish links we have
+  not verified point at those exact builds.
 
 ## Client/binary analysis tooling
 
@@ -107,15 +119,26 @@ imply their endorsement of this project.
   (GPL-3.0) — SWF/AS2/AS3 decompiler; used headless to recover the Dofus
   2.x (Flash/AS3) network protocol in the clear, which anchored the
   2.x-to-3.0 protocol evolution comparison.
-- **[radare2](https://github.com/radareorg/radare2)** (LGPL-3.0 core; some
-  plugins/dependencies under GPL) — general reverse-engineering framework.
-- **[Frida](https://github.com/frida/frida)** (wxWindows Library Licence
-  3.1) — dynamic instrumentation toolkit.
-- **[mitmproxy](https://github.com/mitmproxy/mitmproxy)** (MIT) —
-  interactive, scriptable TLS-capable proxy.
 - **[AssetRipper](https://github.com/AssetRipper/AssetRipper)** (GPL-3.0)
   and **[UnityPy](https://github.com/K0lb3/UnityPy)** (MIT) — Unity asset
   bundle reconstruction/extraction tooling.
+
+## Standard tools of this field that we did NOT end up using
+
+Listed for the community's benefit, and explicitly separated from the credits
+above, because crediting a tool one never ran would inflate the apparent rigour
+of this work. As of this writing, nothing in this repository invokes, ports, or
+derives from any of these:
+
+- **[radare2](https://github.com/radareorg/radare2)** (LGPL-3.0 core; some
+  plugins/dependencies under GPL) — general reverse-engineering framework.
+- **[Frida](https://github.com/frida/frida)** (wxWindows Library Licence 3.1)
+  — dynamic instrumentation toolkit.
+- **[mitmproxy](https://github.com/mitmproxy/mitmproxy)** (MIT) — interactive,
+  scriptable TLS-capable proxy.
+
+They are the obvious instruments for this kind of work and may well be used
+here later; if that happens, they move up into the credits above.
 
 ## A note on what's absent from this list
 

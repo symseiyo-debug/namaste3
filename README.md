@@ -38,17 +38,25 @@ Tout est **déterministe** : ce qu'un script peut retrouver n'est jamais deviné
 | Brique | État mesuré |
 |---|---|
 | **Dictionnaire de protocole** | 2 206 messages, 6 278 champs extraits ; sortie `.proto` régénérée par build |
-| **Codec** (varint + protobuf sans schéma) | validé **octet par octet sur 355 trames réelles** · 71 tests |
-| **Serveur de connexion** (.NET 8) | répond au vrai client officiel · 36 tests · **0 opcode écrit en dur** |
+| **Codec** (varint + protobuf sans schéma) | validé **octet par octet sur 355 trames réelles** · 72 tests[^fixtures] |
+| **Serveur de connexion** (.NET 8) | répond au vrai client officiel · 37 tests[^fixtures] · **0 opcode écrit en dur** |
 | **Extraction de cartes** | 17 353 cartes, 560 cellules chacune (l'outil est ici, pas la donnée) |
 | **Chaîne de dump IL2CPP** | opérationnelle |
 | **Gardes déterministes** | chacune éprouvée **dans les deux sens** (voir plus bas) |
 
+[^fixtures]: **À lire avant de cloner** : une partie de ces tests rejoue des **captures
+réelles** (`refs/JondoEmu/datos/*.bin`) qui ne sont **pas redistribuées ici** — ce ne sont pas
+nos données. Mesuré sur un clone nu de ce dépôt : **43/72** côté codec et **35/37** côté
+serveur passent ; les autres échouent avec `fixture RÉELLE absente`, par choix — « pas de vert
+sans frame réelle ». Ce n'est pas une suite cassée, c'est une suite qui refuse de se déclarer
+verte sans la donnée qu'elle prétend mesurer. Les tests **synthétiques** (négatifs, round-trip
+construits à la main) passent tous sans aucune fixture.
+
 ---
 
 
-> 🔬 **[Protocole observé en session réelle](protocol/observed/)** — 194 opcodes vus vivants,
-> 63 nommés, 7 familles reconstituées par capture. Ce que le binaire ne dit pas.
+> 🔬 **[Protocole observé en session réelle](protocol/observed/)** — 238 opcodes vus vivants,
+> 76 nommés, 7 familles reconstituées par capture. Ce que le binaire ne dit pas.
 
 ## ❌ Ce qui ne marche pas encore — et pourquoi
 

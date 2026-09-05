@@ -4,6 +4,7 @@
 //   octet du fil, pas seulement qu'il "compile" ou passe sur des fixtures synthétiques.
 // COMMENT LANCER : dotnet test --filter RoundTripTests (depuis codec/).
 // GATE : rejouée par gate-codec.sh (via `dotnet test` + son propre calcul indépendant du sha).
+using System.Text;
 using Xunit;
 using Xunit.Abstractions;
 
@@ -168,5 +169,49 @@ public sealed class RoundTripTests
         }
 
         Assert.NotEmpty(shapes);
+    }
+
+    /// <summary>
+    /// FR : un id de requête encodé en varint NON CANONIQUE (0x81 0x00 — vaut 1, sur 2 octets au
+    ///      lieu d'1, forme légale du wire format que n'importe quel encodeur peut légitimement
+    ///      produire) doit décoder la bonne VALEUR **et** ré-encoder les MÊMES octets. Avant
+    ///      correctif : `Envelope.Decode` ignorait le signal d'inexactitude (`caseField.Message ==
+    ///      null`) et redécomposait quand même le wrapper ; `Encode` le reconstruisait alors via
+    ///      `Varint.Write`, qui canonicalise TOUJOURS — un octet perdu en silence, sans exception,
+    ///      sans compteur, exactement ce que ce codec dit refuser.
+    /// EN : a request id encoded as a NON-CANONICAL varint (0x81 0x00 — value 1, 2 bytes instead
+    ///      of 1, a wire-format-legal form any encoder may legitimately emit) must decode the
+    ///      right VALUE **and** re-encode the SAME bytes. Before the fix, `Envelope.Decode` ignored
+    ///      the inexactness signal and redecomposed the wrapper anyway; `Encode` then rebuilt it via
+    ///      `Varint.Write`, which always canonicalizes — a silently dropped byte.
+    /// </summary>
+    [Fact]
+    public void IdDeRequeteEnVarintNonCanonique_EstReencodeOctetPourOctet()
+    {
+        // `Any` minimal : juste un typeUrl, un opcode qui n'existe pas dans la table ("zzq", voir
+        // NegativeTests.FillerOpcode) -- sans conséquence ici, seule l'exactitude du WRAPPER est
+        // sous test.
+        var any = new List<byte>();
+        ProtoWriter.WriteLengthDelimited(any, Envelope.AnyTypeUrlField,
+            Encoding.UTF8.GetBytes("type.ankama.com/zzq"));
+
+        var wrapper = new List<byte>();
+        ProtoWriter.WriteLengthDelimited(wrapper, Envelope.WrapperAnyField, any.ToArray());
+        // f2 (id), wire type varint, valeur 1 encodée sur 2 octets (0x81 0x00) au lieu d'1 (0x01).
+        wrapper.Add((byte)((Envelope.WrapperIdField << 3) | 0));
+        wrapper.Add(0x81);
+        wrapper.Add(0x00);
+
+        var root = new List<byte>();
+        ProtoWriter.WriteLengthDelimited(root, /* rootField (Request) */ 2, wrapper.ToArray());
+        byte[] delimited = root.ToArray();
+
+        Envelope envelope = Envelope.Decode(delimited, frameOffset: 0, new ProtoStats());
+
+        Assert.Equal(1L, envelope.RequestId);
+        Assert.False(envelope.WrapperExact);
+
+        byte[] reencoded = envelope.Encode();
+        Assert.Equal(Fixtures.Sha256Hex(delimited), Fixtures.Sha256Hex(reencoded));
     }
 }

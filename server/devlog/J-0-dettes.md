@@ -23,7 +23,7 @@
 
 - **Un quatrième geste, apparu à 22:50 : réconcilier les DEUX tables qui nomment des opcodes.**
   `protocol/extract/proto-sync/out/dispatch-3.6.10.10.json` porte 2 206 messages générés depuis le dump ;
-  `server/protocol/binding-3.6.10.11.json` porte 25 messages du chemin critique **plus la
+  `server/protocol/binding-3.6.10.10.json` porte 25 messages du chemin critique **plus la
   charge exacte à émettre**, que la première n'a pas. Les deux se déclarent « le seul fichier qui nomme
   des opcodes ». Elles sont complémentaires, pas contradictoires — mais deux producteurs de la même
   chose divergent tôt ou tard. **Ce geste se fait AVEC l'écrivain du serveur de connexion**, qui
