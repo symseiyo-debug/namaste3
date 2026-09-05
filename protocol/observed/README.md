@@ -11,8 +11,8 @@
 ## Mesures de la session
 | | |
 |---|---|
-| trames capturées | **2 769** |
-| opcodes distincts observés | **194** |
+| trames capturées | **plus de 5 000** |
+| opcodes distincts observés | **238** |
 | dont nommés par recoupement | **63** |
 | familles complètes reconstituées | 7 |
 
@@ -25,6 +25,7 @@ confrontation.
 
 ## Fichiers
 - `sequences.md` — les enchaînements canoniques, par famille
+- `manquants.md` — **ce que le client demande et qu'un serveur doit fournir**
 - `opcodes.md` — les 194 opcodes observés, avec sens, fréquence, taille et nom connu
 
 ## Portée — ce que ces tables NE disent pas
