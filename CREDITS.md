@@ -32,6 +32,14 @@ imply their endorsement of this project.
 - **[ledouxm/cytrus-v6](https://github.com/ledouxm/cytrus-v6)** — download
   tool for Ankama games via the Cytrus CDN; the name and approach our own
   build-fetch script explicitly reuses.
+- **[dofera/cytrus](https://github.com/dofera/cytrus)** — community-maintained
+  archive of Ankama's `cytrus.json`, merged on every publish instead of
+  overwritten, preserving roughly 200 published Windows versions since
+  3.0.1.1. Ankama's own live `cytrus.json` only ever lists today's version;
+  this archive is what makes it possible to name an old build at all before
+  asking the CDN for it. See
+  [docs/OBTENIR-LE-CLIENT.md](docs/OBTENIR-LE-CLIENT.md) for the full method,
+  sourced from JondoEmu's `Jondo.Unity.Reversing/Cytrus.cs`.
 - **[tikkamasala/dofus3-sniffer-tui](https://github.com/tikkamasala/dofus3-sniffer-tui)**
   — passive TCP capture + protobuf `Any`/`typeUrl` pretty-printing TUI;
   studied for its framing, opcode-to-name mapping registry, and message

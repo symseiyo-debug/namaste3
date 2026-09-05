@@ -72,6 +72,10 @@ rotation est **nulle sur 2 169 identités**. Un correctif ne casse rien ; c'est 
 > `global-metadata.dat` — donc ce n'est pas une limitation : ce qui marche ici marche aussi sur
 > `3.6.10.11`, et ne sera pas périmé à la prochaine build tant que le binaire ne bouge pas vraiment.
 
+**Vous voulez obtenir cette build précise (ou une autre, ancienne) au lieu de celle du jour ?** Voir
+[docs/OBTENIR-LE-CLIENT.md](docs/OBTENIR-LE-CLIENT.md) — le launcher officiel ne sert que la version
+du jour, et la méthode pour remonter à une build ancienne y est expliquée.
+
 **Autres limites connues :**
 - La décompilation native (Ghidra) est **cassée** chez nous : le pré-script de typage ne s'exécute
   pas, l'export produit **0 fichier**. Signalé, pas caché.
