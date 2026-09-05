@@ -6,7 +6,7 @@
 > invérifiables). Sources relues pour cette révision : `refs/JondoEmu/docs/`, `refs/JondoEmu/datos/`,
 > `internal/artefacts/lot31-data-3.0-full/`, `internal/artefacts/lot37-mapdata-3.0/`,
 > `internal/il2cpp-dump/il2cppinspectorredux/cs/il2cpp.cs`,
-> `internal/backups/auto/dofus-emu/dofus-emu-auto-20260904-013001/world_dev.sql.gz`, `dofus-tools/`.
+> `<sauvegarde interne datée du 04/09>/world_dev.sql.gz`, `dofus-tools/`.
 > **Règle appliquée : aucune correction n'a été portée sur le seul dire du réfutateur.** Chaque point
 > a été remesuré ici ; là où ma mesure contredit la sienne, le texte d'origine est GARDÉ et la preuve
 > est écrite.
@@ -118,7 +118,7 @@ d'Astrub (`mapsinformation.json:186544`) ; l'extraction du lot30 (`lot30-data-3.
 avait par ailleurs confirmés :
 
 1. **L114** — il écrit « seul le chemin cité n'existe pas ici ». Le chemin
-   `internal/backups/auto/dofus-emu/dofus-emu-auto-20260904-013001/world_dev.sql.gz` **existe sur ce VPS**,
+   `<sauvegarde interne datée du 04/09>/world_dev.sql.gz` **existe sur ce VPS**,
    43 818 436 octets, et les 5 citations de ligne y retombent juste.
 2. **L125** — voir la ligne CONTESTÉ ci-dessus.
 

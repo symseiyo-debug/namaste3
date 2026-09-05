@@ -7,7 +7,7 @@
 > `internal/artefacts/lot37-mapdata-3.0/`, `dofus-tools/`, `refs/JondoEmu/datos/`,
 > **`refs/JondoEmu/docs/`** (la légende des données Jondo — le dossier qui manquait à la v1),
 > `internal/il2cpp-dump/il2cppinspectorredux/cs/il2cpp.cs`,
-> `internal/backups/auto/dofus-emu/dofus-emu-auto-20260904-013001/world_dev.sql.gz`.
+> `<sauvegarde interne datée du 04/09>/world_dev.sql.gz`.
 > `PROD-DB` (base de production) jamais ouvert, jamais cité comme source. Tags **VÉRIFIÉ** (lu, fichier:ligne) / **DÉDUIT**
 > (hypothèse, comment vérifier).
 >
@@ -364,7 +364,7 @@ de ne pas chercher d'abord si la réponse est écrite.**
 - `dofus-tools/` est un **symlink** : `find -type f` rend 0 fichier et `du` rend 4 Ko. Le
   réfutateur, qui mesurait depuis un autre hôte, a conclu que « 12 006 » était irreproductible. Par le
   chemin réel, le compte tombe **exactement à 12 006**. L'instrument avait bougé, pas le terrain.
-- Le chemin `internal/backups/auto/dofus-emu/dofus-emu-auto-20260904-013001/world_dev.sql.gz` **existe sur
+- Le chemin `<sauvegarde interne datée du 04/09>/world_dev.sql.gz` **existe sur
   ce VPS** ; le réfutateur, sur une autre machine, l'a noté absent. Une affirmation d'absence porte
   l'hôte où elle a été prise, pas seulement l'heure.
 - Une recherche binaire sur un bundle **compressé** rend zéro même quand la donnée est là : `grep` sur

@@ -19,7 +19,7 @@ plutot que de la supposer.
 
 COMMENT LANCER : python3 comparer_instruments.py [--out PATH.md] [--epreuve]
     (lit protocole-otomai.tsv + opcodes-sniffer.tsv dans son propre dossier, le dump étage0 et
-    les tables JondoEmu à des chemins Hetzner en dur).
+    les tables JondoEmu à des chemins locaux en dur).
 GATE : --epreuve (rejeu byte-identique du rapport + sabotage : un désaccord de type sur un nom
     commun DOIT être repéré et nommé dans le rapport, jamais absorbé en silence).
 """

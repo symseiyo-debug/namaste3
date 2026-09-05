@@ -21,7 +21,7 @@ correction est appliquée partout ci-dessous.
 
 COMMENT LANCER : python3 comparer_stabilite_builds.py [--out PATH.md] [--epreuve]
     (lit protocole-{gatherer,luaxy,deobfs,otomai}.tsv + le dump étage0 + anclas_3.6.10.10.tsv,
-    tous dans son propre dossier ou des chemins Hetzner en dur).
+    tous dans son propre dossier ou des chemins locaux en dur).
 GATE : --epreuve (compare_trees detecte l'identite ET la difference, sabotage dans les deux
     sens ; rejeu byte-identique du rapport si les TSV prealables sont presents).
 """
