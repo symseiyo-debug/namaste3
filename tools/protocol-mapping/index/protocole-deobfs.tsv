@@ -1,0 +1,1554 @@
+nom_message_clair	nom_complet	opcode_ou_typeurl	direction	champs	fichier:ligne
+	efi	efi		1:int64:bkdz;2:ebg:bkec;3:string:bkxf	refs/dofus-deobfs/protos/filtered/efi.proto:3
+	efl	efl		1:bool:blel;2:Error:blem	refs/dofus-deobfs/protos/filtered/efl.proto:3
+	efm	efm		1:int32:bleq;2:int32:bler;3:efn:bles	refs/dofus-deobfs/protos/filtered/efm.proto:4
+	efn	efn		1:int64:blfi;2:int64:blfj	refs/dofus-deobfs/protos/filtered/efn.proto:3
+	egj	egj			refs/dofus-deobfs/protos/filtered/egj.proto:3
+	hdh	hdh		1:hdi:egcc;2:hdj:egcd;3:hdk:egce	refs/dofus-deobfs/protos/filtered/hdh.proto:6
+	hdi	hdi		1:int32:egcj;2:google.protobuf.Any:egck	refs/dofus-deobfs/protos/filtered/hdi.proto:4
+	hdj	hdj		1:int32:egco;2:google.protobuf.Any:egcp	refs/dofus-deobfs/protos/filtered/hdj.proto:4
+	hdk	hdk		1:google.protobuf.Any:egct	refs/dofus-deobfs/protos/filtered/hdk.proto:4
+	hdo	hdo		1:hdm:egcy;2:int32:egcz	refs/dofus-deobfs/protos/filtered/hdo.proto:3
+	hdr	hdr		1:int32:egdf	refs/dofus-deobfs/protos/filtered/hdr.proto:3
+	hds	hds		1:hdq:egdj	refs/dofus-deobfs/protos/filtered/hds.proto:4
+	hdt	hdt		1:hdq:egdn;2:int32:egdo	refs/dofus-deobfs/protos/filtered/hdt.proto:4
+	hdu	hdu		1:hdq:egds;2:int32:egdt	refs/dofus-deobfs/protos/filtered/hdu.proto:4
+	hdv	hdv		1:hdq:egdx	refs/dofus-deobfs/protos/filtered/hdv.proto:4
+	hdw	hdw		1:int32:egeb	refs/dofus-deobfs/protos/filtered/hdw.proto:3
+	hdx	hdx		1:repeated int32:egef	refs/dofus-deobfs/protos/filtered/hdx.proto:3
+	hea	hea		1:hdq:egej;2:hdy:egek	refs/dofus-deobfs/protos/filtered/hea.proto:4
+	hem	hem		1:hdq:egfx;2:int64:egfy;3:repeated heh:egfz;4:int32:egga;5:int32:eggb;6:int32:eggc;7:int32:eggd;8:repeated hek:egge	refs/dofus-deobfs/protos/filtered/hem.proto:5
+	hem+heh	.heh		1:hec:egfj;2:hed:egfk;3:hee:egfl;4:Fight:egfm;5:hef:egfn	refs/dofus-deobfs/protos/filtered/hem.proto:14
+	hem+heh+hec	.hec		1:jdf:egeo;2:int32:egep	refs/dofus-deobfs/protos/filtered/hem.proto:22
+	hem+heh+hed	.hed		1:jdf:eget;2:int32:egeu	refs/dofus-deobfs/protos/filtered/hem.proto:26
+	hem+heh+hee	.hee		1:jdf:egey;2:int32:egez	refs/dofus-deobfs/protos/filtered/hem.proto:30
+	hem+heh+Fight	.Fight			refs/dofus-deobfs/protos/filtered/hem.proto:34
+	hem+heh+hef	.hef			refs/dofus-deobfs/protos/filtered/hem.proto:36
+	hem+hek	.hek		1:int64:egfs;2:hei:egft	refs/dofus-deobfs/protos/filtered/hem.proto:39
+	hen	hen		1:hdq:eggi	refs/dofus-deobfs/protos/filtered/hen.proto:4
+	heq	heq		1:hdq:eggm;2:heo:eggn;3:int32:eggo	refs/dofus-deobfs/protos/filtered/heq.proto:4
+	het	het		1:hdq:eggt;2:her:eggu;3:int32:eggv	refs/dofus-deobfs/protos/filtered/het.proto:4
+	hex	hex		1:repeated int32:eghd;2:repeated int32:eghe	refs/dofus-deobfs/protos/filtered/hex.proto:3
+	hey	hey		1:int32:eghi	refs/dofus-deobfs/protos/filtered/hey.proto:3
+	hez	hez		1:int32:eghm	refs/dofus-deobfs/protos/filtered/hez.proto:3
+	hfa	hfa		1:int32:eghq	refs/dofus-deobfs/protos/filtered/hfa.proto:3
+	hfb	hfb		1:int32:eghu	refs/dofus-deobfs/protos/filtered/hfb.proto:3
+	hfc	hfc		1:int32:eghy	refs/dofus-deobfs/protos/filtered/hfc.proto:3
+	hfd	hfd		1:hev:egic	refs/dofus-deobfs/protos/filtered/hfd.proto:4
+	hfe	hfe		1:int32:egig	refs/dofus-deobfs/protos/filtered/hfe.proto:3
+	hff	hff		1:hev:egik	refs/dofus-deobfs/protos/filtered/hff.proto:4
+	hfi	hfi		1:hfh:egip;2:hfh:egiq;3:int64:egir	refs/dofus-deobfs/protos/filtered/hfi.proto:4
+	hfj	hfj			refs/dofus-deobfs/protos/filtered/hfj.proto:3
+	hfk	hfk		1:bool:egiy	refs/dofus-deobfs/protos/filtered/hfk.proto:3
+	hfl	hfl		1:bool:egjc	refs/dofus-deobfs/protos/filtered/hfl.proto:3
+	hfm	hfm		1:bool:egjg	refs/dofus-deobfs/protos/filtered/hfm.proto:3
+	hfn	hfn		1:bool:egjk	refs/dofus-deobfs/protos/filtered/hfn.proto:3
+	hfo	hfo		1:int64:egjo	refs/dofus-deobfs/protos/filtered/hfo.proto:3
+	hfp	hfp		1:hfh:egjs;2:repeated hgc:egjt;3:int64:egju	refs/dofus-deobfs/protos/filtered/hfp.proto:5
+	hfq	hfq		1:repeated int64:egjz	refs/dofus-deobfs/protos/filtered/hfq.proto:3
+	hfr	hfr		1:int32:egkd	refs/dofus-deobfs/protos/filtered/hfr.proto:3
+	hfs	hfs		1:int32:egkh;2:int64:egki;3:repeated int64:egkj	refs/dofus-deobfs/protos/filtered/hfs.proto:3
+	hft	hft		1:int32:egkn;2:int64:egko;3:int32:egkp	refs/dofus-deobfs/protos/filtered/hft.proto:3
+	hfu	hfu		1:int32:egkt;2:int64:egku	refs/dofus-deobfs/protos/filtered/hfu.proto:3
+	hfv	hfv		1:int64:egky;2:string:egkz;3:int32:egla;4:int64:eglb	refs/dofus-deobfs/protos/filtered/hfv.proto:3
+	hfw	hfw		1:int64:eglf;2:int64:eglg	refs/dofus-deobfs/protos/filtered/hfw.proto:3
+	hfx	hfx		1:int64:eglk;2:int32:egll;3:int32:eglm;4:int32:egln;5:int64:eglo;6:string:eglp	refs/dofus-deobfs/protos/filtered/hfx.proto:3
+	hfy	hfy		1:int64:eglt;2:int64:eglu	refs/dofus-deobfs/protos/filtered/hfy.proto:3
+	hgc	hgc		1:hfh:egmd;2:int64:egme;3:int32:egmf;4:int32:egmg;5:int32:egmh;6:hga:egmi	refs/dofus-deobfs/protos/filtered/hgc.proto:4
+	hgc+hga	.hga		1:int32:egly;2:int64:eglz	refs/dofus-deobfs/protos/filtered/hgc.proto:13
+	hge	hge		1:string:egmo	refs/dofus-deobfs/protos/filtered/hge.proto:3
+	hgf	hgf		1:string:egms	refs/dofus-deobfs/protos/filtered/hgf.proto:3
+	hgg	hgg		1:string:egmw;2:jos:egmx	refs/dofus-deobfs/protos/filtered/hgg.proto:4
+	hgh	hgh		1:string:egnb;2:int32:egnc	refs/dofus-deobfs/protos/filtered/hgh.proto:3
+	hgi	hgi		1:string:egng;2:int32:egnh;3:int32:egni	refs/dofus-deobfs/protos/filtered/hgi.proto:3
+	hgj	hgj			refs/dofus-deobfs/protos/filtered/hgj.proto:3
+	hgk	hgk			refs/dofus-deobfs/protos/filtered/hgk.proto:3
+	hgl	hgl		1:string:egns;2:jos:egnt	refs/dofus-deobfs/protos/filtered/hgl.proto:4
+	hgm	hgm		1:string:egnx;2:int32:egny	refs/dofus-deobfs/protos/filtered/hgm.proto:3
+	hgn	hgn		1:string:egoc;2:int32:egod;3:int32:egoe	refs/dofus-deobfs/protos/filtered/hgn.proto:3
+	hgo	hgo		1:repeated jom:egoi;2:repeated jom:egoj	refs/dofus-deobfs/protos/filtered/hgo.proto:4
+	hgp	hgp		1:string:egon;2:jdo:egoo	refs/dofus-deobfs/protos/filtered/hgp.proto:4
+	hgq	hgq		1:int64:egos;2:jom:egot	refs/dofus-deobfs/protos/filtered/hgq.proto:4
+	hgr	hgr		1:string:egox	refs/dofus-deobfs/protos/filtered/hgr.proto:3
+	hgs	hgs		1:int32:egpb;2:int32:egpc;3:jms:egpd;4:string:egpe;5:string:egpf	refs/dofus-deobfs/protos/filtered/hgs.proto:4
+	hgt	hgt		1:bool:egpj;2:int32:egpk;3:int32:egpl;4:jms:egpm;5:string:egpn;6:string:egpo	refs/dofus-deobfs/protos/filtered/hgt.proto:4
+	hgu	hgu		1:string:egps;2:int64:egpt;3:string:egpu	refs/dofus-deobfs/protos/filtered/hgu.proto:3
+	hgx	hgx		1:hgv:egpy;2:int32:egpz;3:int32:egqa;4:jms:egqb;5:int64:egqc;6:string:egqd	refs/dofus-deobfs/protos/filtered/hgx.proto:4
+	hgy	hgy		1:repeated hgx:egqh	refs/dofus-deobfs/protos/filtered/hgy.proto:4
+	hgz	hgz		1:string:egql;2:jne:egqm;3:bool:egqn;4:repeated jhi:egqo	refs/dofus-deobfs/protos/filtered/hgz.proto:5
+	hhc	hhc		1:hha:egqs	refs/dofus-deobfs/protos/filtered/hhc.proto:3
+	hhd	hhd		1:jom:egqw	refs/dofus-deobfs/protos/filtered/hhd.proto:4
+	hhe	hhe		1:string:egra;2:repeated jos:egrb	refs/dofus-deobfs/protos/filtered/hhe.proto:4
+	hhf	hhf		1:repeated jot:egrf	refs/dofus-deobfs/protos/filtered/hhf.proto:4
+	hhg	hhg		1:string:egrj;2:repeated jos:egrk	refs/dofus-deobfs/protos/filtered/hhg.proto:4
+	hhh	hhh			refs/dofus-deobfs/protos/filtered/hhh.proto:3
+	hhj	hhj		1:string:egrs;2:int32:egrt	refs/dofus-deobfs/protos/filtered/hhj.proto:3
+	hhk	hhk		1:string:egrx	refs/dofus-deobfs/protos/filtered/hhk.proto:3
+	hhl	hhl		1:string:egsb	refs/dofus-deobfs/protos/filtered/hhl.proto:3
+	hhm	hhm		1:string:egsf	refs/dofus-deobfs/protos/filtered/hhm.proto:3
+	hhn	hhn		1:repeated hhr:egsj	refs/dofus-deobfs/protos/filtered/hhn.proto:4
+	hho	hho		1:repeated int32:egsn	refs/dofus-deobfs/protos/filtered/hho.proto:3
+	hhp	hhp		1:repeated hhr:egsr	refs/dofus-deobfs/protos/filtered/hhp.proto:4
+	hhq	hhq		1:repeated int32:egsv	refs/dofus-deobfs/protos/filtered/hhq.proto:3
+	hhr	hhr		1:string:egsz;2:int32:egta	refs/dofus-deobfs/protos/filtered/hhr.proto:3
+	hhs	hhs		1:hhw:egte	refs/dofus-deobfs/protos/filtered/hhs.proto:4
+	hht	hht		1:string:egti	refs/dofus-deobfs/protos/filtered/hht.proto:3
+	hhu	hhu		1:repeated hhv:egtm	refs/dofus-deobfs/protos/filtered/hhu.proto:4
+	hhv	hhv		1:hhw:egtq;2:hhx:egtr	refs/dofus-deobfs/protos/filtered/hhv.proto:5
+	hhw	hhw		1:string:egtv;2:string:egtw;3:int32:egtx	refs/dofus-deobfs/protos/filtered/hhw.proto:3
+	hhx	hhx		1:repeated int32:egub	refs/dofus-deobfs/protos/filtered/hhx.proto:3
+	hia	hia		1:int32:egug;2:int32:eguh	refs/dofus-deobfs/protos/filtered/hia.proto:3
+	hib	hib		1:int32:egul;2:int32:egum	refs/dofus-deobfs/protos/filtered/hib.proto:3
+	hic	hic		1:hhz:eguq	refs/dofus-deobfs/protos/filtered/hic.proto:4
+	hid	hid		1:int32:eguu	refs/dofus-deobfs/protos/filtered/hid.proto:3
+	hie	hie		1:hhz:eguy	refs/dofus-deobfs/protos/filtered/hie.proto:4
+	hig	hig		1:int32:egvd;2:int32:egve;3:int32:egvf;4:int32:egvg;5:int32:egvh	refs/dofus-deobfs/protos/filtered/hig.proto:3
+	hih	hih		1:int32:egvl	refs/dofus-deobfs/protos/filtered/hih.proto:3
+	hii	hii		1:int32:egvp	refs/dofus-deobfs/protos/filtered/hii.proto:3
+	hij	hij		1:repeated int32:egvt;2:repeated int32:egvu	refs/dofus-deobfs/protos/filtered/hij.proto:3
+	hil	hil		1:int32:egvz	refs/dofus-deobfs/protos/filtered/hil.proto:3
+	hio	hio		1:int32:egwd;2:him:egwe	refs/dofus-deobfs/protos/filtered/hio.proto:3
+	hip	hip		1:int64:egwi;2:jph:egwj	refs/dofus-deobfs/protos/filtered/hip.proto:4
+	hiq	hiq		1:int64:egwn;2:jdq:egwo;3:jdr:egwp;4:int32:egwq	refs/dofus-deobfs/protos/filtered/hiq.proto:5
+	hir	hir		1:int32:egwu;2:bool:egwv	refs/dofus-deobfs/protos/filtered/hir.proto:3
+	his	his		1:int32:egwz	refs/dofus-deobfs/protos/filtered/his.proto:3
+	hiv	hiv		1:hit:egxd;2:repeated int32:egxe	refs/dofus-deobfs/protos/filtered/hiv.proto:3
+	hiy	hiy		1:hiw:egxi;2:repeated hja:egxj	refs/dofus-deobfs/protos/filtered/hiy.proto:4
+	hiz	hiz		1:bool:egxn;2:repeated hja:egxo;3:repeated hja:egxp	refs/dofus-deobfs/protos/filtered/hiz.proto:4
+	hja	hja		1:int32:egxt;2:int32:egxu;3:bool:egxv	refs/dofus-deobfs/protos/filtered/hja.proto:3
+	hjc	hjc		1:int32:egyb	refs/dofus-deobfs/protos/filtered/hjc.proto:3
+	hjd	hjd		1:int64:egyf;2:int32:egyg;3:int64:egyh;4:int32:egyj	refs/dofus-deobfs/protos/filtered/hjd.proto:3
+	hje	hje		1:repeated int32:egyo	refs/dofus-deobfs/protos/filtered/hje.proto:3
+	hjf	hjf		1:int32:egys	refs/dofus-deobfs/protos/filtered/hjf.proto:3
+	hji	hji		1:hjg:egyw;2:int32:egyx	refs/dofus-deobfs/protos/filtered/hji.proto:3
+	hjj	hjj		1:int64:egzb;2:int64:egzc;3:int32:egzd	refs/dofus-deobfs/protos/filtered/hjj.proto:3
+	hjk	hjk		1:bool:egzh	refs/dofus-deobfs/protos/filtered/hjk.proto:3
+	hjl	hjl			refs/dofus-deobfs/protos/filtered/hjl.proto:3
+	hjo	hjo		1:int64:egzw;2:int64:egzx;3:string:egzy;4:int32:egzz;5:int32:ehaa;6:jcr:ehab;7:jlg:ehac;8:jft:ehad;9:jcq:ehae;10:jie:ehaf;11:hjm:ehag	refs/dofus-deobfs/protos/filtered/hjo.proto:8
+	hjo+hjm	.hjm		1:int64:egzo;2:int32:egzp;3:int32:egzq;4:bool:egzr;5:bool:egzs	refs/dofus-deobfs/protos/filtered/hjo.proto:20
+	hjp	hjp		1:int64:ehak	refs/dofus-deobfs/protos/filtered/hjp.proto:3
+	hjq	hjq			refs/dofus-deobfs/protos/filtered/hjq.proto:3
+	hjr	hjr		1:bool:ehar	refs/dofus-deobfs/protos/filtered/hjr.proto:3
+	hjs	hjs		1:int32:ehav;2:int32:ehaw	refs/dofus-deobfs/protos/filtered/hjs.proto:3
+	hjt	hjt		1:bool:ehba	refs/dofus-deobfs/protos/filtered/hjt.proto:3
+	hjw	hjw		1:repeated hju:ehbm	refs/dofus-deobfs/protos/filtered/hjw.proto:4
+	hjw+hju	.hju		1:int64:ehbe;2:jct:ehbf;3:int32:ehbg;4:int32:ehbh	refs/dofus-deobfs/protos/filtered/hjw.proto:6
+	hjx	hjx		1:jct:ehbq;2:int64:ehbr;3:int32:ehbs;4:int32:ehbt	refs/dofus-deobfs/protos/filtered/hjx.proto:4
+	hjy	hjy		1:int32:ehbx;2:bool:ehby	refs/dofus-deobfs/protos/filtered/hjy.proto:3
+	hka	hka		1:repeated int32:ehcd;2:bool:ehce	refs/dofus-deobfs/protos/filtered/hka.proto:3
+	hkd	hkd		1:hkb:ehci	refs/dofus-deobfs/protos/filtered/hkd.proto:3
+	hke	hke		1:jie:ehcm	refs/dofus-deobfs/protos/filtered/hke.proto:4
+	hkg	hkg		1:string:ehcr;2:int32:ehcs;3:jdk:ehct;4:bool:ehcu;5:int32:ehcv;6:int32:ehcw	refs/dofus-deobfs/protos/filtered/hkg.proto:4
+	hkj	hkj		1:repeated hkh:ehdg	refs/dofus-deobfs/protos/filtered/hkj.proto:3
+	hkj+hkh	.hkh		1:int32:ehdb;2:int64:ehdc	refs/dofus-deobfs/protos/filtered/hkj.proto:5
+	hkk	hkk		1:int32:ehdk	refs/dofus-deobfs/protos/filtered/hkk.proto:3
+	hkn	hkn		1:hkm:ehdp;2:string:ehdq	refs/dofus-deobfs/protos/filtered/hkn.proto:4
+	hko	hko		1:bool:ehdu	refs/dofus-deobfs/protos/filtered/hko.proto:3
+	hkp	hkp		1:string:ehdy;2:hkm:ehdz	refs/dofus-deobfs/protos/filtered/hkp.proto:4
+	hkr	hkr		1:int32:ehee	refs/dofus-deobfs/protos/filtered/hkr.proto:3
+	hkt	hkt		1:int64:ehej;2:int32:ehek;3:bool:ehel	refs/dofus-deobfs/protos/filtered/hkt.proto:3
+	hku	hku		1:int32:ehep;2:bool:eheq	refs/dofus-deobfs/protos/filtered/hku.proto:3
+	hkv	hkv		1:int64:eheu	refs/dofus-deobfs/protos/filtered/hkv.proto:3
+	hkw	hkw			refs/dofus-deobfs/protos/filtered/hkw.proto:3
+	hkx	hkx			refs/dofus-deobfs/protos/filtered/hkx.proto:3
+	hky	hky		1:int32:ehfe;2:int64:ehff;3:int64:ehfg	refs/dofus-deobfs/protos/filtered/hky.proto:3
+	hkz	hkz		1:int64:ehfk;2:int64:ehfl	refs/dofus-deobfs/protos/filtered/hkz.proto:3
+	hla	hla		1:int32:ehfp;2:int64:ehfq;3:int64:ehfr	refs/dofus-deobfs/protos/filtered/hla.proto:3
+	hlb	hlb		1:int32:ehfv;2:int64:ehfw;3:int64:ehfx;4:bool:ehfy	refs/dofus-deobfs/protos/filtered/hlb.proto:3
+	hlc	hlc		1:int64:ehgc;2:int64:ehgd;3:int64:ehge;4:int64:ehgf	refs/dofus-deobfs/protos/filtered/hlc.proto:3
+	hld	hld		1:int64:ehgj;2:int64:ehgk	refs/dofus-deobfs/protos/filtered/hld.proto:3
+	hle	hle		1:jiy:ehgo	refs/dofus-deobfs/protos/filtered/hle.proto:4
+	hlf	hlf		1:int32:ehgs	refs/dofus-deobfs/protos/filtered/hlf.proto:3
+	hlg	hlg		1:int64:ehgw;2:int32:ehgx;3:int32:ehgy;4:int32:ehgz;5:jdf:ehha	refs/dofus-deobfs/protos/filtered/hlg.proto:4
+	hlh	hlh		1:int64:ehhe;2:jcl:ehhf;3:int64:ehhg;4:int32:ehhh	refs/dofus-deobfs/protos/filtered/hlh.proto:4
+	hli	hli		1:int64:ehhm;2:jcl:ehhn	refs/dofus-deobfs/protos/filtered/hli.proto:4
+	hlk	hlk			refs/dofus-deobfs/protos/filtered/hlk.proto:3
+	hll	hll		1:int32:ehhv	refs/dofus-deobfs/protos/filtered/hll.proto:3
+	hlm	hlm		1:int32:ehhz	refs/dofus-deobfs/protos/filtered/hlm.proto:3
+	hln	hln		1:int32:ehid;2:int32:ehie	refs/dofus-deobfs/protos/filtered/hln.proto:3
+	hlo	hlo			refs/dofus-deobfs/protos/filtered/hlo.proto:3
+	hlp	hlp			refs/dofus-deobfs/protos/filtered/hlp.proto:3
+	hlq	hlq		1:int32:ehio;2:int32:ehip	refs/dofus-deobfs/protos/filtered/hlq.proto:3
+	hlr	hlr		1:int32:ehit;2:int32:ehiu	refs/dofus-deobfs/protos/filtered/hlr.proto:3
+	hls	hls		1:repeated int32:ehiy	refs/dofus-deobfs/protos/filtered/hls.proto:3
+	hlv	hlv		1:repeated hlt:ehjh;2:repeated hmf:ehji;3:repeated int32:ehjj;4:int64:ehjk	refs/dofus-deobfs/protos/filtered/hlv.proto:4
+	hlv+hlt	.hlt		1:int32:ehjc;2:int32:ehjd	refs/dofus-deobfs/protos/filtered/hlv.proto:9
+	hlw	hlw		1:int32:ehjp	refs/dofus-deobfs/protos/filtered/hlw.proto:3
+	hlx	hlx		1:int32:ehjt	refs/dofus-deobfs/protos/filtered/hlx.proto:3
+	hly	hly		1:int32:ehjx;2:int32:ehjy	refs/dofus-deobfs/protos/filtered/hly.proto:3
+	hlz	hlz		1:int32:ehkc;2:int32:ehkd	refs/dofus-deobfs/protos/filtered/hlz.proto:3
+	hma	hma		1:int32:ehkh;2:int32:ehki	refs/dofus-deobfs/protos/filtered/hma.proto:3
+	hmb	hmb		1:hmf:ehkm;2:int64:ehkn	refs/dofus-deobfs/protos/filtered/hmb.proto:4
+	hmc	hmc		1:repeated hmf:ehks	refs/dofus-deobfs/protos/filtered/hmc.proto:4
+	hmf	hmf		1:int32:ehlb;2:hmd:ehlc	refs/dofus-deobfs/protos/filtered/hmf.proto:4
+	hmf+hmd	.hmd		1:int32:ehkw;2:repeated hmi:ehkx	refs/dofus-deobfs/protos/filtered/hmf.proto:7
+	hmi	hmi		1:int32:ehll;2:bool:ehlm;3:repeated string:ehln;4:efn:blew	refs/dofus-deobfs/protos/filtered/hmi.proto:4
+	hmk	hmk			refs/dofus-deobfs/protos/filtered/hmk.proto:3
+	hml	hml			refs/dofus-deobfs/protos/filtered/hml.proto:3
+	hmm	hmm			refs/dofus-deobfs/protos/filtered/hmm.proto:3
+	hmn	hmn			refs/dofus-deobfs/protos/filtered/hmn.proto:3
+	hmo	hmo		1:repeated jny:ehmf	refs/dofus-deobfs/protos/filtered/hmo.proto:4
+	hmp	hmp		1:jny:ehmj	refs/dofus-deobfs/protos/filtered/hmp.proto:4
+	hmq	hmq		1:int32:ehmn	refs/dofus-deobfs/protos/filtered/hmq.proto:3
+	hmr	hmr		1:jny:ehmr	refs/dofus-deobfs/protos/filtered/hmr.proto:4
+	hmu	hmu		1:jny:ehmv;2:hms:ehmw	refs/dofus-deobfs/protos/filtered/hmu.proto:4
+	hmw	hmw		1:string:ehnb;2:string:ehnc;3:int32:ehnd;4:bool:ehne;5:string:ehnf;7:hng:ehnh;8:hnb:ehni;9:hmy:ehnj;10:hnd:ehnk;11:string:ehnl	refs/dofus-deobfs/protos/filtered/hmw.proto:8
+	hmx	hmx		1:string:ehnq;2:string:ehnr;3:int32:ehns;4:bool:ehnt;5:string:ehnu;6:hng:ehnv	refs/dofus-deobfs/protos/filtered/hmx.proto:5
+	hmy	hmy		1:jie:ehoa;2:jie:ehob	refs/dofus-deobfs/protos/filtered/hmy.proto:4
+	hnb	hnb			refs/dofus-deobfs/protos/filtered/hnb.proto:3
+	hnb+hmz	.hmz		1:int32:ehof;2:int32:ehoh;3:int32:ehoi;4:int32:ehoj;5:int32:ehok;6:int32:ehol	refs/dofus-deobfs/protos/filtered/hnb.proto:5
+	hnc	hnc		1:int32:ehot;2:int32:ehou;3:repeated jnn:ehow	refs/dofus-deobfs/protos/filtered/hnc.proto:4
+	hnd	hnd		1:int32:ehpa;2:int32:ehpb;3:bool:ehpc	refs/dofus-deobfs/protos/filtered/hnd.proto:3
+	hne	hne		1:repeated int32:ehpg	refs/dofus-deobfs/protos/filtered/hne.proto:3
+	hnf	hnf		1:hne:ehpk;2:bool:ehpl	refs/dofus-deobfs/protos/filtered/hnf.proto:4
+	hng	hng			refs/dofus-deobfs/protos/filtered/hng.proto:4
+	hnm	hnm		1:hni:ehqd;2:hnj:ehqe;3:hnk:ehqf	refs/dofus-deobfs/protos/filtered/hnm.proto:3
+	hnm+hni	.hni			refs/dofus-deobfs/protos/filtered/hnm.proto:9
+	hnm+hnj	.hnj			refs/dofus-deobfs/protos/filtered/hnm.proto:11
+	hnm+hnk	.hnk		1:string:ehpz	refs/dofus-deobfs/protos/filtered/hnm.proto:13
+	hnn	hnn		1:string:ehqk;2:int32:ehql;3:hnm:ehqm	refs/dofus-deobfs/protos/filtered/hnn.proto:4
+	hnr	hnr		1:hnp:ehqu;2:Error:ehqv	refs/dofus-deobfs/protos/filtered/hnr.proto:4
+	hnr+hnp	.hnp		1:hmw:ehqq	refs/dofus-deobfs/protos/filtered/hnr.proto:9
+	hns	hns		1:string:ehrb;2:int32:ehrc;3:hnm:ehrd	refs/dofus-deobfs/protos/filtered/hns.proto:4
+	hnw	hnw		1:hnu:ehrl;2:Error:ehrm	refs/dofus-deobfs/protos/filtered/hnw.proto:4
+	hnw+hnu	.hnu		1:hmx:ehrh	refs/dofus-deobfs/protos/filtered/hnw.proto:9
+	hnx	hnx		1:string:ehrs;2:hnm:ehrt	refs/dofus-deobfs/protos/filtered/hnx.proto:4
+	hny	hny		1:bool:ehrx;2:hmw:ehry	refs/dofus-deobfs/protos/filtered/hny.proto:4
+	hnz	hnz		1:string:ehsc;2:hnm:ehsd	refs/dofus-deobfs/protos/filtered/hnz.proto:4
+	hoa	hoa		1:bool:ehsh;2:hmx:ehsi	refs/dofus-deobfs/protos/filtered/hoa.proto:4
+	hob	hob		1:jde:ehsm;2:string:ehsn	refs/dofus-deobfs/protos/filtered/hob.proto:4
+	hoc	hoc		1:bool:ehsr	refs/dofus-deobfs/protos/filtered/hoc.proto:3
+	hod	hod		1:string:ehsv	refs/dofus-deobfs/protos/filtered/hod.proto:3
+	hoe	hoe		1:bool:ehsz;2:hmw:ehta	refs/dofus-deobfs/protos/filtered/hoe.proto:4
+	hof	hof		1:string:ehte	refs/dofus-deobfs/protos/filtered/hof.proto:3
+	hog	hog		1:bool:ehti;2:hmx:ehtj	refs/dofus-deobfs/protos/filtered/hog.proto:4
+	hoh	hoh		1:string:ehtn;2:jde:ehto	refs/dofus-deobfs/protos/filtered/hoh.proto:4
+	hoi	hoi		1:bool:ehts	refs/dofus-deobfs/protos/filtered/hoi.proto:3
+	hoj	hoj		1:string:ehtw;2:jde:ehtx	refs/dofus-deobfs/protos/filtered/hoj.proto:4
+	hoo	hoo		1:hol:ehuh;2:hom:ehuj	refs/dofus-deobfs/protos/filtered/hoo.proto:3
+	hoo+hom	.hom		1:repeated int32:ehub;2:int32:ehuc	refs/dofus-deobfs/protos/filtered/hoo.proto:17
+	hor	hor		1:string:ehuo;2:hop:ehup;3:hng:ehuq	refs/dofus-deobfs/protos/filtered/hor.proto:4
+	hos	hos		1:bool:ehuu	refs/dofus-deobfs/protos/filtered/hos.proto:3
+	hot	hot		1:string:ehuy	refs/dofus-deobfs/protos/filtered/hot.proto:3
+	hou	hou		1:bool:ehvd;2:hnb:ehve	refs/dofus-deobfs/protos/filtered/hou.proto:4
+	hpb	hpb		1:string:ehvx;2:how:ehvy;3:hox:ehvz;4:hoy:ehwa;5:hoz:ehwb	refs/dofus-deobfs/protos/filtered/hpb.proto:3
+	hpb+how	.how		1:int32:ehvi;2:int32:ehvj	refs/dofus-deobfs/protos/filtered/hpb.proto:11
+	hpb+hox	.hox		1:int32:ehvn	refs/dofus-deobfs/protos/filtered/hpb.proto:15
+	hpb+hoy	.hoy			refs/dofus-deobfs/protos/filtered/hpb.proto:18
+	hpb+hoz	.hoz			refs/dofus-deobfs/protos/filtered/hpb.proto:20
+	hpe	hpe		1:bool:ehwl;2:hpc:ehwm	refs/dofus-deobfs/protos/filtered/hpe.proto:5
+	hpe+hpc	.hpc		1:hnb:ehwg;2:hmy:ehwh	refs/dofus-deobfs/protos/filtered/hpe.proto:8
+	hpf	hpf		1:string:ehwq;2:jde:ehwr;3:string:ehws	refs/dofus-deobfs/protos/filtered/hpf.proto:4
+	hpi	hpi		1:hpg:ehww	refs/dofus-deobfs/protos/filtered/hpi.proto:3
+	hpj	hpj		1:string:ehxa;2:jde:ehxb;3:int32:ehxc	refs/dofus-deobfs/protos/filtered/hpj.proto:4
+	hpk	hpk		1:bool:ehxg	refs/dofus-deobfs/protos/filtered/hpk.proto:3
+	hpl	hpl		1:string:ehxk;2:jde:ehxl;3:bool:ehxm	refs/dofus-deobfs/protos/filtered/hpl.proto:4
+	hpm	hpm		1:bool:ehxq	refs/dofus-deobfs/protos/filtered/hpm.proto:3
+	hpn	hpn		1:string:ehxu	refs/dofus-deobfs/protos/filtered/hpn.proto:3
+	hpo	hpo		1:bool:ehxy;2:hmw:ehxz	refs/dofus-deobfs/protos/filtered/hpo.proto:4
+	hpp	hpp		1:string:ehyd	refs/dofus-deobfs/protos/filtered/hpp.proto:3
+	hpq	hpq		1:bool:ehyh;2:hmx:ehyi	refs/dofus-deobfs/protos/filtered/hpq.proto:4
+	hpr	hpr		1:string:ehym;2:string:ehyn	refs/dofus-deobfs/protos/filtered/hpr.proto:3
+	hps	hps		1:bool:ehys;2:hmy:ehyt	refs/dofus-deobfs/protos/filtered/hps.proto:4
+	hpt	hpt		1:bool:ehyx;3:int32:ehyz	refs/dofus-deobfs/protos/filtered/hpt.proto:3
+	hpu	hpu			refs/dofus-deobfs/protos/filtered/hpu.proto:5
+	hpv	hpv			refs/dofus-deobfs/protos/filtered/hpv.proto:3
+	hpw	hpw		1:hmw:ehzl	refs/dofus-deobfs/protos/filtered/hpw.proto:4
+	hqa	hqa		1:jht:ehzq;2:hpz:ehzr	refs/dofus-deobfs/protos/filtered/hqa.proto:5
+	hqb	hqb		1:int32:ehzv	refs/dofus-deobfs/protos/filtered/hqb.proto:3
+	hqc	hqc		1:int32:ehzz	refs/dofus-deobfs/protos/filtered/hqc.proto:3
+	hqd	hqd		1:int32:eiad	refs/dofus-deobfs/protos/filtered/hqd.proto:3
+	hqe	hqe		1:int32:eiah;2:int64:eiai	refs/dofus-deobfs/protos/filtered/hqe.proto:3
+	hqf	hqf		1:int32:eiam;2:int64:eian	refs/dofus-deobfs/protos/filtered/hqf.proto:3
+	hqg	hqg		1:int32:eiar;2:int64:eias;3:bool:eiat	refs/dofus-deobfs/protos/filtered/hqg.proto:3
+	hqh	hqh		1:int32:eiay;2:int64:eiaz	refs/dofus-deobfs/protos/filtered/hqh.proto:3
+	hqi	hqi		1:int32:eibd	refs/dofus-deobfs/protos/filtered/hqi.proto:3
+	hqj	hqj		1:int32:eibh	refs/dofus-deobfs/protos/filtered/hqj.proto:3
+	hqk	hqk		1:int32:eibl;2:int64:eibm	refs/dofus-deobfs/protos/filtered/hqk.proto:3
+	hql	hql		1:int32:eibq;2:bool:eibr	refs/dofus-deobfs/protos/filtered/hql.proto:3
+	hqm	hqm		1:int32:eibv;2:string:eibw	refs/dofus-deobfs/protos/filtered/hqm.proto:3
+	hqn	hqn			refs/dofus-deobfs/protos/filtered/hqn.proto:3
+	hqq	hqq		1:hqo:eicd	refs/dofus-deobfs/protos/filtered/hqq.proto:3
+	hqr	hqr		1:int64:eich	refs/dofus-deobfs/protos/filtered/hqr.proto:3
+	hqs	hqs			refs/dofus-deobfs/protos/filtered/hqs.proto:3
+	hqv	hqv		1:hqt:eico	refs/dofus-deobfs/protos/filtered/hqv.proto:3
+	hqw	hqw		1:int64:eics	refs/dofus-deobfs/protos/filtered/hqw.proto:3
+	hqx	hqx		1:int64:eicw;2:jms:eicx;3:int32:eicy	refs/dofus-deobfs/protos/filtered/hqx.proto:4
+	hqy	hqy			refs/dofus-deobfs/protos/filtered/hqy.proto:3
+	hrb	hrb		1:hqz:eidf	refs/dofus-deobfs/protos/filtered/hrb.proto:3
+	hrc	hrc		1:int64:eidj	refs/dofus-deobfs/protos/filtered/hrc.proto:3
+	hrd	hrd			refs/dofus-deobfs/protos/filtered/hrd.proto:3
+	hrg	hrg		1:hre:eidq	refs/dofus-deobfs/protos/filtered/hrg.proto:3
+	hrh	hrh		1:int64:eidu	refs/dofus-deobfs/protos/filtered/hrh.proto:3
+	hri	hri			refs/dofus-deobfs/protos/filtered/hri.proto:3
+	hrl	hrl		1:hrj:eieb	refs/dofus-deobfs/protos/filtered/hrl.proto:3
+	hrm	hrm		1:int64:eief	refs/dofus-deobfs/protos/filtered/hrm.proto:3
+	hrn	hrn			refs/dofus-deobfs/protos/filtered/hrn.proto:3
+	hrq	hrq		1:hro:eiem	refs/dofus-deobfs/protos/filtered/hrq.proto:3
+	hrr	hrr		1:int64:eieq	refs/dofus-deobfs/protos/filtered/hrr.proto:3
+	hrs	hrs		1:int32:eieu;2:hpz:eiev;3:string:eiew;4:int32:eiex;5:int64:eiey;6:string:eiez;7:int64:eifa	refs/dofus-deobfs/protos/filtered/hrs.proto:4
+	hrt	hrt		1:int32:eife;2:hpz:eiff;3:string:eifg;4:int64:eifh;5:string:eifi;6:int64:eifj;7:repeated jgz:eifk;8:repeated hst:eifl	refs/dofus-deobfs/protos/filtered/hrt.proto:6
+	hru	hru		1:int32:eifp;2:int64:eifq	refs/dofus-deobfs/protos/filtered/hru.proto:3
+	hrv	hrv		1:int32:eifu;2:int64:eifv;3:int64:eifw	refs/dofus-deobfs/protos/filtered/hrv.proto:3
+	hrw	hrw		1:int32:eiga;2:int64:eigb	refs/dofus-deobfs/protos/filtered/hrw.proto:3
+	hrz	hrz		1:int32:eigf;2:hrx:eigg	refs/dofus-deobfs/protos/filtered/hrz.proto:3
+	hsa	hsa		1:int32:eigk;2:hpz:eigl;3:int64:eigm;4:int32:eign;5:repeated jgz:eigo;6:repeated hst:eigp;7:bool:eigq;8:string:eigr	refs/dofus-deobfs/protos/filtered/hsa.proto:6
+	hsb	hsb		1:int32:eigv;2:hst:eigw	refs/dofus-deobfs/protos/filtered/hsb.proto:4
+	hsc	hsc		1:int32:eiha;2:jgz:eihb	refs/dofus-deobfs/protos/filtered/hsc.proto:4
+	hsd	hsd		1:int32:eihf;2:jgz:eihg	refs/dofus-deobfs/protos/filtered/hsd.proto:4
+	hse	hse		1:int32:eihk;2:int64:eihl;3:jhg:eihm;4:int32:eihn	refs/dofus-deobfs/protos/filtered/hse.proto:4
+	hsf	hsf		1:int32:eihs;2:int64:eiht;3:int64:eihu	refs/dofus-deobfs/protos/filtered/hsf.proto:3
+	hsg	hsg		1:int32:eihz;2:int64:eiia	refs/dofus-deobfs/protos/filtered/hsg.proto:3
+	hsh	hsh		1:int32:eiie;2:bool:eiif;3:bool:eiig;4:int64:eiih	refs/dofus-deobfs/protos/filtered/hsh.proto:3
+	hsi	hsi		1:int32:eiil	refs/dofus-deobfs/protos/filtered/hsi.proto:3
+	hsj	hsj		1:int32:eiip;2:int64:eiiq	refs/dofus-deobfs/protos/filtered/hsj.proto:3
+	hsk	hsk		1:int32:eiiu;2:bool:eiiv	refs/dofus-deobfs/protos/filtered/hsk.proto:3
+	hsl	hsl		1:int32:eiiz	refs/dofus-deobfs/protos/filtered/hsl.proto:3
+	hsm	hsm		1:int32:eijd;2:bool:eije	refs/dofus-deobfs/protos/filtered/hsm.proto:3
+	hsn	hsn		1:int32:eiji;2:hpy:eijj;3:int64:eijk;4:int64:eijl;5:string:eijm;6:int32:eijn;7:int32:eijo;8:jms:eijp	refs/dofus-deobfs/protos/filtered/hsn.proto:5
+	hso	hso		1:int32:eijt;2:hpy:eiju;3:int64:eijv;4:int64:eijw;5:string:eijx;6:int32:eijy;7:int32:eijz;8:int32:eika;9:int32:eikb	refs/dofus-deobfs/protos/filtered/hso.proto:4
+	hsp	hsp		1:int32:eikf;2:string:eikg	refs/dofus-deobfs/protos/filtered/hsp.proto:3
+	hss	hss		1:int32:eikk;2:hsq:eikl	refs/dofus-deobfs/protos/filtered/hss.proto:3
+	hst	hst		1:int64:eikp;2:int64:eikq;3:string:eikr;4:jie:eiks;5:int32:eikt;6:jcr:eiku;7:jho:eikv;8:repeated jhf:eikw	refs/dofus-deobfs/protos/filtered/hst.proto:7
+	hsv	hsv		1:int64:eilb;2:bool:eilc	refs/dofus-deobfs/protos/filtered/hsv.proto:3
+	hsw	hsw		1:int64:eilg	refs/dofus-deobfs/protos/filtered/hsw.proto:3
+	hsx	hsx		1:int32:eilk	refs/dofus-deobfs/protos/filtered/hsx.proto:3
+	hsy	hsy		1:int32:eilo;2:int32:eilp	refs/dofus-deobfs/protos/filtered/hsy.proto:3
+	hsz	hsz		1:int32:eilt	refs/dofus-deobfs/protos/filtered/hsz.proto:3
+	hta	hta		1:int32:eilx;2:int32:eily;3:int32:eilz;4:int64:eima;5:jds:eimb	refs/dofus-deobfs/protos/filtered/hta.proto:4
+	htb	htb		1:int32:eimf	refs/dofus-deobfs/protos/filtered/htb.proto:3
+	htc	htc		1:jns:eimj	refs/dofus-deobfs/protos/filtered/htc.proto:4
+	htd	htd		1:repeated jns:eimn	refs/dofus-deobfs/protos/filtered/htd.proto:4
+	hte	hte		1:int64:eimr;2:bool:eims;3:int64:eimt	refs/dofus-deobfs/protos/filtered/hte.proto:3
+	htf	htf		1:jpf:eimx	refs/dofus-deobfs/protos/filtered/htf.proto:4
+	hti	hti		1:htg:einb;2:int32:einc;3:int64:eind	refs/dofus-deobfs/protos/filtered/hti.proto:3
+	htj	htj		1:repeated int32:einh	refs/dofus-deobfs/protos/filtered/htj.proto:3
+	htm	htm		1:int32:einu;2:int32:einv;3:repeated htk:einw	refs/dofus-deobfs/protos/filtered/htm.proto:4
+	htm+htk	.htk		1:string:einl;2:jmr:einm;3:int32:einn;4:int32:eino;5:int32:einp;6:int64:einq	refs/dofus-deobfs/protos/filtered/htm.proto:8
+	hto	hto		1:int32:eiob;2:int32:eioc;3:int64:eiod	refs/dofus-deobfs/protos/filtered/hto.proto:3
+	htp	htp		1:int32:eioh	refs/dofus-deobfs/protos/filtered/htp.proto:3
+	htu	htu		1:repeated hts:eiow	refs/dofus-deobfs/protos/filtered/htu.proto:3
+	htu+hts	.hts		1:int64:eior;2:repeated htq:eios	refs/dofus-deobfs/protos/filtered/htu.proto:5
+	htu+hts+htq	.htq		1:int32:eiol;2:repeated int32:eiom;3:repeated int32:eion	refs/dofus-deobfs/protos/filtered/htu.proto:8
+	htv	htv			refs/dofus-deobfs/protos/filtered/htv.proto:3
+	hty	hty		1:int64:eipd;2:int32:eipe;3:htw:eipf	refs/dofus-deobfs/protos/filtered/hty.proto:3
+	hud	hud		1:int32:eipv;2:repeated string:eipw;3:repeated hub:eipx	refs/dofus-deobfs/protos/filtered/hud.proto:3
+	hud+hub	.hub		1:int32:eipq;2:repeated htz:eipr	refs/dofus-deobfs/protos/filtered/hud.proto:7
+	hud+hub+htz	.htz		1:int32:eipk;2:bool:eipl	refs/dofus-deobfs/protos/filtered/hud.proto:10
+	hue	hue		1:jft:eiqb;2:int32:eiqc;3:int32:eiqd;4:int32:eiqe;5:int32:eiqf;6:int32:eiqh;7:int64:eiqi	refs/dofus-deobfs/protos/filtered/hue.proto:4
+	huf	huf			refs/dofus-deobfs/protos/filtered/huf.proto:3
+	hug	hug		1:int64:eiqp;2:int32:eiqq;3:repeated string:eiqr	refs/dofus-deobfs/protos/filtered/hug.proto:3
+	huh	huh		1:int32:eiqv;2:int32:eiqw	refs/dofus-deobfs/protos/filtered/huh.proto:3
+	hui	hui		1:int32:eira;2:string:eirb	refs/dofus-deobfs/protos/filtered/hui.proto:3
+	huj	huj		1:int32:eirf;2:int32:eirg	refs/dofus-deobfs/protos/filtered/huj.proto:3
+	hul	hul		1:int32:eirl	refs/dofus-deobfs/protos/filtered/hul.proto:3
+	hum	hum			refs/dofus-deobfs/protos/filtered/hum.proto:3
+	hun	hun		1:repeated int32:eirs	refs/dofus-deobfs/protos/filtered/hun.proto:3
+	huo	huo		1:int32:eirw;2:repeated string:eirx;3:bool:eiry	refs/dofus-deobfs/protos/filtered/huo.proto:3
+	hup	hup		1:repeated int32:eisc	refs/dofus-deobfs/protos/filtered/hup.proto:3
+	hur	hur			refs/dofus-deobfs/protos/filtered/hur.proto:3
+	hus	hus			refs/dofus-deobfs/protos/filtered/hus.proto:3
+	hut	hut			refs/dofus-deobfs/protos/filtered/hut.proto:3
+	huu	huu		1:string:eisq;2:int32:eisr	refs/dofus-deobfs/protos/filtered/huu.proto:3
+	hux	hux		1:int32:eisv;2:huv:eisw;3:int32:eisx;4:int32:eisy	refs/dofus-deobfs/protos/filtered/hux.proto:3
+	huy	huy		1:int32:eitc	refs/dofus-deobfs/protos/filtered/huy.proto:3
+	huz	huz		1:int32:eitg;2:int64:eith	refs/dofus-deobfs/protos/filtered/huz.proto:3
+	hva	hva		1:int32:eitl	refs/dofus-deobfs/protos/filtered/hva.proto:3
+	hvb	hvb			refs/dofus-deobfs/protos/filtered/hvb.proto:3
+	hvc	hvc		1:bool:eits	refs/dofus-deobfs/protos/filtered/hvc.proto:3
+	hvd	hvd		1:int32:eitw	refs/dofus-deobfs/protos/filtered/hvd.proto:3
+	hve	hve		1:int32:eiua	refs/dofus-deobfs/protos/filtered/hve.proto:3
+	hvf	hvf		1:int32:eiue;2:string:eiuf	refs/dofus-deobfs/protos/filtered/hvf.proto:3
+	hvg	hvg		1:int32:eiuj	refs/dofus-deobfs/protos/filtered/hvg.proto:3
+	hvh	hvh		1:int32:eiun	refs/dofus-deobfs/protos/filtered/hvh.proto:3
+	hvi	hvi		1:jou:eiur	refs/dofus-deobfs/protos/filtered/hvi.proto:4
+	hvl	hvl		1:hvj:eiuv	refs/dofus-deobfs/protos/filtered/hvl.proto:3
+	hvm	hvm		1:jou:eiuz	refs/dofus-deobfs/protos/filtered/hvm.proto:4
+	hvn	hvn			refs/dofus-deobfs/protos/filtered/hvn.proto:3
+	hvq	hvq		1:hvo:eivg	refs/dofus-deobfs/protos/filtered/hvq.proto:3
+	hvr	hvr		1:bool:eivk	refs/dofus-deobfs/protos/filtered/hvr.proto:3
+	hvs	hvs		1:int32:eivo;2:int32:eivp	refs/dofus-deobfs/protos/filtered/hvs.proto:3
+	hvv	hvv		1:int32:eivz;2:repeated hvt:eiwa	refs/dofus-deobfs/protos/filtered/hvv.proto:4
+	hvv+hvt	.hvt		1:jdp:eivt;2:int32:eivu	refs/dofus-deobfs/protos/filtered/hvv.proto:7
+	hvw	hvw		1:int32:eiwe;2:int32:eiwf;3:jdp:eiwg	refs/dofus-deobfs/protos/filtered/hvw.proto:4
+	hvy	hvy			refs/dofus-deobfs/protos/filtered/hvy.proto:3
+	hvz	hvz		1:int32:eiwo;2:string:eiwp;3:string:eiwq	refs/dofus-deobfs/protos/filtered/hvz.proto:3
+	hwa	hwa			refs/dofus-deobfs/protos/filtered/hwa.proto:3
+	hwc	hwc		1:int32:eiwy;2:int32:eiwz	refs/dofus-deobfs/protos/filtered/hwc.proto:3
+	hwd	hwd		1:int32:eixd;2:int32:eixe	refs/dofus-deobfs/protos/filtered/hwd.proto:3
+	hwe	hwe		1:int32:eixi;2:int32:eixj;3:int32:eixk	refs/dofus-deobfs/protos/filtered/hwe.proto:3
+	hwf	hwf		1:int32:eixo;2:int64:eixp;3:string:eixq;4:int32:eixr	refs/dofus-deobfs/protos/filtered/hwf.proto:3
+	hwh	hwh		1:int32:eixw	refs/dofus-deobfs/protos/filtered/hwh.proto:3
+	hwi	hwi		1:hxl:eiya	refs/dofus-deobfs/protos/filtered/hwi.proto:4
+	hwj	hwj		1:repeated hxg:eiye	refs/dofus-deobfs/protos/filtered/hwj.proto:4
+	hwk	hwk		1:int32:eiyi;2:hxg:eiyj	refs/dofus-deobfs/protos/filtered/hwk.proto:4
+	hwl	hwl		1:repeated hxh:eiyn	refs/dofus-deobfs/protos/filtered/hwl.proto:4
+	hwm	hwm		1:hxh:eiyr;2:int64:eiys	refs/dofus-deobfs/protos/filtered/hwm.proto:4
+	hwp	hwp		1:bool:eizb;2:hwn:eizc	refs/dofus-deobfs/protos/filtered/hwp.proto:3
+	hwp+hwn	.hwn		1:int64:eiyw;2:repeated int32:eiyx	refs/dofus-deobfs/protos/filtered/hwp.proto:6
+	hwq	hwq		1:repeated hxi:eizg	refs/dofus-deobfs/protos/filtered/hwq.proto:4
+	hwr	hwr		1:repeated hxl:eizk	refs/dofus-deobfs/protos/filtered/hwr.proto:4
+	hwu	hwu		1:repeated hws:eizt	refs/dofus-deobfs/protos/filtered/hwu.proto:3
+	hwu+hws	.hws		1:int32:eizo;2:bool:eizp	refs/dofus-deobfs/protos/filtered/hwu.proto:5
+	hwv	hwv		1:int32:eizx;2:int64:eizy	refs/dofus-deobfs/protos/filtered/hwv.proto:3
+	hww	hww		1:hxi:ejac	refs/dofus-deobfs/protos/filtered/hww.proto:4
+	hwx	hwx		1:hxj:ejag;2:repeated hxk:ejah;3:jie:ejai	refs/dofus-deobfs/protos/filtered/hwx.proto:6
+	hxg	hxg		1:int32:ejbh;2:repeated hxe:ejbi	refs/dofus-deobfs/protos/filtered/hxg.proto:3
+	hxg+hxe	.hxe		1:int32:ejba;2:hxb:ejbb;3:hxc:ejbc	refs/dofus-deobfs/protos/filtered/hxg.proto:6
+	hxg+hxe+hxb	.hxb		1:int32:ejar;2:hwz:ejas	refs/dofus-deobfs/protos/filtered/hxg.proto:12
+	hxg+hxe+hxb+hwz	.hwz		1:int32:ejam;2:int32:ejan	refs/dofus-deobfs/protos/filtered/hxg.proto:15
+	hxg+hxe+hxc	.hxc		1:int32:ejaw	refs/dofus-deobfs/protos/filtered/hxg.proto:20
+	hxh	hxh		1:int32:ejbm;2:int32:ejbn;3:int64:ejbo;4:int64:ejbp;5:int64:ejbq	refs/dofus-deobfs/protos/filtered/hxh.proto:3
+	hxi	hxi		1:hxj:ejbu;2:hxk:ejbv	refs/dofus-deobfs/protos/filtered/hxi.proto:5
+	hxj	hxj		1:int64:ejbz;2:string:ejca;3:jcq:ejcb;4:int32:ejcc;5:jcr:ejcd;6:bool:ejce;7:jms:ejcf;8:bool:ejcg;9:jho:ejch	refs/dofus-deobfs/protos/filtered/hxj.proto:7
+	hxk	hxk		1:int32:ejcl;2:int32:ejcm;3:bool:ejcn;4:int32:ejco	refs/dofus-deobfs/protos/filtered/hxk.proto:3
+	hxl	hxl		1:int32:ejcs;2:int32:ejct;3:bool:ejcu	refs/dofus-deobfs/protos/filtered/hxl.proto:3
+	hxn	hxn		1:jdd:ejcz;2:jmj:ejda	refs/dofus-deobfs/protos/filtered/hxn.proto:5
+	hxo	hxo		1:jdd:ejde;2:int32:ejdf	refs/dofus-deobfs/protos/filtered/hxo.proto:4
+	hxp	hxp		1:jdd:ejdj;2:int32:ejdk;3:int32:ejdl	refs/dofus-deobfs/protos/filtered/hxp.proto:4
+	hxq	hxq		1:int32:ejdp;2:int32:ejdq;3:int32:ejdr	refs/dofus-deobfs/protos/filtered/hxq.proto:3
+	hxr	hxr		1:jnd:ejdv	refs/dofus-deobfs/protos/filtered/hxr.proto:4
+	hxs	hxs		1:jnd:ejdz	refs/dofus-deobfs/protos/filtered/hxs.proto:4
+	hxt	hxt		1:int32:ejed	refs/dofus-deobfs/protos/filtered/hxt.proto:3
+	hxu	hxu		1:int32:ejeh;2:int32:ejei	refs/dofus-deobfs/protos/filtered/hxu.proto:3
+	hxv	hxv		1:int32:ejem;2:int64:ejen	refs/dofus-deobfs/protos/filtered/hxv.proto:3
+	hxw	hxw		1:int32:ejer;2:int32:ejes	refs/dofus-deobfs/protos/filtered/hxw.proto:3
+	hxx	hxx		1:int32:ejew;2:repeated jnd:ejex	refs/dofus-deobfs/protos/filtered/hxx.proto:4
+	hya	hya		1:repeated hxy:ejfg;2:bool:ejfh	refs/dofus-deobfs/protos/filtered/hya.proto:3
+	hya+hxy	.hxy		1:int32:ejfb;2:int32:ejfc	refs/dofus-deobfs/protos/filtered/hya.proto:6
+	hyb	hyb		1:int64:ejfl	refs/dofus-deobfs/protos/filtered/hyb.proto:3
+	hyc	hyc		1:jns:ejfp	refs/dofus-deobfs/protos/filtered/hyc.proto:4
+	hyd	hyd		1:repeated jns:ejft	refs/dofus-deobfs/protos/filtered/hyd.proto:4
+	hye	hye		1:int32:ejfx	refs/dofus-deobfs/protos/filtered/hye.proto:3
+	hyf	hyf		1:repeated int32:ejgb	refs/dofus-deobfs/protos/filtered/hyf.proto:3
+	hyg	hyg		1:int32:ejgf;2:int32:ejgg	refs/dofus-deobfs/protos/filtered/hyg.proto:3
+	hyh	hyh		1:jne:ejgk;2:jdh:ejgl	refs/dofus-deobfs/protos/filtered/hyh.proto:5
+	hyi	hyi		1:repeated jne:ejgp	refs/dofus-deobfs/protos/filtered/hyi.proto:4
+	hyj	hyj		1:int64:ejgt	refs/dofus-deobfs/protos/filtered/hyj.proto:3
+	hyk	hyk		1:jdg:ejgx	refs/dofus-deobfs/protos/filtered/hyk.proto:4
+	hyl	hyl		1:int32:ejhb	refs/dofus-deobfs/protos/filtered/hyl.proto:3
+	hym	hym		1:repeated int32:ejhf	refs/dofus-deobfs/protos/filtered/hym.proto:3
+	hyn	hyn		1:jnd:ejhj;2:jdh:ejhk	refs/dofus-deobfs/protos/filtered/hyn.proto:5
+	hyo	hyo		1:repeated jnd:ejho	refs/dofus-deobfs/protos/filtered/hyo.proto:4
+	hyp	hyp		1:jne:ejhs	refs/dofus-deobfs/protos/filtered/hyp.proto:4
+	hyq	hyq		1:bool:ejhw	refs/dofus-deobfs/protos/filtered/hyq.proto:3
+	hyr	hyr		1:int32:ejia;2:int32:ejib	refs/dofus-deobfs/protos/filtered/hyr.proto:3
+	hys	hys		1:int32:ejif;2:int32:ejig;3:int32:ejih	refs/dofus-deobfs/protos/filtered/hys.proto:3
+	hyt	hyt		1:repeated jne:ejil;2:int64:ejim	refs/dofus-deobfs/protos/filtered/hyt.proto:4
+	hyu	hyu		1:repeated jne:ejiq;2:int64:ejir	refs/dofus-deobfs/protos/filtered/hyu.proto:4
+	hyv	hyv		1:int32:ejiv;2:int32:ejiw	refs/dofus-deobfs/protos/filtered/hyv.proto:3
+	hyw	hyw		1:jdd:ejja;2:repeated jmj:ejjb	refs/dofus-deobfs/protos/filtered/hyw.proto:5
+	hyx	hyx		1:jdd:ejjf;2:jmj:ejjg	refs/dofus-deobfs/protos/filtered/hyx.proto:5
+	hyy	hyy		1:jdd:ejjk;2:int32:ejjl	refs/dofus-deobfs/protos/filtered/hyy.proto:4
+	hyz	hyz		1:jdd:ejjp;2:jmj:ejjq	refs/dofus-deobfs/protos/filtered/hyz.proto:5
+	hza	hza		1:string:ejju;2:int32:ejjv;3:int32:ejjw;4:int32:ejjx;5:int32:ejjy;6:int32:ejjz;7:repeated int32:ejka	refs/dofus-deobfs/protos/filtered/hza.proto:3
+	hzb	hzb		1:repeated hza:ejke	refs/dofus-deobfs/protos/filtered/hzb.proto:4
+	hzc	hzc		1:repeated jne:ejki;2:int64:ejkj	refs/dofus-deobfs/protos/filtered/hzc.proto:4
+	hzd	hzd		1:int64:ejkn	refs/dofus-deobfs/protos/filtered/hzd.proto:3
+	hze	hze		1:jne:ejkr	refs/dofus-deobfs/protos/filtered/hze.proto:4
+	hzf	hzf		1:repeated jne:ejkv	refs/dofus-deobfs/protos/filtered/hzf.proto:4
+	hzg	hzg		1:int32:ejkz	refs/dofus-deobfs/protos/filtered/hzg.proto:3
+	hzh	hzh		1:repeated int32:ejld	refs/dofus-deobfs/protos/filtered/hzh.proto:3
+	hzi	hzi		1:int32:ejlh;2:repeated int32:ejli;3:repeated jnn:ejlj	refs/dofus-deobfs/protos/filtered/hzi.proto:4
+	hzk	hzk		1:int32:ejlo;2:int32:ejlp;3:int32:ejlq	refs/dofus-deobfs/protos/filtered/hzk.proto:3
+	hzl	hzl		1:int32:ejlv;2:int32:ejlw	refs/dofus-deobfs/protos/filtered/hzl.proto:3
+	hzm	hzm		1:int64:ejma;2:int32:ejmb;3:int32:ejmc;4:int32:ejmd;5:bool:ejme	refs/dofus-deobfs/protos/filtered/hzm.proto:3
+	hzn	hzn		1:int32:ejmi;2:int32:ejmj	refs/dofus-deobfs/protos/filtered/hzn.proto:3
+	hzo	hzo		1:repeated jic:ejmn	refs/dofus-deobfs/protos/filtered/hzo.proto:4
+	hzp	hzp		1:repeated jid:ejmr	refs/dofus-deobfs/protos/filtered/hzp.proto:4
+	hzq	hzq		1:jic:ejmv	refs/dofus-deobfs/protos/filtered/hzq.proto:4
+	hzr	hzr		1:jid:ejmz	refs/dofus-deobfs/protos/filtered/hzr.proto:4
+	hzt	hzt		1:int32:ejne;2:int64:ejnf	refs/dofus-deobfs/protos/filtered/hzt.proto:3
+	hzu	hzu		1:jma:ejnj	refs/dofus-deobfs/protos/filtered/hzu.proto:4
+	hzv	hzv		1:int64:ejnn	refs/dofus-deobfs/protos/filtered/hzv.proto:3
+	hzw	hzw		1:int32:ejnr;2:int64:ejns;3:bool:ejnt;4:bool:ejnu	refs/dofus-deobfs/protos/filtered/hzw.proto:3
+	hzx	hzx		1:int64:ejny	refs/dofus-deobfs/protos/filtered/hzx.proto:3
+	hzy	hzy		1:string:ejoc	refs/dofus-deobfs/protos/filtered/hzy.proto:3
+	hzz	hzz		1:int32:ejog	refs/dofus-deobfs/protos/filtered/hzz.proto:3
+	iaa	iaa		1:int32:ejok;2:int32:ejol;3:int32:ejom;4:int32:ejon;5:int64:ejoo;6:jds:ejop	refs/dofus-deobfs/protos/filtered/iaa.proto:4
+	iab	iab		1:int32:ejot;2:int32:ejou	refs/dofus-deobfs/protos/filtered/iab.proto:3
+	iac	iac		1:int32:ejoy;2:int32:ejoz	refs/dofus-deobfs/protos/filtered/iac.proto:3
+	iad	iad		1:int32:ejpd;2:int32:ejpe;3:bool:ejpf;4:int32:ejpg	refs/dofus-deobfs/protos/filtered/iad.proto:3
+	iae	iae		1:repeated jmh:ejpk	refs/dofus-deobfs/protos/filtered/iae.proto:4
+	iaf	iaf		1:int32:ejpo;2:repeated int32:ejpp;3:jma:ejpq	refs/dofus-deobfs/protos/filtered/iaf.proto:4
+	iag	iag		1:int32:ejpu;2:int32:ejpv;3:bool:ejpw;4:bool:ejpx;5:int64:ejpy	refs/dofus-deobfs/protos/filtered/iag.proto:3
+	iah	iah		1:int32:ejqc;2:int32:ejqd;3:bool:ejqe;4:int64:ejqf;5:string:ejqg;6:string:ejqh	refs/dofus-deobfs/protos/filtered/iah.proto:3
+	iak	iak		1:int32:ejrc;2:int32:ejrd;3:repeated iai:ejre	refs/dofus-deobfs/protos/filtered/iak.proto:4
+	iak+iai	.iai		1:int32:ejql;2:bool:ejqm;3:int32:ejqn;4:string:ejqo;5:string:ejqp;6:bool:ejqq;7:string:ejqr;8:jmr:ejqs;9:int32:ejqt;10:int32:ejqu;11:int32:ejqv;12:repeated int32:ejqw;13:bool:ejqx;14:int64:ejqy	refs/dofus-deobfs/protos/filtered/iak.proto:8
+	ial	ial		1:int32:ejri;2:int32:ejrj;3:bool:ejrk	refs/dofus-deobfs/protos/filtered/ial.proto:3
+	iam	iam		1:int32:ejro;2:int32:ejrp;3:bool:ejrq;4:jlg:ejrr;5:int32:ejrs;6:bool:ejrt	refs/dofus-deobfs/protos/filtered/iam.proto:4
+	iao	iao		1:int64:ejry	refs/dofus-deobfs/protos/filtered/iao.proto:3
+	iap	iap		1:int32:ejsc	refs/dofus-deobfs/protos/filtered/iap.proto:3
+	iaq	iaq			refs/dofus-deobfs/protos/filtered/iaq.proto:3
+	iar	iar			refs/dofus-deobfs/protos/filtered/iar.proto:3
+	ias	ias			refs/dofus-deobfs/protos/filtered/ias.proto:3
+	iat	iat		1:int32:ejsp	refs/dofus-deobfs/protos/filtered/iat.proto:3
+	iau	iau			refs/dofus-deobfs/protos/filtered/iau.proto:3
+	iav	iav		1:repeated ibq:ejsw	refs/dofus-deobfs/protos/filtered/iav.proto:4
+	iaw	iaw			refs/dofus-deobfs/protos/filtered/iaw.proto:3
+	iax	iax		1:int64:ejtd	refs/dofus-deobfs/protos/filtered/iax.proto:3
+	iay	iay		1:int32:ejth	refs/dofus-deobfs/protos/filtered/iay.proto:3
+	iaz	iaz		1:bool:ejtl	refs/dofus-deobfs/protos/filtered/iaz.proto:3
+	iba	iba		1:int64:ejtp	refs/dofus-deobfs/protos/filtered/iba.proto:3
+	ibe	ibe		1:ibb:ejty;2:repeated ibc:ejtz	refs/dofus-deobfs/protos/filtered/ibe.proto:3
+	ibe+ibc	.ibc		1:int32:ejtt;2:int32:ejtu	refs/dofus-deobfs/protos/filtered/ibe.proto:10
+	ibf	ibf		1:repeated int32:ejud	refs/dofus-deobfs/protos/filtered/ibf.proto:3
+	ibg	ibg			refs/dofus-deobfs/protos/filtered/ibg.proto:3
+	ibh	ibh			refs/dofus-deobfs/protos/filtered/ibh.proto:3
+	ibk	ibk		1:ibi:ejun;2:int64:ejuo	refs/dofus-deobfs/protos/filtered/ibk.proto:3
+	ibl	ibl		1:repeated ibq:ejut	refs/dofus-deobfs/protos/filtered/ibl.proto:4
+	ibm	ibm		1:int32:ejux	refs/dofus-deobfs/protos/filtered/ibm.proto:3
+	ibn	ibn		1:jgz:ejvb	refs/dofus-deobfs/protos/filtered/ibn.proto:4
+	ibo	ibo		1:jgz:ejvf;2:bool:ejvg	refs/dofus-deobfs/protos/filtered/ibo.proto:4
+	ibp	ibp		1:jgz:ejvk;2:int64:ejvl	refs/dofus-deobfs/protos/filtered/ibp.proto:4
+	ibq	ibq		1:int32:ejvp;2:int32:ejvq;3:int32:ejvr	refs/dofus-deobfs/protos/filtered/ibq.proto:3
+	ibs	ibs			refs/dofus-deobfs/protos/filtered/ibs.proto:3
+	ibt	ibt		1:string:ejvz	refs/dofus-deobfs/protos/filtered/ibt.proto:3
+	ibu	ibu			refs/dofus-deobfs/protos/filtered/ibu.proto:3
+	ibv	ibv		1:string:ejwg	refs/dofus-deobfs/protos/filtered/ibv.proto:3
+	ibx	ibx		1:jlh:ejwl	refs/dofus-deobfs/protos/filtered/ibx.proto:4
+	iby	iby		1:jlh:ejwp	refs/dofus-deobfs/protos/filtered/iby.proto:4
+	ibz	ibz			refs/dofus-deobfs/protos/filtered/ibz.proto:3
+	icb	icb			refs/dofus-deobfs/protos/filtered/icb.proto:3
+	icc	icc		1:int32:ejxa;2:int32:ejxb;3:string:ejxc	refs/dofus-deobfs/protos/filtered/icc.proto:3
+	icd	icd		1:repeated jol:ejxg	refs/dofus-deobfs/protos/filtered/icd.proto:4
+	ice	ice		1:jol:ejxk	refs/dofus-deobfs/protos/filtered/ice.proto:4
+	icf	icf		1:int32:ejxo;2:repeated int32:ejxp	refs/dofus-deobfs/protos/filtered/icf.proto:3
+	icg	icg		1:int32:ejxt;2:int32:ejxu	refs/dofus-deobfs/protos/filtered/icg.proto:3
+	ich	ich		1:repeated jol:ejxy	refs/dofus-deobfs/protos/filtered/ich.proto:4
+	icj	icj		1:int64:ejyd;2:int32:ejye;3:int32:ejyf	refs/dofus-deobfs/protos/filtered/icj.proto:3
+	ick	ick			refs/dofus-deobfs/protos/filtered/ick.proto:3
+	icl	icl			refs/dofus-deobfs/protos/filtered/icl.proto:3
+	icm	icm		1:int64:ejyp;2:bool:ejyq	refs/dofus-deobfs/protos/filtered/icm.proto:3
+	icn	icn		1:repeated jgz:ejyu	refs/dofus-deobfs/protos/filtered/icn.proto:4
+	ico	ico		1:jgz:ejyy	refs/dofus-deobfs/protos/filtered/ico.proto:4
+	icp	icp		1:bool:ejzc;2:int64:ejzd	refs/dofus-deobfs/protos/filtered/icp.proto:3
+	icq	icq			refs/dofus-deobfs/protos/filtered/icq.proto:3
+	icr	icr		1:jlg:ejzk;2:int32:ejzl	refs/dofus-deobfs/protos/filtered/icr.proto:4
+	ics	ics		1:jlg:ejzp;2:int32:ejzq	refs/dofus-deobfs/protos/filtered/ics.proto:4
+	icu	icu			refs/dofus-deobfs/protos/filtered/icu.proto:3
+	icx	icx		1:int64:ejzy;2:int32:ejzz;3:string:ekaa;4:bool:ekab;5:bool:ekac;6:repeated int32:ekad;7:repeated int32:ekae;8:repeated jdi:ekaf;9:int32:ekag;10:int32:ekah;11:int32:ekai;12:int32:ekaj;13:int32:ekak;14:int32:ekal;15:icv:ekam;16:bool:ekan	refs/dofus-deobfs/protos/filtered/icx.proto:4
+	ida	ida		1:icy:ekar	refs/dofus-deobfs/protos/filtered/ida.proto:3
+	idb	idb		1:string:ekav	refs/dofus-deobfs/protos/filtered/idb.proto:3
+	idc	idc		1:jog:ekaz	refs/dofus-deobfs/protos/filtered/idc.proto:4
+	idd	idd		1:string:ekbd;2:jog:ekbe	refs/dofus-deobfs/protos/filtered/idd.proto:4
+	ide	ide		1:string:ekbi;2:jog:ekbj	refs/dofus-deobfs/protos/filtered/ide.proto:4
+	idf	idf		1:int64:ekbn	refs/dofus-deobfs/protos/filtered/idf.proto:3
+	idg	idg		1:bool:ekbr	refs/dofus-deobfs/protos/filtered/idg.proto:3
+	idh	idh		1:int64:ekbv	refs/dofus-deobfs/protos/filtered/idh.proto:3
+	idi	idi		1:int32:ekbz	refs/dofus-deobfs/protos/filtered/idi.proto:3
+	idj	idj		1:int64:ekcd	refs/dofus-deobfs/protos/filtered/idj.proto:3
+	idk	idk		1:string:ekch	refs/dofus-deobfs/protos/filtered/idk.proto:3
+	idl	idl		1:string:ekcl	refs/dofus-deobfs/protos/filtered/idl.proto:3
+	idm	idm		1:int32:ekcp	refs/dofus-deobfs/protos/filtered/idm.proto:3
+	idn	idn		1:int64:ekct;2:string:ekcu	refs/dofus-deobfs/protos/filtered/idn.proto:3
+	ido	ido		1:repeated jlz:ekcy;2:repeated jlz:ekcz	refs/dofus-deobfs/protos/filtered/ido.proto:4
+	idp	idp		1:int64:ekdd;2:int64:ekde;3:int64:ekdf;4:repeated jlg:ekdg	refs/dofus-deobfs/protos/filtered/idp.proto:4
+	idq	idq			refs/dofus-deobfs/protos/filtered/idq.proto:3
+	idr	idr		1:bool:ekdn;2:bool:ekdo	refs/dofus-deobfs/protos/filtered/idr.proto:3
+	idt	idt		1:jdl:ekds	refs/dofus-deobfs/protos/filtered/idt.proto:4
+	idu	idu		1:jdl:ekdw	refs/dofus-deobfs/protos/filtered/idu.proto:4
+	idv	idv		1:string:ekea;2:jlg:ekeb	refs/dofus-deobfs/protos/filtered/idv.proto:4
+	idw	idw		1:string:ekef;2:jdn:ekeg;3:int32:ekeh	refs/dofus-deobfs/protos/filtered/idw.proto:4
+	idx	idx		1:jdn:ekel	refs/dofus-deobfs/protos/filtered/idx.proto:4
+	idy	idy		1:bool:ekep;2:int32:ekeq;3:int64:eker;4:int64:ekes;5:int64:eket;6:string:ekeu;7:int32:ekev;8:int32:ekew	refs/dofus-deobfs/protos/filtered/idy.proto:3
+	idz	idz		1:int32:ekfa;2:repeated jpf:ekfb	refs/dofus-deobfs/protos/filtered/idz.proto:4
+	iea	iea		1:jpf:ekff	refs/dofus-deobfs/protos/filtered/iea.proto:4
+	ieb	ieb		1:int64:ekfj	refs/dofus-deobfs/protos/filtered/ieb.proto:3
+	iec	iec		1:joh:ekfn	refs/dofus-deobfs/protos/filtered/iec.proto:4
+	ied	ied		1:jdm:ekfr	refs/dofus-deobfs/protos/filtered/ied.proto:4
+	iee	iee		1:joh:ekfv	refs/dofus-deobfs/protos/filtered/iee.proto:4
+	ief	ief		1:jdm:ekfz	refs/dofus-deobfs/protos/filtered/ief.proto:4
+	ieg	ieg		1:int32:ekgd	refs/dofus-deobfs/protos/filtered/ieg.proto:3
+	ieh	ieh		1:jlg:ekgh;2:int32:ekgi;3:repeated jgz:ekgj	refs/dofus-deobfs/protos/filtered/ieh.proto:5
+	iej	iej		1:repeated jmh:ekgo	refs/dofus-deobfs/protos/filtered/iej.proto:4
+	iek	iek		1:jmh:ekgs	refs/dofus-deobfs/protos/filtered/iek.proto:4
+	iel	iel		1:int32:ekgw;2:int32:ekgx;3:bool:ekgy	refs/dofus-deobfs/protos/filtered/iel.proto:3
+	ien	ien		1:int32:ekhd	refs/dofus-deobfs/protos/filtered/ien.proto:3
+	ieo	ieo		1:int32:ekhh;2:string:ekhi;3:int32:ekhj;4:repeated int32:ekhk	refs/dofus-deobfs/protos/filtered/ieo.proto:3
+	iep	iep			refs/dofus-deobfs/protos/filtered/iep.proto:3
+	ieq	ieq			refs/dofus-deobfs/protos/filtered/ieq.proto:3
+	ier	ier			refs/dofus-deobfs/protos/filtered/ier.proto:3
+	ies	ies			refs/dofus-deobfs/protos/filtered/ies.proto:3
+	iet	iet			refs/dofus-deobfs/protos/filtered/iet.proto:3
+	iew	iew		1:repeated ieu:ekij	refs/dofus-deobfs/protos/filtered/iew.proto:3
+	iew+ieu	.ieu		1:int64:ekid;2:string:ekie;3:int64:ekif	refs/dofus-deobfs/protos/filtered/iew.proto:5
+	iex	iex		1:int64:ekin	refs/dofus-deobfs/protos/filtered/iex.proto:3
+	iey	iey		1:int32:ekir;2:int64:ekis;3:int64:ekit;4:int64:ekiu;5:int64:ekiv	refs/dofus-deobfs/protos/filtered/iey.proto:3
+	iez	iez		1:repeated string:ekiz	refs/dofus-deobfs/protos/filtered/iez.proto:3
+	ifa	ifa		1:string:ekjd	refs/dofus-deobfs/protos/filtered/ifa.proto:3
+	ifb	ifb		1:string:ekjh	refs/dofus-deobfs/protos/filtered/ifb.proto:3
+	ifd	ifd		1:string:ekjm;2:int32:ekjn;3:int32:ekjo;4:string:ekjp;5:string:ekjq;6:string:ekjr;7:string:ekjs;8:string:ekjt;9:string:ekju;10:string:ekjv;11:string:ekjw;12:string:ekjx;13:string:ekjy	refs/dofus-deobfs/protos/filtered/ifd.proto:3
+	ife	ife		1:string:ekkc;2:int32:ekkd	refs/dofus-deobfs/protos/filtered/ife.proto:3
+	iff	iff			refs/dofus-deobfs/protos/filtered/iff.proto:3
+	ifg	ifg		1:bool:ekkk	refs/dofus-deobfs/protos/filtered/ifg.proto:3
+	ifh	ifh			refs/dofus-deobfs/protos/filtered/ifh.proto:3
+	ifi	ifi		1:int64:ekkr;2:int32:ekks	refs/dofus-deobfs/protos/filtered/ifi.proto:3
+	ifj	ifj		1:bool:ekkw;2:int64:ekkx	refs/dofus-deobfs/protos/filtered/ifj.proto:3
+	ifk	ifk			refs/dofus-deobfs/protos/filtered/ifk.proto:3
+	ifl	ifl		1:bool:ekle	refs/dofus-deobfs/protos/filtered/ifl.proto:3
+	ifo	ifo		1:ifm:ekln	refs/dofus-deobfs/protos/filtered/ifo.proto:5
+	ifo+ifm	.ifm		1:jlg:ekli;2:jhv:eklj	refs/dofus-deobfs/protos/filtered/ifo.proto:7
+	ifp	ifp		1:bool:eklr;2:jlg:ekls	refs/dofus-deobfs/protos/filtered/ifp.proto:4
+	ifq	ifq		1:int64:eklw;2:int64:eklx;3:int64:ekly;4:repeated jhv:eklz	refs/dofus-deobfs/protos/filtered/ifq.proto:4
+	ifr	ifr		1:jhv:ekmd;2:jdj:ekme;3:int64:ekmf	refs/dofus-deobfs/protos/filtered/ifr.proto:5
+	ifs	ifs		1:string:ekmj;2:int64:ekmk	refs/dofus-deobfs/protos/filtered/ifs.proto:3
+	ift	ift		1:bool:ekmo	refs/dofus-deobfs/protos/filtered/ift.proto:3
+	ifv	ifv		1:repeated int32:ekmt;2:int64:ekmu;3:bool:ekmv	refs/dofus-deobfs/protos/filtered/ifv.proto:3
+	ifw	ifw		1:int32:ekmz	refs/dofus-deobfs/protos/filtered/ifw.proto:3
+	ifx	ifx			refs/dofus-deobfs/protos/filtered/ifx.proto:3
+	ify	ify		1:jdf:ekng	refs/dofus-deobfs/protos/filtered/ify.proto:4
+	ifz	ifz		1:int32:eknk	refs/dofus-deobfs/protos/filtered/ifz.proto:3
+	iga	iga		1:int32:ekno;2:bool:eknp	refs/dofus-deobfs/protos/filtered/iga.proto:3
+	igb	igb			refs/dofus-deobfs/protos/filtered/igb.proto:3
+	igc	igc			refs/dofus-deobfs/protos/filtered/igc.proto:3
+	igd	igd		1:int32:eknz	refs/dofus-deobfs/protos/filtered/igd.proto:3
+	ige	ige		1:int32:ekod	refs/dofus-deobfs/protos/filtered/ige.proto:3
+	igf	igf		1:int32:ekoh;2:int32:ekoi	refs/dofus-deobfs/protos/filtered/igf.proto:3
+	igg	igg		1:repeated int32:ekom;2:int32:ekon;3:int64:ekop;4:bool:ekoq	refs/dofus-deobfs/protos/filtered/igg.proto:3
+	igh	igh		1:int64:ekou;2:jdf:ekov	refs/dofus-deobfs/protos/filtered/igh.proto:4
+	igi	igi		1:int64:ekoz	refs/dofus-deobfs/protos/filtered/igi.proto:3
+	igj	igj		1:int64:ekpd;2:int64:ekpe	refs/dofus-deobfs/protos/filtered/igj.proto:3
+	igk	igk		1:int64:ekpi;2:int32:ekpj	refs/dofus-deobfs/protos/filtered/igk.proto:3
+	igl	igl		1:int32:ekpn	refs/dofus-deobfs/protos/filtered/igl.proto:3
+	igm	igm		1:repeated jjd:ekpr	refs/dofus-deobfs/protos/filtered/igm.proto:4
+	ign	ign		1:int32:ekpv;2:repeated jit:ekpw;3:repeated jit:ekpx	refs/dofus-deobfs/protos/filtered/ign.proto:4
+	igo	igo		1:int32:ekqb;2:repeated jit:ekqc;3:repeated jit:ekqd;4:repeated jij:ekqe	refs/dofus-deobfs/protos/filtered/igo.proto:5
+	igp	igp		1:repeated ihc:ekqi	refs/dofus-deobfs/protos/filtered/igp.proto:4
+	igr	igr		1:int32:ekqm;2:int64:ekqn;3:repeated jmh:ekqo;4:repeated jfp:ekqp;5:repeated jic:ekqq;6:repeated jid:ekqr;7:repeated ihc:ekqs;8:repeated jiy:ekqt;9:bool:ekqu;10:igv:ekqv;11:jmr:ekqw;12:igx:ekqx;13:igy:ekqy;14:igz:ekqz	refs/dofus-deobfs/protos/filtered/igr.proto:14
+	igs	igs		1:repeated jfp:ekre	refs/dofus-deobfs/protos/filtered/igs.proto:4
+	igu	igu		1:int32:ekri;2:int64:ekrj;3:jmr:ekrk;4:igx:ekrl;5:igy:ekrm	refs/dofus-deobfs/protos/filtered/igu.proto:6
+	igv	igv		1:jmh:ekrr	refs/dofus-deobfs/protos/filtered/igv.proto:4
+	igw	igw		1:jmr:ekrv	refs/dofus-deobfs/protos/filtered/igw.proto:4
+	igx	igx		1:int32:ekrz;2:int32:eksa;3:int32:eksb;4:repeated jfw:eksc	refs/dofus-deobfs/protos/filtered/igx.proto:4
+	igy	igy		1:int32:eksg;2:int64:eksh	refs/dofus-deobfs/protos/filtered/igy.proto:3
+	igz	igz		1:jgz:eksl;2:int32:eksm;3:int32:eksn;4:int32:ekso	refs/dofus-deobfs/protos/filtered/igz.proto:4
+	ihc	ihc		1:int32:ekss;2:iha:ekst	refs/dofus-deobfs/protos/filtered/ihc.proto:3
+	ihg	ihg		1:int32:eksy;2:int64:eksz	refs/dofus-deobfs/protos/filtered/ihg.proto:3
+	ihh	ihh		1:int64:ektd	refs/dofus-deobfs/protos/filtered/ihh.proto:3
+	ihi	ihi		1:int32:ekth;2:int32:ekti	refs/dofus-deobfs/protos/filtered/ihi.proto:3
+	ihj	ihj		1:int32:ektm;2:int64:ektn	refs/dofus-deobfs/protos/filtered/ihj.proto:3
+	ihk	ihk		1:bool:ektr;2:int32:ekts	refs/dofus-deobfs/protos/filtered/ihk.proto:3
+	ihl	ihl		1:repeated jnt:ektw	refs/dofus-deobfs/protos/filtered/ihl.proto:4
+	ihm	ihm		1:bool:ekua;2:int32:ekub;3:bool:ekuc	refs/dofus-deobfs/protos/filtered/ihm.proto:3
+	ihn	ihn		1:repeated int32:ekug	refs/dofus-deobfs/protos/filtered/ihn.proto:3
+	ijj	ijj		1:int32:elci;2:int64:elcj;3:ijd:elck;4:ije:elcl;5:ijf:elcm;6:ijg:elcn;7:ijh:elco;8:ijc:elcp;9:ija:elcq;10:ijb:elcr;11:iiy:elcs;12:iiz:elct;13:iiv:elcu;14:iiw:elcv;15:iix:elcw;16:iiu:elcx;17:iio:elcy;18:iip:elcz;19:iiq:elda;20:iii:eldb;21:iij:eldc;22:iin:eldd;23:iif:elde;24:iig:eldf;25:iih:eldg;26:ihw:eldh;27:iid:eldi;28:iie:eldj;29:iht:eldk;30:ihu:eldl;31:ihv:eldm;32:ihp:eldn;33:ihq:eldo;34:ihr:eldp;35:ihs:eldq	refs/dofus-deobfs/protos/filtered/ijj.proto:12
+	ijj+ijd	.ijd		1:int64:elbk;2:int32:elbl;3:int32:elbm	refs/dofus-deobfs/protos/filtered/ijj.proto:50
+	ijj+ije	.ije		1:int64:elbq;2:int32:elbr	refs/dofus-deobfs/protos/filtered/ijj.proto:55
+	ijj+ijf	.ijf		1:int64:elbv	refs/dofus-deobfs/protos/filtered/ijj.proto:59
+	ijj+ijg	.ijg		1:int64:elbz;2:int32:elca	refs/dofus-deobfs/protos/filtered/ijj.proto:62
+	ijj+ijh	.ijh		1:int64:elce	refs/dofus-deobfs/protos/filtered/ijj.proto:66
+	ijj+ijc	.ijc		1:jjt:elbg	refs/dofus-deobfs/protos/filtered/ijj.proto:69
+	ijj+ija	.ija		1:int64:elas;2:int32:elat;3:int32:elau;4:int32:elav;5:int32:elaw	refs/dofus-deobfs/protos/filtered/ijj.proto:72
+	ijj+ijb	.ijb		1:int64:elbb;2:int32:elbc	refs/dofus-deobfs/protos/filtered/ijj.proto:79
+	ijj+iiy	.iiy		1:int64:elah;2:int32:elai	refs/dofus-deobfs/protos/filtered/ijj.proto:83
+	ijj+iiz	.iiz		1:int64:elam;2:int32:elan;3:int32:elao	refs/dofus-deobfs/protos/filtered/ijj.proto:87
+	ijj+iiv	.iiv		1:int64:ekzv	refs/dofus-deobfs/protos/filtered/ijj.proto:92
+	ijj+iiw	.iiw		1:int64:ekzz	refs/dofus-deobfs/protos/filtered/ijj.proto:95
+	ijj+iix	.iix		1:int64:elad	refs/dofus-deobfs/protos/filtered/ijj.proto:98
+	ijj+iiu	.iiu		1:int64:ekzj;2:int32:ekzk;3:ihe:ekzl;4:bool:ekzm;5:bool:ekzn;6:iis:ekzo;7:int32:ekzp	refs/dofus-deobfs/protos/filtered/ijj.proto:101
+	ijj+iiu+iis	.iis		1:int32:ekzd;2:int32:ekze;3:repeated int32:ekzf	refs/dofus-deobfs/protos/filtered/ijj.proto:111
+	ijj+iio	.iio		1:repeated int64:ekyp	refs/dofus-deobfs/protos/filtered/ijj.proto:117
+	ijj+iip	.iip		1:int64:ekyt;2:int32:ekyu	refs/dofus-deobfs/protos/filtered/ijj.proto:120
+	ijj+iiq	.iiq		1:int64:ekyy;2:int32:ekyz	refs/dofus-deobfs/protos/filtered/ijj.proto:124
+	ijj+iii	.iii		1:int64:ekxq;2:int32:ekxr	refs/dofus-deobfs/protos/filtered/ijj.proto:128
+	ijj+iij	.iij		1:int64:ekxv;2:int32:ekxw;3:int32:ekxx	refs/dofus-deobfs/protos/filtered/ijj.proto:132
+	ijj+iin	.iin		1:int64:ekyg;2:bool:ekyh;3:iil:ekyi;4:int32:ekyj	refs/dofus-deobfs/protos/filtered/ijj.proto:137
+	ijj+iin+iil	.iil		1:int32:ekyb;2:bool:ekyc	refs/dofus-deobfs/protos/filtered/ijj.proto:144
+	ijj+iif	.iif		3:int64:ekxb;4:int32:ekxc	refs/dofus-deobfs/protos/filtered/ijj.proto:149
+	ijj+iig	.iig		3:int64:ekxg;4:int64:ekxh	refs/dofus-deobfs/protos/filtered/ijj.proto:153
+	ijj+iih	.iih		3:int64:ekxl;4:jie:ekxm	refs/dofus-deobfs/protos/filtered/ijj.proto:157
+	ijj+ihw	.ihw		1:int64:ekvw;2:jdb:ekvx	refs/dofus-deobfs/protos/filtered/ijj.proto:161
+	ijj+iid	.iid		1:ihy:ekwr;2:iib:ekws	refs/dofus-deobfs/protos/filtered/ijj.proto:165
+	ijj+iid+ihy	.ihy		1:repeated jfp:ekwb	refs/dofus-deobfs/protos/filtered/ijj.proto:170
+	ijj+iid+iib	.iib		1:repeated ihz:ekwn	refs/dofus-deobfs/protos/filtered/ijj.proto:173
+	ijj+iid+iib+ihz	.ihz		1:ijv:ekwf;2:int32:ekwg;3:jie:ekwh;4:jlb:ekwi;5:repeated jfq:ekwj	refs/dofus-deobfs/protos/filtered/ijj.proto:175
+	ijj+iie	.iie		1:jkf:ekwx	refs/dofus-deobfs/protos/filtered/ijj.proto:184
+	ijj+iht	.iht		1:int32:ekvh	refs/dofus-deobfs/protos/filtered/ijj.proto:187
+	ijj+ihu	.ihu		1:int32:ekvl;2:int32:ekvm;3:int64:ekvn	refs/dofus-deobfs/protos/filtered/ijj.proto:190
+	ijj+ihv	.ihv		1:int32:ekvr;2:bool:ekvs	refs/dofus-deobfs/protos/filtered/ijj.proto:195
+	ijj+ihp	.ihp		3:int64:ekuk;4:int32:ekul	refs/dofus-deobfs/protos/filtered/ijj.proto:199
+	ijj+ihq	.ihq		3:int64:ekup;4:int32:ekuq	refs/dofus-deobfs/protos/filtered/ijj.proto:203
+	ijj+ihr	.ihr		3:int64:ekuu;4:int32:ekuv	refs/dofus-deobfs/protos/filtered/ijj.proto:207
+	ijj+ihs	.ihs		1:int32:ekuz;2:bool:ekva;3:int32:ekvb;4:int32:ekvc;5:int32:ekvd	refs/dofus-deobfs/protos/filtered/ijj.proto:211
+	ijm	ijm		1:repeated ijk:eleb	refs/dofus-deobfs/protos/filtered/ijm.proto:3
+	ijm+ijk	.ijk		1:int32:eldv;2:int64:eldw;3:int32:eldx	refs/dofus-deobfs/protos/filtered/ijm.proto:5
+	ijn	ijn		1:ihf:elef;2:int64:eleg	refs/dofus-deobfs/protos/filtered/ijn.proto:4
+	ijo	ijo		1:int32:elek;2:int64:elel;3:ihf:elen	refs/dofus-deobfs/protos/filtered/ijo.proto:4
+	ijv	ijv		1:ijr:elfm;2:ijs:elfn;3:ijt:elfo	refs/dofus-deobfs/protos/filtered/ijv.proto:3
+	ijv+ijr	.ijr		1:int32:eler;2:int32:eles;3:int32:eleu	refs/dofus-deobfs/protos/filtered/ijv.proto:9
+	ijv+ijs	.ijs		1:string:elfa;2:int32:elfb	refs/dofus-deobfs/protos/filtered/ijv.proto:16
+	ijv+ijt	.ijt		1:int32:elff;2:int32:elfg;3:int64:elfh;4:int64:elfi	refs/dofus-deobfs/protos/filtered/ijv.proto:20
+	ijx	ijx			refs/dofus-deobfs/protos/filtered/ijx.proto:3
+	ijy	ijy		1:int32:elfx;2:bool:elfy	refs/dofus-deobfs/protos/filtered/ijy.proto:3
+	ikb	ikb		1:repeated ijz:elgh	refs/dofus-deobfs/protos/filtered/ikb.proto:3
+	ikb+ijz	.ijz		1:int32:elgc;2:bool:elgd	refs/dofus-deobfs/protos/filtered/ikb.proto:5
+	ikd	ikd		1:bool:elgm	refs/dofus-deobfs/protos/filtered/ikd.proto:3
+	ike	ike		1:bool:elgq	refs/dofus-deobfs/protos/filtered/ike.proto:3
+	ikf	ikf		1:repeated jjp:elgu;2:repeated jkf:elgv;3:int32:elgw;4:int32:elgx;5:repeated jkg:elgy;6:ilu:elgz	refs/dofus-deobfs/protos/filtered/ikf.proto:7
+	ikg	ikg		1:int32:elhd;2:int32:elhe;3:int32:elhf;4:repeated jkz:elhg;5:repeated jla:elhh;6:int32:elhi	refs/dofus-deobfs/protos/filtered/ikg.proto:5
+	ikh	ikh		1:ikp:elhn	refs/dofus-deobfs/protos/filtered/ikh.proto:5
+	iko	iko		1:int64:elij;2:jdc:elik;3:ikj:elil;4:ikk:elim;5:ikl:elin;6:ikm:elio	refs/dofus-deobfs/protos/filtered/iko.proto:4
+	iko+ikj	.ikj			refs/dofus-deobfs/protos/filtered/iko.proto:13
+	iko+ikk	.ikk		1:int32:elhv	refs/dofus-deobfs/protos/filtered/iko.proto:15
+	iko+ikl	.ikl		1:int32:elhz;2:iko:elia	refs/dofus-deobfs/protos/filtered/iko.proto:18
+	iko+ikm	.ikm		1:int32:elie;2:iko:elif	refs/dofus-deobfs/protos/filtered/iko.proto:22
+	ikp	ikp		1:int32:elit;2:int32:eliu;3:int32:eliv;4:int32:eliw;5:int32:elix;6:int32:eliy;7:int32:eliz	refs/dofus-deobfs/protos/filtered/ikp.proto:3
+	ikz	ikz		1:ikq:ellp;2:ikr:ellq;3:iks:ellr;4:ikt:ells;5:iku:ellt;6:ikv:ellu;7:ikw:ellv;8:ikw:ellw;9:ikx:ellx;10:iko:elly	refs/dofus-deobfs/protos/filtered/ikz.proto:4
+	ikz+ikq	.ikq		1:int32:eljd;2:int32:elje;3:int32:eljf;4:int32:eljg;5:int32:eljh;6:int32:elji;7:float:eljj;8:float:eljk;9:int32:eljl	refs/dofus-deobfs/protos/filtered/ikz.proto:15
+	ikz+ikr	.ikr		1:int32:eljp;2:int32:eljq;3:int32:eljr;4:int32:eljs;5:int32:eljt;6:int32:elju;7:float:eljv;8:int32:eljw	refs/dofus-deobfs/protos/filtered/ikz.proto:26
+	ikz+iks	.iks		1:int32:elka;2:int32:elkb;3:float:elkc;4:float:elkd	refs/dofus-deobfs/protos/filtered/ikz.proto:36
+	ikz+ikt	.ikt		1:int32:elkh;2:int32:elki;3:float:elkj	refs/dofus-deobfs/protos/filtered/ikz.proto:42
+	ikz+iku	.iku		1:int32:elkn;2:int32:elko;3:float:elkp	refs/dofus-deobfs/protos/filtered/ikz.proto:47
+	ikz+ikv	.ikv		1:int32:elkt;2:int32:elku;3:float:elkv	refs/dofus-deobfs/protos/filtered/ikz.proto:52
+	ikz+ikw	.ikw		1:int32:elkz;2:int32:ella;3:int32:ellb;4:float:ellc;5:float:elld;6:float:elle;7:float:ellf	refs/dofus-deobfs/protos/filtered/ikz.proto:57
+	ikz+ikx	.ikx		1:int32:ellj;2:int32:ellk;3:int32:elll	refs/dofus-deobfs/protos/filtered/ikz.proto:66
+	ila	ila		1:int32:elmc	refs/dofus-deobfs/protos/filtered/ila.proto:3
+	ilb	ilb		1:repeated int64:elmg;2:repeated int64:elmh	refs/dofus-deobfs/protos/filtered/ilb.proto:3
+	ilc	ilc		1:int64:elml;2:int32:elmm;3:int32:elmn;4:int32:elmo	refs/dofus-deobfs/protos/filtered/ilc.proto:3
+	ild	ild		1:int32:elmt;2:jdc:elmu;3:int32:elmv	refs/dofus-deobfs/protos/filtered/ild.proto:4
+	ile	ile			refs/dofus-deobfs/protos/filtered/ile.proto:3
+	ilf	ilf		1:bool:elnc	refs/dofus-deobfs/protos/filtered/ilf.proto:3
+	ili	ili		1:repeated ilg:elnl	refs/dofus-deobfs/protos/filtered/ili.proto:3
+	ili+ilg	.ilg		1:int64:elng;2:int32:elnh	refs/dofus-deobfs/protos/filtered/ili.proto:5
+	ilj	ilj		1:int64:elnp;2:int64:elnq;3:int32:elnr;4:repeated jpg:elns;5:jhw:elnt;6:repeated jmj:elnu	refs/dofus-deobfs/protos/filtered/ilj.proto:6
+	ilk	ilk		1:int64:elny;2:int64:elnz	refs/dofus-deobfs/protos/filtered/ilk.proto:3
+	ill	ill		1:int64:elod;2:jlb:eloe	refs/dofus-deobfs/protos/filtered/ill.proto:4
+	ilm	ilm		1:int64:eloi	refs/dofus-deobfs/protos/filtered/ilm.proto:3
+	iln	iln		1:repeated jfp:elom	refs/dofus-deobfs/protos/filtered/iln.proto:4
+	ilo	ilo		1:int64:eloq	refs/dofus-deobfs/protos/filtered/ilo.proto:3
+	ilp	ilp		1:jfp:elou;2:bool:elov	refs/dofus-deobfs/protos/filtered/ilp.proto:4
+	ilq	ilq		1:jfp:eloz	refs/dofus-deobfs/protos/filtered/ilq.proto:4
+	ilt	ilt		1:int64:elpd;2:ilr:elpe	refs/dofus-deobfs/protos/filtered/ilt.proto:3
+	ilu	ilu		1:repeated jkh:elpi;2:int32:elpj;3:int32:elpk;4:repeated jki:elpl	refs/dofus-deobfs/protos/filtered/ilu.proto:5
+	ilv	ilv		1:int64:elpp;2:int64:elpq;3:jjo:elpr	refs/dofus-deobfs/protos/filtered/ilv.proto:4
+	ilx	ilx		1:int64:elpw;2:int32:elpx	refs/dofus-deobfs/protos/filtered/ilx.proto:3
+	ily	ily		1:int64:elqb	refs/dofus-deobfs/protos/filtered/ily.proto:3
+	ilz	ilz		1:int32:elqf;2:int64:elqg	refs/dofus-deobfs/protos/filtered/ilz.proto:3
+	ima	ima		1:int32:elqk	refs/dofus-deobfs/protos/filtered/ima.proto:3
+	imb	imb		1:int32:elqo	refs/dofus-deobfs/protos/filtered/imb.proto:3
+	imc	imc		1:jcz:elqs	refs/dofus-deobfs/protos/filtered/imc.proto:4
+	imd	imd		1:bool:elqw	refs/dofus-deobfs/protos/filtered/imd.proto:3
+	ime	ime		1:jcx:elra;2:int32:elrb;3:int64:elrc;4:int64:elrd;5:bool:elre;6:repeated int32:elrf	refs/dofus-deobfs/protos/filtered/ime.proto:4
+	imf	imf		1:bool:elrj;2:bool:elrk;3:bool:elrl;4:bool:elrm;5:int64:elrn;6:jcx:elro	refs/dofus-deobfs/protos/filtered/imf.proto:4
+	imh	imh		1:imf:elrs;2:repeated jij:elrt	refs/dofus-deobfs/protos/filtered/imh.proto:5
+	imi	imi		1:jjo:elrx;2:jdc:elry	refs/dofus-deobfs/protos/filtered/imi.proto:5
+	imj	imj			refs/dofus-deobfs/protos/filtered/imj.proto:3
+	imk	imk		1:int32:elsf;2:int64:elsg;3:int32:elsh;4:int64:elsi;5:int32:elsj	refs/dofus-deobfs/protos/filtered/imk.proto:3
+	iml	iml		1:int32:elsn;2:int64:elso	refs/dofus-deobfs/protos/filtered/iml.proto:3
+	imm	imm		1:repeated jii:elss	refs/dofus-deobfs/protos/filtered/imm.proto:4
+	imn	imn		1:int32:elsw;2:jdc:elsx;3:jcz:elsy;4:bool:elsz	refs/dofus-deobfs/protos/filtered/imn.proto:5
+	imo	imo		1:int32:eltd;2:jja:elte	refs/dofus-deobfs/protos/filtered/imo.proto:4
+	imp	imp		1:int32:elti;2:jdc:eltj;3:int64:eltk	refs/dofus-deobfs/protos/filtered/imp.proto:4
+	imq	imq		1:int64:elto;2:bool:eltp	refs/dofus-deobfs/protos/filtered/imq.proto:3
+	imr	imr		1:int64:eltt	refs/dofus-deobfs/protos/filtered/imr.proto:3
+	ims	ims			refs/dofus-deobfs/protos/filtered/ims.proto:3
+	imt	imt			refs/dofus-deobfs/protos/filtered/imt.proto:3
+	imv	imv		1:int32:elue;2:int32:eluf	refs/dofus-deobfs/protos/filtered/imv.proto:3
+	imw	imw		1:int32:eluj	refs/dofus-deobfs/protos/filtered/imw.proto:3
+	imx	imx		1:int32:elun;2:int32:eluo	refs/dofus-deobfs/protos/filtered/imx.proto:3
+	imy	imy		1:int32:elus;2:int32:elut;3:int32:eluu	refs/dofus-deobfs/protos/filtered/imy.proto:3
+	imz	imz		1:int32:eluy;2:int32:eluz;3:int64:elva	refs/dofus-deobfs/protos/filtered/imz.proto:3
+	ina	ina		1:int32:elve;2:int32:elvf;3:int64:elvg	refs/dofus-deobfs/protos/filtered/ina.proto:3
+	inb	inb			refs/dofus-deobfs/protos/filtered/inb.proto:3
+	inc	inc		1:repeated int32:elvn	refs/dofus-deobfs/protos/filtered/inc.proto:3
+	ind	ind		1:repeated jnd:elvr	refs/dofus-deobfs/protos/filtered/ind.proto:4
+	ine	ine			refs/dofus-deobfs/protos/filtered/ine.proto:3
+	inf	inf			refs/dofus-deobfs/protos/filtered/inf.proto:3
+	ing	ing		1:repeated int32:elwb	refs/dofus-deobfs/protos/filtered/ing.proto:3
+	inh	inh		1:int32:elwf	refs/dofus-deobfs/protos/filtered/inh.proto:3
+	ini	ini			refs/dofus-deobfs/protos/filtered/ini.proto:3
+	inj	inj		1:int64:elwm	refs/dofus-deobfs/protos/filtered/inj.proto:3
+	ink	ink		1:int32:elwq	refs/dofus-deobfs/protos/filtered/ink.proto:3
+	inl	inl			refs/dofus-deobfs/protos/filtered/inl.proto:3
+	inm	inm		1:bool:elwx	refs/dofus-deobfs/protos/filtered/inm.proto:3
+	inn	inn		1:int64:elxb	refs/dofus-deobfs/protos/filtered/inn.proto:3
+	ino	ino		1:jcw:elxf;2:int64:elxg;3:int32:elxh	refs/dofus-deobfs/protos/filtered/ino.proto:4
+	inp	inp			refs/dofus-deobfs/protos/filtered/inp.proto:3
+	inq	inq		1:string:elxo	refs/dofus-deobfs/protos/filtered/inq.proto:3
+	inr	inr			refs/dofus-deobfs/protos/filtered/inr.proto:3
+	ins	ins		1:bool:elxv;2:int32:elxw	refs/dofus-deobfs/protos/filtered/ins.proto:3
+	int	int		1:bool:elya;2:int32:elyb;3:int32:elyc	refs/dofus-deobfs/protos/filtered/int.proto:3
+	inu	inu		1:int64:elyg	refs/dofus-deobfs/protos/filtered/inu.proto:3
+	inv	inv		1:int32:elyk;2:int32:elyl	refs/dofus-deobfs/protos/filtered/inv.proto:3
+	inw	inw		1:int32:elyp;2:int32:elyq	refs/dofus-deobfs/protos/filtered/inw.proto:3
+	inz	inz		1:repeated inx:elyz	refs/dofus-deobfs/protos/filtered/inz.proto:3
+	inz+inx	.inx		1:int32:elyu;2:int32:elyv	refs/dofus-deobfs/protos/filtered/inz.proto:5
+	ioa	ioa		1:repeated int32:elzd	refs/dofus-deobfs/protos/filtered/ioa.proto:3
+	iod	iod		1:iob:elzh;2:repeated int32:elzi	refs/dofus-deobfs/protos/filtered/iod.proto:3
+	ioe	ioe		1:int32:elzm;2:bool:elzn	refs/dofus-deobfs/protos/filtered/ioe.proto:3
+	iof	iof		1:int32:elzr;2:bool:elzs	refs/dofus-deobfs/protos/filtered/iof.proto:3
+	iog	iog		1:int32:elzw;2:bool:elzx	refs/dofus-deobfs/protos/filtered/iog.proto:3
+	ioh	ioh		1:int32:emab;2:int32:emac;3:int64:emad	refs/dofus-deobfs/protos/filtered/ioh.proto:3
+	ioi	ioi		1:int32:emah	refs/dofus-deobfs/protos/filtered/ioi.proto:3
+	ioj	ioj		1:string:emal	refs/dofus-deobfs/protos/filtered/ioj.proto:3
+	iok	iok			refs/dofus-deobfs/protos/filtered/iok.proto:3
+	iol	iol		1:int64:emas	refs/dofus-deobfs/protos/filtered/iol.proto:3
+	iom	iom		1:int32:emaw	refs/dofus-deobfs/protos/filtered/iom.proto:3
+	ion	ion		1:bool:emba;2:repeated jne:embb;3:float:embc	refs/dofus-deobfs/protos/filtered/ion.proto:4
+	ioo	ioo		1:bool:embh;2:int32:embi	refs/dofus-deobfs/protos/filtered/ioo.proto:3
+	iop	iop		1:bool:embm;2:repeated int32:embn	refs/dofus-deobfs/protos/filtered/iop.proto:3
+	ioq	ioq		1:bool:embr;2:repeated jne:embs	refs/dofus-deobfs/protos/filtered/ioq.proto:4
+	ior	ior		1:bool:embw;2:jne:embx	refs/dofus-deobfs/protos/filtered/ior.proto:4
+	ios	ios		1:bool:emcb;2:int32:emcc	refs/dofus-deobfs/protos/filtered/ios.proto:3
+	iot	iot		1:bool:emcg;2:jne:emch	refs/dofus-deobfs/protos/filtered/iot.proto:4
+	iou	iou		1:bool:emcl;2:int64:emcm	refs/dofus-deobfs/protos/filtered/iou.proto:3
+	iov	iov		1:bool:emcq;2:int32:emcr;3:int32:emcs	refs/dofus-deobfs/protos/filtered/iov.proto:3
+	iow	iow		1:bool:emcw	refs/dofus-deobfs/protos/filtered/iow.proto:3
+	iox	iox		1:jcw:emda;2:int64:emdb;3:int64:emdc	refs/dofus-deobfs/protos/filtered/iox.proto:4
+	ioy	ioy		1:jcw:emdg	refs/dofus-deobfs/protos/filtered/ioy.proto:4
+	ioz	ioz		1:jcw:emdk;2:int64:emdl;3:int32:emdm;4:int32:emdn;5:int64:emdo;6:int32:emdp;7:int32:emdq	refs/dofus-deobfs/protos/filtered/ioz.proto:4
+	ipa	ipa		1:jcw:emdu;2:int32:emdv	refs/dofus-deobfs/protos/filtered/ipa.proto:4
+	ipb	ipb		1:jcw:emdz;2:int32:emea;3:int32:emeb	refs/dofus-deobfs/protos/filtered/ipb.proto:4
+	ipc	ipc		1:int32:emef;2:bool:emeg	refs/dofus-deobfs/protos/filtered/ipc.proto:3
+	ipd	ipd		1:iqk:emek;2:int64:emel;3:int64:emem	refs/dofus-deobfs/protos/filtered/ipd.proto:4
+	ipe	ipe		1:int32:emeq	refs/dofus-deobfs/protos/filtered/ipe.proto:3
+	ipf	ipf		1:int32:emeu	refs/dofus-deobfs/protos/filtered/ipf.proto:3
+	ipg	ipg		1:int32:emey	refs/dofus-deobfs/protos/filtered/ipg.proto:3
+	iph	iph		1:int32:emfc;2:int32:emfd;3:int32:emfe;4:repeated jnn:emff;5:repeated int64:emfg	refs/dofus-deobfs/protos/filtered/iph.proto:4
+	ipi	ipi		1:int32:emfk;2:int32:emfl;3:int32:emfm;4:repeated jnn:emfn;5:repeated int64:emfo	refs/dofus-deobfs/protos/filtered/ipi.proto:4
+	ipj	ipj		1:int32:emfs;2:int32:emft;3:int32:emfu	refs/dofus-deobfs/protos/filtered/ipj.proto:3
+	ipk	ipk		1:repeated jnc:emfy	refs/dofus-deobfs/protos/filtered/ipk.proto:4
+	ipl	ipl		1:repeated jnc:emgc	refs/dofus-deobfs/protos/filtered/ipl.proto:4
+	ipm	ipm		1:int64:emgg;2:bool:emgh	refs/dofus-deobfs/protos/filtered/ipm.proto:3
+	ipn	ipn		1:int64:emgl	refs/dofus-deobfs/protos/filtered/ipn.proto:3
+	ipq	ipq		1:ipo:emgp	refs/dofus-deobfs/protos/filtered/ipq.proto:3
+	ipr	ipr		1:jcv:emgt;2:bool:emgu	refs/dofus-deobfs/protos/filtered/ipr.proto:4
+	ips	ips		1:jom:emgy	refs/dofus-deobfs/protos/filtered/ips.proto:4
+	ipt	ipt		1:int64:emhc	refs/dofus-deobfs/protos/filtered/ipt.proto:3
+	ipu	ipu			refs/dofus-deobfs/protos/filtered/ipu.proto:3
+	ipv	ipv		1:int32:emhj;2:int32:emhk;3:repeated int32:emhl;4:repeated int32:emhm	refs/dofus-deobfs/protos/filtered/ipv.proto:3
+	ipw	ipw		1:int64:emhq;2:int32:emhr;3:repeated jmz:emhs	refs/dofus-deobfs/protos/filtered/ipw.proto:4
+	ipx	ipx		1:int64:emhw;2:int64:emhx;3:jcw:emhy	refs/dofus-deobfs/protos/filtered/ipx.proto:4
+	iqe	iqe		1:ipz:emij;2:int32:emik;3:iqc:emim	refs/dofus-deobfs/protos/filtered/iqe.proto:4
+	iqe+iqc	.iqc		1:jnf:emic;2:iqa:emid;3:float:emif	refs/dofus-deobfs/protos/filtered/iqe.proto:17
+	iqf	iqf		1:repeated jne:emir	refs/dofus-deobfs/protos/filtered/iqf.proto:4
+	iqg	iqg		1:repeated jne:emiv;2:int64:emiw	refs/dofus-deobfs/protos/filtered/iqg.proto:4
+	iqj	iqj		1:irm:emjg;2:repeated iqh:emjh	refs/dofus-deobfs/protos/filtered/iqj.proto:5
+	iqj+iqh	.iqh		1:iqk:emja;2:int64:emjb;3:int32:emjc	refs/dofus-deobfs/protos/filtered/iqj.proto:8
+	iqk	iqk		1:int32:emjl;2:int32:emjm;3:int64:emjn;4:repeated jnn:emjo	refs/dofus-deobfs/protos/filtered/iqk.proto:4
+	iql	iql		1:irm:emjs	refs/dofus-deobfs/protos/filtered/iql.proto:4
+	iqo	iqo		1:int32:emkb;2:int64:emkc;3:iqm:emkd	refs/dofus-deobfs/protos/filtered/iqo.proto:3
+	iqo+iqm	.iqm		1:bool:emjw;2:repeated int64:emjx	refs/dofus-deobfs/protos/filtered/iqo.proto:7
+	iqp	iqp		1:int32:emkh;2:repeated int32:emki	refs/dofus-deobfs/protos/filtered/iqp.proto:3
+	iqs	iqs		1:int32:emku;2:int32:emkv;3:repeated iqq:emkw	refs/dofus-deobfs/protos/filtered/iqs.proto:4
+	iqs+iqq	.iqq		1:int32:emkm;2:int32:emkn;3:int32:emko;4:repeated jnn:emkp;5:repeated int64:emkq	refs/dofus-deobfs/protos/filtered/iqs.proto:8
+	iqt	iqt		1:int32:emla;2:int32:emlb	refs/dofus-deobfs/protos/filtered/iqt.proto:3
+	iqu	iqu		1:string:emlf;2:jms:emlg;3:string:emlh;4:int64:emli;5:string:emlj;6:int32:emlk;7:repeated jnc:emll;8:jie:emlm	refs/dofus-deobfs/protos/filtered/iqu.proto:6
+	iqv	iqv			refs/dofus-deobfs/protos/filtered/iqv.proto:3
+	iqw	iqw			refs/dofus-deobfs/protos/filtered/iqw.proto:3
+	iqx	iqx		1:repeated jou:emlw;2:repeated jou:emlx	refs/dofus-deobfs/protos/filtered/iqx.proto:4
+	iqy	iqy		1:repeated jou:emmb;2:bool:emmc	refs/dofus-deobfs/protos/filtered/iqy.proto:4
+	iqz	iqz		1:repeated jou:emmg	refs/dofus-deobfs/protos/filtered/iqz.proto:4
+	ira	ira		1:repeated int32:emmk	refs/dofus-deobfs/protos/filtered/ira.proto:3
+	irb	irb		1:repeated int32:emmo	refs/dofus-deobfs/protos/filtered/irb.proto:3
+	irc	irc		1:string:emms;2:jmr:emmt;3:string:emmu	refs/dofus-deobfs/protos/filtered/irc.proto:4
+	irf	irf		1:ird:emmy	refs/dofus-deobfs/protos/filtered/irf.proto:3
+	irg	irg		1:int32:emnc	refs/dofus-deobfs/protos/filtered/irg.proto:3
+	irh	irh		1:int32:emnh	refs/dofus-deobfs/protos/filtered/irh.proto:3
+	iri	iri		1:int32:emnl;2:int32:emnm	refs/dofus-deobfs/protos/filtered/iri.proto:3
+	irj	irj		1:int32:emnq	refs/dofus-deobfs/protos/filtered/irj.proto:3
+	irk	irk		1:repeated int32:emnu	refs/dofus-deobfs/protos/filtered/irk.proto:3
+	irl	irl		1:int64:emny	refs/dofus-deobfs/protos/filtered/irl.proto:3
+	irm	irm		1:repeated int32:emoc;2:repeated int32:emod;3:float:emoe;4:float:emof;5:int32:emog;6:int32:emoh;7:int32:emoi;8:int32:emoj	refs/dofus-deobfs/protos/filtered/irm.proto:3
+	irn	irn			refs/dofus-deobfs/protos/filtered/irn.proto:3
+	irq	irq		1:repeated iro:emov	refs/dofus-deobfs/protos/filtered/irq.proto:3
+	irq+iro	.iro		1:int32:emoq;2:int64:emor	refs/dofus-deobfs/protos/filtered/irq.proto:5
+	irr	irr		1:int32:emoz;2:int32:empa	refs/dofus-deobfs/protos/filtered/irr.proto:3
+	irw	irw		1:repeated iru:empq	refs/dofus-deobfs/protos/filtered/irw.proto:3
+	irw+iru	.iru		1:int32:empj;2:float:empk;3:float:empl;4:repeated irs:empm	refs/dofus-deobfs/protos/filtered/irw.proto:5
+	irw+iru+irs	.irs		1:int32:empe;2:int32:empf	refs/dofus-deobfs/protos/filtered/irw.proto:10
+	iry	iry		1:int32:empv;2:bool:empw	refs/dofus-deobfs/protos/filtered/iry.proto:3
+	irz	irz		1:repeated int32:emqa	refs/dofus-deobfs/protos/filtered/irz.proto:3
+	isa	isa		1:int32:emqe	refs/dofus-deobfs/protos/filtered/isa.proto:3
+	isb	isb		1:int32:emqi	refs/dofus-deobfs/protos/filtered/isb.proto:3
+	isc	isc		1:int32:emqm;2:int64:emqn;3:int64:emqo;4:int32:emqp	refs/dofus-deobfs/protos/filtered/isc.proto:3
+	isd	isd		1:int32:emqt;2:int64:emqu;3:repeated int64:emqv	refs/dofus-deobfs/protos/filtered/isd.proto:3
+	ise	ise		1:int32:emqz	refs/dofus-deobfs/protos/filtered/ise.proto:3
+	isg	isg		1:string:emre	refs/dofus-deobfs/protos/filtered/isg.proto:3
+	ish	ish		1:string:emri	refs/dofus-deobfs/protos/filtered/ish.proto:3
+	isk	isk		1:isi:emrm;2:int64:emrn;3:int32:emro;4:bool:emrp;5:int64:emrq	refs/dofus-deobfs/protos/filtered/isk.proto:3
+	isn	isn		1:isl:emru;2:int32:emrv	refs/dofus-deobfs/protos/filtered/isn.proto:3
+	isq	isq		1:iso:emrz	refs/dofus-deobfs/protos/filtered/isq.proto:3
+	isr	isr		1:int32:emsd;2:int32:emse;3:bool:emsf;4:bool:emsg	refs/dofus-deobfs/protos/filtered/isr.proto:3
+	ist	ist		1:int32:emsl	refs/dofus-deobfs/protos/filtered/ist.proto:3
+	isu	isu		1:int32:emsp	refs/dofus-deobfs/protos/filtered/isu.proto:3
+	isw	isw			refs/dofus-deobfs/protos/filtered/isw.proto:3
+	isx	isx		1:jcv:emsx	refs/dofus-deobfs/protos/filtered/isx.proto:4
+	ita	ita		1:isy:emtb	refs/dofus-deobfs/protos/filtered/ita.proto:3
+	itb	itb			refs/dofus-deobfs/protos/filtered/itb.proto:3
+	itc	itc		1:bool:emti	refs/dofus-deobfs/protos/filtered/itc.proto:3
+	ite	ite		1:int64:emtn;2:repeated jhi:emto	refs/dofus-deobfs/protos/filtered/ite.proto:4
+	itf	itf		1:int64:emts;2:repeated int32:emtt	refs/dofus-deobfs/protos/filtered/itf.proto:3
+	itg	itg			refs/dofus-deobfs/protos/filtered/itg.proto:3
+	itj	itj		1:ith:emua;2:string:emub	refs/dofus-deobfs/protos/filtered/itj.proto:3
+	ito	ito		1:itl:emun;2:repeated itm:emuo	refs/dofus-deobfs/protos/filtered/ito.proto:3
+	ito+itm	.itm		1:int64:emug;2:int64:emuh;3:int64:emui	refs/dofus-deobfs/protos/filtered/ito.proto:10
+	itr	itr		1:itp:emus;2:repeated int64:emut	refs/dofus-deobfs/protos/filtered/itr.proto:3
+	itt	itt			refs/dofus-deobfs/protos/filtered/itt.proto:3
+	itu	itu		1:int64:emvb	refs/dofus-deobfs/protos/filtered/itu.proto:3
+	itv	itv			refs/dofus-deobfs/protos/filtered/itv.proto:3
+	itw	itw		1:int64:emvi	refs/dofus-deobfs/protos/filtered/itw.proto:3
+	itx	itx		1:int32:emvm	refs/dofus-deobfs/protos/filtered/itx.proto:3
+	iua	iua		1:ity:emvq	refs/dofus-deobfs/protos/filtered/iua.proto:3
+	iub	iub			refs/dofus-deobfs/protos/filtered/iub.proto:3
+	iuc	iuc		1:int64:emvx	refs/dofus-deobfs/protos/filtered/iuc.proto:3
+	iud	iud		1:repeated int64:emwb	refs/dofus-deobfs/protos/filtered/iud.proto:3
+	iue	iue		1:int64:emwf;2:jie:emwg	refs/dofus-deobfs/protos/filtered/iue.proto:4
+	iuf	iuf		1:repeated jii:emwk	refs/dofus-deobfs/protos/filtered/iuf.proto:4
+	iug	iug			refs/dofus-deobfs/protos/filtered/iug.proto:3
+	iuh	iuh		1:int32:emwr;2:int32:emws;3:int32:emwt	refs/dofus-deobfs/protos/filtered/iuh.proto:3
+	iui	iui		1:repeated iuh:emwx;2:repeated iuh:emwy	refs/dofus-deobfs/protos/filtered/iui.proto:4
+	iuj	iuj		1:int64:emxc;2:int32:emxd	refs/dofus-deobfs/protos/filtered/iuj.proto:3
+	ium	ium		1:bool:emxi	refs/dofus-deobfs/protos/filtered/ium.proto:3
+	iuq	iuq		1:int32:emxm;2:iuo:emxn;3:string:emxo;4:int64:emxq	refs/dofus-deobfs/protos/filtered/iuq.proto:3
+	iur	iur		1:jht:emxw	refs/dofus-deobfs/protos/filtered/iur.proto:4
+	ius	ius		1:int64:emya	refs/dofus-deobfs/protos/filtered/ius.proto:3
+	iut	iut		1:bool:emye	refs/dofus-deobfs/protos/filtered/iut.proto:3
+	iuu	iuu		1:bool:emyi	refs/dofus-deobfs/protos/filtered/iuu.proto:3
+	iuv	iuv		1:bool:emym	refs/dofus-deobfs/protos/filtered/iuv.proto:3
+	iuw	iuw		1:jht:emyq	refs/dofus-deobfs/protos/filtered/iuw.proto:4
+	iux	iux		1:int64:emyu	refs/dofus-deobfs/protos/filtered/iux.proto:3
+	iuy	iuy			refs/dofus-deobfs/protos/filtered/iuy.proto:3
+	iuz	iuz		1:jht:emzb	refs/dofus-deobfs/protos/filtered/iuz.proto:4
+	iva	iva		1:int64:emzf	refs/dofus-deobfs/protos/filtered/iva.proto:3
+	ivb	ivb			refs/dofus-deobfs/protos/filtered/ivb.proto:3
+	ivc	ivc			refs/dofus-deobfs/protos/filtered/ivc.proto:3
+	ivd	ivd		1:bool:emzp	refs/dofus-deobfs/protos/filtered/ivd.proto:3
+	ive	ive		1:bool:emzt	refs/dofus-deobfs/protos/filtered/ive.proto:3
+	ivf	ivf		1:int32:emzx;2:string:emzy;3:int64:emzz;4:jie:enaa	refs/dofus-deobfs/protos/filtered/ivf.proto:4
+	ivg	ivg		1:int32:enae	refs/dofus-deobfs/protos/filtered/ivg.proto:3
+	ivh	ivh		1:iul:enai	refs/dofus-deobfs/protos/filtered/ivh.proto:4
+	ivi	ivi		1:iwp:enam	refs/dofus-deobfs/protos/filtered/ivi.proto:4
+	ivj	ivj		1:iwm:enaq	refs/dofus-deobfs/protos/filtered/ivj.proto:4
+	ivk	ivk		1:bool:enau;2:jdt:enav	refs/dofus-deobfs/protos/filtered/ivk.proto:4
+	ivl	ivl		1:bool:enaz	refs/dofus-deobfs/protos/filtered/ivl.proto:3
+	ivm	ivm		1:bool:enbd	refs/dofus-deobfs/protos/filtered/ivm.proto:3
+	ivn	ivn		1:bool:enbh	refs/dofus-deobfs/protos/filtered/ivn.proto:3
+	ivo	ivo		1:bool:enbl	refs/dofus-deobfs/protos/filtered/ivo.proto:3
+	ivs	ivs		1:Error:enbx;2:ivq:enby	refs/dofus-deobfs/protos/filtered/ivs.proto:5
+	ivs+Error	.Error		1:iul:enbp	refs/dofus-deobfs/protos/filtered/ivs.proto:10
+	ivs+ivq	.ivq		1:iwq:enbt	refs/dofus-deobfs/protos/filtered/ivs.proto:13
+	ivw	ivw		1:Error:enck;2:ivu:encl	refs/dofus-deobfs/protos/filtered/ivw.proto:4
+	ivw+Error	.Error			refs/dofus-deobfs/protos/filtered/ivw.proto:9
+	ivw+ivu	.ivu		1:jdt:encg	refs/dofus-deobfs/protos/filtered/ivw.proto:11
+	ivx	ivx		1:repeated iwq:encq	refs/dofus-deobfs/protos/filtered/ivx.proto:4
+	iwb	iwb		1:Error:endc;2:ivz:endd	refs/dofus-deobfs/protos/filtered/iwb.proto:5
+	iwb+Error	.Error		1:iul:encu	refs/dofus-deobfs/protos/filtered/iwb.proto:10
+	iwb+ivz	.ivz		1:iwq:ency	refs/dofus-deobfs/protos/filtered/iwb.proto:13
+	iwf	iwf		1:Error:endp;2:iwd:endq	refs/dofus-deobfs/protos/filtered/iwf.proto:4
+	iwf+Error	.Error			refs/dofus-deobfs/protos/filtered/iwf.proto:9
+	iwf+iwd	.iwd		1:jdt:endl	refs/dofus-deobfs/protos/filtered/iwf.proto:11
+	iwg	iwg		1:iul:endv	refs/dofus-deobfs/protos/filtered/iwg.proto:4
+	iwh	iwh		1:repeated iwm:endz	refs/dofus-deobfs/protos/filtered/iwh.proto:4
+	iwi	iwi		1:repeated iwp:ened	refs/dofus-deobfs/protos/filtered/iwi.proto:4
+	iwj	iwj		1:string:eneh;2:int64:enei;3:int32:enej	refs/dofus-deobfs/protos/filtered/iwj.proto:3
+	iwm	iwm		1:int64:enfd;2:jdt:enfe;3:jcp:enff;4:int64:enfg;5:int32:enfh;6:iwk:enfi	refs/dofus-deobfs/protos/filtered/iwm.proto:10
+	iwm+iwk	.iwk		1:int64:enen;2:string:eneo;3:int32:enep;4:jcq:eneq;5:int32:ener;6:jcr:enes;7:int32:enet;8:bool:eneu;9:jho:enev;10:jlg:enew;11:jft:enex;12:int32:eney;13:int32:enez	refs/dofus-deobfs/protos/filtered/iwm.proto:17
+	iwp	iwp		1:int64:enft;2:jdt:enfu;3:jcp:enfv;4:iwn:enfw	refs/dofus-deobfs/protos/filtered/iwp.proto:6
+	iwp+iwn	.iwn		1:int64:enfm;2:string:enfn;3:int32:enfo;4:jho:enfp	refs/dofus-deobfs/protos/filtered/iwp.proto:11
+	iwq	iwq		1:int64:enga;2:jdt:engb	refs/dofus-deobfs/protos/filtered/iwq.proto:4
+	iws	iws		1:string:engg;2:string:engh	refs/dofus-deobfs/protos/filtered/iws.proto:3
+	iwt	iwt			refs/dofus-deobfs/protos/filtered/iwt.proto:3
+	iwu	iwu		1:bool:engo	refs/dofus-deobfs/protos/filtered/iwu.proto:3
+	iwv	iwv		1:bool:engs	refs/dofus-deobfs/protos/filtered/iwv.proto:3
+	iww	iww			refs/dofus-deobfs/protos/filtered/iww.proto:3
+	iwx	iwx			refs/dofus-deobfs/protos/filtered/iwx.proto:3
+	iwy	iwy		1:bool:enhc;2:string:enhd;3:int32:enhe	refs/dofus-deobfs/protos/filtered/iwy.proto:3
+	iwz	iwz		1:repeated int32:enhi	refs/dofus-deobfs/protos/filtered/iwz.proto:3
+	ixa	ixa		1:bool:enhm;2:string:enhn	refs/dofus-deobfs/protos/filtered/ixa.proto:3
+	ixb	ixb		1:int32:enhr;2:int32:enhs	refs/dofus-deobfs/protos/filtered/ixb.proto:3
+	ixc	ixc			refs/dofus-deobfs/protos/filtered/ixc.proto:3
+	ixe	ixe			refs/dofus-deobfs/protos/filtered/ixe.proto:3
+	ixf	ixf		1:string:enid	refs/dofus-deobfs/protos/filtered/ixf.proto:3
+	ixg	ixg			refs/dofus-deobfs/protos/filtered/ixg.proto:3
+	ixh	ixh		1:string:enik	refs/dofus-deobfs/protos/filtered/ixh.proto:3
+	ixi	ixi		1:string:enio	refs/dofus-deobfs/protos/filtered/ixi.proto:3
+	ixj	ixj		1:string:enit	refs/dofus-deobfs/protos/filtered/ixj.proto:3
+	ixk	ixk			refs/dofus-deobfs/protos/filtered/ixk.proto:3
+	ixm	ixm		1:int32:enjb;2:int32:enjc	refs/dofus-deobfs/protos/filtered/ixm.proto:3
+	ixn	ixn		1:int32:enjg;2:int32:enjh;3:repeated int64:enji	refs/dofus-deobfs/protos/filtered/ixn.proto:3
+	ixo	ixo		1:int32:enjm;2:repeated ixm:enjn	refs/dofus-deobfs/protos/filtered/ixo.proto:4
+	ixp	ixp		1:int32:enjr;2:int64:enjs;3:repeated ixm:enjt	refs/dofus-deobfs/protos/filtered/ixp.proto:4
+	ixq	ixq		1:int32:enjx	refs/dofus-deobfs/protos/filtered/ixq.proto:3
+	ixr	ixr		1:int32:enkb;2:repeated ixn:enkc	refs/dofus-deobfs/protos/filtered/ixr.proto:4
+	ixs	ixs		1:int32:enkg;2:repeated ixm:enkh	refs/dofus-deobfs/protos/filtered/ixs.proto:4
+	ixt	ixt		1:int32:enkl	refs/dofus-deobfs/protos/filtered/ixt.proto:3
+	ixu	ixu		1:int64:enkp;2:int32:enkq	refs/dofus-deobfs/protos/filtered/ixu.proto:3
+	ixv	ixv		1:int32:enku	refs/dofus-deobfs/protos/filtered/ixv.proto:3
+	ixz	ixz		1:string:enkz;2:repeated jne:enla;3:string:enlb;4:jdt:enld	refs/dofus-deobfs/protos/filtered/ixz.proto:5
+	iya	iya		1:string:enli;2:string:enlj;3:int64:enlk;4:string:enll;5:repeated jne:enlm	refs/dofus-deobfs/protos/filtered/iya.proto:4
+	iyb	iyb		1:string:enlq;2:ixx:enlr;3:repeated jne:enls	refs/dofus-deobfs/protos/filtered/iyb.proto:5
+	iyc	iyc		1:string:enlw;2:ixx:enlx;3:string:enly;4:int64:enlz;5:int64:enma;6:string:enmb;7:string:enmc;8:bool:enmd;9:repeated jne:enme;10:int32:enmf	refs/dofus-deobfs/protos/filtered/iyc.proto:5
+	iye	iye		1:Error:enmk	refs/dofus-deobfs/protos/filtered/iye.proto:3
+	iyf	iyf		1:repeated ixx:enmo;2:repeated ixx:enmp	refs/dofus-deobfs/protos/filtered/iyf.proto:4
+	iyg	iyg		1:ixx:enmt;2:bool:enmu	refs/dofus-deobfs/protos/filtered/iyg.proto:4
+	iyh	iyh		1:repeated ixx:enmy;2:repeated ixx:enmz	refs/dofus-deobfs/protos/filtered/iyh.proto:4
+	iyj	iyj		1:jho:enne	refs/dofus-deobfs/protos/filtered/iyj.proto:4
+	iyk	iyk			refs/dofus-deobfs/protos/filtered/iyk.proto:3
+	iyl	iyl			refs/dofus-deobfs/protos/filtered/iyl.proto:3
+	iym	iym		1:int32:enno;2:int32:ennp;3:int32:ennq;4:int32:ennr;5:int32:enns;6:int32:ennt	refs/dofus-deobfs/protos/filtered/iym.proto:3
+	iyn	iyn			refs/dofus-deobfs/protos/filtered/iyn.proto:3
+	iyo	iyo		1:int32:enoa;2:int64:enob;3:jho:enoc	refs/dofus-deobfs/protos/filtered/iyo.proto:4
+	iyp	iyp		1:jhw:enog	refs/dofus-deobfs/protos/filtered/iyp.proto:4
+	iyq	iyq		1:int32:enok	refs/dofus-deobfs/protos/filtered/iyq.proto:3
+	iyr	iyr		1:int64:enoo;2:int64:enop;3:int64:enoq	refs/dofus-deobfs/protos/filtered/iyr.proto:3
+	iys	iys		1:int32:enou	refs/dofus-deobfs/protos/filtered/iys.proto:3
+	iyt	iyt		1:int32:enoy;2:int32:enoz;3:int32:enpa	refs/dofus-deobfs/protos/filtered/iyt.proto:3
+	iyw	iyw		1:iyu:enpf;2:int64:enpg	refs/dofus-deobfs/protos/filtered/iyw.proto:3
+	iyx	iyx			refs/dofus-deobfs/protos/filtered/iyx.proto:3
+	iza	iza		1:iyy:enpn;2:int32:enpo	refs/dofus-deobfs/protos/filtered/iza.proto:3
+	izb	izb		1:int64:enps;2:repeated jcu:enpt	refs/dofus-deobfs/protos/filtered/izb.proto:4
+	ize	ize		1:izc:enpx	refs/dofus-deobfs/protos/filtered/ize.proto:3
+	izh	izh		1:int64:enqc	refs/dofus-deobfs/protos/filtered/izh.proto:3
+	izi	izi		1:int64:enqg;2:string:enqh	refs/dofus-deobfs/protos/filtered/izi.proto:3
+	izj	izj			refs/dofus-deobfs/protos/filtered/izj.proto:3
+	izk	izk		1:jhc:enqo	refs/dofus-deobfs/protos/filtered/izk.proto:4
+	izl	izl		1:int64:enqs	refs/dofus-deobfs/protos/filtered/izl.proto:3
+	izm	izm		1:int64:enqw;2:jgz:enqx	refs/dofus-deobfs/protos/filtered/izm.proto:4
+	izn	izn		1:int64:enrb	refs/dofus-deobfs/protos/filtered/izn.proto:3
+	izo	izo		1:int64:enrf;2:jgz:enrg	refs/dofus-deobfs/protos/filtered/izo.proto:4
+	izp	izp			refs/dofus-deobfs/protos/filtered/izp.proto:3
+	izq	izq			refs/dofus-deobfs/protos/filtered/izq.proto:3
+	izr	izr		1:int64:enrq;2:bool:enrr	refs/dofus-deobfs/protos/filtered/izr.proto:3
+	izs	izs			refs/dofus-deobfs/protos/filtered/izs.proto:3
+	izt	izt		1:bool:enry	refs/dofus-deobfs/protos/filtered/izt.proto:3
+	izw	izw		1:izu:ensc;2:izg:ensd	refs/dofus-deobfs/protos/filtered/izw.proto:4
+	izz	izz		1:izx:ensh	refs/dofus-deobfs/protos/filtered/izz.proto:3
+	jad	jad		1:Error:enss;2:jab:enst	refs/dofus-deobfs/protos/filtered/jad.proto:4
+	jad+Error	.Error			refs/dofus-deobfs/protos/filtered/jad.proto:9
+	jad+jab	.jab		1:jgz:enso	refs/dofus-deobfs/protos/filtered/jad.proto:11
+	jae	jae		1:repeated jgz:ensy;2:repeated jgz:ensz	refs/dofus-deobfs/protos/filtered/jae.proto:4
+	jaf	jaf		1:repeated jgz:entd	refs/dofus-deobfs/protos/filtered/jaf.proto:4
+	jag	jag			refs/dofus-deobfs/protos/filtered/jag.proto:3
+	jah	jah		1:string:entk	refs/dofus-deobfs/protos/filtered/jah.proto:3
+	jak	jak		1:jai:ento	refs/dofus-deobfs/protos/filtered/jak.proto:3
+	jal	jal		1:int64:ents;2:string:entt;3:string:entu;4:bool:entv	refs/dofus-deobfs/protos/filtered/jal.proto:3
+	jam	jam		1:int64:entz	refs/dofus-deobfs/protos/filtered/jam.proto:3
+	jan	jan			refs/dofus-deobfs/protos/filtered/jan.proto:3
+	jao	jao		1:int32:enug	refs/dofus-deobfs/protos/filtered/jao.proto:3
+	jaq	jaq		1:int32:enul	refs/dofus-deobfs/protos/filtered/jaq.proto:3
+	jar	jar		1:int32:enup	refs/dofus-deobfs/protos/filtered/jar.proto:3
+	jas	jas		1:int32:enut	refs/dofus-deobfs/protos/filtered/jas.proto:3
+	jat	jat		1:jcn:enux	refs/dofus-deobfs/protos/filtered/jat.proto:4
+	jau	jau		1:jcn:envb	refs/dofus-deobfs/protos/filtered/jau.proto:4
+	jav	jav		1:jco:envf	refs/dofus-deobfs/protos/filtered/jav.proto:4
+	jaw	jaw		1:repeated jgc:envj	refs/dofus-deobfs/protos/filtered/jaw.proto:4
+	jax	jax		2:jgc:envn	refs/dofus-deobfs/protos/filtered/jax.proto:4
+	jay	jay		1:int32:envr;2:bool:envs	refs/dofus-deobfs/protos/filtered/jay.proto:3
+	jaz	jaz		1:int32:envw	refs/dofus-deobfs/protos/filtered/jaz.proto:3
+	jba	jba		1:repeated jgc:enwa;2:int64:enwb	refs/dofus-deobfs/protos/filtered/jba.proto:4
+	jbb	jbb		1:jgc:enwf	refs/dofus-deobfs/protos/filtered/jbb.proto:4
+	jbc	jbc		1:jgc:enwj	refs/dofus-deobfs/protos/filtered/jbc.proto:4
+	jbd	jbd		1:jcn:enwn	refs/dofus-deobfs/protos/filtered/jbd.proto:4
+	jbe	jbe		1:jco:enwr	refs/dofus-deobfs/protos/filtered/jbe.proto:4
+	jbg	jbg			refs/dofus-deobfs/protos/filtered/jbg.proto:3
+	jbh	jbh		1:int32:enwz	refs/dofus-deobfs/protos/filtered/jbh.proto:3
+	jbi	jbi			refs/dofus-deobfs/protos/filtered/jbi.proto:3
+	jbj	jbj		1:int32:enxg	refs/dofus-deobfs/protos/filtered/jbj.proto:3
+	jbk	jbk		1:repeated int64:enxk	refs/dofus-deobfs/protos/filtered/jbk.proto:3
+	jbl	jbl		1:bool:enxo	refs/dofus-deobfs/protos/filtered/jbl.proto:3
+	jbm	jbm		1:int64:enxs	refs/dofus-deobfs/protos/filtered/jbm.proto:3
+	jbn	jbn		1:int64:enxw	refs/dofus-deobfs/protos/filtered/jbn.proto:3
+	jbo	jbo		1:bool:enya	refs/dofus-deobfs/protos/filtered/jbo.proto:3
+	jbp	jbp			refs/dofus-deobfs/protos/filtered/jbp.proto:3
+	jbs	jbs		1:int32:enyh;2:jbq:enyi	refs/dofus-deobfs/protos/filtered/jbs.proto:3
+	jbt	jbt		1:bool:enym	refs/dofus-deobfs/protos/filtered/jbt.proto:3
+	jbu	jbu		1:jgz:enyq;2:repeated jnn:enyr;3:int32:enys;4:bool:enyt	refs/dofus-deobfs/protos/filtered/jbu.proto:5
+	jbv	jbv		1:repeated int64:enyx	refs/dofus-deobfs/protos/filtered/jbv.proto:3
+	jbw	jbw		1:jnn:enzb	refs/dofus-deobfs/protos/filtered/jbw.proto:4
+	jbx	jbx		1:int32:enzf	refs/dofus-deobfs/protos/filtered/jbx.proto:3
+	jby	jby		1:bool:enzj	refs/dofus-deobfs/protos/filtered/jby.proto:3
+	jbz	jbz		1:repeated jfw:enzn	refs/dofus-deobfs/protos/filtered/jbz.proto:4
+	jca	jca		1:repeated jfz:enzr	refs/dofus-deobfs/protos/filtered/jca.proto:4
+	jcb	jcb		1:int32:enzv;2:bool:enzw	refs/dofus-deobfs/protos/filtered/jcb.proto:3
+	jcc	jcc		1:jgz:eoaa;2:int32:eoab	refs/dofus-deobfs/protos/filtered/jcc.proto:4
+	jcd	jcd		1:jgz:eoaf	refs/dofus-deobfs/protos/filtered/jcd.proto:4
+	jcf	jcf			refs/dofus-deobfs/protos/filtered/jcf.proto:3
+	jcg	jcg		1:repeated jcj:eoan	refs/dofus-deobfs/protos/filtered/jcg.proto:4
+	jcj	jcj		1:int32:eoar;2:jch:eoas;3:string:eoat;4:jmz:eoau;5:int64:eoav	refs/dofus-deobfs/protos/filtered/jcj.proto:4
+	jdt	jdt		1:string:eoba;2:string:eobb	refs/dofus-deobfs/protos/filtered/jdt.proto:3
+	jfp	jfp		1:int64:eoir;2:jii:eois;3:jfn:eoit	refs/dofus-deobfs/protos/filtered/jfp.proto:20
+	jfp+jfn	.jfn		1:jie:eoik;2:jex:eoil;3:jfl:eoim	refs/dofus-deobfs/protos/filtered/jfp.proto:24
+	jfp+jfn+jex	.jex		4:jeo:eoft;5:jep:eofu;6:jes:eofv;7:jev:eofw;8:jnx:eofx;9:jnu:eofy;10:int32:eofz	refs/dofus-deobfs/protos/filtered/jfp.proto:30
+	jfp+jfn+jex+jeo	.jeo		1:string:eoei;2:jel:eoej;3:jem:eoek	refs/dofus-deobfs/protos/filtered/jfp.proto:40
+	jfp+jfn+jex+jeo+jel	.jel		1:repeated jcu:eodu;2:jcr:eodv;3:repeated jei:eodw;4:int64:eodx;5:jhz:eody;6:jej:eodz	refs/dofus-deobfs/protos/filtered/jfp.proto:46
+	jfp+jfn+jex+jeo+jel+jei	.jei		3:jea:eodb;4:jlg:eodc;5:jeb:eodd;6:jec:eode;7:jed:eodf;8:jee:eodg;9:jef:eodh;10:jeg:eodi;11:int32:eodj	refs/dofus-deobfs/protos/filtered/jfp.proto:53
+	jfp+jfn+jex+jeo+jel+jei+jea	.jea		1:repeated jdy:eobk	refs/dofus-deobfs/protos/filtered/jfp.proto:65
+	jfp+jfn+jex+jeo+jel+jei+jea+jdy	.jdy		1:jie:eobf;2:int32:eobg	refs/dofus-deobfs/protos/filtered/jfp.proto:67
+	jfp+jfn+jex+jeo+jel+jei+jeb	.jeb		1:jft:eobo;2:jct:eobp	refs/dofus-deobfs/protos/filtered/jfp.proto:72
+	jfp+jfn+jex+jeo+jel+jei+jec	.jec		1:int32:eobt;2:string:eobu	refs/dofus-deobfs/protos/filtered/jfp.proto:76
+	jfp+jfn+jex+jeo+jel+jei+jed	.jed		1:int32:eoby;2:string:eoca	refs/dofus-deobfs/protos/filtered/jfp.proto:80
+	jfp+jfn+jex+jeo+jel+jei+jee	.jee		1:int32:eocf;2:int32:eoch;3:int32:eoci;4:int32:eock	refs/dofus-deobfs/protos/filtered/jfp.proto:84
+	jfp+jfn+jex+jeo+jel+jei+jef	.jef		1:jcl:eocp;2:string:eocq;3:int32:eocr	refs/dofus-deobfs/protos/filtered/jfp.proto:90
+	jfp+jfn+jex+jeo+jel+jei+jeg	.jeg		1:int32:eocv;2:int32:eocw;3:string:eocx	refs/dofus-deobfs/protos/filtered/jfp.proto:95
+	jfp+jfn+jex+jeo+jel+jej	.jej		1:int32:eodp;2:int32:eodq	refs/dofus-deobfs/protos/filtered/jfp.proto:101
+	jfp+jfn+jex+jeo+jem	.jem		1:string:eoed;2:int32:eoee	refs/dofus-deobfs/protos/filtered/jfp.proto:106
+	jfp+jfn+jex+jep	.jep		1:jon:eoep;2:int32:eoeq	refs/dofus-deobfs/protos/filtered/jfp.proto:111
+	jfp+jfn+jex+jes	.jes		1:jmt:eofa;2:int32:eofb;3:jcq:eofc;4:jeq:eofd	refs/dofus-deobfs/protos/filtered/jfp.proto:115
+	jfp+jfn+jex+jes+jeq	.jeq		1:int32:eoeu;2:repeated jmt:eoew	refs/dofus-deobfs/protos/filtered/jfp.proto:120
+	jfp+jfn+jex+jev	.jev		1:int32:eofm;2:jcr:eofn;3:int32:eofo;4:jet:eofp	refs/dofus-deobfs/protos/filtered/jfp.proto:125
+	jfp+jfn+jex+jev+jet	.jet		1:repeated int32:eofh;2:repeated int32:eofi	refs/dofus-deobfs/protos/filtered/jfp.proto:130
+	jfp+jfn+jfl	.jfl		1:jfq:eohz;2:int32:eoia;3:jlb:eoib;4:repeated int32:eoic;5:jfd:eoid;6:jfi:eoie;7:jfj:eoif	refs/dofus-deobfs/protos/filtered/jfp.proto:136
+	jfp+jfn+jfl+jfd	.jfd		1:string:eogq;2:jho:eogr;3:int32:eogs;4:int32:eogt;5:bool:eogu;6:jfa:eogv;7:jfb:eogw	refs/dofus-deobfs/protos/filtered/jfp.proto:146
+	jfp+jfn+jfl+jfd+jfa	.jfa		1:int32:eogf;2:jhz:eogg;3:int32:eogh;4:jcr:eogi	refs/dofus-deobfs/protos/filtered/jfp.proto:156
+	jfp+jfn+jfl+jfd+jfb	.jfb		1:int32:eogm	refs/dofus-deobfs/protos/filtered/jfp.proto:162
+	jfp+jfn+jfl+jfi	.jfi		1:jff:eohn;2:jfg:eoho	refs/dofus-deobfs/protos/filtered/jfp.proto:166
+	jfp+jfn+jfl+jfi+jff	.jff		1:int32:eohb;2:int32:eohc;3:int32:eohd;4:jhz:eohe	refs/dofus-deobfs/protos/filtered/jfp.proto:171
+	jfp+jfn+jfl+jfi+jfg	.jfg		1:int32:eohi;2:int32:eohj	refs/dofus-deobfs/protos/filtered/jfp.proto:177
+	jfp+jfn+jfl+jfj	.jfj		1:int32:eoht;2:int32:eohu;3:int64:eohv	refs/dofus-deobfs/protos/filtered/jfp.proto:182
+	jfq	jfq		1:jdc:eoix;2:bool:eoiy;3:jfp:eoiz	refs/dofus-deobfs/protos/filtered/jfq.proto:5
+	jft	jft		1:string:eojl;2:string:eojm;3:string:eojn;4:jog:eojp;5:jfr:eojq	refs/dofus-deobfs/protos/filtered/jft.proto:5
+	jft+jfr	.jfr		1:int64:eojd;2:int32:eoje;3:int32:eojf;4:int32:eojg;5:jof:eojh	refs/dofus-deobfs/protos/filtered/jft.proto:11
+	jfw	jfw		1:int32:eokc;2:int32:eokd;3:repeated jmu:eoke;4:int64:eokf;5:int32:eokg;6:int32:eokh;7:repeated jmu:eoki;8:jfu:eokj	refs/dofus-deobfs/protos/filtered/jfw.proto:5
+	jfw+jfu	.jfu		1:repeated jfz:eoju;2:int32:eojv;3:int32:eojw;4:int32:eojx	refs/dofus-deobfs/protos/filtered/jfw.proto:14
+	jfz	jfz		1:int32:eokn;2:repeated jfx:eoko;3:string:eokp;4:int32:eokq;5:int32:eokr	refs/dofus-deobfs/protos/filtered/jfz.proto:3
+	jgc	jgc		1:int32:eokv;2:repeated jgd:eokw;3:int32:eokx;4:int32:eoky;5:jga:eokz	refs/dofus-deobfs/protos/filtered/jgc.proto:4
+	jgd	jgd		1:int64:eold;2:int32:eole;3:repeated int64:eolf	refs/dofus-deobfs/protos/filtered/jgd.proto:3
+	jgz	jgz		1:int64:eool;2:jgx:eoom;3:jhc:eoon	refs/dofus-deobfs/protos/filtered/jgz.proto:15
+	jgz+jgx	.jgx		1:string:eoob;2:int32:eooc;4:jgv:eooe;5:jol:eoof;6:jgk:eoog	refs/dofus-deobfs/protos/filtered/jgz.proto:21
+	jgz+jgx+jgv	.jgv		1:jie:eonq;2:int32:eonr;3:jlg:eons;4:jft:eont;5:int32:eonu;6:jgt:eonw	refs/dofus-deobfs/protos/filtered/jgz.proto:29
+	jgz+jgx+jgv+jgt	.jgt		1:jcr:eoni;2:jgp:eonj;3:jgq:eonk;4:jgr:eonl	refs/dofus-deobfs/protos/filtered/jgz.proto:38
+	jgz+jgx+jgv+jgt+jgp	.jgp		1:jgn:eomm;2:int32:eomn;3:int32:eomo	refs/dofus-deobfs/protos/filtered/jgz.proto:45
+	jgz+jgx+jgv+jgt+jgq	.jgq		1:jhg:eoms;2:int32:eomt;3:jcq:eomu;4:jms:eomv;5:jho:eomw;6:repeated jhf:eomx;7:int32:eomy	refs/dofus-deobfs/protos/filtered/jgz.proto:55
+	jgz+jgx+jgv+jgt+jgr	.jgr		1:jms:eond;2:repeated jhf:eone	refs/dofus-deobfs/protos/filtered/jgz.proto:64
+	jgz+jgx+jgk	.jgk		1:int32:eoly;2:jcr:eolz;3:jcp:eoma;4:int64:eomb;5:int64:eomc;6:jho:eomd;7:int32:eome;8:int64:eomf;9:int32:eomg;10:jgi:eomi	refs/dofus-deobfs/protos/filtered/jgz.proto:70
+	jgz+jgx+jgk+jgi	.jgi		1:int64:eolo;2:int32:eolp;3:jcq:eolq;4:int32:eolr;5:int32:eols;6:bool:eolt;7:jgg:eolu	refs/dofus-deobfs/protos/filtered/jgz.proto:81
+	jgz+jgx+jgk+jgi+jgg	.jgg		1:string:eolj;2:int64:eolk	refs/dofus-deobfs/protos/filtered/jgz.proto:89
+	jhc	jhc		1:string:eoox;2:int32:eooy;3:jcr:eooz;4:repeated int32:eopa;5:int32:eopb;6:jha:eopc	refs/dofus-deobfs/protos/filtered/jhc.proto:4
+	jhc+jha	.jha		1:int32:eoos;2:int32:eoot	refs/dofus-deobfs/protos/filtered/jhc.proto:11
+	jhf	jhf		1:int32:eopl;2:int32:eopm;3:jie:eopn;4:jhd:eopo	refs/dofus-deobfs/protos/filtered/jhf.proto:5
+	jhf+jhd	.jhd		1:int32:eopg;2:jhg:eoph	refs/dofus-deobfs/protos/filtered/jhf.proto:10
+	jhg	jhg		1:int32:eops;2:int32:eopt;3:int32:eopu;4:int32:eopv	refs/dofus-deobfs/protos/filtered/jhg.proto:3
+	jhi	jhi		1:int32:eopz;2:jhj:eoqa;3:jhk:eoqb;4:jhl:eoqc	refs/dofus-deobfs/protos/filtered/jhi.proto:6
+	jhj	jhj		1:int64:eoqh	refs/dofus-deobfs/protos/filtered/jhj.proto:3
+	jhk	jhk		1:int32:eoql;2:int32:eoqm;3:int32:eoqn;4:int32:eoqo;5:int32:eoqp;6:int32:eoqq	refs/dofus-deobfs/protos/filtered/jhk.proto:3
+	jhl	jhl		1:int32:eoqu;2:int32:eoqv;3:int32:eoqw;4:int32:eoqx;5:int32:eoqy;6:int32:eoqz;7:int32:eora	refs/dofus-deobfs/protos/filtered/jhl.proto:3
+	jhm	jhm		1:int64:eore;2:string:eorf;3:int32:eorg;4:jcr:eorh;5:int32:eori;6:int64:eorj;7:string:eork;8:string:eorl;9:jho:eorm	refs/dofus-deobfs/protos/filtered/jhm.proto:5
+	jho	jho		1:Status:eorq;2:string:eorr	refs/dofus-deobfs/protos/filtered/jho.proto:3
+	jht	jht		1:jhq:eosf;2:jhr:eosg	refs/dofus-deobfs/protos/filtered/jht.proto:3
+	jht+jhq	.jhq		1:string:eorw	refs/dofus-deobfs/protos/filtered/jht.proto:8
+	jht+jhr	.jhr		1:string:eosa;2:string:eosb	refs/dofus-deobfs/protos/filtered/jht.proto:11
+	jhu	jhu		1:jgz:eosl;2:int32:eosm	refs/dofus-deobfs/protos/filtered/jhu.proto:4
+	jhv	jhv		1:jhm:eosq;2:string:eosr;3:int64:eoss	refs/dofus-deobfs/protos/filtered/jhv.proto:4
+	jhw	jhw		1:int64:eosw;2:int64:eosx;3:int64:eosy;4:int64:eosz;5:int64:eota;6:jhz:eotb;7:int32:eotc;8:repeated jhi:eotd;9:repeated jph:eote;10:int64:eotf	refs/dofus-deobfs/protos/filtered/jhw.proto:6
+	jhz	jhz		1:jcq:eotq;2:int32:eotr;3:int32:eots;4:int64:eott;5:int64:eotu;6:jhx:eotv	refs/dofus-deobfs/protos/filtered/jhz.proto:5
+	jhz+jhx	.jhx		1:int32:eotj;2:int32:eotk;3:int32:eotl;4:jct:eotm	refs/dofus-deobfs/protos/filtered/jhz.proto:12
+	jic	jic		1:int32:eoug;2:int32:eouh;3:repeated jia:eoui;4:repeated jia:eouj;5:bool:eouk;6:int32:eoul	refs/dofus-deobfs/protos/filtered/jic.proto:3
+	jic+jia	.jia		1:int32:eotz;2:int32:eoua;3:int32:eoub	refs/dofus-deobfs/protos/filtered/jic.proto:10
+	jid	jid		1:int32:eouq;2:int32:eour;3:int32:eous;4:bool:eout	refs/dofus-deobfs/protos/filtered/jid.proto:3
+	jie	jie		1:int32:eoux;2:repeated int32:eouy;3:repeated int32:eouz;4:repeated int32:eova;5:repeated jih:eovb	refs/dofus-deobfs/protos/filtered/jie.proto:4
+	jih	jih		1:jif:eovf;2:int32:eovg;3:jie:eovh	refs/dofus-deobfs/protos/filtered/jih.proto:4
+	jii	jii		1:int64:eovl;2:int32:eovn;3:jdf:eovp;4:int64:eovq	refs/dofus-deobfs/protos/filtered/jii.proto:4
+	jij	jij		1:jdc:eovv;2:string:eovw	refs/dofus-deobfs/protos/filtered/jij.proto:4
+	jim	jim		1:int32:eowa;2:jik:eowb;3:int64:eowc	refs/dofus-deobfs/protos/filtered/jim.proto:3
+	jin	jin		1:jim:eowg;2:repeated jgz:eowh;3:repeated jgz:eowi;4:jiq:eowj	refs/dofus-deobfs/protos/filtered/jin.proto:6
+	jiq	jiq		1:jio:eown;2:int64:eowo	refs/dofus-deobfs/protos/filtered/jiq.proto:3
+	jir	jir		1:bool:eows;2:bool:eowt;3:bool:eowu;4:bool:eowv	refs/dofus-deobfs/protos/filtered/jir.proto:3
+	jit	jit		1:int64:eowz;2:int32:eoxa;3:int32:eoxb;4:int32:eoxc;5:jcr:eoxd;6:bool:eoxe;7:jiu:eoxf;8:jiv:eoxg;9:jiw:eoxh;10:jix:eoxi	refs/dofus-deobfs/protos/filtered/jit.proto:8
+	jiu	jiu		1:int32:eoxn	refs/dofus-deobfs/protos/filtered/jiu.proto:3
+	jiv	jiv		1:int32:eoxr;2:int64:eoxs	refs/dofus-deobfs/protos/filtered/jiv.proto:3
+	jiw	jiw		1:int32:eoxw;2:int32:eoxx	refs/dofus-deobfs/protos/filtered/jiw.proto:3
+	jix	jix		1:string:eoyb	refs/dofus-deobfs/protos/filtered/jix.proto:3
+	jiy	jiy		1:int32:eoyf;2:jcx:eoyg;3:repeated jja:eoyh;4:repeated int32:eoyi;5:repeated jir:eoyj	refs/dofus-deobfs/protos/filtered/jiy.proto:6
+	jja	jja		1:jdc:eoyn;2:int64:eoyo;3:jcq:eoyp;4:jcy:eoyq;5:int32:eoyr;6:jjf:eoys;7:jje:eoyt	refs/dofus-deobfs/protos/filtered/jja.proto:8
+	jjd	jjd		1:int32:eozd;2:jcx:eoze;3:int64:eozf;4:bool:eozg;5:repeated jjb:eozh	refs/dofus-deobfs/protos/filtered/jjd.proto:6
+	jjd+jjb	.jjb		1:jja:eoyy;2:jir:eoyz	refs/dofus-deobfs/protos/filtered/jjd.proto:12
+	jje	jje		1:int32:eozl;2:int32:eozm;3:bool:eozn;4:bool:eozo;5:bool:eozp;6:bool:eozq;7:bool:eozr	refs/dofus-deobfs/protos/filtered/jje.proto:3
+	jjf	jjf		1:repeated jjh:eozv;2:jcm:eozw	refs/dofus-deobfs/protos/filtered/jjf.proto:5
+	jjh	jjh		1:int64:epab;2:jjk:epac;3:jjl:epad;4:jjm:epae;5:jjn:epaf	refs/dofus-deobfs/protos/filtered/jjh.proto:7
+	jjk	jjk		1:string:epap;2:int32:epaq;3:jji:epar	refs/dofus-deobfs/protos/filtered/jjk.proto:3
+	jjk+jji	.jji		1:string:epak;2:string:epal	refs/dofus-deobfs/protos/filtered/jjk.proto:7
+	jjl	jjl		1:int32:epav;2:int32:epaw;3:int64:epax	refs/dofus-deobfs/protos/filtered/jjl.proto:3
+	jjm	jjm		1:int32:epbb;2:int32:epbc	refs/dofus-deobfs/protos/filtered/jjm.proto:3
+	jjn	jjn		1:int32:epbg;2:int32:epbh;3:int32:epbi;4:string:epbj	refs/dofus-deobfs/protos/filtered/jjn.proto:3
+	jjo	jjo		1:repeated int32:epbn;2:repeated int32:epbo	refs/dofus-deobfs/protos/filtered/jjo.proto:3
+	jjp	jjp		1:int32:epbs;2:int64:epbt;3:jjt:epbu	refs/dofus-deobfs/protos/filtered/jjp.proto:4
+	jjt	jjt		1:int32:epby;2:int64:epbz;3:int32:epca;4:jjr:epcb;5:int32:epcc;6:int32:epcd;7:int32:epce;8:jjx:epcf;9:jjy:epcg;10:jjz:epch	refs/dofus-deobfs/protos/filtered/jjt.proto:6
+	jjx	jjx		1:int32:epcs;2:int32:epct;3:int32:epcv;4:int32:epcx;5:jjv:epcz	refs/dofus-deobfs/protos/filtered/jjx.proto:3
+	jjx+jjv	.jjv		1:int32:epcm;2:int32:epcn;3:int32:epco	refs/dofus-deobfs/protos/filtered/jjx.proto:11
+	jjy	jjy		1:int32:epde	refs/dofus-deobfs/protos/filtered/jjy.proto:3
+	jjz	jjz		1:int32:epdi;2:int32:epdj;3:int32:epdk;4:int32:epdl	refs/dofus-deobfs/protos/filtered/jjz.proto:3
+	jkf	jkf		1:int64:epdw;2:jdc:epdx;3:int32:epdy;4:int32:epdz;5:int32:epea;6:jka:epeb;7:int32:epec;8:repeated jkd:eped;9:bool:epee	refs/dofus-deobfs/protos/filtered/jkf.proto:4
+	jkf+jkd	.jkd		1:int32:epdp;2:int32:epdq;3:int32:epdr;4:jkb:epds	refs/dofus-deobfs/protos/filtered/jkf.proto:21
+	jkg	jkg		1:int32:epei;2:int64:epej;3:int32:epek	refs/dofus-deobfs/protos/filtered/jkg.proto:3
+	jkh	jkh		1:int32:epeo;2:int32:epep	refs/dofus-deobfs/protos/filtered/jkh.proto:3
+	jki	jki		1:int64:epet;2:repeated jkh:epeu;3:int32:epev;4:int32:epew	refs/dofus-deobfs/protos/filtered/jki.proto:4
+	jkz	jkz		1:jda:ephl;2:int32:ephm;3:jkl:ephn;4:jkx:epho	refs/dofus-deobfs/protos/filtered/jkz.proto:5
+	jkz+jkl	.jkl		1:repeated jkj:epfg;2:int64:epfh	refs/dofus-deobfs/protos/filtered/jkz.proto:10
+	jkz+jkl+jkj	.jkj		1:int32:epfa;2:int32:epfb;3:int32:epfc	refs/dofus-deobfs/protos/filtered/jkz.proto:13
+	jkz+jkx	.jkx		1:int64:ephc;2:bool:ephd;3:jkt:ephe;4:jku:ephf;5:jkv:ephg	refs/dofus-deobfs/protos/filtered/jkz.proto:19
+	jkz+jkx+jkt	.jkt		1:int32:epgp;2:repeated jkr:epgq	refs/dofus-deobfs/protos/filtered/jkz.proto:27
+	jkz+jkx+jkt+jkr	.jkr		1:jko:epgj;2:jkp:epgk	refs/dofus-deobfs/protos/filtered/jkz.proto:30
+	jkz+jkx+jkt+jkr+jko	.jko		1:int64:epfl;2:bool:epfm;3:int64:epfn;4:bool:epfo;5:int64:epfp;6:bool:epfq;7:int64:epfr;8:bool:epfs;9:int64:epft;10:bool:epfu;11:int64:epfv;12:bool:epfw;13:int32:epfx	refs/dofus-deobfs/protos/filtered/jkz.proto:35
+	jkz+jkx+jkt+jkr+jkp	.jkp		1:int32:epgb;2:int32:epgc;3:int32:epgd;4:int32:epge;5:int32:epgf	refs/dofus-deobfs/protos/filtered/jkz.proto:50
+	jkz+jkx+jku	.jku		1:int32:epgu	refs/dofus-deobfs/protos/filtered/jkz.proto:59
+	jkz+jkx+jkv	.jkv		1:jft:epgy	refs/dofus-deobfs/protos/filtered/jkz.proto:62
+	jla	jla		1:jij:ephs;2:jda:epht	refs/dofus-deobfs/protos/filtered/jla.proto:5
+	jlb	jlb		1:repeated jhi:ephx;2:int64:ephy;3:bool:ephz;4:jdb:epia	refs/dofus-deobfs/protos/filtered/jlb.proto:5
+	jlg	jlg		1:int32:epit;2:string:epiu;3:int32:epiv;4:jle:epiw	refs/dofus-deobfs/protos/filtered/jlg.proto:5
+	jlg+jle	.jle		1:jog:epio;2:jlc:epip	refs/dofus-deobfs/protos/filtered/jlg.proto:10
+	jlg+jle+jlc	.jlc		1:int64:epie;2:int32:epif;3:int32:epig;4:jlh:epih;5:int32:epii;6:string:epij	refs/dofus-deobfs/protos/filtered/jlg.proto:13
+	jlh	jlh		1:int32:epja;2:jdi:epjb;3:string:epjc;4:string:epjd;5:repeated int32:epje;6:repeated int32:epjf;7:int32:epjg;8:bool:epjh;9:bool:epji;10:string:epjj;11:int64:epjk;12:bool:epjl;13:int32:epjm;14:bool:epjn	refs/dofus-deobfs/protos/filtered/jlh.proto:4
+	jlz	jlz		1:int32:eplj;2:int64:eplk;3:jll:epll;4:jlo:eplm;5:jlr:epln;6:jls:eplo;7:jlt:eplp;8:jlw:eplq;9:jlx:eplr	refs/dofus-deobfs/protos/filtered/jlz.proto:6
+	jlz+jll	.jll		1:int64:epjr;2:string:epjs;3:jlj:epjt;4:int32:epju;5:jnf:epjv;6:int32:epjw;7:int32:epjx	refs/dofus-deobfs/protos/filtered/jlz.proto:18
+	jlz+jlo	.jlo		1:int64:epkb;2:string:epkc;3:jms:epkd;4:int64:epke;5:jlm:epkf	refs/dofus-deobfs/protos/filtered/jlz.proto:32
+	jlz+jlr	.jlr		1:int64:epkj;2:string:epkk;3:jlp:epkl	refs/dofus-deobfs/protos/filtered/jlz.proto:44
+	jlz+jls	.jls		1:int32:epkp	refs/dofus-deobfs/protos/filtered/jlz.proto:54
+	jlz+jlt	.jlt			refs/dofus-deobfs/protos/filtered/jlz.proto:57
+	jlz+jlw	.jlw		1:jlu:epkw;2:jol:epkx	refs/dofus-deobfs/protos/filtered/jlz.proto:59
+	jlz+jlx	.jlx		1:jol:eplb;2:int64:eplc;3:int64:epld;4:string:eple;5:string:eplf	refs/dofus-deobfs/protos/filtered/jlz.proto:68
+	jma	jma		1:int32:eplw;2:bool:eplx;3:bool:eply;4:jdt:eplz;5:bool:epma;6:int64:epmb;7:bool:epmd;8:bool:epme;9:jlg:epmf;10:int32:epmg;11:int32:epmh;12:repeated int32:epmi	refs/dofus-deobfs/protos/filtered/jma.proto:5
+	jmh	jmh		1:int32:epni;2:int32:epnj;3:jmc:epnk;4:jmd:epnl;5:jme:epnm;6:jmf:epnn	refs/dofus-deobfs/protos/filtered/jmh.proto:6
+	jmh+jmc	.jmc		1:jma:epmm;2:jms:epmn	refs/dofus-deobfs/protos/filtered/jmh.proto:15
+	jmh+jmd	.jmd		1:repeated int32:epmr;2:repeated jma:epms	refs/dofus-deobfs/protos/filtered/jmh.proto:19
+	jmh+jme	.jme		1:jma:epmw;2:jmr:epmx	refs/dofus-deobfs/protos/filtered/jmh.proto:23
+	jmh+jmf	.jmf		1:jma:epnb;2:jms:epnc;3:repeated int32:epnd;4:int64:epne	refs/dofus-deobfs/protos/filtered/jmh.proto:27
+	jmj	jmj		1:int32:epns;2:jmk:epnt;3:jmq:epnu;4:jml:epnv;5:jmm:epnw;6:jmn:epnx;7:jmo:epny;8:jmp:epnz	refs/dofus-deobfs/protos/filtered/jmj.proto:10
+	jmk	jmk		1:int32:epoe;2:int32:epof	refs/dofus-deobfs/protos/filtered/jmk.proto:3
+	jml	jml		1:int32:epoj	refs/dofus-deobfs/protos/filtered/jml.proto:3
+	jmm	jmm		1:int32:epon	refs/dofus-deobfs/protos/filtered/jmm.proto:3
+	jmn	jmn		1:int32:epor	refs/dofus-deobfs/protos/filtered/jmn.proto:3
+	jmo	jmo		1:int32:epov;2:int32:epow;3:bool:epoy	refs/dofus-deobfs/protos/filtered/jmo.proto:3
+	jmp	jmp		1:string:eppc	refs/dofus-deobfs/protos/filtered/jmp.proto:3
+	jmq	jmq		1:string:eppg;2:jde:epph	refs/dofus-deobfs/protos/filtered/jmq.proto:4
+	jmr	jmr		1:int32:eppl;2:int32:eppm	refs/dofus-deobfs/protos/filtered/jmr.proto:3
+	jms	jms		1:int32:eppq;2:int32:eppr;3:int64:epps;4:int32:eppt	refs/dofus-deobfs/protos/filtered/jms.proto:3
+	jmt	jmt		1:jmu:eppx;2:repeated jmu:eppy;3:repeated jmv:eppz	refs/dofus-deobfs/protos/filtered/jmt.proto:5
+	jmu	jmu		1:int32:epqd;2:int32:epqe;3:int32:epqf;4:jie:epqg	refs/dofus-deobfs/protos/filtered/jmu.proto:4
+	jmv	jmv		1:int32:epqk;2:repeated jmu:epql	refs/dofus-deobfs/protos/filtered/jmv.proto:4
+	jmz	jmz		1:int32:epqu;2:repeated jnn:epqv;3:int32:epqw;4:jmx:epqy	refs/dofus-deobfs/protos/filtered/jmz.proto:4
+	jmz+jmx	.jmx		1:int64:epqp;2:string:epqq	refs/dofus-deobfs/protos/filtered/jmz.proto:11
+	jnc	jnc		1:int32:eprj;2:int32:eprk;3:jna:eprl	refs/dofus-deobfs/protos/filtered/jnc.proto:4
+	jnc+jna	.jna		1:int64:eprd;2:repeated jnn:epre;3:int64:eprf	refs/dofus-deobfs/protos/filtered/jnc.proto:8
+	jnd	jnd		1:int32:eprp;2:int32:eprq	refs/dofus-deobfs/protos/filtered/jnd.proto:3
+	jne	jne		1:int32:epru;2:jnf:eprv;3:bool:eprw;4:repeated string:eprx	refs/dofus-deobfs/protos/filtered/jne.proto:4
+	jnf	jnf		1:int32:epsb;2:int32:epsc;3:int64:epsd;4:repeated jnn:epse	refs/dofus-deobfs/protos/filtered/jnf.proto:4
+	jnn	jnn		1:int32:eptx;2:string:epty;3:int32:epua;4:jni:epuc;5:jnj:epud;6:jnh:epue;7:int64:epuf;8:int32:epuh;9:jnk:epuj;10:jnl:epuk	refs/dofus-deobfs/protos/filtered/jnn.proto:4
+	jnn+jni	.jni		1:int32:epsq;2:int32:epsr	refs/dofus-deobfs/protos/filtered/jnn.proto:17
+	jnn+jnj	.jnj		1:int64:epsv;2:int32:epsw;3:int32:epsx	refs/dofus-deobfs/protos/filtered/jnn.proto:21
+	jnn+jnh	.jnh		1:int32:epsi;2:int32:epsj;3:int32:epsk;4:int32:epsl;5:int32:epsm	refs/dofus-deobfs/protos/filtered/jnn.proto:26
+	jnn+jnk	.jnk		1:int32:eptb;2:int32:eptc	refs/dofus-deobfs/protos/filtered/jnn.proto:33
+	jnn+jnl	.jnl		1:int64:eptg;2:string:epth;3:int32:epti;4:string:eptj;5:string:eptk;6:int32:eptl;7:jcr:eptm;8:bool:eptn;9:bool:epto;10:bool:eptp;11:int32:eptq;12:int32:eptr;13:repeated jnn:epts;14:repeated int32:eptt	refs/dofus-deobfs/protos/filtered/jnn.proto:37
+	jns	jns		1:int32:epva;2:int32:epvb;3:jnp:epvc;4:jnq:epvd	refs/dofus-deobfs/protos/filtered/jns.proto:5
+	jns+jnp	.jnp		1:jie:epup;2:jdf:epuq	refs/dofus-deobfs/protos/filtered/jns.proto:12
+	jns+jnq	.jnq		1:int32:epuv;2:int32:epuw	refs/dofus-deobfs/protos/filtered/jns.proto:16
+	jnt	jnt		1:int32:epvi;2:string:epvj;3:string:epvk;4:string:epvl;5:string:epvm;6:repeated jmz:epvn	refs/dofus-deobfs/protos/filtered/jnt.proto:4
+	jnu	jnu		1:int32:epvr;2:int32:epvs	refs/dofus-deobfs/protos/filtered/jnu.proto:3
+	jnx	jnx		1:jnv:epvw;2:int64:epvx;3:int64:epvy;4:int32:epvz;5:int64:epwa;6:jft:epwb;7:job:epwc;8:joe:epwd;9:int32:epwe	refs/dofus-deobfs/protos/filtered/jnx.proto:6
+	jny	jny		1:int32:epwj;2:string:epwk;3:jmr:epwl;4:int64:epwm;5:jnx:epwn	refs/dofus-deobfs/protos/filtered/jny.proto:5
+	job	job		1:jne:epwr;2:jnz:epws	refs/dofus-deobfs/protos/filtered/job.proto:4
+	joe	joe		1:jne:epww;2:joc:epwx	refs/dofus-deobfs/protos/filtered/joe.proto:4
+	jof	jof		1:string:epxb;2:jdi:epxc;3:string:epxd;4:string:epxe;5:repeated int32:epxf;6:repeated int32:epxg;7:int32:epxh;8:bool:epxi;9:bool:epxj;10:string:epxk;11:int64:epxl;12:bool:epxm	refs/dofus-deobfs/protos/filtered/jof.proto:4
+	jog	jog		1:int32:epxq;2:int32:epxr;3:int32:epxs;4:int32:epxt	refs/dofus-deobfs/protos/filtered/jog.proto:3
+	joh	joh		1:string:epxx;2:int64:epxy;3:int64:epxz;4:string:epya	refs/dofus-deobfs/protos/filtered/joh.proto:3
+	jol	jol		1:int32:epyo;2:string:epyp;3:joi:epyq;4:joj:epyr	refs/dofus-deobfs/protos/filtered/jol.proto:3
+	jol+joi	.joi		1:int32:epye;2:int32:epyf	refs/dofus-deobfs/protos/filtered/jol.proto:8
+	jol+joj	.joj		1:bool:epyj;2:repeated int32:epyk	refs/dofus-deobfs/protos/filtered/jol.proto:12
+	jom	jom		1:string:epyv;2:int32:epyw;3:int32:epyx;4:jft:epyy;5:int64:epyz;6:string:epza;7:int64:epzb;8:jmr:epzc;9:int32:epzd;10:int64:epze;11:jdo:epzf;12:jie:epzg;13:repeated jop:epzh;14:repeated jhi:epzi;15:repeated jne:epzj;16:repeated jos:epzk	refs/dofus-deobfs/protos/filtered/jom.proto:11
+	jon	jon		1:string:epzo;2:int32:epzp;3:int32:epzq;4:jft:epzr;5:int64:epzs	refs/dofus-deobfs/protos/filtered/jon.proto:4
+	jop	jop		1:joq:epzw;2:jor:epzx	refs/dofus-deobfs/protos/filtered/jop.proto:5
+	joq	joq		1:int32:eqac;2:int64:eqad	refs/dofus-deobfs/protos/filtered/joq.proto:3
+	jor	jor		1:int64:eqah;2:int64:eqai;3:int32:eqaj	refs/dofus-deobfs/protos/filtered/jor.proto:3
+	jos	jos		1:int32:eqan;2:int32:eqao	refs/dofus-deobfs/protos/filtered/jos.proto:3
+	jot	jot		1:string:eqas;2:repeated jos:eqat;3:repeated jhi:eqau	refs/dofus-deobfs/protos/filtered/jot.proto:5
+	jou	jou		1:int64:eqay;2:int32:eqaz;3:repeated int32:eqba;4:repeated int32:eqbb;5:string:eqbc;6:jcr:eqbd;7:int64:eqbe;8:int64:eqbf;9:int64:eqbg;10:int64:eqbh;11:int32:eqbj;12:bool:eqbk;13:int32:eqbl;14:bool:eqbm;15:int32:eqbn;16:int32:eqbo;17:int32:eqbp;18:int32:eqbq;19:int32:eqbr;20:int32:eqbs;21:int32:eqbt;22:int32:eqbu;23:int32:eqbv;24:int32:eqbw;25:int32:eqbx;26:int32:eqby;27:bool:eqbz;28:int32:eqca;29:int64:eqcb;30:int32:eqcc;31:int64:eqcd;32:int32:eqce;33:bool:eqcf;34:repeated jnn:eqcg	refs/dofus-deobfs/protos/filtered/jou.proto:5
+	jpf	jpf		1:int32:eqdm;2:int32:eqdn;3:joy:eqdo;4:jpd:eqdp	refs/dofus-deobfs/protos/filtered/jpf.proto:5
+	jpf+joy	.joy		1:int64:eqcq;2:jms:eqcr;3:bool:eqcs;4:repeated jow:eqct	refs/dofus-deobfs/protos/filtered/jpf.proto:12
+	jpf+joy+jow	.jow		1:int32:eqck;2:string:eqcl;3:string:eqcm	refs/dofus-deobfs/protos/filtered/jpf.proto:17
+	jpf+jpd	.jpd		1:repeated jpb:eqdi	refs/dofus-deobfs/protos/filtered/jpf.proto:23
+	jpf+jpd+jpb	.jpb		1:int64:eqdc;2:bool:eqdd;3:joz:eqde	refs/dofus-deobfs/protos/filtered/jpf.proto:25
+	jpf+jpd+jpb+joz	.joz		1:bool:eqcx;2:jlg:eqcy	refs/dofus-deobfs/protos/filtered/jpf.proto:29
+	jpg	jpg		1:int32:eqdu;2:int32:eqdv;3:bool:eqdw	refs/dofus-deobfs/protos/filtered/jpg.proto:3
+	jph	jph		1:int32:eqeb;2:jdq:eqec;3:jdr:eqed;4:int32:eqee;5:int32:eqef	refs/dofus-deobfs/protos/filtered/jph.proto:5
+	jpi	jpi		1:string:eqej	refs/dofus-deobfs/protos/filtered/jpi.proto:3
+	jpj	jpj		1:int32:eqen	refs/dofus-deobfs/protos/filtered/jpj.proto:3
+	jpl	jpl			refs/dofus-deobfs/protos/filtered/jpl.proto:3
+	jpm	jpm		1:bool:eqev	refs/dofus-deobfs/protos/filtered/jpm.proto:3
+	jpn	jpn		1:bool:eqez;2:jht:eqfa	refs/dofus-deobfs/protos/filtered/jpn.proto:4
+	jpo	jpo		1:int64:eqfe	refs/dofus-deobfs/protos/filtered/jpo.proto:3
+	jpp	jpp		1:int32:eqfi	refs/dofus-deobfs/protos/filtered/jpp.proto:3
+	jpq	jpq		1:int32:eqfm	refs/dofus-deobfs/protos/filtered/jpq.proto:3
+	jpr	jpr		1:int32:eqfq;2:int32:eqfr;3:int32:eqfs	refs/dofus-deobfs/protos/filtered/jpr.proto:3
+	jps	jps		1:int64:eqfw;2:int32:eqfx	refs/dofus-deobfs/protos/filtered/jps.proto:3
+	jpt	jpt		1:int32:eqgb	refs/dofus-deobfs/protos/filtered/jpt.proto:3
+	jpu	jpu		1:bool:eqgf;2:int32:eqgg;3:repeated string:eqgh	refs/dofus-deobfs/protos/filtered/jpu.proto:3
+	jpx	jpx		1:jpv:eqgl;2:int32:eqgm;3:repeated string:eqgn	refs/dofus-deobfs/protos/filtered/jpx.proto:3
+	jpy	jpy		1:bool:eqgr;2:jcs:eqgs;3:string:eqgt;4:string:eqgu;5:int64:eqgv;6:string:eqgw;7:int64:eqgx;8:int32:eqgy;9:int32:eqgz;10:int32:eqha;11:jlg:eqhb;12:jft:eqhc;13:bool:eqhd;14:jcp:eqhe	refs/dofus-deobfs/protos/filtered/jpy.proto:7
+	jpz	jpz			refs/dofus-deobfs/protos/filtered/jpz.proto:3
+	jqa	jqa		1:int64:eqhl;2:int64:eqhm	refs/dofus-deobfs/protos/filtered/jqa.proto:3
+	jqb	jqb			refs/dofus-deobfs/protos/filtered/jqb.proto:3
+	jqc	jqc			refs/dofus-deobfs/protos/filtered/jqc.proto:3
+	jqf	jqf		1:int64:eqhx;2:int64:eqhy	refs/dofus-deobfs/protos/filtered/jqf.proto:3
+	jqg	jqg			refs/dofus-deobfs/protos/filtered/jqg.proto:3
+	jqh	jqh		1:repeated jqf:eqif	refs/dofus-deobfs/protos/filtered/jqh.proto:4
+	jqi	jqi			refs/dofus-deobfs/protos/filtered/jqi.proto:3
+	jql	jql		1:int64:eqim;2:jqj:eqin	refs/dofus-deobfs/protos/filtered/jql.proto:3
+	jqm	jqm		1:int64:eqir;2:int64:eqis;3:int32:eqit;4:jqe:eqiu	refs/dofus-deobfs/protos/filtered/jqm.proto:4
+	jqn	jqn		1:int64:eqiy;2:int64:eqiz;3:int32:eqja;4:jqe:eqjb;5:string:eqjc	refs/dofus-deobfs/protos/filtered/jqn.proto:4
+	jqo	jqo		1:string:eqjg	refs/dofus-deobfs/protos/filtered/jqo.proto:3
+	jqr	jqr		1:jqe:eqjk;2:jqp:eqjl	refs/dofus-deobfs/protos/filtered/jqr.proto:4
+	jqs	jqs		1:jqr:eqjp;2:int64:eqjq;3:string:eqjr	refs/dofus-deobfs/protos/filtered/jqs.proto:4
+	jqt	jqt			refs/dofus-deobfs/protos/filtered/jqt.proto:3
+	jqu	jqu		1:string:eqjy	refs/dofus-deobfs/protos/filtered/jqu.proto:3
+	jqv	jqv			refs/dofus-deobfs/protos/filtered/jqv.proto:3
+	jqw	jqw		1:string:eqkf	refs/dofus-deobfs/protos/filtered/jqw.proto:3
+	jqz	jqz		1:jqy:eqkk	refs/dofus-deobfs/protos/filtered/jqz.proto:4
+	jrd	jrd		1:jqy:eqky;2:jmr:eqkz;3:PartyMember:eqla;4:jrb:eqlb	refs/dofus-deobfs/protos/filtered/jrd.proto:5
+	jrd+PartyMember	.PartyMember		1:int64:eqko;2:bool:eqkp	refs/dofus-deobfs/protos/filtered/jrd.proto:12
+	jrd+jrb	.jrb		1:int64:eqkt;2:string:eqku	refs/dofus-deobfs/protos/filtered/jrd.proto:16
+	jrg	jrg		1:jrf:eqlh	refs/dofus-deobfs/protos/filtered/jrg.proto:4
+	jrh	jrh			refs/dofus-deobfs/protos/filtered/jrh.proto:3
+	jri	jri		1:bool:eqlo	refs/dofus-deobfs/protos/filtered/jri.proto:3
+	jrj	jrj		1:bool:eqls	refs/dofus-deobfs/protos/filtered/jrj.proto:3
+	jrm	jrm		1:bool:eqlw;2:jrk:eqlx;3:jrf:eqly	refs/dofus-deobfs/protos/filtered/jrm.proto:4
+	jrn	jrn		1:int32:eqmc;2:repeated int64:eqmd;3:int32:eqme	refs/dofus-deobfs/protos/filtered/jrn.proto:3
+	jro	jro		1:int32:eqmi;2:int64:eqmj;3:bool:eqmk	refs/dofus-deobfs/protos/filtered/jro.proto:3
+	jrt	jrt		1:repeated jrr:eqng;2:string:eqnh	refs/dofus-deobfs/protos/filtered/jrt.proto:4
+	jrt+jrr	.jrr		1:jrf:eqmu;2:jrp:eqmv;3:int32:eqmw;4:int32:eqmx;5:int32:eqmy;6:int32:eqmz;7:int32:eqna;8:int32:eqnb;9:int32:eqnc	refs/dofus-deobfs/protos/filtered/jrt.proto:7
+	jrt+jrr+jrp	.jrp		1:int32:eqmo;2:int32:eqmp;3:int32:eqmq	refs/dofus-deobfs/protos/filtered/jrt.proto:17
+	jru	jru		1:string:eqnl;2:repeated int32:eqnm;3:string:eqnn	refs/dofus-deobfs/protos/filtered/jru.proto:3
+	jrv	jrv		1:int32:eqnr;2:int32:eqns;3:int32:eqnt;4:bool:eqnu	refs/dofus-deobfs/protos/filtered/jrv.proto:3
+	jrw	jrw		1:repeated string:eqny;2:repeated string:eqnz;3:int32:eqoa	refs/dofus-deobfs/protos/filtered/jrw.proto:3
+	jrx	jrx		1:jrf:eqof	refs/dofus-deobfs/protos/filtered/jrx.proto:4
+	jry	jry			refs/dofus-deobfs/protos/filtered/jry.proto:3
+	jrz	jrz		1:bool:eqom	refs/dofus-deobfs/protos/filtered/jrz.proto:3
+	jsa	jsa		1:bool:eqoq;2:bool:eqor	refs/dofus-deobfs/protos/filtered/jsa.proto:3
+	jsb	jsb			refs/dofus-deobfs/protos/filtered/jsb.proto:3
+	jss	jss		1:jsi:eqqt;2:jsq:eqqu;3:bool:eqqv	refs/dofus-deobfs/protos/filtered/jss.proto:3
+	jss+jsi	.jsi		1:jsd:eqpl;2:jse:eqpm;3:jsf:eqpn;4:jsg:eqpo	refs/dofus-deobfs/protos/filtered/jss.proto:7
+	jss+jsi+jsd	.jsd			refs/dofus-deobfs/protos/filtered/jss.proto:14
+	jss+jsi+jse	.jse			refs/dofus-deobfs/protos/filtered/jss.proto:16
+	jss+jsi+jsf	.jsf		1:int32:eqpe	refs/dofus-deobfs/protos/filtered/jss.proto:18
+	jss+jsi+jsg	.jsg			refs/dofus-deobfs/protos/filtered/jss.proto:21
+	jss+jsq	.jsq		1:jsk:eqqk;2:jsl:eqql;3:jsm:eqqm;4:jsn:eqqn;5:jso:eqqo	refs/dofus-deobfs/protos/filtered/jss.proto:24
+	jss+jsq+jsk	.jsk			refs/dofus-deobfs/protos/filtered/jss.proto:32
+	jss+jsq+jsl	.jsl			refs/dofus-deobfs/protos/filtered/jss.proto:34
+	jss+jsq+jsm	.jsm		1:int32:eqpz	refs/dofus-deobfs/protos/filtered/jss.proto:36
+	jss+jsq+jsn	.jsn			refs/dofus-deobfs/protos/filtered/jss.proto:39
+	jss+jsq+jso	.jso		1:string:eqqg	refs/dofus-deobfs/protos/filtered/jss.proto:41
+	jst	jst		1:bool:eqqz	refs/dofus-deobfs/protos/filtered/jst.proto:3
+	jsu	jsu		1:bool:eqrd;2:int32:eqre;3:int32:eqrf;4:int32:eqrg	refs/dofus-deobfs/protos/filtered/jsu.proto:3
+	jsv	jsv			refs/dofus-deobfs/protos/filtered/jsv.proto:3
+	jsw	jsw		1:bool:eqrn	refs/dofus-deobfs/protos/filtered/jsw.proto:3
+	jsx	jsx			refs/dofus-deobfs/protos/filtered/jsx.proto:3
+	jsz	jsz		1:int32:eqrv	refs/dofus-deobfs/protos/filtered/jsz.proto:3
+	jta	jta		1:repeated int32:eqrz	refs/dofus-deobfs/protos/filtered/jta.proto:3
+	jtc	jtc			refs/dofus-deobfs/protos/filtered/jtc.proto:3
+	jtd	jtd		1:jtf:eqsh;2:jtg:eqsi	refs/dofus-deobfs/protos/filtered/jtd.proto:5
+	jte	jte		1:jtf:eqsm;2:jtg:eqsn	refs/dofus-deobfs/protos/filtered/jte.proto:5
+	jtf	jtf		1:int32:eqsr;2:repeated int32:eqss;3:int32:eqst	refs/dofus-deobfs/protos/filtered/jtf.proto:3
+	jtg	jtg		1:int32:eqsx;2:repeated jth:eqsy;3:int32:eqsz	refs/dofus-deobfs/protos/filtered/jtg.proto:4
+	jth	jth		1:repeated int32:eqtd	refs/dofus-deobfs/protos/filtered/jth.proto:3
+	jti	jti		1:int32:eqth	refs/dofus-deobfs/protos/filtered/jti.proto:3
+	jtm	jtm		1:jtk:eqtt;2:Error:eqtu	refs/dofus-deobfs/protos/filtered/jtm.proto:3
+	jtm+jtk	.jtk		1:int32:eqtl;2:int32:eqtm	refs/dofus-deobfs/protos/filtered/jtm.proto:8
+	jtm+Error	.Error			refs/dofus-deobfs/protos/filtered/jtm.proto:12
+	jtn	jtn		1:repeated int32:eqtz	refs/dofus-deobfs/protos/filtered/jtn.proto:3
+	jtr	jtr		1:jtp:equl;2:Error:equm	refs/dofus-deobfs/protos/filtered/jtr.proto:3
+	jtr+jtp	.jtp		1:repeated int32:equd;2:int32:eque	refs/dofus-deobfs/protos/filtered/jtr.proto:8
+	jtr+Error	.Error			refs/dofus-deobfs/protos/filtered/jtr.proto:12
+	jts	jts		1:int32:equr;2:int32:equs	refs/dofus-deobfs/protos/filtered/jts.proto:3
+	jtt	jtt		1:int32:equw;2:int32:equx	refs/dofus-deobfs/protos/filtered/jtt.proto:3
+	jtu	jtu		1:repeated int32:eqvb;2:int32:eqvc	refs/dofus-deobfs/protos/filtered/jtu.proto:3
+	jtv	jtv		1:repeated int32:eqvg;2:int32:eqvh	refs/dofus-deobfs/protos/filtered/jtv.proto:3
+	jtw	jtw		1:jcr:eqvl;2:int32:eqvm;3:repeated int32:eqvn;4:string:eqvo	refs/dofus-deobfs/protos/filtered/jtw.proto:4
+	jtx	jtx		1:string:eqvs;2:jcr:eqvt;3:jie:eqvu	refs/dofus-deobfs/protos/filtered/jtx.proto:5
+	jty	jty		1:int32:eqvy;2:jcr:eqvz;3:repeated int32:eqwa;4:int32:eqwb;5:string:eqwc	refs/dofus-deobfs/protos/filtered/jty.proto:4
+	jtz	jtz		1:string:eqwg;2:int32:eqwh;3:jcr:eqwi;4:jie:eqwj	refs/dofus-deobfs/protos/filtered/jtz.proto:5
+	jua	jua		1:string:eqwn	refs/dofus-deobfs/protos/filtered/jua.proto:3
+	jub	jub		1:string:eqwr;2:izg:eqws	refs/dofus-deobfs/protos/filtered/jub.proto:4
+	jue	jue		1:repeated jnf:eqwx	refs/dofus-deobfs/protos/filtered/jue.proto:4
+	juf	juf		1:int32:eqxb	refs/dofus-deobfs/protos/filtered/juf.proto:3
+	jui	jui		1:jug:eqxf	refs/dofus-deobfs/protos/filtered/jui.proto:3
+	juj	juj		1:int32:eqxj	refs/dofus-deobfs/protos/filtered/juj.proto:3
+	juk	juk		1:bool:eqxn	refs/dofus-deobfs/protos/filtered/juk.proto:3
+	jul	jul		1:jnf:eqxr	refs/dofus-deobfs/protos/filtered/jul.proto:4
+	jum	jum		1:int32:eqxv	refs/dofus-deobfs/protos/filtered/jum.proto:3
+	jun	jun		1:bool:eqya	refs/dofus-deobfs/protos/filtered/jun.proto:3
+	juo	juo		1:int32:eqye	refs/dofus-deobfs/protos/filtered/juo.proto:3
+	jup	jup		1:int32:eqyj	refs/dofus-deobfs/protos/filtered/jup.proto:3
+	juq	juq		1:bool:eqyo	refs/dofus-deobfs/protos/filtered/juq.proto:3
+	jur	jur		1:int32:eqys	refs/dofus-deobfs/protos/filtered/jur.proto:3
+	jus	jus		1:bool:eqyx	refs/dofus-deobfs/protos/filtered/jus.proto:3
+	jut	jut		1:int32:eqzb;2:jud:eqzd;3:int32:eqze	refs/dofus-deobfs/protos/filtered/jut.proto:4
+	juu	juu		1:bool:eqzj	refs/dofus-deobfs/protos/filtered/juu.proto:3
+	juv	juv		1:int32:eqzn;2:int32:eqzo	refs/dofus-deobfs/protos/filtered/juv.proto:3
+	juw	juw		1:bool:eqzt;2:jud:eqzu	refs/dofus-deobfs/protos/filtered/juw.proto:4
+	jux	jux		1:int32:eqzz	refs/dofus-deobfs/protos/filtered/jux.proto:3
+	juy	juy		1:bool:erad	refs/dofus-deobfs/protos/filtered/juy.proto:3
+	juz	juz		1:jth:erah	refs/dofus-deobfs/protos/filtered/juz.proto:4
+	jva	jva		1:bool:eral	refs/dofus-deobfs/protos/filtered/jva.proto:3
+	jvb	jvb		1:string:erap;2:string:eraq;3:int32:erar;4:bool:eras	refs/dofus-deobfs/protos/filtered/jvb.proto:3
+	jvc	jvc		1:bool:eraw	refs/dofus-deobfs/protos/filtered/jvc.proto:3
+	jvd	jvd		1:string:erba;2:int32:erbb;3:int32:erbc;4:jth:erbd	refs/dofus-deobfs/protos/filtered/jvd.proto:4
+	jve	jve		1:string:erbh;2:string:erbi;3:int32:erbj	refs/dofus-deobfs/protos/filtered/jve.proto:3
+	jvf	jvf		1:bool:erbn;2:jvo:erbo	refs/dofus-deobfs/protos/filtered/jvf.proto:4
+	jvg	jvg		1:string:erbs	refs/dofus-deobfs/protos/filtered/jvg.proto:3
+	jvh	jvh		1:bool:erbw	refs/dofus-deobfs/protos/filtered/jvh.proto:3
+	jvi	jvi		1:string:erca	refs/dofus-deobfs/protos/filtered/jvi.proto:3
+	jvj	jvj		1:bool:erce	refs/dofus-deobfs/protos/filtered/jvj.proto:3
+	jvk	jvk		1:jvo:erci;2:repeated jvo:ercj	refs/dofus-deobfs/protos/filtered/jvk.proto:4
+	jvl	jvl		1:string:ercn;2:jie:erco	refs/dofus-deobfs/protos/filtered/jvl.proto:4
+	jvo	jvo		1:string:ercy;2:string:ercz;3:int32:erda;5:int32:erdc;6:int32:erde;7:int32:erdg;8:jie:erdi;9:bool:erdj;10:string:erdk;11:int32:erdl;12:jth:erdm	refs/dofus-deobfs/protos/filtered/jvo.proto:5
+	jvo+jvm	.jvm		1:int32:ercs;2:int32:erct	refs/dofus-deobfs/protos/filtered/jvo.proto:18
+	jvq	jvq			refs/dofus-deobfs/protos/filtered/jvq.proto:3
+	jvt	jvt		1:repeated jvr:ereb	refs/dofus-deobfs/protos/filtered/jvt.proto:3
+	jvt+jvr	.jvr		1:int32:erdu;2:int32:erdv;3:bool:erdw;4:int64:erdx	refs/dofus-deobfs/protos/filtered/jvt.proto:5
+	jvu	jvu		1:int32:eref;2:bool:ereg;3:int64:ereh	refs/dofus-deobfs/protos/filtered/jvu.proto:3
+	jvv	jvv		1:int32:erel	refs/dofus-deobfs/protos/filtered/jvv.proto:3
+	jvx	jvx		1:repeated jwd:ereq	refs/dofus-deobfs/protos/filtered/jvx.proto:4
+	jvy	jvy		1:jwd:ereu	refs/dofus-deobfs/protos/filtered/jvy.proto:4
+	jvz	jvz		1:jwd:erey	refs/dofus-deobfs/protos/filtered/jvz.proto:4
+	jwa	jwa		1:repeated jwd:erfc	refs/dofus-deobfs/protos/filtered/jwa.proto:4
+	jwd	jwd		1:int64:erfg;2:int64:erfh;3:jwb:erfi;4:int64:erfj;5:repeated jnn:erfk	refs/dofus-deobfs/protos/filtered/jwd.proto:4
+	jwf	jwf			refs/dofus-deobfs/protos/filtered/jwf.proto:3
+	jwg	jwg		1:jof:erfs	refs/dofus-deobfs/protos/filtered/jwg.proto:4
+	jwh	jwh		1:jof:erfw	refs/dofus-deobfs/protos/filtered/jwh.proto:4
+	jwi	jwi		1:string:erga	refs/dofus-deobfs/protos/filtered/jwi.proto:3
+	jwj	jwj			refs/dofus-deobfs/protos/filtered/jwj.proto:3
+	jwk	jwk		1:string:ergh;2:string:ergi	refs/dofus-deobfs/protos/filtered/jwk.proto:3
+	jwl	jwl		1:string:ergm;2:string:ergn	refs/dofus-deobfs/protos/filtered/jwl.proto:3
+	jwm	jwm			refs/dofus-deobfs/protos/filtered/jwm.proto:3
+	jwn	jwn		1:bool:ergu	refs/dofus-deobfs/protos/filtered/jwn.proto:3
+	jwo	jwo			refs/dofus-deobfs/protos/filtered/jwo.proto:3
+	jwp	jwp		1:int64:erhb;2:int64:erhc	refs/dofus-deobfs/protos/filtered/jwp.proto:3
+	jwq	jwq		1:int64:erhg;2:bool:erhh	refs/dofus-deobfs/protos/filtered/jwq.proto:3
+	jwr	jwr			refs/dofus-deobfs/protos/filtered/jwr.proto:3
+	jws	jws		1:bool:erho	refs/dofus-deobfs/protos/filtered/jws.proto:3
+	jwt	jwt		1:jft:erhs;2:jhv:erht	refs/dofus-deobfs/protos/filtered/jwt.proto:5
+	jwu	jwu			refs/dofus-deobfs/protos/filtered/jwu.proto:3
+	jwv	jwv		1:bool:eria;2:jft:erib	refs/dofus-deobfs/protos/filtered/jwv.proto:4
+	jww	jww		1:int64:erif;2:int64:erig;3:int64:erih;4:repeated jhv:erii	refs/dofus-deobfs/protos/filtered/jww.proto:4
+	jwx	jwx		1:jhv:erim;2:jdj:erin;3:int64:erio	refs/dofus-deobfs/protos/filtered/jwx.proto:5
+	jwy	jwy		1:string:eris;2:int64:erit	refs/dofus-deobfs/protos/filtered/jwy.proto:3
+	jwz	jwz		1:bool:erix	refs/dofus-deobfs/protos/filtered/jwz.proto:3
+	jxb	jxb		1:int32:erjc;2:int32:erjd;3:string:erje	refs/dofus-deobfs/protos/filtered/jxb.proto:3
+	jxc	jxc		1:repeated jol:erji	refs/dofus-deobfs/protos/filtered/jxc.proto:4
+	jxd	jxd		1:int32:erjm;2:int32:erjn	refs/dofus-deobfs/protos/filtered/jxd.proto:3
+	jxe	jxe		1:jol:erjr	refs/dofus-deobfs/protos/filtered/jxe.proto:4
+	jxf	jxf			refs/dofus-deobfs/protos/filtered/jxf.proto:3
+	jxg	jxg		1:int64:erjy;2:int32:erjz	refs/dofus-deobfs/protos/filtered/jxg.proto:3
+	jxh	jxh		1:repeated jol:erkd	refs/dofus-deobfs/protos/filtered/jxh.proto:4
+	jxi	jxi		1:int32:erkh;2:repeated int32:erki	refs/dofus-deobfs/protos/filtered/jxi.proto:3
+	jxk	jxk		1:int64:erkn	refs/dofus-deobfs/protos/filtered/jxk.proto:3
+	jxl	jxl		1:bool:erkr	refs/dofus-deobfs/protos/filtered/jxl.proto:3
+	jxm	jxm		1:int64:erkv	refs/dofus-deobfs/protos/filtered/jxm.proto:3
+	jxn	jxn		1:string:erkz;2:jft:erla	refs/dofus-deobfs/protos/filtered/jxn.proto:4
+	jxo	jxo		1:string:erle;2:jdn:erlf	refs/dofus-deobfs/protos/filtered/jxo.proto:4
+	jxp	jxp		1:jdn:erlj	refs/dofus-deobfs/protos/filtered/jxp.proto:4
+	jxq	jxq		1:jft:erln;2:int32:erlo	refs/dofus-deobfs/protos/filtered/jxq.proto:4
+	jxr	jxr		1:jft:erls;2:int32:erlt	refs/dofus-deobfs/protos/filtered/jxr.proto:4
+	jxs	jxs		1:bool:erlx;2:int64:erly	refs/dofus-deobfs/protos/filtered/jxs.proto:3
+	jxt	jxt			refs/dofus-deobfs/protos/filtered/jxt.proto:3
+	jxu	jxu		1:jhu:ermf	refs/dofus-deobfs/protos/filtered/jxu.proto:4
+	jxw	jxw		1:string:ermk;2:string:erml;3:jog:ermm	refs/dofus-deobfs/protos/filtered/jxw.proto:4
+	jxx	jxx		1:jog:ermq	refs/dofus-deobfs/protos/filtered/jxx.proto:4
+	jxy	jxy		1:string:ermu;2:string:ermv	refs/dofus-deobfs/protos/filtered/jxy.proto:3
+	jxz	jxz		1:string:ermz;2:string:erna;3:jog:ernb	refs/dofus-deobfs/protos/filtered/jxz.proto:4
+	jya	jya			refs/dofus-deobfs/protos/filtered/jya.proto:3
+	jyb	jyb			refs/dofus-deobfs/protos/filtered/jyb.proto:3
+	jyc	jyc			refs/dofus-deobfs/protos/filtered/jyc.proto:3
+	jyd	jyd		1:bool:erno;2:bool:ernp;3:bool:ernq	refs/dofus-deobfs/protos/filtered/jyd.proto:3
+	jye	jye		1:jdl:ernu	refs/dofus-deobfs/protos/filtered/jye.proto:4
+	jyf	jyf		1:jdl:erny	refs/dofus-deobfs/protos/filtered/jyf.proto:4
+	jyg	jyg			refs/dofus-deobfs/protos/filtered/jyg.proto:3
+	jyh	jyh		1:string:erof	refs/dofus-deobfs/protos/filtered/jyh.proto:3
+	jyl	jyl		1:int64:eroj;2:int64:erok;3:jyi:erol;4:string:erom;5:bool:eron;6:bool:eroo;7:repeated int32:erop;8:jyj:eroq;9:bool:eror;10:repeated int32:eros;11:repeated jdi:erot;12:int32:erou;13:int32:erov	refs/dofus-deobfs/protos/filtered/jyl.proto:4
+	jym	jym		1:jft:eroz;2:repeated jhu:erpa;3:repeated jny:erpb;4:repeated jom:erpc	refs/dofus-deobfs/protos/filtered/jym.proto:7
+	jyn	jyn		1:string:erpg	refs/dofus-deobfs/protos/filtered/jyn.proto:3
+	jyo	jyo		1:jft:erpk;2:repeated jgz:erpl;3:repeated int32:erpm;4:int64:erpn;5:string:erpo	refs/dofus-deobfs/protos/filtered/jyo.proto:5
+	jyp	jyp		1:int64:erps;2:int64:erpt;3:int64:erpu;4:repeated jft:erpv	refs/dofus-deobfs/protos/filtered/jyp.proto:4
+	jyq	jyq		1:string:erpz	refs/dofus-deobfs/protos/filtered/jyq.proto:3
+	jyr	jyr		1:joh:erqd	refs/dofus-deobfs/protos/filtered/jyr.proto:4
+	jys	jys		1:jdm:erqh	refs/dofus-deobfs/protos/filtered/jys.proto:4
+	jyt	jyt		1:string:erql	refs/dofus-deobfs/protos/filtered/jyt.proto:3
+	jyu	jyu		1:joh:erqp	refs/dofus-deobfs/protos/filtered/jyu.proto:4
+	jyv	jyv		1:jdm:erqt	refs/dofus-deobfs/protos/filtered/jyv.proto:4
+	jyx	jyx		1:bool:erqy	refs/dofus-deobfs/protos/filtered/jyx.proto:3
+	jyy	jyy			refs/dofus-deobfs/protos/filtered/jyy.proto:3
+	jyz	jyz			refs/dofus-deobfs/protos/filtered/jyz.proto:3
+	jza	jza		1:jim:erri	refs/dofus-deobfs/protos/filtered/jza.proto:4
+	jzb	jzb		1:jim:errm;2:int64:errn	refs/dofus-deobfs/protos/filtered/jzb.proto:4
+	jzc	jzc		1:jim:errr	refs/dofus-deobfs/protos/filtered/jzc.proto:4
+	jzd	jzd		1:repeated jin:errv	refs/dofus-deobfs/protos/filtered/jzd.proto:4
+	jze	jze		1:jim:errz;2:jiq:ersa	refs/dofus-deobfs/protos/filtered/jze.proto:5
+	jzf	jzf		1:jim:erse	refs/dofus-deobfs/protos/filtered/jzf.proto:4
+	jzg	jzg		1:jim:ersi;2:jiq:ersj	refs/dofus-deobfs/protos/filtered/jzg.proto:5
+	jzh	jzh		1:jim:ersn;2:jgz:erso;3:jdc:ersp	refs/dofus-deobfs/protos/filtered/jzh.proto:6
+	jzi	jzi		1:jim:erst;2:int64:ersu	refs/dofus-deobfs/protos/filtered/jzi.proto:4
+	jzq	jzq		1:repeated jzo:ertr;2:string:erts;3:int64:ertt	refs/dofus-deobfs/protos/filtered/jzq.proto:4
+	jzq+jzo	.jzo		1:jft:ertj;2:int64:ertk;3:repeated jzj:ertl;4:repeated jzm:ertm;5:int32:ertn	refs/dofus-deobfs/protos/filtered/jzq.proto:8
+	jzq+jzo+jzj	.jzj		1:int64:ersy;2:int32:ersz	refs/dofus-deobfs/protos/filtered/jzq.proto:14
+	jzq+jzo+jzm	.jzm		1:jzk:ertd;2:int32:erte;3:int32:ertf	refs/dofus-deobfs/protos/filtered/jzq.proto:18
+	jzr	jzr		1:jft:ertx	refs/dofus-deobfs/protos/filtered/jzr.proto:4
+	jzs	jzs		1:int64:erub;2:int32:eruc	refs/dofus-deobfs/protos/filtered/jzs.proto:3
+	jzt	jzt		1:repeated jzs:erug	refs/dofus-deobfs/protos/filtered/jzt.proto:4
+	jzu	jzu			refs/dofus-deobfs/protos/filtered/jzu.proto:3
+	jzv	jzv			refs/dofus-deobfs/protos/filtered/jzv.proto:3
+	jzw	jzw		1:int32:eruq	refs/dofus-deobfs/protos/filtered/jzw.proto:3
+	jzy	jzy		1:string:eruv;2:bool:eruw	refs/dofus-deobfs/protos/filtered/jzy.proto:3
+	jzz	jzz		1:bool:erva	refs/dofus-deobfs/protos/filtered/jzz.proto:3
+	kac	kac		1:string:erve;2:kaa:ervf	refs/dofus-deobfs/protos/filtered/kac.proto:3
+	kad	kad		1:repeated kae:ervj	refs/dofus-deobfs/protos/filtered/kad.proto:4
+	kae	kae		1:string:ervn;2:string:ervo;3:string:ervp	refs/dofus-deobfs/protos/filtered/kae.proto:3
+	kag	kag		1:int32:ervu	refs/dofus-deobfs/protos/filtered/kag.proto:3
+	kah	kah		1:int32:ervy	refs/dofus-deobfs/protos/filtered/kah.proto:3
+	kai	kai			refs/dofus-deobfs/protos/filtered/kai.proto:3
+	kaj	kaj		1:int32:erwf	refs/dofus-deobfs/protos/filtered/kaj.proto:3
+	kak	kak		1:repeated kay:erwj	refs/dofus-deobfs/protos/filtered/kak.proto:4
+	kal	kal		1:kax:erwn	refs/dofus-deobfs/protos/filtered/kal.proto:4
+	kam	kam		1:repeated kax:erwr	refs/dofus-deobfs/protos/filtered/kam.proto:4
+	kan	kan		1:repeated kax:erwv	refs/dofus-deobfs/protos/filtered/kan.proto:4
+	kao	kao		1:kay:erwz	refs/dofus-deobfs/protos/filtered/kao.proto:4
+	kap	kap		1:kay:erxd;2:string:erxe;3:int64:erxf	refs/dofus-deobfs/protos/filtered/kap.proto:4
+	kaq	kaq		1:int32:erxj;2:bool:erxk	refs/dofus-deobfs/protos/filtered/kaq.proto:3
+	kar	kar			refs/dofus-deobfs/protos/filtered/kar.proto:3
+	kau	kau		1:repeated kas:erxw	refs/dofus-deobfs/protos/filtered/kau.proto:3
+	kau+kas	.kas		1:int32:erxr;2:int32:erxs	refs/dofus-deobfs/protos/filtered/kau.proto:5
+	kax	kax		1:int32:eryh;2:repeated kav:eryi	refs/dofus-deobfs/protos/filtered/kax.proto:3
+	kax+kav	.kav		1:int32:erya;2:int64:eryb;3:int64:eryc	refs/dofus-deobfs/protos/filtered/kax.proto:6
+	kay	kay		1:int32:erym;2:int64:eryn;3:int32:eryo;4:int32:eryq	refs/dofus-deobfs/protos/filtered/kay.proto:3
+	kba	kba		1:int64:eryv	refs/dofus-deobfs/protos/filtered/kba.proto:3
+	kbb	kbb		1:int64:eryz	refs/dofus-deobfs/protos/filtered/kbb.proto:3
+	kbc	kbc		1:int64:erzd;2:bool:erze;3:jcs:erzf;4:bool:erzg	refs/dofus-deobfs/protos/filtered/kbc.proto:4
+	kbd	kbd		1:repeated int32:erzk	refs/dofus-deobfs/protos/filtered/kbd.proto:3
+	kbg	kbg		1:kbe:erzo	refs/dofus-deobfs/protos/filtered/kbg.proto:3
+	kbh	kbh		1:bool:erzs	refs/dofus-deobfs/protos/filtered/kbh.proto:3
+	kbk	kbk		1:kbi:erzw	refs/dofus-deobfs/protos/filtered/kbk.proto:3
+	kbl	kbl		1:bool:esaa	refs/dofus-deobfs/protos/filtered/kbl.proto:3
+	kbp	kbp		1:kbr:esaf;2:kbt:esag;3:kbv:esah	refs/dofus-deobfs/protos/filtered/kbp.proto:6
+	kbr	kbr		1:string:esam;2:kbw:esan;3:kca:esao;4:kcm:esap;5:kcx:esaq;6:kdc:esar;7:kdh:esas;8:kdn:esat	refs/dofus-deobfs/protos/filtered/kbr.proto:10
+	kbt	kbt		1:string:esay;2:kbx:esaz;3:kcl:esba;4:kcq:esbb;5:kcz:esbc;6:kdm:esbd;7:kds:esbe	refs/dofus-deobfs/protos/filtered/kbt.proto:9
+	kbv	kbv		1:kcw:esbj;2:kby:esbk	refs/dofus-deobfs/protos/filtered/kbv.proto:5
+	kbw	kbw			refs/dofus-deobfs/protos/filtered/kbw.proto:3
+	kbx	kbx			refs/dofus-deobfs/protos/filtered/kbx.proto:3
+	kby	kby		1:kcu:esbv	refs/dofus-deobfs/protos/filtered/kby.proto:4
+	kca	kca		1:string:esbz;5:string:escc;3:kcd:esca;4:kce:escb	refs/dofus-deobfs/protos/filtered/kca.proto:5
+	kcd	kcd		1:string:escm;2:kcb:escn	refs/dofus-deobfs/protos/filtered/kcd.proto:3
+	kcd+kcb	.kcb		1:int64:esch;2:string:esci	refs/dofus-deobfs/protos/filtered/kcd.proto:6
+	kce	kce		1:string:escr	refs/dofus-deobfs/protos/filtered/kce.proto:3
+	kcl	kcl		1:kci:esdy;2:Error:esdz	refs/dofus-deobfs/protos/filtered/kcl.proto:5
+	kcl+kci	.kci		1:int64:esde;2:string:esdf;3:string:esdg;4:kcr:esdh;5:string:esdi;6:kcg:esdj;7:int32:esdk;8:kda:esdm	refs/dofus-deobfs/protos/filtered/kcl.proto:10
+	kcl+kci+kcg	.kcg		1:bool:escv;2:bool:escw;3:bool:escx;4:bool:escy;5:bool:escz;6:bool:esda	refs/dofus-deobfs/protos/filtered/kcl.proto:19
+	kcl+Error	.Error		1:Reason:esdq;2:string:esdr;3:string:esdt	refs/dofus-deobfs/protos/filtered/kcl.proto:28
+	kcm	kcm		1:int32:esee	refs/dofus-deobfs/protos/filtered/kcm.proto:3
+	kcq	kcq		1:kco:eseo;2:Error:esep	refs/dofus-deobfs/protos/filtered/kcq.proto:3
+	kcq+kco	.kco		1:string:esei;2:string:esej;3:repeated int32:esek	refs/dofus-deobfs/protos/filtered/kcq.proto:8
+	kcr	kcr		1:repeated kcu:esev;2:int32:esew;3:bool:ctip	refs/dofus-deobfs/protos/filtered/kcr.proto:4
+	kcu	kcu		1:kcw:esfa;2:kcs:esfb;3:repeated kdg:esfc	refs/dofus-deobfs/protos/filtered/kcu.proto:5
+	kcw	kcw		1:int32:esfg;2:Status:esfh;3:bool:esfi;4:bool:esfj	refs/dofus-deobfs/protos/filtered/kcw.proto:3
+	kcx	kcx		1:int64:esfn	refs/dofus-deobfs/protos/filtered/kcx.proto:3
+	kcz	kcz		2:kda:esfr;3:kdb:esfs	refs/dofus-deobfs/protos/filtered/kcz.proto:5
+	kda	kda		1:bool:esfx;2:int64:esfy;3:string:esfz;4:string:esga;5:kcr:esgb	refs/dofus-deobfs/protos/filtered/kda.proto:4
+	kdb	kdb			refs/dofus-deobfs/protos/filtered/kdb.proto:3
+	kdc	kdc			refs/dofus-deobfs/protos/filtered/kdc.proto:3
+	kdg	kdg		1:string:esgl;2:kde:esgm;3:kdd:esgn;4:int32:esgo;5:string:esgp	refs/dofus-deobfs/protos/filtered/kdg.proto:3
+	kdh	kdh			refs/dofus-deobfs/protos/filtered/kdh.proto:3
+	kdm	kdm		1:kdk:eshg;2:Error:eshh	refs/dofus-deobfs/protos/filtered/kdm.proto:3
+	kdm+kdk	.kdk		1:repeated Friend:eshc	refs/dofus-deobfs/protos/filtered/kdm.proto:8
+	kdm+kdk+Friend	.Friend		1:string:esgw;2:string:esgx;3:repeated int32:esgy	refs/dofus-deobfs/protos/filtered/kdm.proto:10
+	kdn	kdn		1:string:eshn;2:string:esho	refs/dofus-deobfs/protos/filtered/kdn.proto:3
+	kds	kds		1:kdp:esia;2:Error:esib	refs/dofus-deobfs/protos/filtered/kds.proto:3
+	kds+kdp	.kdp		1:repeated int32:eshs	refs/dofus-deobfs/protos/filtered/kds.proto:8
+	kds+Error	.Error		1:Reason:eshw	refs/dofus-deobfs/protos/filtered/kds.proto:11

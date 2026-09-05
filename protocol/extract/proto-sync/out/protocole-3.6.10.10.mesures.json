@@ -1,0 +1,146 @@
+{
+  "build": "3.6.10.10",
+  "champs_emis": 6278,
+  "collisions_noms": [
+    {
+      "nom_semantique": "AppearanceSlotSetResultMessage",
+      "opcodes": [
+        "lya",
+        "lyj"
+      ],
+      "retenu": "lyj",
+      "tranche": true
+    },
+    {
+      "nom_semantique": "Channel",
+      "opcodes": [
+        "hee",
+        "lpg"
+      ],
+      "retenu": "",
+      "tranche": false
+    },
+    {
+      "nom_semantique": "Character",
+      "opcodes": [
+        "hjg",
+        "ifj"
+      ],
+      "retenu": "",
+      "tranche": false
+    },
+    {
+      "nom_semantique": "EntityLook",
+      "opcodes": [
+        "hoj",
+        "jpl"
+      ],
+      "retenu": "",
+      "tranche": false
+    },
+    {
+      "nom_semantique": "FightCharacteristics",
+      "opcodes": [
+        "jos",
+        "lpr"
+      ],
+      "retenu": "",
+      "tranche": false
+    },
+    {
+      "nom_semantique": "GiftsListMessage",
+      "opcodes": [
+        "jtg",
+        "kmz"
+      ],
+      "retenu": "jtg",
+      "tranche": true
+    },
+    {
+      "nom_semantique": "HouseInstance",
+      "opcodes": [
+        "hmc",
+        "ihr",
+        "ihx",
+        "lli"
+      ],
+      "retenu": "",
+      "tranche": false
+    },
+    {
+      "nom_semantique": "ObjectItemInventory",
+      "opcodes": [
+        "hex",
+        "ifi"
+      ],
+      "retenu": "",
+      "tranche": false
+    },
+    {
+      "nom_semantique": "SpellListMessage",
+      "opcodes": [
+        "hks",
+        "hms"
+      ],
+      "retenu": "hms",
+      "tranche": true
+    },
+    {
+      "nom_semantique": "Teleporter",
+      "opcodes": [
+        "hwp",
+        "hyr"
+      ],
+      "retenu": "",
+      "tranche": false
+    }
+  ],
+  "controles_lecture": {
+    "consts": 6278,
+    "desaccords": 0,
+    "enums": 569,
+    "messages": 2206,
+    "props_case": 118,
+    "props_donnee": 6278,
+    "props_has": 386,
+    "props_has_oneof": 38,
+    "types_non_resolus": 0,
+    "valeurs_enum": 2884
+  },
+  "enums_emis": 451,
+  "enums_oneofcase_ecartes": 118,
+  "identifiants_echappes": [],
+  "map_emis": 167,
+  "messages_emis": 2206,
+  "noms_annotes": 166,
+  "oneof_emis": 118,
+  "optional_emis": 348,
+  "repeated_emis": 807,
+  "sha256_dump": "586f71ca81917d78452704d6f30f7bed045f30e4a38f3948ad05ba472e2e0503",
+  "sha256_proto": "82c71433ac6ac7c61ce3b2d4db3637ef56e382ee3e65c12af8ab32da92a1a5ac",
+  "sources_noms": [
+    {
+      "chemin": "refs/JondoEmu/datos/anclas_3.6.10.10.tsv",
+      "entrees_retenues": 99,
+      "present": true,
+      "source": "jondo-anclas",
+      "statut_attribue": "VERIFIE"
+    },
+    {
+      "chemin": "tools/protocol-mapping/matcher/correspondance-v3.tsv",
+      "entrees_retenues": 113,
+      "present": true,
+      "source": "matcher-v3",
+      "statut_attribue": "DEDUIT"
+    },
+    {
+      "chemin": "tools/protocol-mapping/index/messages-jondo.tsv",
+      "entrees_retenues": 0,
+      "present": true,
+      "source": "messages-jondo",
+      "statut_attribue": "DEDUIT"
+    }
+  ],
+  "types_non_resolus": [],
+  "valeurs_enum_emises": 2391
+}

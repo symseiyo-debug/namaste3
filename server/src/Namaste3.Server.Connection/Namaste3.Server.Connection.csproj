@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- FR : le serveur de connexion 3.0. Il ne réécrit PAS le codec : il le référence. La seule
+            dépendance externe est le codec de l'étage 2, prouvé byte-exact sur 355 trames réelles.
+       EN : the 3.0 connection server. It does NOT rewrite the codec: it references it. The only
+            external dependency is the stage-2 codec, proven byte-exact on 355 real frames. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>12</LangVersion>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Namaste3.Server.Connection</RootNamespace>
+    <AssemblyName>namaste3-connect</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../../codec/src/Namaste3.Codec/Namaste3.Codec.csproj" />
+  </ItemGroup>
+
+</Project>

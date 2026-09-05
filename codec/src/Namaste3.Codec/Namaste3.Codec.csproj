@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- FR : le CŒUR n'a AUCUNE dépendance — surtout pas Google.Protobuf : on doit pouvoir décoder
+            une trame sans son schéma (sniffer étage 5, message inconnu d'un futur patch).
+       EN : the CORE has NO dependency — least of all Google.Protobuf: we must be able to decode a
+            frame without its schema (stage-5 sniffer, unknown message from a future patch). -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>12</LangVersion>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+  </PropertyGroup>
+
+</Project>

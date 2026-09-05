@@ -1,0 +1,1344 @@
+nature	nom_a	nom_b	id_a	id_b	detail	build_a	build_b
+AJOUTE		AbstractPartyMemberInFightMessage		6938		242	273
+AJOUTE		AccountInformationsUpdateMessage		4545		242	273
+AJOUTE		AccountSubscriptionElapsedDurationMessage		5336		242	273
+AJOUTE		AchievementAlmostFinishedDetailedListMessage		1205		242	273
+AJOUTE		AchievementAlmostFinishedDetailedListRequestMessage		9909		242	273
+AJOUTE		AchievementsPioneerRanksMessage		3443		242	273
+AJOUTE		AchievementsPioneerRanksRequestMessage		518		242	273
+AJOUTE		AcquaintanceAddedMessage		2270		242	273
+AJOUTE		AcquaintancesGetListMessage		4481		242	273
+AJOUTE		AcquaintancesListMessage		5647		242	273
+AJOUTE		ActivityHideRequestMessage		5903		242	273
+AJOUTE		ActivityLockRequestMessage		5738		242	273
+AJOUTE		ActivitySuggestionsMessage		5717		242	273
+AJOUTE		ActivitySuggestionsRequestMessage		5447		242	273
+AJOUTE		AddListenerOnSynchronizedStorageMessage		1826		242	273
+AJOUTE		AddTaxCollectorOrderedSpellMessage		8298		242	273
+AJOUTE		AddTaxCollectorPresetSpellMessage		6564		242	273
+AJOUTE		AlignmentWarEffortDonatePreviewMessage		7642		242	273
+AJOUTE		AlignmentWarEffortDonateRequestMessage		5431		242	273
+AJOUTE		AlignmentWarEffortDonationResultMessage		1517		242	273
+AJOUTE		AlignmentWarEffortProgressionMessage		2045		242	273
+AJOUTE		AlignmentWarEffortProgressionRequestMessage		4321		242	273
+AJOUTE		AllianceAllRanksUpdateRequestMessage		1620		242	273
+AJOUTE		AllianceApplicationAnswerMessage		9692		242	273
+AJOUTE		AllianceApplicationDeletedMessage		8801		242	273
+AJOUTE		AllianceApplicationIsAnsweredMessage		4844		242	273
+AJOUTE		AllianceApplicationListenMessage		8909		242	273
+AJOUTE		AllianceApplicationPresenceMessage		8886		242	273
+AJOUTE		AllianceApplicationReceivedMessage		1686		242	273
+AJOUTE		AllianceChangeMemberRankMessage		1892		242	273
+AJOUTE		AllianceDeleteApplicationRequestMessage		6027		242	273
+AJOUTE		AllianceFightFighterAddedMessage		5310		242	273
+AJOUTE		AllianceFightFighterRemovedMessage		944		242	273
+AJOUTE		AllianceFightFinishedMessage		1947		242	273
+AJOUTE		AllianceFightInfoMessage		5386		242	273
+AJOUTE		AllianceFightPhaseUpdateMessage		1193		242	273
+AJOUTE		AllianceFightStartedMessage		9676		242	273
+AJOUTE		AllianceGetPlayerApplicationMessage		3631		242	273
+AJOUTE		AllianceGetRecruitmentInformationMessage		1212		242	273
+AJOUTE		AllianceIsThereAnyApplicationMessage		8505		242	273
+AJOUTE		AllianceJoinAutomaticallyRequestMessage		468		242	273
+AJOUTE		AllianceListApplicationAnswerMessage		3610		242	273
+AJOUTE		AllianceListApplicationModifiedMessage		3470		242	273
+AJOUTE		AllianceListApplicationRequestMessage		7241		242	273
+AJOUTE		AllianceMemberInformationUpdateMessage		3877		242	273
+AJOUTE		AllianceMemberLeavingMessage		626		242	273
+AJOUTE		AllianceMemberOnlineStatusMessage		5529		242	273
+AJOUTE		AllianceMemberStartWarningOnConnectionMessage		3707		242	273
+AJOUTE		AllianceMemberStopWarningOnConnectionMessage		1134		242	273
+AJOUTE		AllianceModificationResultMessage		3693		242	273
+AJOUTE		AlliancePlayerApplicationAbstractMessage		4969		242	273
+AJOUTE		AlliancePlayerApplicationInformationMessage		9706		242	273
+AJOUTE		AlliancePlayerNoApplicationInformationMessage		7142		242	273
+AJOUTE		AllianceRankCreateRequestMessage		9486		242	273
+AJOUTE		AllianceRankRemoveRequestMessage		3428		242	273
+AJOUTE		AllianceRankUpdateRequestMessage		64		242	273
+AJOUTE		AllianceRanksMessage		4427		242	273
+AJOUTE		AllianceRanksRequestMessage		7629		242	273
+AJOUTE		AllianceRecruitmentInformationMessage		977		242	273
+AJOUTE		AllianceRecruitmentInvalidateMessage		523		242	273
+AJOUTE		AllianceRightsUpdateMessage		5154		242	273
+AJOUTE		AllianceSubmitApplicationMessage		5885		242	273
+AJOUTE		AllianceSummaryMessage		2436		242	273
+AJOUTE		AllianceSummaryRequestMessage		4007		242	273
+AJOUTE		AllianceUpdateApplicationMessage		8299		242	273
+AJOUTE		AllianceUpdateRecruitmentInformationMessage		5387		242	273
+AJOUTE		AlterationAddedMessage		8844		242	273
+AJOUTE		AlterationRemovedMessage		9284		242	273
+AJOUTE		AlterationsMessage		7721		242	273
+AJOUTE		AlterationsUpdatedMessage		563		242	273
+AJOUTE		AnomalyOpenedMessage		1124	ambigu	242	273
+AJOUTE		AnomalyStateMessage		9316		242	273
+AJOUTE		AnomalySubareaInformationRequestMessage		7452		242	273
+AJOUTE		AnomalySubareaInformationResponseMessage		9235		242	273
+AJOUTE		ApplySpellModifierMessage		1373		242	273
+AJOUTE		ArenaFightAnswerAcknowledgementMessage		2033		242	273
+AJOUTE		ArenaFighterIdleMessage		1701		242	273
+AJOUTE		BreachBonusMessage		427		242	273
+AJOUTE		BreachBranchesMessage		1486		242	273
+AJOUTE		BreachBudgetMessage		9989		242	273
+AJOUTE		BreachCharactersMessage		6556		242	273
+AJOUTE		BreachEnterMessage		9138		242	273
+AJOUTE		BreachExitRequestMessage		6366		242	273
+AJOUTE		BreachExitResponseMessage		6746		242	273
+AJOUTE		BreachGameFightEndMessage		9314		242	273
+AJOUTE		BreachInvitationAnswerMessage		2262		242	273
+AJOUTE		BreachInvitationCloseMessage		6049		242	273
+AJOUTE		BreachInvitationOfferMessage		5842		242	273
+AJOUTE		BreachInvitationRequestMessage		4414		242	273
+AJOUTE		BreachInvitationResponseMessage		9260		242	273
+AJOUTE		BreachKickRequestMessage		4588		242	273
+AJOUTE		BreachKickResponseMessage		5018		242	273
+AJOUTE		BreachRewardBoughtMessage		560		242	273
+AJOUTE		BreachRewardBuyMessage		3872		242	273
+AJOUTE		BreachRewardsMessage		1741		242	273
+AJOUTE		BreachRoomLockedMessage		8241		242	273
+AJOUTE		BreachRoomUnlockRequestMessage		5483		242	273
+AJOUTE		BreachRoomUnlockResultMessage		7028		242	273
+AJOUTE		BreachSavedMessage		21		242	273
+AJOUTE		BreachStateMessage		8989		242	273
+AJOUTE		BreachTeleportRequestMessage		2317		242	273
+AJOUTE		BreachTeleportResponseMessage		1178		242	273
+AJOUTE		ChallengeAddMessage		8563		242	273
+AJOUTE		ChallengeBonusChoiceMessage		2271		242	273
+AJOUTE		ChallengeBonusChoiceSelectedMessage		4926		242	273
+AJOUTE		ChallengeListMessage		4436		242	273
+AJOUTE		ChallengeModSelectMessage		4455		242	273
+AJOUTE		ChallengeModSelectedMessage		4667		242	273
+AJOUTE		ChallengeNumberMessage		2779		242	273
+AJOUTE		ChallengeProposalMessage		8830		242	273
+AJOUTE		ChallengeReadyMessage		9700		242	273
+AJOUTE		ChallengeSelectedMessage		8045		242	273
+AJOUTE		ChallengeSelectionMessage		5920		242	273
+AJOUTE		ChallengeTargetsMessage		9097		242	273
+AJOUTE		ChallengeTargetsRequestMessage		2450		242	273
+AJOUTE		ChallengeValidateMessage		8427		242	273
+AJOUTE		CharacterAlignmentWarEffortProgressionMessage		2916		242	273
+AJOUTE		CharacterAlignmentWarEffortProgressionRequestMessage		946		242	273
+AJOUTE		CharacterDeletionPrepareMessage		5348		242	273
+AJOUTE		CharacterDeletionPrepareRequestMessage		3535	ambigu	242	273
+AJOUTE		ChatKolizeumServerMessage		942		242	273
+AJOUTE		ConfirmationOfListeningTaxCollectorUpdatesMessage		1625		242	273
+AJOUTE		ConsoleEndMessage		9802		242	273
+AJOUTE		ConsumeAllGameActionItemMessage		3120	ambigu	242	273
+AJOUTE		ContactAddFailureMessage		2506	ambigu	242	273
+AJOUTE		CreateGuildRankRequestMessage		1740		242	273
+AJOUTE		CurrentMapInstanceMessage		5476		242	273
+AJOUTE		DebtsDeleteMessage		7828		242	273
+AJOUTE		DebtsUpdateMessage		8856		242	273
+AJOUTE		DiceRollRequestMessage		8901		242	273
+AJOUTE		DumpedEntityStatsMessage		2370		242	273
+AJOUTE		EntitiesInformationMessage		266		242	273
+AJOUTE		EntityInformationMessage		6850		242	273
+AJOUTE		EvolutiveObjectRecycleResultMessage		5637		242	273
+AJOUTE		ExchangeMoneyMovementInformationMessage		6145		242	273
+AJOUTE		ExchangeObjectMoveToTabMessage		1002		242	273
+AJOUTE		ExchangeStartOkEvolutiveObjectRecycleTradeMessage		9395		242	273
+AJOUTE		ExchangeStartedTaxCollectorEquipmentMessage		9293		242	273
+AJOUTE		ExchangeStartedWithMultiTabStorageMessage		4135		242	273
+AJOUTE		ExchangeTaxCollectorGetMessage		3970		242	273
+AJOUTE		ForceAccountErrorMessage		5352		242	273
+AJOUTE		ForceAccountMessage		5654		242	273
+AJOUTE		ForceAccountStatusMessage		25		242	273
+AJOUTE		ForgettableSpellClientActionMessage		5459		242	273
+AJOUTE		ForgettableSpellDeleteMessage		4353		242	273
+AJOUTE		ForgettableSpellEquipmentSlotsMessage		41		242	273
+AJOUTE		ForgettableSpellListUpdateMessage		6155		242	273
+AJOUTE		FriendSetStatusShareMessage		5816		242	273
+AJOUTE		FriendStatusShareStateMessage		8565		242	273
+AJOUTE		GameActionFightMultipleSummonMessage		8549		242	273
+AJOUTE		GameActionItemAddMessage		8509		242	273
+AJOUTE		GameActionItemListMessage		6041		242	273
+AJOUTE		GameActionSpamMessage		9805		242	273
+AJOUTE		GameActionUpdateEffectTriggerCountMessage		6014		242	273
+AJOUTE		GameFightPauseMessage		1045		242	273
+AJOUTE		GameRolePlayArenaInvitationCandidatesAnswerMessage		953		242	273
+AJOUTE		GameRolePlayArenaLeagueRewardsMessage		7599		242	273
+AJOUTE		GameRolePlayArenaPlayerBehavioursMessage		1302		242	273
+AJOUTE		GameRolePlayArenaRegistrationWarningMessage		8542		242	273
+AJOUTE		GameRolePlayMonsterAngryAtPlayerMessage		9879		242	273
+AJOUTE		GameRolePlayMonsterNotAngryAtPlayerMessage		5585		242	273
+AJOUTE		GroupTeleportPlayerAnswerMessage		1816		242	273
+AJOUTE		GroupTeleportPlayerCloseMessage		2716		242	273
+AJOUTE		GroupTeleportPlayerOfferMessage		3076		242	273
+AJOUTE		GuildApplicationAnswerMessage		3927		242	273
+AJOUTE		GuildApplicationDeletedMessage		8782		242	273
+AJOUTE		GuildApplicationIsAnsweredMessage		3637		242	273
+AJOUTE		GuildApplicationListenMessage		5367		242	273
+AJOUTE		GuildApplicationPresenceMessage		9885		242	273
+AJOUTE		GuildApplicationReceivedMessage		8148		242	273
+AJOUTE		GuildChestTabContributionMessage		8050		242	273
+AJOUTE		GuildChestTabContributionsMessage		753		242	273
+AJOUTE		GuildChestTabLastContributionMessage		683		242	273
+AJOUTE		GuildDeleteApplicationRequestMessage		7132		242	273
+AJOUTE		GuildGetChestTabContributionsRequestMessage		5518		242	273
+AJOUTE		GuildGetPlayerApplicationMessage		5398		242	273
+AJOUTE		GuildIsThereAnyApplicationMessage		5069		242	273
+AJOUTE		GuildJoinAutomaticallyRequestMessage		2737		242	273
+AJOUTE		GuildListApplicationAnswerMessage		948		242	273
+AJOUTE		GuildListApplicationModifiedMessage		7224		242	273
+AJOUTE		GuildListApplicationRequestMessage		695		242	273
+AJOUTE		GuildLogbookInformationMessage		7376		242	273
+AJOUTE		GuildLogbookInformationRequestMessage		319		242	273
+AJOUTE		GuildMemberStartWarnOnConnectionMessage		6143		242	273
+AJOUTE		GuildMemberStopWarnOnConnectionMessage		8625		242	273
+AJOUTE		GuildModificationResultMessage		775		242	273
+AJOUTE		GuildPlayerApplicationAbstractMessage		4745		242	273
+AJOUTE		GuildPlayerApplicationInformationMessage		656		242	273
+AJOUTE		GuildPlayerNoApplicationInformationMessage		6961		242	273
+AJOUTE		GuildRanksMessage		3908		242	273
+AJOUTE		GuildRanksRequestMessage		5381		242	273
+AJOUTE		GuildRecruitmentInvalidateMessage		5184		242	273
+AJOUTE		GuildSelectChestTabRequestMessage		7367		242	273
+AJOUTE		GuildSubmitApplicationMessage		2378		242	273
+AJOUTE		GuildSummaryMessage		156		242	273
+AJOUTE		GuildSummaryRequestMessage		1163		242	273
+AJOUTE		GuildUpdateApplicationMessage		7570		242	273
+AJOUTE		GuildUpdateChestTabRequestMessage		6464		242	273
+AJOUTE		GuildUpdateNoteMessage		7051		242	273
+AJOUTE		HaapiAuthErrorMessage		349		242	273
+AJOUTE		HaapiBufferListMessage		3		242	273
+AJOUTE		HaapiBufferListRequestMessage		4581		242	273
+AJOUTE		HaapiBuyValidationMessage		1448		242	273
+AJOUTE		HaapiCancelBidRequestMessage		6447		242	273
+AJOUTE		HaapiConfirmationMessage		5031		242	273
+AJOUTE		HaapiConfirmationRequestMessage		7674		242	273
+AJOUTE		HaapiConsumeBufferRequestMessage		2127		242	273
+AJOUTE		HaapiSessionMessage		4199		242	273
+AJOUTE		HaapiShopApiKeyMessage		1934		242	273
+AJOUTE		HaapiShopApiKeyRequestMessage		9104		242	273
+AJOUTE		HaapiValidationMessage		7090		242	273
+AJOUTE		HaapiValidationRequestMessage		2930		242	273
+AJOUTE		HavenBagRoomUpdateMessage		5461		242	273
+AJOUTE		IconNamedPresetSaveRequestMessage		6922		242	273
+AJOUTE		IconPresetSaveRequestMessage		6591		242	273
+AJOUTE		InvalidPresetsMessage		1001		242	273
+AJOUTE		ItemForPresetUpdateMessage		6815		242	273
+AJOUTE		KnownZaapListMessage		5253		242	273
+AJOUTE		KothEndMessage		506		242	273
+AJOUTE		ListMapNpcsQuestStatusUpdateMessage		5023		242	273
+AJOUTE		ListenersOfSynchronizedStorageMessage		8036		242	273
+AJOUTE		MapComplementaryInformationsAnomalyMessage		7688		242	273
+AJOUTE		MapComplementaryInformationsBreachMessage		4428		242	273
+AJOUTE		MoveTaxCollectorOrderedSpellMessage		8918		242	273
+AJOUTE		MoveTaxCollectorPresetSpellMessage		6548		242	273
+AJOUTE		MultiTabStorageMessage		7356		242	273
+AJOUTE		NuggetsDistributionMessage		3417		242	273
+AJOUTE		NuggetsInformationMessage		5214		242	273
+AJOUTE		OpenGuideBookMessage		9970		242	273
+AJOUTE		OpponentSurrenderMessage		6059		242	273
+AJOUTE		OrnamentLostMessage		2799		242	273
+AJOUTE		PaginationAnswerAbstractMessage		1468		242	273
+AJOUTE		PaginationRequestAbstractMessage		6633		242	273
+AJOUTE		PartyMemberInBreachFightMessage		2380		242	273
+AJOUTE		PartyMemberInStandardFightMessage		8285		242	273
+AJOUTE		PopupWarningCloseRequestMessage		663		242	273
+AJOUTE		PopupWarningClosedMessage		2757		242	273
+AJOUTE		PortalDialogCreationMessage		6302		242	273
+AJOUTE		PresetDeleteRequestMessage		7052		242	273
+AJOUTE		PresetDeleteResultMessage		6319		242	273
+AJOUTE		PresetSaveErrorMessage		7630		242	273
+AJOUTE		PresetSavedMessage		889		242	273
+AJOUTE		PresetUseRequestMessage		7506		242	273
+AJOUTE		PresetUseResultMessage		799		242	273
+AJOUTE		PresetUseResultWithMissingIdsMessage		5059		242	273
+AJOUTE		PresetsMessage		8873		242	273
+AJOUTE		PrismAddOrUpdateMessage		1525		242	273
+AJOUTE		PrismAttackResultMessage		8541		242	273
+AJOUTE		PrismAttackedMessage		48		242	273
+AJOUTE		PrismExchangeRequestMessage		1588		242	273
+AJOUTE		PrismRecycleTradeRequestMessage		299		242	273
+AJOUTE		PrismRemoveMessage		4672		242	273
+AJOUTE		PrismTeleportationRequestMessage		7355		242	273
+AJOUTE		RecruitmentInformationMessage		8248		242	273
+AJOUTE		ReleaseAccountMessage		3259		242	273
+AJOUTE		RemoveGuildRankRequestMessage		5524		242	273
+AJOUTE		RemoveListenerOnSynchronizedStorageMessage		91		242	273
+AJOUTE		RemoveSpellModifierMessage		194		242	273
+AJOUTE		RemoveTaxCollectorOrderedSpellMessage		9951		242	273
+AJOUTE		RemoveTaxCollectorPresetSpellMessage		5781		242	273
+AJOUTE		ReportRequestMessage		8254		242	273
+AJOUTE		ReportResponseMessage		8138		242	273
+AJOUTE		ResetCharacterStatsRequestMessage		7045		242	273
+AJOUTE		SlaveNoLongerControledMessage		1268		242	273
+AJOUTE		SocialFightJoinRequestMessage		335		242	273
+AJOUTE		SocialFightLeaveRequestMessage		995		242	273
+AJOUTE		SocialFightTakePlaceRequestMessage		7755		242	273
+AJOUTE		StartExchangeTaxCollectorEquipmentMessage		878		242	273
+AJOUTE		StartGuildChestContributionMessage		9862		242	273
+AJOUTE		StartListenAllianceFightMessage		448		242	273
+AJOUTE		StartListenGuildChestStructureMessage		9892		242	273
+AJOUTE		StartListenNuggetsMessage		4559		242	273
+AJOUTE		StartListenTaxCollectorPresetsUpdatesMessage		3876		242	273
+AJOUTE		StartListenTaxCollectorUpdatesMessage		659		242	273
+AJOUTE		StopGuildChestContributionMessage		1053		242	273
+AJOUTE		StopListenAllianceFightMessage		6339		242	273
+AJOUTE		StopListenGuildChestStructureMessage		3081		242	273
+AJOUTE		StopListenNuggetsMessage		4818		242	273
+AJOUTE		StopListenTaxCollectorPresetsUpdatesMessage		4043		242	273
+AJOUTE		StopListenTaxCollectorUpdatesMessage		4576		242	273
+AJOUTE		SubareaRewardRateMessage		1678		242	273
+AJOUTE		SurrenderInfoRequestMessage		4015		242	273
+AJOUTE		SurrenderInfoResponseMessage		99		242	273
+AJOUTE		SurrenderStateMessage		6944		242	273
+AJOUTE		SurrenderVoteCastMessage		4209		242	273
+AJOUTE		SurrenderVoteEndMessage		6083		242	273
+AJOUTE		SurrenderVoteStartMessage		6177		242	273
+AJOUTE		SurrenderVoteUpdateMessage		6154		242	273
+AJOUTE		SwitchArenaXpRewardsModeMessage		4870		242	273
+AJOUTE		TaxCollectorAddedMessage		7370		242	273
+AJOUTE		TaxCollectorEquipmentUpdateMessage		2451		242	273
+AJOUTE		TaxCollectorHarvestedMessage		3704		242	273
+AJOUTE		TaxCollectorOrderedSpellUpdatedMessage		2428		242	273
+AJOUTE		TaxCollectorPresetSpellUpdatedMessage		2628		242	273
+AJOUTE		TaxCollectorPresetsMessage		9900		242	273
+AJOUTE		TaxCollectorRemovedMessage		2310		242	273
+AJOUTE		TeleportDestinationsMessage		7615		242	273
+AJOUTE		TeleportPlayerAnswerMessage		4603		242	273
+AJOUTE		TeleportPlayerCloseMessage		4378		242	273
+AJOUTE		TeleportPlayerOfferMessage		9777		242	273
+AJOUTE		UpdateAllGuildRankRequestMessage		1965		242	273
+AJOUTE		UpdateGuildRankRequestMessage		9846		242	273
+AJOUTE		UpdateGuildRightsMessage		3888		242	273
+AJOUTE		UpdateMountCharacteristicsMessage		1346		242	273
+AJOUTE		UpdateRecruitmentInformationMessage		691		242	273
+AJOUTE		WatchInventoryContentMessage		8887		242	273
+AJOUTE		WatchQuestListMessage		5644		242	273
+AJOUTE		WatchQuestStepInfoMessage		141		242	273
+AJOUTE		WatchQuestStepInfoRequestMessage		4330		242	273
+AJOUTE		ZaapDestinationsMessage		9132		242	273
+RETIRE	AbstractPresetDeleteMessage		6735			242	273
+RETIRE	AbstractPresetSaveMessage		6736			242	273
+RETIRE	AbstractPresetSaveResultMessage		6734			242	273
+RETIRE	AbstractTaxCollectorListMessage		6568			242	273
+RETIRE	AggregateStatMessage		6669			242	273
+RETIRE	AggregateStatWithDataMessage		6662			242	273
+RETIRE	AllianceChangeGuildRightsMessage		6426			242	273
+RETIRE	AllianceGuildLeavingMessage		6399			242	273
+RETIRE	AllianceTaxCollectorDialogQuestionExtendedMessage		6445			242	273
+RETIRE	AllianceVersatileInfoListMessage		6436			242	273
+RETIRE	BasicCharactersListMessage		6475			242	273
+RETIRE	ChallengeInfoMessage		6022			242	273
+RETIRE	ChallengeTargetUpdateMessage		6123			242	273
+RETIRE	ChallengeTargetsListMessage		5613			242	273
+RETIRE	ChallengeTargetsListRequestMessage		5614			242	273
+RETIRE	CharacterReportMessage		6079			242	273
+RETIRE	CharactersListWithModificationsMessage		6120			242	273
+RETIRE	ChatMessageReportMessage		821			242	273
+RETIRE	ComicReadingBeginMessage		6536			242	273
+RETIRE	DareCancelRequestMessage		6680			242	273
+RETIRE	DareCanceledMessage		6679			242	273
+RETIRE	DareCreatedListMessage		6663			242	273
+RETIRE	DareCreatedMessage		6668			242	273
+RETIRE	DareCreationRequestMessage		6665			242	273
+RETIRE	DareErrorMessage		6667			242	273
+RETIRE	DareInformationsMessage		6656			242	273
+RETIRE	DareInformationsRequestMessage		6659			242	273
+RETIRE	DareListMessage		6661			242	273
+RETIRE	DareRewardConsumeRequestMessage		6676			242	273
+RETIRE	DareRewardConsumeValidationMessage		6675			242	273
+RETIRE	DareRewardWonMessage		6678			242	273
+RETIRE	DareRewardsListMessage		6677			242	273
+RETIRE	DareSubscribeRequestMessage		6666			242	273
+RETIRE	DareSubscribedListMessage		6658			242	273
+RETIRE	DareSubscribedMessage		6660			242	273
+RETIRE	DareVersatileListMessage		6657			242	273
+RETIRE	DareWonListMessage		6682			242	273
+RETIRE	DareWonMessage		6681			242	273
+RETIRE	DownloadCurrentSpeedMessage		1511			242	273
+RETIRE	DownloadErrorMessage		1513			242	273
+RETIRE	DownloadGetCurrentSpeedRequestMessage		1510			242	273
+RETIRE	DownloadPartMessage		1503			242	273
+RETIRE	DownloadSetSpeedRequestMessage		1512			242	273
+RETIRE	ExchangeCraftInformationObjectMessage		5794			242	273
+RETIRE	ExchangeGuildTaxCollectorGetMessage		5762			242	273
+RETIRE	ExchangeOnHumanVendorRequestMessage		5772			242	273
+RETIRE	ExchangeReplyTaxVendorMessage		5787			242	273
+RETIRE	ExchangeRequestOnShopStockMessage		5753			242	273
+RETIRE	ExchangeShopStockMovementRemovedMessage		5907			242	273
+RETIRE	ExchangeShopStockMovementUpdatedMessage		5909			242	273
+RETIRE	ExchangeShopStockMultiMovementRemovedMessage		6037			242	273
+RETIRE	ExchangeShopStockMultiMovementUpdatedMessage		6038			242	273
+RETIRE	ExchangeShopStockStartedMessage		5910			242	273
+RETIRE	ExchangeShowVendorTaxMessage		5783			242	273
+RETIRE	ExchangeStartAsVendorMessage		5775			242	273
+RETIRE	ExchangeStartOkHumanVendorMessage		5767			242	273
+RETIRE	GameRolePlayArenaUpdatePlayerInfosAllQueuesMessage		6728			242	273
+RETIRE	GetPartInfoMessage		1506			242	273
+RETIRE	GetPartsListMessage		1501			242	273
+RETIRE	GuildFightJoinRequestMessage		5717			242	273
+RETIRE	GuildFightLeaveRequestMessage		5715			242	273
+RETIRE	GuildFightPlayersEnemiesListMessage		5928			242	273
+RETIRE	GuildFightPlayersEnemyRemoveMessage		5929			242	273
+RETIRE	GuildFightPlayersHelpersJoinMessage		5720			242	273
+RETIRE	GuildFightPlayersHelpersLeaveMessage		5719			242	273
+RETIRE	GuildFightTakePlaceRequestMessage		6235			242	273
+RETIRE	GuildInAllianceFactsMessage		6422			242	273
+RETIRE	GuildInfosUpgradeMessage		5636			242	273
+RETIRE	GuildInvitationByNameMessage		6115			242	273
+RETIRE	GuildMemberSetWarnOnConnectionMessage		6159			242	273
+RETIRE	GuildMemberWarnOnConnectionStateMessage		6160			242	273
+RETIRE	GuildVersatileInfoListMessage		6435			242	273
+RETIRE	HouseKickIndoorMerchantRequestMessage		5661			242	273
+RETIRE	IdentificationAccountForceMessage		6119			242	273
+RETIRE	IdolFightPreparationUpdateMessage		6586			242	273
+RETIRE	IdolListMessage		6585			242	273
+RETIRE	IdolPartyLostMessage		6580			242	273
+RETIRE	IdolPartyRefreshMessage		6583			242	273
+RETIRE	IdolPartyRegisterRequestMessage		6582			242	273
+RETIRE	IdolSelectErrorMessage		6584			242	273
+RETIRE	IdolSelectRequestMessage		6587			242	273
+RETIRE	IdolSelectedMessage		6581			242	273
+RETIRE	IdolsPresetDeleteMessage		6602			242	273
+RETIRE	IdolsPresetDeleteResultMessage		6605			242	273
+RETIRE	IdolsPresetSaveMessage		6603			242	273
+RETIRE	IdolsPresetSaveResultMessage		6604			242	273
+RETIRE	IdolsPresetUpdateMessage		6606			242	273
+RETIRE	IdolsPresetUseMessage		6615			242	273
+RETIRE	IdolsPresetUseResultMessage		6614			242	273
+RETIRE	InventoryContentAndPresetMessage		6162			242	273
+RETIRE	InventoryPresetDeleteMessage		6169			242	273
+RETIRE	InventoryPresetDeleteResultMessage		6173			242	273
+RETIRE	InventoryPresetItemUpdateErrorMessage		6211			242	273
+RETIRE	InventoryPresetItemUpdateMessage		6168			242	273
+RETIRE	InventoryPresetItemUpdateRequestMessage		6210			242	273
+RETIRE	InventoryPresetSaveCustomMessage		6329			242	273
+RETIRE	InventoryPresetSaveMessage		6165			242	273
+RETIRE	InventoryPresetSaveResultMessage		6170			242	273
+RETIRE	InventoryPresetUpdateMessage		6171			242	273
+RETIRE	InventoryPresetUseMessage		6167			242	273
+RETIRE	InventoryPresetUseResultMessage		6163			242	273
+RETIRE	KrosmasterInventoryErrorMessage		6343		ambigu	242	273
+RETIRE	KrosmasterInventoryMessage		6350			242	273
+RETIRE	KrosmasterInventoryRequestMessage		6344			242	273
+RETIRE	KrosmasterPlayingStatusMessage		6347			242	273
+RETIRE	KrosmasterTransferMessage		6348			242	273
+RETIRE	KrosmasterTransferRequestMessage		6349			242	273
+RETIRE	MailStatusMessage		6275			242	273
+RETIRE	MapNpcsQuestStatusUpdateMessage		5642			242	273
+RETIRE	NewMailMessage		6292			242	273
+RETIRE	PartInfoMessage		1508			242	273
+RETIRE	PartsListMessage		1502			242	273
+RETIRE	PartyMemberInFightMessage		6342			242	273
+RETIRE	PrismFightAddedMessage		6452			242	273
+RETIRE	PrismFightAttackerAddMessage		5893			242	273
+RETIRE	PrismFightAttackerRemoveMessage		5897			242	273
+RETIRE	PrismFightDefenderAddMessage		5895			242	273
+RETIRE	PrismFightDefenderLeaveMessage		5892			242	273
+RETIRE	PrismFightJoinLeaveRequestMessage		5843			242	273
+RETIRE	PrismFightRemovedMessage		6453		ambigu	242	273
+RETIRE	PrismFightStateUpdateMessage		6040			242	273
+RETIRE	PrismFightSwapRequestMessage		5901			242	273
+RETIRE	PrismInfoCloseMessage		5853			242	273
+RETIRE	PrismInfoInValidMessage		5859		ambigu	242	273
+RETIRE	PrismInfoJoinLeaveRequestMessage		5844			242	273
+RETIRE	PrismModuleExchangeRequestMessage		6531			242	273
+RETIRE	PrismSetSabotagedRefusedMessage		6466			242	273
+RETIRE	PrismSetSabotagedRequestMessage		6468		ambigu	242	273
+RETIRE	PrismSettingsErrorMessage		6442			242	273
+RETIRE	PrismSettingsRequestMessage		6437			242	273
+RETIRE	PrismUseRequestMessage		6041			242	273
+RETIRE	PrismsInfoValidMessage		6451			242	273
+RETIRE	PrismsListRegisterMessage		6441			242	273
+RETIRE	PrismsListUpdateMessage		6438			242	273
+RETIRE	RoomAvailableUpdateMessage		6630			242	273
+RETIRE	SpellItemBoostMessage		6011			242	273
+RETIRE	SpellModifyFailureMessage		6653			242	273
+RETIRE	SpellModifyRequestMessage		6655			242	273
+RETIRE	SpellModifySuccessMessage		6654			242	273
+RETIRE	StartupActionAddMessage		6538			242	273
+RETIRE	StartupActionsAllAttributionMessage		6537		ambigu	242	273
+RETIRE	StartupActionsExecuteMessage		1302			242	273
+RETIRE	StartupActionsListMessage		1301			242	273
+RETIRE	SubscriptionUpdateMessage		6616			242	273
+RETIRE	TaxCollectorListMessage		5930			242	273
+RETIRE	TaxCollectorMovementAddMessage		5917			242	273
+RETIRE	TaxCollectorMovementMessage		5633			242	273
+RETIRE	TaxCollectorMovementRemoveMessage		5915			242	273
+RETIRE	TeleportDestinationsListMessage		5960			242	273
+RETIRE	TreasureHuntRequestMessage		6488			242	273
+RETIRE	URLOpenMessage		6266			242	273
+RETIRE	UpdateMountBoostMessage		6179			242	273
+RETIRE	ZaapListMessage		1604			242	273
+RENOMME	ExchangeHandleMountsStableMessage	ExchangeHandleMountsMessage	6562	3319	structure identique	242	273
+RENOMME	PartyCompanionUpdateLightMessage	PartyEntityUpdateLightMessage	6472	2046	structure identique	242	273
+RENOMME	StartupActionFinishedMessage	GameActionItemConsumedMessage	1304	5525	structure identique	242	273
+RENOMME	StartupActionsObjetAttributionMessage	ConsumeGameActionItemMessage	1303	2113	structure identique	242	273
+RENUMEROTE	AbstractGameActionFightTargetedAbilityMessage	AbstractGameActionFightTargetedAbilityMessage	6118	5172		242	273
+RENUMEROTE	AbstractGameActionMessage	AbstractGameActionMessage	1000	9631		242	273
+RENUMEROTE	AbstractGameActionWithAckMessage	AbstractGameActionWithAckMessage	1001	1587		242	273
+RENUMEROTE	AbstractPartyEventMessage	AbstractPartyEventMessage	6273	5451		242	273
+RENUMEROTE	AbstractPartyMessage	AbstractPartyMessage	6274	2039		242	273
+RENUMEROTE	AccessoryPreviewErrorMessage	AccessoryPreviewErrorMessage	6521	9621		242	273
+RENUMEROTE	AccessoryPreviewMessage	AccessoryPreviewMessage	6517	1503		242	273
+RENUMEROTE	AccountHouseMessage	AccountHouseMessage	6315	7345		242	273
+RENUMEROTE	AccountLinkRequiredMessage	AccountLinkRequiredMessage	6607	590		242	273
+RENUMEROTE	AccountLoggingKickedMessage	AccountLoggingKickedMessage	6029	2295		242	273
+RENUMEROTE	AchievementDetailedListMessage	AchievementDetailedListMessage	6358	2020		242	273
+RENUMEROTE	AchievementDetailedListRequestMessage	AchievementDetailedListRequestMessage	6357	7960		242	273
+RENUMEROTE	AchievementDetailsMessage	AchievementDetailsMessage	6378	2058		242	273
+RENUMEROTE	AchievementDetailsRequestMessage	AchievementDetailsRequestMessage	6380	7495		242	273
+RENUMEROTE	AchievementFinishedInformationMessage	AchievementFinishedInformationMessage	6381	1898		242	273
+RENUMEROTE	AchievementRewardErrorMessage	AchievementRewardErrorMessage	6375	3079		242	273
+RENUMEROTE	AchievementRewardRequestMessage	AchievementRewardRequestMessage	6377	1789		242	273
+RENUMEROTE	AchievementRewardSuccessMessage	AchievementRewardSuccessMessage	6376	1060		242	273
+RENUMEROTE	AcquaintanceSearchErrorMessage	AcquaintanceSearchErrorMessage	6143	2291		242	273
+RENUMEROTE	AcquaintanceServerListMessage	AcquaintanceServerListMessage	6142	8632		242	273
+RENUMEROTE	AdminQuietCommandMessage	AdminQuietCommandMessage	5662	8282		242	273
+RENUMEROTE	AlignmentRankUpdateMessage	AlignmentRankUpdateMessage	6058	5019		242	273
+RENUMEROTE	AllianceBulletinMessage	AllianceBulletinMessage	6690	8751		242	273
+RENUMEROTE	AllianceBulletinSetErrorMessage	AllianceBulletinSetErrorMessage	6692	8685		242	273
+RENUMEROTE	AllianceCreationResultMessage	AllianceCreationResultMessage	6391	7302		242	273
+RENUMEROTE	AllianceCreationStartedMessage	AllianceCreationStartedMessage	6394	6534		242	273
+RENUMEROTE	AllianceFactsErrorMessage	AllianceFactsErrorMessage	6423	4210		242	273
+RENUMEROTE	AllianceFactsRequestMessage	AllianceFactsRequestMessage	6409	593		242	273
+RENUMEROTE	AllianceInsiderInfoRequestMessage	AllianceInsiderInfoRequestMessage	6417	2763		242	273
+RENUMEROTE	AllianceInvitationAnswerMessage	AllianceInvitationAnswerMessage	6401	3558		242	273
+RENUMEROTE	AllianceInvitationMessage	AllianceInvitationMessage	6395	5856		242	273
+RENUMEROTE	AllianceInvitationStateRecrutedMessage	AllianceInvitationStateRecrutedMessage	6392	7264		242	273
+RENUMEROTE	AllianceInvitationStateRecruterMessage	AllianceInvitationStateRecruterMessage	6396	6551		242	273
+RENUMEROTE	AllianceLeftMessage	AllianceLeftMessage	6398	6490		242	273
+RENUMEROTE	AllianceMembershipMessage	AllianceMembershipMessage	6390	3547		242	273
+RENUMEROTE	AllianceModificationNameAndTagValidMessage	AllianceModificationNameAndTagValidMessage	6449	6811		242	273
+RENUMEROTE	AllianceModificationStartedMessage	AllianceModificationStartedMessage	6444	2149		242	273
+RENUMEROTE	AllianceMotdMessage	AllianceMotdMessage	6685	4661		242	273
+RENUMEROTE	AllianceMotdSetErrorMessage	AllianceMotdSetErrorMessage	6683	6006		242	273
+RENUMEROTE	AllianceMotdSetRequestMessage	AllianceMotdSetRequestMessage	6687	1488		242	273
+RENUMEROTE	AlliancePartialListMessage	AlliancePartialListMessage	6427	4178		242	273
+RENUMEROTE	AlliancePrismDialogQuestionMessage	AlliancePrismDialogQuestionMessage	6448	3125		242	273
+RENUMEROTE	AlmanachCalendarDateMessage	AlmanachCalendarDateMessage	6341	3938		242	273
+RENUMEROTE	AlreadyConnectedMessage	AlreadyConnectedMessage	109	3137		242	273
+RENUMEROTE	AreaFightModificatorUpdateMessage	AreaFightModificatorUpdateMessage	6493	9461		242	273
+RENUMEROTE	ArenaFighterLeaveMessage	ArenaFighterLeaveMessage	6700	3724		242	273
+RENUMEROTE	AtlasPointInformationsMessage	AtlasPointInformationsMessage	5956	5424		242	273
+RENUMEROTE	AuthenticationTicketAcceptedMessage	AuthenticationTicketAcceptedMessage	111	7505		242	273
+RENUMEROTE	AuthenticationTicketMessage	AuthenticationTicketMessage	110	6808		242	273
+RENUMEROTE	AuthenticationTicketRefusedMessage	AuthenticationTicketRefusedMessage	112	5922		242	273
+RENUMEROTE	BasicAckMessage	BasicAckMessage	6362	9375		242	273
+RENUMEROTE	BasicDateMessage	BasicDateMessage	177	7499		242	273
+RENUMEROTE	BasicLatencyStatsMessage	BasicLatencyStatsMessage	5663	7194		242	273
+RENUMEROTE	BasicLatencyStatsRequestMessage	BasicLatencyStatsRequestMessage	5816	6273		242	273
+RENUMEROTE	BasicNoOperationMessage	BasicNoOperationMessage	176	2887		242	273
+RENUMEROTE	BasicPingMessage	BasicPingMessage	182	7461		242	273
+RENUMEROTE	BasicPongMessage	BasicPongMessage	183	4877		242	273
+RENUMEROTE	BasicStatMessage	BasicStatMessage	6530	2233		242	273
+RENUMEROTE	BasicStatWithDataMessage	BasicStatWithDataMessage	6573	6918		242	273
+RENUMEROTE	BasicTimeMessage	BasicTimeMessage	175	4945		242	273
+RENUMEROTE	BasicWhoAmIRequestMessage	BasicWhoAmIRequestMessage	5664	390		242	273
+RENUMEROTE	ChallengeFightJoinRefusedMessage	ChallengeFightJoinRefusedMessage	5908	2072		242	273
+RENUMEROTE	ChangeHavenBagRoomRequestMessage	ChangeHavenBagRoomRequestMessage	6638	980		242	273
+RENUMEROTE	ChangeThemeRequestMessage	ChangeThemeRequestMessage	6639	4899		242	273
+RENUMEROTE	ChannelEnablingChangeMessage	ChannelEnablingChangeMessage	891	7739		242	273
+RENUMEROTE	ChannelEnablingMessage	ChannelEnablingMessage	890	4965		242	273
+RENUMEROTE	CharacterCanBeCreatedRequestMessage	CharacterCanBeCreatedRequestMessage	6732	4275		242	273
+RENUMEROTE	CharacterCanBeCreatedResultMessage	CharacterCanBeCreatedResultMessage	6733	7317		242	273
+RENUMEROTE	CharacterCapabilitiesMessage	CharacterCapabilitiesMessage	6339	3451		242	273
+RENUMEROTE	CharacterCreationRequestMessage	CharacterCreationRequestMessage	160	491		242	273
+RENUMEROTE	CharacterDeletionErrorMessage	CharacterDeletionErrorMessage	166	4351		242	273
+RENUMEROTE	CharacterDeletionRequestMessage	CharacterDeletionRequestMessage	165	1489		242	273
+RENUMEROTE	CharacterExperienceGainMessage	CharacterExperienceGainMessage	6321	9701		242	273
+RENUMEROTE	CharacterFirstSelectionMessage	CharacterFirstSelectionMessage	6084	7638		242	273
+RENUMEROTE	CharacterLevelUpInformationMessage	CharacterLevelUpInformationMessage	6076	3031		242	273
+RENUMEROTE	CharacterLoadingCompleteMessage	CharacterLoadingCompleteMessage	6471	605		242	273
+RENUMEROTE	CharacterNameSuggestionFailureMessage	CharacterNameSuggestionFailureMessage	164	5371		242	273
+RENUMEROTE	CharacterNameSuggestionRequestMessage	CharacterNameSuggestionRequestMessage	162	2000		242	273
+RENUMEROTE	CharacterNameSuggestionSuccessMessage	CharacterNameSuggestionSuccessMessage	5544	2208		242	273
+RENUMEROTE	CharacterReplayRequestMessage	CharacterReplayRequestMessage	167	8786		242	273
+RENUMEROTE	CharacterReplayWithRemodelRequestMessage	CharacterReplayWithRemodelRequestMessage	6551	338		242	273
+RENUMEROTE	CharacterSelectedErrorMessage	CharacterSelectedErrorMessage	5836	1596		242	273
+RENUMEROTE	CharacterSelectedForceMessage	CharacterSelectedForceMessage	6068	4050		242	273
+RENUMEROTE	CharacterSelectedForceReadyMessage	CharacterSelectedForceReadyMessage	6072	4057		242	273
+RENUMEROTE	CharacterSelectedSuccessMessage	CharacterSelectedSuccessMessage	153	4299		242	273
+RENUMEROTE	CharacterSelectionMessage	CharacterSelectionMessage	152	6792		242	273
+RENUMEROTE	CharacterSelectionWithRemodelMessage	CharacterSelectionWithRemodelMessage	6549	3540		242	273
+RENUMEROTE	CharacterStatsListMessage	CharacterStatsListMessage	500	4395		242	273
+RENUMEROTE	CharactersListErrorMessage	CharactersListErrorMessage	5545	7643		242	273
+RENUMEROTE	CharactersListRequestMessage	CharactersListRequestMessage	150	2412		242	273
+RENUMEROTE	CharactersListWithRemodelingMessage	CharactersListWithRemodelingMessage	6550	9633		242	273
+RENUMEROTE	ChatAbstractClientMessage	ChatAbstractClientMessage	850	6914		242	273
+RENUMEROTE	ChatAbstractServerMessage	ChatAbstractServerMessage	880	1770		242	273
+RENUMEROTE	ChatAdminServerMessage	ChatAdminServerMessage	6135	2080		242	273
+RENUMEROTE	ChatClientMultiMessage	ChatClientMultiMessage	861	3932		242	273
+RENUMEROTE	ChatClientMultiWithObjectMessage	ChatClientMultiWithObjectMessage	862	5473		242	273
+RENUMEROTE	ChatClientPrivateWithObjectMessage	ChatClientPrivateWithObjectMessage	852	9502		242	273
+RENUMEROTE	ChatCommunityChannelCommunityMessage	ChatCommunityChannelCommunityMessage	6730	5839		242	273
+RENUMEROTE	ChatCommunityChannelSetCommunityRequestMessage	ChatCommunityChannelSetCommunityRequestMessage	6729	2893		242	273
+RENUMEROTE	ChatErrorMessage	ChatErrorMessage	870	6135		242	273
+RENUMEROTE	ChatServerCopyMessage	ChatServerCopyMessage	882	8617		242	273
+RENUMEROTE	ChatServerCopyWithObjectMessage	ChatServerCopyWithObjectMessage	884	8059		242	273
+RENUMEROTE	ChatServerWithObjectMessage	ChatServerWithObjectMessage	883	399		242	273
+RENUMEROTE	ChatSmileyExtraPackListMessage	ChatSmileyExtraPackListMessage	6596	3973		242	273
+RENUMEROTE	ChatSmileyMessage	ChatSmileyMessage	801	7020		242	273
+RENUMEROTE	ChatSmileyRequestMessage	ChatSmileyRequestMessage	800	9020		242	273
+RENUMEROTE	CheckFileMessage	CheckFileMessage	6156	5396		242	273
+RENUMEROTE	CheckFileRequestMessage	CheckFileRequestMessage	6154	5970		242	273
+RENUMEROTE	CheckIntegrityMessage	CheckIntegrityMessage	6372	7220		242	273
+RENUMEROTE	CinematicMessage	CinematicMessage	6053	991		242	273
+RENUMEROTE	ClientKeyMessage	ClientKeyMessage	5607	7975		242	273
+RENUMEROTE	ClientUIOpenedByObjectMessage	ClientUIOpenedByObjectMessage	6463	2467		242	273
+RENUMEROTE	ClientUIOpenedMessage	ClientUIOpenedMessage	6459	1039		242	273
+RENUMEROTE	ClientYouAreDrunkMessage	ClientYouAreDrunkMessage	6594	3498		242	273
+RENUMEROTE	CloseHavenBagFurnitureSequenceRequestMessage	CloseHavenBagFurnitureSequenceRequestMessage	6621	6165		242	273
+RENUMEROTE	CompassResetMessage	CompassResetMessage	5584	5999		242	273
+RENUMEROTE	CompassUpdateMessage	CompassUpdateMessage	5591	872		242	273
+RENUMEROTE	CompassUpdatePartyMemberMessage	CompassUpdatePartyMemberMessage	5589	9981		242	273
+RENUMEROTE	CompassUpdatePvpSeekMessage	CompassUpdatePvpSeekMessage	6013	4778		242	273
+RENUMEROTE	ConsoleCommandsListMessage	ConsoleCommandsListMessage	6127	869		242	273
+RENUMEROTE	ConsoleMessage	ConsoleMessage	75	7923		242	273
+RENUMEROTE	ContactLookErrorMessage	ContactLookErrorMessage	6045	6346		242	273
+RENUMEROTE	ContactLookMessage	ContactLookMessage	5934	4925		242	273
+RENUMEROTE	ContactLookRequestByIdMessage	ContactLookRequestByIdMessage	5935	6048		242	273
+RENUMEROTE	ContactLookRequestByNameMessage	ContactLookRequestByNameMessage	5933	2776		242	273
+RENUMEROTE	ContactLookRequestMessage	ContactLookRequestMessage	5932	7562		242	273
+RENUMEROTE	CurrentServerStatusUpdateMessage	CurrentServerStatusUpdateMessage	6525	9599		242	273
+RENUMEROTE	DebugClearHighlightCellsMessage	DebugClearHighlightCellsMessage	2002	3737		242	273
+RENUMEROTE	DebugInClientMessage	DebugInClientMessage	6028	6256		242	273
+RENUMEROTE	DecraftResultMessage	DecraftResultMessage	6569	3985		242	273
+RENUMEROTE	DisplayNumericalValuePaddockMessage	DisplayNumericalValuePaddockMessage	6563	4632		242	273
+RENUMEROTE	DocumentReadingBeginMessage	DocumentReadingBeginMessage	5675	9246		242	273
+RENUMEROTE	DungeonKeyRingMessage	DungeonKeyRingMessage	6299	6819		242	273
+RENUMEROTE	DungeonKeyRingUpdateMessage	DungeonKeyRingUpdateMessage	6296	6518		242	273
+RENUMEROTE	DungeonPartyFinderAvailableDungeonsMessage	DungeonPartyFinderAvailableDungeonsMessage	6242	8056		242	273
+RENUMEROTE	DungeonPartyFinderAvailableDungeonsRequestMessage	DungeonPartyFinderAvailableDungeonsRequestMessage	6240	9426		242	273
+RENUMEROTE	DungeonPartyFinderListenErrorMessage	DungeonPartyFinderListenErrorMessage	6248	6905		242	273
+RENUMEROTE	DungeonPartyFinderListenRequestMessage	DungeonPartyFinderListenRequestMessage	6246	9359		242	273
+RENUMEROTE	DungeonPartyFinderRegisterErrorMessage	DungeonPartyFinderRegisterErrorMessage	6243	3226		242	273
+RENUMEROTE	DungeonPartyFinderRegisterRequestMessage	DungeonPartyFinderRegisterRequestMessage	6249	7102		242	273
+RENUMEROTE	DungeonPartyFinderRegisterSuccessMessage	DungeonPartyFinderRegisterSuccessMessage	6241	9509		242	273
+RENUMEROTE	DungeonPartyFinderRoomContentMessage	DungeonPartyFinderRoomContentMessage	6247	9524		242	273
+RENUMEROTE	DungeonPartyFinderRoomContentUpdateMessage	DungeonPartyFinderRoomContentUpdateMessage	6250	5056		242	273
+RENUMEROTE	EditHavenBagCancelRequestMessage	EditHavenBagCancelRequestMessage	6619	8480		242	273
+RENUMEROTE	EditHavenBagFinishedMessage	EditHavenBagFinishedMessage	6628	2362		242	273
+RENUMEROTE	EditHavenBagRequestMessage	EditHavenBagRequestMessage	6626	6707		242	273
+RENUMEROTE	EditHavenBagStartMessage	EditHavenBagStartMessage	6632	9417		242	273
+RENUMEROTE	EmotePlayMassiveMessage	EmotePlayMassiveMessage	5691	1886		242	273
+RENUMEROTE	EmotePlayMessage	EmotePlayMessage	5683	3198		242	273
+RENUMEROTE	EnabledChannelsMessage	EnabledChannelsMessage	892	2625		242	273
+RENUMEROTE	EnterHavenBagRequestMessage	EnterHavenBagRequestMessage	6636	4036		242	273
+RENUMEROTE	EntityTalkMessage	EntityTalkMessage	6110	1171		242	273
+RENUMEROTE	ExchangeAcceptMessage	ExchangeAcceptMessage	5508	804		242	273
+RENUMEROTE	ExchangeBidHouseBuyMessage	ExchangeBidHouseBuyMessage	5804	3820		242	273
+RENUMEROTE	ExchangeBidHouseBuyResultMessage	ExchangeBidHouseBuyResultMessage	6272	2613		242	273
+RENUMEROTE	ExchangeBidHouseInListUpdatedMessage	ExchangeBidHouseInListUpdatedMessage	6337	9240		242	273
+RENUMEROTE	ExchangeBidHouseItemAddOkMessage	ExchangeBidHouseItemAddOkMessage	5945	1557		242	273
+RENUMEROTE	ExchangeBidHouseItemRemoveOkMessage	ExchangeBidHouseItemRemoveOkMessage	5946	8101		242	273
+RENUMEROTE	ExchangeBidHouseUnsoldItemsMessage	ExchangeBidHouseUnsoldItemsMessage	6612	9295		242	273
+RENUMEROTE	ExchangeBidPriceForSellerMessage	ExchangeBidPriceForSellerMessage	6464	7209		242	273
+RENUMEROTE	ExchangeBidSearchOkMessage	ExchangeBidSearchOkMessage	5802	8956		242	273
+RENUMEROTE	ExchangeBuyMessage	ExchangeBuyMessage	5774	4582		242	273
+RENUMEROTE	ExchangeBuyOkMessage	ExchangeBuyOkMessage	5759	9839		242	273
+RENUMEROTE	ExchangeCraftCountModifiedMessage	ExchangeCraftCountModifiedMessage	6595	7440		242	273
+RENUMEROTE	ExchangeCraftCountRequestMessage	ExchangeCraftCountRequestMessage	6597	7189		242	273
+RENUMEROTE	ExchangeCraftPaymentModificationRequestMessage	ExchangeCraftPaymentModificationRequestMessage	6579	2392		242	273
+RENUMEROTE	ExchangeCraftPaymentModifiedMessage	ExchangeCraftPaymentModifiedMessage	6578	2319		242	273
+RENUMEROTE	ExchangeCraftResultMagicWithObjectDescMessage	ExchangeCraftResultMagicWithObjectDescMessage	6188	95		242	273
+RENUMEROTE	ExchangeCraftResultMessage	ExchangeCraftResultMessage	5790	7869		242	273
+RENUMEROTE	ExchangeCraftResultWithObjectDescMessage	ExchangeCraftResultWithObjectDescMessage	5999	4819		242	273
+RENUMEROTE	ExchangeCrafterJobLevelupMessage	ExchangeCrafterJobLevelupMessage	6598	2584		242	273
+RENUMEROTE	ExchangeErrorMessage	ExchangeErrorMessage	5513	9232		242	273
+RENUMEROTE	ExchangeIsReadyMessage	ExchangeIsReadyMessage	5509	4377		242	273
+RENUMEROTE	ExchangeItemAutoCraftStopedMessage	ExchangeItemAutoCraftStopedMessage	5810	5298		242	273
+RENUMEROTE	ExchangeKamaModifiedMessage	ExchangeKamaModifiedMessage	5521	4910		242	273
+RENUMEROTE	ExchangeLeaveMessage	ExchangeLeaveMessage	5628	384		242	273
+RENUMEROTE	ExchangeMountFreeFromPaddockMessage	ExchangeMountFreeFromPaddockMessage	6055	4615		242	273
+RENUMEROTE	ExchangeMountStableErrorMessage	ExchangeMountStableErrorMessage	5981	5267		242	273
+RENUMEROTE	ExchangeMountSterilizeFromPaddockMessage	ExchangeMountSterilizeFromPaddockMessage	6056	7996		242	273
+RENUMEROTE	ExchangeMountsPaddockAddMessage	ExchangeMountsPaddockAddMessage	6561	8350		242	273
+RENUMEROTE	ExchangeMountsPaddockRemoveMessage	ExchangeMountsPaddockRemoveMessage	6559	9608		242	273
+RENUMEROTE	ExchangeMountsStableAddMessage	ExchangeMountsStableAddMessage	6555	9743		242	273
+RENUMEROTE	ExchangeMountsStableBornAddMessage	ExchangeMountsStableBornAddMessage	6557	2861		242	273
+RENUMEROTE	ExchangeMountsStableRemoveMessage	ExchangeMountsStableRemoveMessage	6556	6129		242	273
+RENUMEROTE	ExchangeMountsTakenFromPaddockMessage	ExchangeMountsTakenFromPaddockMessage	6554	3055		242	273
+RENUMEROTE	ExchangeMultiCraftCrafterCanUseHisRessourcesMessage	ExchangeMultiCraftCrafterCanUseHisRessourcesMessage	6020	4154		242	273
+RENUMEROTE	ExchangeMultiCraftSetCrafterCanUseHisRessourcesMessage	ExchangeMultiCraftSetCrafterCanUseHisRessourcesMessage	6021	7279		242	273
+RENUMEROTE	ExchangeObjectAddedMessage	ExchangeObjectAddedMessage	5516	8426		242	273
+RENUMEROTE	ExchangeObjectMessage	ExchangeObjectMessage	5515	3411		242	273
+RENUMEROTE	ExchangeObjectModifiedInBagMessage	ExchangeObjectModifiedInBagMessage	6008	9367		242	273
+RENUMEROTE	ExchangeObjectModifiedMessage	ExchangeObjectModifiedMessage	5519	7078		242	273
+RENUMEROTE	ExchangeObjectModifyPricedMessage	ExchangeObjectModifyPricedMessage	6238	1058		242	273
+RENUMEROTE	ExchangeObjectMoveKamaMessage	ExchangeObjectMoveKamaMessage	5520	7773		242	273
+RENUMEROTE	ExchangeObjectMoveMessage	ExchangeObjectMoveMessage	5518	5939		242	273
+RENUMEROTE	ExchangeObjectMovePricedMessage	ExchangeObjectMovePricedMessage	5514	3566		242	273
+RENUMEROTE	ExchangeObjectPutInBagMessage	ExchangeObjectPutInBagMessage	6009	5697		242	273
+RENUMEROTE	ExchangeObjectRemovedFromBagMessage	ExchangeObjectRemovedFromBagMessage	6010	5602		242	273
+RENUMEROTE	ExchangeObjectRemovedMessage	ExchangeObjectRemovedMessage	5517	8090		242	273
+RENUMEROTE	ExchangeObjectTransfertAllFromInvMessage	ExchangeObjectTransfertAllFromInvMessage	6184	1681		242	273
+RENUMEROTE	ExchangeObjectTransfertAllToInvMessage	ExchangeObjectTransfertAllToInvMessage	6032	4357		242	273
+RENUMEROTE	ExchangeObjectTransfertExistingFromInvMessage	ExchangeObjectTransfertExistingFromInvMessage	6325	9675		242	273
+RENUMEROTE	ExchangeObjectTransfertExistingToInvMessage	ExchangeObjectTransfertExistingToInvMessage	6326	3544		242	273
+RENUMEROTE	ExchangeObjectTransfertListFromInvMessage	ExchangeObjectTransfertListFromInvMessage	6183	7537		242	273
+RENUMEROTE	ExchangeObjectTransfertListToInvMessage	ExchangeObjectTransfertListToInvMessage	6039	8793		242	273
+RENUMEROTE	ExchangeObjectTransfertListWithQuantityToInvMessage	ExchangeObjectTransfertListWithQuantityToInvMessage	6470	166		242	273
+RENUMEROTE	ExchangeObjectUseInWorkshopMessage	ExchangeObjectUseInWorkshopMessage	6004	8008		242	273
+RENUMEROTE	ExchangeObjectsAddedMessage	ExchangeObjectsAddedMessage	6535	9703		242	273
+RENUMEROTE	ExchangeObjectsModifiedMessage	ExchangeObjectsModifiedMessage	6533	7326		242	273
+RENUMEROTE	ExchangeObjectsRemovedMessage	ExchangeObjectsRemovedMessage	6532	8928		242	273
+RENUMEROTE	ExchangeOkMultiCraftMessage	ExchangeOkMultiCraftMessage	5768	4122		242	273
+RENUMEROTE	ExchangePlayerMultiCraftRequestMessage	ExchangePlayerMultiCraftRequestMessage	5784	2028		242	273
+RENUMEROTE	ExchangePlayerRequestMessage	ExchangePlayerRequestMessage	5773	9371		242	273
+RENUMEROTE	ExchangePodsModifiedMessage	ExchangePodsModifiedMessage	6670	7160		242	273
+RENUMEROTE	ExchangeReadyMessage	ExchangeReadyMessage	5511	9547		242	273
+RENUMEROTE	ExchangeReplayStopMessage	ExchangeReplayStopMessage	6001	2953		242	273
+RENUMEROTE	ExchangeRequestMessage	ExchangeRequestMessage	5505	2919		242	273
+RENUMEROTE	ExchangeRequestOnMountStockMessage	ExchangeRequestOnMountStockMessage	5986	5627		242	273
+RENUMEROTE	ExchangeRequestedMessage	ExchangeRequestedMessage	5522	1313		242	273
+RENUMEROTE	ExchangeRequestedTradeMessage	ExchangeRequestedTradeMessage	5523	5103		242	273
+RENUMEROTE	ExchangeSellMessage	ExchangeSellMessage	5778	4616		242	273
+RENUMEROTE	ExchangeSellOkMessage	ExchangeSellOkMessage	5792	49		242	273
+RENUMEROTE	ExchangeStartOkCraftMessage	ExchangeStartOkCraftMessage	5813	6203		242	273
+RENUMEROTE	ExchangeStartOkCraftWithInformationMessage	ExchangeStartOkCraftWithInformationMessage	5941	4096		242	273
+RENUMEROTE	ExchangeStartOkJobIndexMessage	ExchangeStartOkJobIndexMessage	5819	1248		242	273
+RENUMEROTE	ExchangeStartOkMountMessage	ExchangeStartOkMountMessage	5979	2274		242	273
+RENUMEROTE	ExchangeStartOkMountWithOutPaddockMessage	ExchangeStartOkMountWithOutPaddockMessage	5991	1232		242	273
+RENUMEROTE	ExchangeStartOkMulticraftCrafterMessage	ExchangeStartOkMulticraftCrafterMessage	5818	7458		242	273
+RENUMEROTE	ExchangeStartOkMulticraftCustomerMessage	ExchangeStartOkMulticraftCustomerMessage	5817	5378		242	273
+RENUMEROTE	ExchangeStartOkNpcTradeMessage	ExchangeStartOkNpcTradeMessage	5785	8322		242	273
+RENUMEROTE	ExchangeStartOkRunesTradeMessage	ExchangeStartOkRunesTradeMessage	6567	1662		242	273
+RENUMEROTE	ExchangeStartedBidBuyerMessage	ExchangeStartedBidBuyerMessage	5904	4280		242	273
+RENUMEROTE	ExchangeStartedBidSellerMessage	ExchangeStartedBidSellerMessage	5905	9278		242	273
+RENUMEROTE	ExchangeStartedMessage	ExchangeStartedMessage	5512	3043		242	273
+RENUMEROTE	ExchangeStartedMountStockMessage	ExchangeStartedMountStockMessage	5984	6115		242	273
+RENUMEROTE	ExchangeStartedTaxCollectorShopMessage	ExchangeStartedTaxCollectorShopMessage	6664	9791		242	273
+RENUMEROTE	ExchangeStartedWithPodsMessage	ExchangeStartedWithPodsMessage	6129	5028		242	273
+RENUMEROTE	ExchangeStartedWithStorageMessage	ExchangeStartedWithStorageMessage	6236	2977		242	273
+RENUMEROTE	ExchangeStoppedMessage	ExchangeStoppedMessage	6589	3673		242	273
+RENUMEROTE	ExchangeWaitingResultMessage	ExchangeWaitingResultMessage	5786	4276		242	273
+RENUMEROTE	ExchangeWeightMessage	ExchangeWeightMessage	5793	1630		242	273
+RENUMEROTE	ExitHavenBagRequestMessage	ExitHavenBagRequestMessage	6631	1472		242	273
+RENUMEROTE	FighterStatsListMessage	FighterStatsListMessage	6322	4354		242	273
+RENUMEROTE	FinishMoveListMessage	FinishMoveListMessage	6704	4769		242	273
+RENUMEROTE	FinishMoveListRequestMessage	FinishMoveListRequestMessage	6702	2859		242	273
+RENUMEROTE	FinishMoveSetRequestMessage	FinishMoveSetRequestMessage	6703	6930		242	273
+RENUMEROTE	FocusedExchangeReadyMessage	FocusedExchangeReadyMessage	6701	885		242	273
+RENUMEROTE	FollowQuestObjectiveRequestMessage	FollowQuestObjectiveRequestMessage	6724	2913		242	273
+RENUMEROTE	FollowedQuestsMessage	FollowedQuestsMessage	6717	6589		242	273
+RENUMEROTE	FriendAddFailureMessage	FriendAddFailureMessage	5600	6674		242	273
+RENUMEROTE	FriendAddedMessage	FriendAddedMessage	5599	3185		242	273
+RENUMEROTE	FriendDeleteRequestMessage	FriendDeleteRequestMessage	5603	9081		242	273
+RENUMEROTE	FriendGuildSetWarnOnAchievementCompleteMessage	FriendGuildSetWarnOnAchievementCompleteMessage	6382	2747		242	273
+RENUMEROTE	FriendGuildWarnOnAchievementCompleteStateMessage	FriendGuildWarnOnAchievementCompleteStateMessage	6383	1328		242	273
+RENUMEROTE	FriendSetWarnOnConnectionMessage	FriendSetWarnOnConnectionMessage	5602	7385		242	273
+RENUMEROTE	FriendSetWarnOnLevelGainMessage	FriendSetWarnOnLevelGainMessage	6077	5437		242	273
+RENUMEROTE	FriendSpouseFollowWithCompassRequestMessage	FriendSpouseFollowWithCompassRequestMessage	5606	3784		242	273
+RENUMEROTE	FriendSpouseJoinRequestMessage	FriendSpouseJoinRequestMessage	5604	2260		242	273
+RENUMEROTE	FriendUpdateMessage	FriendUpdateMessage	5924	7293		242	273
+RENUMEROTE	FriendWarnOnConnectionStateMessage	FriendWarnOnConnectionStateMessage	5630	584		242	273
+RENUMEROTE	FriendWarnOnLevelGainStateMessage	FriendWarnOnLevelGainStateMessage	6078	2158		242	273
+RENUMEROTE	FriendsGetListMessage	FriendsGetListMessage	4001	14		242	273
+RENUMEROTE	FriendsListMessage	FriendsListMessage	4002	4172		242	273
+RENUMEROTE	GameActionAcknowledgementMessage	GameActionAcknowledgementMessage	957	5751		242	273
+RENUMEROTE	GameActionFightActivateGlyphTrapMessage	GameActionFightActivateGlyphTrapMessage	6545	5706		242	273
+RENUMEROTE	GameActionFightCarryCharacterMessage	GameActionFightCarryCharacterMessage	5830	5771		242	273
+RENUMEROTE	GameActionFightCastOnTargetRequestMessage	GameActionFightCastOnTargetRequestMessage	6330	6910		242	273
+RENUMEROTE	GameActionFightCastRequestMessage	GameActionFightCastRequestMessage	1005	6438		242	273
+RENUMEROTE	GameActionFightChangeLookMessage	GameActionFightChangeLookMessage	5532	1629		242	273
+RENUMEROTE	GameActionFightDeathMessage	GameActionFightDeathMessage	1099	9724		242	273
+RENUMEROTE	GameActionFightDispellEffectMessage	GameActionFightDispellEffectMessage	6113	8550		242	273
+RENUMEROTE	GameActionFightDispellSpellMessage	GameActionFightDispellSpellMessage	6176	4714		242	273
+RENUMEROTE	GameActionFightDispellableEffectMessage	GameActionFightDispellableEffectMessage	6070	3071		242	273
+RENUMEROTE	GameActionFightDodgePointLossMessage	GameActionFightDodgePointLossMessage	5828	7515		242	273
+RENUMEROTE	GameActionFightDropCharacterMessage	GameActionFightDropCharacterMessage	5826	8009		242	273
+RENUMEROTE	GameActionFightExchangePositionsMessage	GameActionFightExchangePositionsMessage	5527	8976		242	273
+RENUMEROTE	GameActionFightInvisibilityMessage	GameActionFightInvisibilityMessage	5821	2495		242	273
+RENUMEROTE	GameActionFightInvisibleDetectedMessage	GameActionFightInvisibleDetectedMessage	6320	7285		242	273
+RENUMEROTE	GameActionFightKillMessage	GameActionFightKillMessage	5571	6293		242	273
+RENUMEROTE	GameActionFightLifeAndShieldPointsLostMessage	GameActionFightLifeAndShieldPointsLostMessage	6310	5703		242	273
+RENUMEROTE	GameActionFightLifePointsGainMessage	GameActionFightLifePointsGainMessage	6311	6590		242	273
+RENUMEROTE	GameActionFightMarkCellsMessage	GameActionFightMarkCellsMessage	5540	432		242	273
+RENUMEROTE	GameActionFightModifyEffectsDurationMessage	GameActionFightModifyEffectsDurationMessage	6304	9731		242	273
+RENUMEROTE	GameActionFightNoSpellCastMessage	GameActionFightNoSpellCastMessage	6132	393		242	273
+RENUMEROTE	GameActionFightPointsVariationMessage	GameActionFightPointsVariationMessage	1030	8927		242	273
+RENUMEROTE	GameActionFightReduceDamagesMessage	GameActionFightReduceDamagesMessage	5526	1547		242	273
+RENUMEROTE	GameActionFightReflectDamagesMessage	GameActionFightReflectDamagesMessage	5530	7259		242	273
+RENUMEROTE	GameActionFightReflectSpellMessage	GameActionFightReflectSpellMessage	5531	2356		242	273
+RENUMEROTE	GameActionFightSlideMessage	GameActionFightSlideMessage	5525	7006		242	273
+RENUMEROTE	GameActionFightSpellCastMessage	GameActionFightSpellCastMessage	1010	2679		242	273
+RENUMEROTE	GameActionFightSpellCooldownVariationMessage	GameActionFightSpellCooldownVariationMessage	6219	766		242	273
+RENUMEROTE	GameActionFightSpellImmunityMessage	GameActionFightSpellImmunityMessage	6221	276		242	273
+RENUMEROTE	GameActionFightStealKamaMessage	GameActionFightStealKamaMessage	5535	6352		242	273
+RENUMEROTE	GameActionFightSummonMessage	GameActionFightSummonMessage	5825	7363		242	273
+RENUMEROTE	GameActionFightTackledMessage	GameActionFightTackledMessage	1004	3805		242	273
+RENUMEROTE	GameActionFightTeleportOnSameMapMessage	GameActionFightTeleportOnSameMapMessage	5528	9922		242	273
+RENUMEROTE	GameActionFightThrowCharacterMessage	GameActionFightThrowCharacterMessage	5829	8659		242	273
+RENUMEROTE	GameActionFightTriggerEffectMessage	GameActionFightTriggerEffectMessage	6147	8838		242	273
+RENUMEROTE	GameActionFightUnmarkCellsMessage	GameActionFightUnmarkCellsMessage	5570	9827		242	273
+RENUMEROTE	GameActionFightVanishMessage	GameActionFightVanishMessage	6217	5071		242	273
+RENUMEROTE	GameActionNoopMessage	GameActionNoopMessage	1002	116		242	273
+RENUMEROTE	GameCautiousMapMovementMessage	GameCautiousMapMovementMessage	6497	779		242	273
+RENUMEROTE	GameCautiousMapMovementRequestMessage	GameCautiousMapMovementRequestMessage	6496	920		242	273
+RENUMEROTE	GameContextCreateErrorMessage	GameContextCreateErrorMessage	6024	223		242	273
+RENUMEROTE	GameContextCreateMessage	GameContextCreateMessage	200	1595		242	273
+RENUMEROTE	GameContextCreateRequestMessage	GameContextCreateRequestMessage	250	5527		242	273
+RENUMEROTE	GameContextDestroyMessage	GameContextDestroyMessage	201	1821		242	273
+RENUMEROTE	GameContextKickMessage	GameContextKickMessage	6081	2032		242	273
+RENUMEROTE	GameContextMoveElementMessage	GameContextMoveElementMessage	253	5362		242	273
+RENUMEROTE	GameContextMoveMultipleElementsMessage	GameContextMoveMultipleElementsMessage	254	7368		242	273
+RENUMEROTE	GameContextQuitMessage	GameContextQuitMessage	255	4314		242	273
+RENUMEROTE	GameContextRefreshEntityLookMessage	GameContextRefreshEntityLookMessage	5637	7865		242	273
+RENUMEROTE	GameContextRemoveElementMessage	GameContextRemoveElementMessage	251	3496		242	273
+RENUMEROTE	GameContextRemoveElementWithEventMessage	GameContextRemoveElementWithEventMessage	6412	7775		242	273
+RENUMEROTE	GameContextRemoveMultipleElementsMessage	GameContextRemoveMultipleElementsMessage	252	5405		242	273
+RENUMEROTE	GameContextRemoveMultipleElementsWithEventsMessage	GameContextRemoveMultipleElementsWithEventsMessage	6416	1167		242	273
+RENUMEROTE	GameDataPaddockObjectAddMessage	GameDataPaddockObjectAddMessage	5990	652		242	273
+RENUMEROTE	GameDataPaddockObjectListAddMessage	GameDataPaddockObjectListAddMessage	5992	9121		242	273
+RENUMEROTE	GameDataPaddockObjectRemoveMessage	GameDataPaddockObjectRemoveMessage	5993	9218		242	273
+RENUMEROTE	GameDataPlayFarmObjectAnimationMessage	GameDataPlayFarmObjectAnimationMessage	6026	8213		242	273
+RENUMEROTE	GameEntitiesDispositionMessage	GameEntitiesDispositionMessage	5696	7948		242	273
+RENUMEROTE	GameEntityDispositionErrorMessage	GameEntityDispositionErrorMessage	5695	2619		242	273
+RENUMEROTE	GameEntityDispositionMessage	GameEntityDispositionMessage	5693	4		242	273
+RENUMEROTE	GameFightHumanReadyStateMessage	GameFightHumanReadyStateMessage	740	109		242	273
+RENUMEROTE	GameFightJoinMessage	GameFightJoinMessage	702	8166		242	273
+RENUMEROTE	GameFightLeaveMessage	GameFightLeaveMessage	721	6974		242	273
+RENUMEROTE	GameFightNewRoundMessage	GameFightNewRoundMessage	6239	8261		242	273
+RENUMEROTE	GameFightNewWaveMessage	GameFightNewWaveMessage	6490	4448		242	273
+RENUMEROTE	GameFightOptionToggleMessage	GameFightOptionToggleMessage	707	5955		242	273
+RENUMEROTE	GameFightPlacementPositionRequestMessage	GameFightPlacementPositionRequestMessage	704	7043		242	273
+RENUMEROTE	GameFightPlacementPossiblePositionsMessage	GameFightPlacementPossiblePositionsMessage	703	282		242	273
+RENUMEROTE	GameFightPlacementSwapPositionsAcceptMessage	GameFightPlacementSwapPositionsAcceptMessage	6547	870		242	273
+RENUMEROTE	GameFightPlacementSwapPositionsCancelMessage	GameFightPlacementSwapPositionsCancelMessage	6543	5173		242	273
+RENUMEROTE	GameFightPlacementSwapPositionsCancelledMessage	GameFightPlacementSwapPositionsCancelledMessage	6546	1579		242	273
+RENUMEROTE	GameFightPlacementSwapPositionsErrorMessage	GameFightPlacementSwapPositionsErrorMessage	6548	6325		242	273
+RENUMEROTE	GameFightPlacementSwapPositionsMessage	GameFightPlacementSwapPositionsMessage	6544	5606		242	273
+RENUMEROTE	GameFightPlacementSwapPositionsOfferMessage	GameFightPlacementSwapPositionsOfferMessage	6542	5124		242	273
+RENUMEROTE	GameFightPlacementSwapPositionsRequestMessage	GameFightPlacementSwapPositionsRequestMessage	6541	501		242	273
+RENUMEROTE	GameFightReadyMessage	GameFightReadyMessage	708	4840		242	273
+RENUMEROTE	GameFightRefreshFighterMessage	GameFightRefreshFighterMessage	6309	3786		242	273
+RENUMEROTE	GameFightResumeMessage	GameFightResumeMessage	6067	2675		242	273
+RENUMEROTE	GameFightResumeWithSlavesMessage	GameFightResumeWithSlavesMessage	6215	5652		242	273
+RENUMEROTE	GameFightShowFighterMessage	GameFightShowFighterMessage	5864	5747		242	273
+RENUMEROTE	GameFightShowFighterRandomStaticPoseMessage	GameFightShowFighterRandomStaticPoseMessage	6218	7583		242	273
+RENUMEROTE	GameFightSpectatePlayerRequestMessage	GameFightSpectatePlayerRequestMessage	6474	8994		242	273
+RENUMEROTE	GameFightSpectatorJoinMessage	GameFightSpectatorJoinMessage	6504	3924		242	273
+RENUMEROTE	GameFightSynchronizeMessage	GameFightSynchronizeMessage	5921	8985		242	273
+RENUMEROTE	GameFightTurnEndMessage	GameFightTurnEndMessage	719	7900		242	273
+RENUMEROTE	GameFightTurnFinishMessage	GameFightTurnFinishMessage	718	3915		242	273
+RENUMEROTE	GameFightTurnListMessage	GameFightTurnListMessage	713	1243		242	273
+RENUMEROTE	GameFightTurnReadyMessage	GameFightTurnReadyMessage	716	9655		242	273
+RENUMEROTE	GameFightTurnReadyRequestMessage	GameFightTurnReadyRequestMessage	715	379		242	273
+RENUMEROTE	GameFightTurnResumeMessage	GameFightTurnResumeMessage	6307	7389		242	273
+RENUMEROTE	GameFightTurnStartMessage	GameFightTurnStartMessage	714	217		242	273
+RENUMEROTE	GameFightTurnStartPlayingMessage	GameFightTurnStartPlayingMessage	6465	3867		242	273
+RENUMEROTE	GameMapChangeOrientationMessage	GameMapChangeOrientationMessage	946	8741		242	273
+RENUMEROTE	GameMapChangeOrientationRequestMessage	GameMapChangeOrientationRequestMessage	945	1190		242	273
+RENUMEROTE	GameMapChangeOrientationsMessage	GameMapChangeOrientationsMessage	6155	3256		242	273
+RENUMEROTE	GameMapMovementCancelMessage	GameMapMovementCancelMessage	953	2486		242	273
+RENUMEROTE	GameMapMovementConfirmMessage	GameMapMovementConfirmMessage	952	3317		242	273
+RENUMEROTE	GameMapMovementMessage	GameMapMovementMessage	951	6493		242	273
+RENUMEROTE	GameMapNoMovementMessage	GameMapNoMovementMessage	954	6322		242	273
+RENUMEROTE	GameRefreshMonsterBoostsMessage	GameRefreshMonsterBoostsMessage	6618	3997		242	273
+RENUMEROTE	GameRolePlayAggressionMessage	GameRolePlayAggressionMessage	6073	6235		242	273
+RENUMEROTE	GameRolePlayArenaRegistrationStatusMessage	GameRolePlayArenaRegistrationStatusMessage	6284	4586		242	273
+RENUMEROTE	GameRolePlayArenaUnregisterMessage	GameRolePlayArenaUnregisterMessage	6282	326		242	273
+RENUMEROTE	GameRolePlayAttackMonsterRequestMessage	GameRolePlayAttackMonsterRequestMessage	6191	9329		242	273
+RENUMEROTE	GameRolePlayDelayedActionFinishedMessage	GameRolePlayDelayedActionFinishedMessage	6150	7896		242	273
+RENUMEROTE	GameRolePlayDelayedActionMessage	GameRolePlayDelayedActionMessage	6153	4358		242	273
+RENUMEROTE	GameRolePlayFreeSoulRequestMessage	GameRolePlayFreeSoulRequestMessage	745	3818		242	273
+RENUMEROTE	GameRolePlayGameOverMessage	GameRolePlayGameOverMessage	746	3824		242	273
+RENUMEROTE	GameRolePlayPlayerFightRequestMessage	GameRolePlayPlayerFightRequestMessage	5731	6628		242	273
+RENUMEROTE	GameRolePlayShowActorMessage	GameRolePlayShowActorMessage	5632	1818		242	273
+RENUMEROTE	GameRolePlayShowActorWithEventMessage	GameRolePlayShowActorWithEventMessage	6407	5		242	273
+RENUMEROTE	GameRolePlayShowChallengeMessage	GameRolePlayShowChallengeMessage	301	7254		242	273
+RENUMEROTE	GameRolePlayShowMultipleActorsMessage	GameRolePlayShowMultipleActorsMessage	6712	323		242	273
+RENUMEROTE	GoldAddedMessage	GoldAddedMessage	6030	1521		242	273
+RENUMEROTE	GuestLimitationMessage	GuestLimitationMessage	6506	7707		242	273
+RENUMEROTE	GuestModeMessage	GuestModeMessage	6505	5810		242	273
+RENUMEROTE	GuidedModeQuitRequestMessage	GuidedModeQuitRequestMessage	6092	6433		242	273
+RENUMEROTE	GuidedModeReturnRequestMessage	GuidedModeReturnRequestMessage	6088	625		242	273
+RENUMEROTE	GuildBulletinMessage	GuildBulletinMessage	6689	1996		242	273
+RENUMEROTE	GuildBulletinSetErrorMessage	GuildBulletinSetErrorMessage	6691	8324		242	273
+RENUMEROTE	GuildCharacsUpgradeRequestMessage	GuildCharacsUpgradeRequestMessage	5706	237		242	273
+RENUMEROTE	GuildCreationResultMessage	GuildCreationResultMessage	5554	4018		242	273
+RENUMEROTE	GuildCreationStartedMessage	GuildCreationStartedMessage	5920	5711		242	273
+RENUMEROTE	GuildFactsErrorMessage	GuildFactsErrorMessage	6424	7863		242	273
+RENUMEROTE	GuildFactsRequestMessage	GuildFactsRequestMessage	6404	6650		242	273
+RENUMEROTE	GuildGetInformationsMessage	GuildGetInformationsMessage	5550	592		242	273
+RENUMEROTE	GuildHouseRemoveMessage	GuildHouseRemoveMessage	6180	4888		242	273
+RENUMEROTE	GuildHouseUpdateInformationMessage	GuildHouseUpdateInformationMessage	6181	1590		242	273
+RENUMEROTE	GuildHousesInformationMessage	GuildHousesInformationMessage	5919	5207		242	273
+RENUMEROTE	GuildInformationsPaddocksMessage	GuildInformationsPaddocksMessage	5959	7168		242	273
+RENUMEROTE	GuildInvitationAnswerMessage	GuildInvitationAnswerMessage	5556	5328		242	273
+RENUMEROTE	GuildInvitationMessage	GuildInvitationMessage	5551	8788		242	273
+RENUMEROTE	GuildInvitationStateRecrutedMessage	GuildInvitationStateRecrutedMessage	5548	9851		242	273
+RENUMEROTE	GuildInvitationStateRecruterMessage	GuildInvitationStateRecruterMessage	5563	2343		242	273
+RENUMEROTE	GuildKickRequestMessage	GuildKickRequestMessage	5887	9738		242	273
+RENUMEROTE	GuildLeftMessage	GuildLeftMessage	5562	3266		242	273
+RENUMEROTE	GuildLevelUpMessage	GuildLevelUpMessage	6062	5408		242	273
+RENUMEROTE	GuildListMessage	GuildListMessage	6413	669		242	273
+RENUMEROTE	GuildMemberLeavingMessage	GuildMemberLeavingMessage	5923	7246		242	273
+RENUMEROTE	GuildMemberOnlineStatusMessage	GuildMemberOnlineStatusMessage	6061	8750		242	273
+RENUMEROTE	GuildMembershipMessage	GuildMembershipMessage	5835	2644		242	273
+RENUMEROTE	GuildModificationNameValidMessage	GuildModificationNameValidMessage	6327	5733		242	273
+RENUMEROTE	GuildModificationStartedMessage	GuildModificationStartedMessage	6324	515		242	273
+RENUMEROTE	GuildMotdMessage	GuildMotdMessage	6590	4318		242	273
+RENUMEROTE	GuildMotdSetErrorMessage	GuildMotdSetErrorMessage	6591	6422		242	273
+RENUMEROTE	GuildMotdSetRequestMessage	GuildMotdSetRequestMessage	6588	3388		242	273
+RENUMEROTE	GuildPaddockBoughtMessage	GuildPaddockBoughtMessage	5952	4625		242	273
+RENUMEROTE	GuildSpellUpgradeRequestMessage	GuildSpellUpgradeRequestMessage	5699	5991		242	273
+RENUMEROTE	HavenBagFurnituresMessage	HavenBagFurnituresMessage	6634	135		242	273
+RENUMEROTE	HavenBagFurnituresRequestMessage	HavenBagFurnituresRequestMessage	6637	5127		242	273
+RENUMEROTE	HavenBagPackListMessage	HavenBagPackListMessage	6620	9897		242	273
+RENUMEROTE	HavenBagPermissionsUpdateMessage	HavenBagPermissionsUpdateMessage	6713	7957		242	273
+RENUMEROTE	HavenBagPermissionsUpdateRequestMessage	HavenBagPermissionsUpdateRequestMessage	6714	958		242	273
+RENUMEROTE	HelloConnectMessage	HelloConnectMessage	3	5586		242	273
+RENUMEROTE	HelloGameMessage	HelloGameMessage	101	708		242	273
+RENUMEROTE	HouseBuyRequestMessage	HouseBuyRequestMessage	5738	5849		242	273
+RENUMEROTE	HouseBuyResultMessage	HouseBuyResultMessage	5735	4284		242	273
+RENUMEROTE	HouseGuildNoneMessage	HouseGuildNoneMessage	5701	7676		242	273
+RENUMEROTE	HouseGuildRightsMessage	HouseGuildRightsMessage	5703	8722		242	273
+RENUMEROTE	HouseGuildRightsViewMessage	HouseGuildRightsViewMessage	5700	9956		242	273
+RENUMEROTE	HouseGuildShareRequestMessage	HouseGuildShareRequestMessage	5704	5369		242	273
+RENUMEROTE	HouseKickRequestMessage	HouseKickRequestMessage	5698	7559		242	273
+RENUMEROTE	HouseLockFromInsideRequestMessage	HouseLockFromInsideRequestMessage	5885	9529		242	273
+RENUMEROTE	HousePropertiesMessage	HousePropertiesMessage	5734	3385		242	273
+RENUMEROTE	HouseSellFromInsideRequestMessage	HouseSellFromInsideRequestMessage	5884	6061		242	273
+RENUMEROTE	HouseSellRequestMessage	HouseSellRequestMessage	5697	1606		242	273
+RENUMEROTE	HouseToSellListMessage	HouseToSellListMessage	6140	8317		242	273
+RENUMEROTE	HouseToSellListRequestMessage	HouseToSellListRequestMessage	6139	6950		242	273
+RENUMEROTE	IdentificationFailedBannedMessage	IdentificationFailedBannedMessage	6174	8668		242	273
+RENUMEROTE	IdentificationFailedForBadVersionMessage	IdentificationFailedForBadVersionMessage	21	4124		242	273
+RENUMEROTE	IdentificationFailedMessage	IdentificationFailedMessage	20	4567		242	273
+RENUMEROTE	IgnoredAddFailureMessage	IgnoredAddFailureMessage	5679	7186		242	273
+RENUMEROTE	IgnoredAddedMessage	IgnoredAddedMessage	5678	3797		242	273
+RENUMEROTE	IgnoredDeleteRequestMessage	IgnoredDeleteRequestMessage	5680	7645		242	273
+RENUMEROTE	IgnoredGetListMessage	IgnoredGetListMessage	5676	8068		242	273
+RENUMEROTE	IgnoredListMessage	IgnoredListMessage	5674	8123		242	273
+RENUMEROTE	InteractiveElementUpdatedMessage	InteractiveElementUpdatedMessage	5708	8912		242	273
+RENUMEROTE	InteractiveMapUpdateMessage	InteractiveMapUpdateMessage	5002	9493		242	273
+RENUMEROTE	InteractiveUseEndedMessage	InteractiveUseEndedMessage	6112	2897		242	273
+RENUMEROTE	InteractiveUseErrorMessage	InteractiveUseErrorMessage	6384	2991		242	273
+RENUMEROTE	InteractiveUseRequestMessage	InteractiveUseRequestMessage	5001	1424		242	273
+RENUMEROTE	InteractiveUseWithParamRequestMessage	InteractiveUseWithParamRequestMessage	6715	8117		242	273
+RENUMEROTE	InteractiveUsedMessage	InteractiveUsedMessage	5745	3900		242	273
+RENUMEROTE	InventoryContentMessage	InventoryContentMessage	3016	8042		242	273
+RENUMEROTE	InviteInHavenBagClosedMessage	InviteInHavenBagClosedMessage	6645	8001		242	273
+RENUMEROTE	InviteInHavenBagMessage	InviteInHavenBagMessage	6642	949		242	273
+RENUMEROTE	InviteInHavenBagOfferMessage	InviteInHavenBagOfferMessage	6643	5037		242	273
+RENUMEROTE	ItemNoMoreAvailableMessage	ItemNoMoreAvailableMessage	5769	2498		242	273
+RENUMEROTE	JobAllowMultiCraftRequestMessage	JobAllowMultiCraftRequestMessage	5748	1737		242	273
+RENUMEROTE	JobBookSubscribeRequestMessage	JobBookSubscribeRequestMessage	6592	7221		242	273
+RENUMEROTE	JobBookSubscriptionMessage	JobBookSubscriptionMessage	6593	6723		242	273
+RENUMEROTE	JobCrafterDirectoryAddMessage	JobCrafterDirectoryAddMessage	5651	9328		242	273
+RENUMEROTE	JobCrafterDirectoryDefineSettingsMessage	JobCrafterDirectoryDefineSettingsMessage	5649	5859		242	273
+RENUMEROTE	JobCrafterDirectoryEntryMessage	JobCrafterDirectoryEntryMessage	6044	2116		242	273
+RENUMEROTE	JobCrafterDirectoryEntryRequestMessage	JobCrafterDirectoryEntryRequestMessage	6043	1749		242	273
+RENUMEROTE	JobCrafterDirectoryListMessage	JobCrafterDirectoryListMessage	6046	8710		242	273
+RENUMEROTE	JobCrafterDirectoryListRequestMessage	JobCrafterDirectoryListRequestMessage	6047	5876		242	273
+RENUMEROTE	JobCrafterDirectoryRemoveMessage	JobCrafterDirectoryRemoveMessage	5653	3245		242	273
+RENUMEROTE	JobCrafterDirectorySettingsMessage	JobCrafterDirectorySettingsMessage	5652	9206		242	273
+RENUMEROTE	JobDescriptionMessage	JobDescriptionMessage	5655	9539		242	273
+RENUMEROTE	JobExperienceMultiUpdateMessage	JobExperienceMultiUpdateMessage	5809	8763		242	273
+RENUMEROTE	JobExperienceOtherPlayerUpdateMessage	JobExperienceOtherPlayerUpdateMessage	6599	1331		242	273
+RENUMEROTE	JobExperienceUpdateMessage	JobExperienceUpdateMessage	5654	6979		242	273
+RENUMEROTE	JobLevelUpMessage	JobLevelUpMessage	5656	386		242	273
+RENUMEROTE	JobMultiCraftAvailableSkillsMessage	JobMultiCraftAvailableSkillsMessage	5747	8902		242	273
+RENUMEROTE	KamasUpdateMessage	KamasUpdateMessage	5537	654		242	273
+RENUMEROTE	KickHavenBagRequestMessage	KickHavenBagRequestMessage	6652	3554		242	273
+RENUMEROTE	LeaveDialogMessage	LeaveDialogMessage	5502	6689		242	273
+RENUMEROTE	LeaveDialogRequestMessage	LeaveDialogRequestMessage	5501	9643		242	273
+RENUMEROTE	LifePointsRegenBeginMessage	LifePointsRegenBeginMessage	5684	9965		242	273
+RENUMEROTE	LifePointsRegenEndMessage	LifePointsRegenEndMessage	5686	6833		242	273
+RENUMEROTE	LivingObjectChangeSkinRequestMessage	LivingObjectChangeSkinRequestMessage	5725	2511		242	273
+RENUMEROTE	LivingObjectDissociateMessage	LivingObjectDissociateMessage	5723	8437		242	273
+RENUMEROTE	LivingObjectMessageRequestMessage	LivingObjectMessageRequestMessage	6066	5726		242	273
+RENUMEROTE	LocalizedChatSmileyMessage	LocalizedChatSmileyMessage	6185	8626		242	273
+RENUMEROTE	LockableChangeCodeMessage	LockableChangeCodeMessage	5666	9751		242	273
+RENUMEROTE	LockableCodeResultMessage	LockableCodeResultMessage	5672	7522		242	273
+RENUMEROTE	LockableShowCodeDialogMessage	LockableShowCodeDialogMessage	5740	9268		242	273
+RENUMEROTE	LockableStateUpdateAbstractMessage	LockableStateUpdateAbstractMessage	5671	107		242	273
+RENUMEROTE	LockableStateUpdateHouseDoorMessage	LockableStateUpdateHouseDoorMessage	5668	7692		242	273
+RENUMEROTE	LockableUseCodeMessage	LockableUseCodeMessage	5667	3147		242	273
+RENUMEROTE	LoginQueueStatusMessage	LoginQueueStatusMessage	10	3098		242	273
+RENUMEROTE	MapComplementaryInformationsDataInHavenBagMessage	MapComplementaryInformationsDataInHavenBagMessage	6622	2021		242	273
+RENUMEROTE	MapComplementaryInformationsDataInHouseMessage	MapComplementaryInformationsDataInHouseMessage	6130	1071		242	273
+RENUMEROTE	MapComplementaryInformationsWithCoordsMessage	MapComplementaryInformationsWithCoordsMessage	6268	5198		242	273
+RENUMEROTE	MapFightCountMessage	MapFightCountMessage	210	2838		242	273
+RENUMEROTE	MapObstacleUpdateMessage	MapObstacleUpdateMessage	6051	75		242	273
+RENUMEROTE	MapRunningFightDetailsExtendedMessage	MapRunningFightDetailsExtendedMessage	6500	8895		242	273
+RENUMEROTE	MapRunningFightListMessage	MapRunningFightListMessage	5743	8225		242	273
+RENUMEROTE	MapRunningFightListRequestMessage	MapRunningFightListRequestMessage	5742	1925		242	273
+RENUMEROTE	MigratedServerListMessage	MigratedServerListMessage	6731	2491		242	273
+RENUMEROTE	MimicryObjectAssociatedMessage	MimicryObjectAssociatedMessage	6462	1127		242	273
+RENUMEROTE	MimicryObjectEraseRequestMessage	MimicryObjectEraseRequestMessage	6457	7124		242	273
+RENUMEROTE	MimicryObjectErrorMessage	MimicryObjectErrorMessage	6461	3920		242	273
+RENUMEROTE	MimicryObjectFeedAndAssociateRequestMessage	MimicryObjectFeedAndAssociateRequestMessage	6460	3754		242	273
+RENUMEROTE	MimicryObjectPreviewMessage	MimicryObjectPreviewMessage	6458	2255		242	273
+RENUMEROTE	MoodSmileyRequestMessage	MoodSmileyRequestMessage	6192	6420		242	273
+RENUMEROTE	MoodSmileyResultMessage	MoodSmileyResultMessage	6196	1383		242	273
+RENUMEROTE	MoodSmileyUpdateMessage	MoodSmileyUpdateMessage	6388	2215		242	273
+RENUMEROTE	MountDataErrorMessage	MountDataErrorMessage	6172	2483		242	273
+RENUMEROTE	MountDataMessage	MountDataMessage	5973	137		242	273
+RENUMEROTE	MountEmoteIconUsedOkMessage	MountEmoteIconUsedOkMessage	5978	3490		242	273
+RENUMEROTE	MountEquipedErrorMessage	MountEquipedErrorMessage	5963	5171		242	273
+RENUMEROTE	MountFeedRequestMessage	MountFeedRequestMessage	6189	3038		242	273
+RENUMEROTE	MountHarnessColorsUpdateRequestMessage	MountHarnessColorsUpdateRequestMessage	6697	4391		242	273
+RENUMEROTE	MountHarnessDissociateRequestMessage	MountHarnessDissociateRequestMessage	6696	7150		242	273
+RENUMEROTE	MountInformationInPaddockRequestMessage	MountInformationInPaddockRequestMessage	5975	7545		242	273
+RENUMEROTE	MountInformationRequestMessage	MountInformationRequestMessage	5972	826		242	273
+RENUMEROTE	MountReleaseRequestMessage	MountReleaseRequestMessage	5980	1227		242	273
+RENUMEROTE	MountReleasedMessage	MountReleasedMessage	6308	7843		242	273
+RENUMEROTE	MountRenameRequestMessage	MountRenameRequestMessage	5987	4115		242	273
+RENUMEROTE	MountRenamedMessage	MountRenamedMessage	5983	2688		242	273
+RENUMEROTE	MountSetMessage	MountSetMessage	5968	110		242	273
+RENUMEROTE	MountSetXpRatioRequestMessage	MountSetXpRatioRequestMessage	5989	4347		242	273
+RENUMEROTE	MountSterilizeRequestMessage	MountSterilizeRequestMessage	5962	658		242	273
+RENUMEROTE	MountSterilizedMessage	MountSterilizedMessage	5977	9430		242	273
+RENUMEROTE	MountToggleRidingRequestMessage	MountToggleRidingRequestMessage	5976	1106		242	273
+RENUMEROTE	MountUnSetMessage	MountUnSetMessage	5982	8582		242	273
+RENUMEROTE	MountXpRatioMessage	MountXpRatioMessage	5970	9050		242	273
+RENUMEROTE	NicknameAcceptedMessage	NicknameAcceptedMessage	5641	8083		242	273
+RENUMEROTE	NicknameChoiceRequestMessage	NicknameChoiceRequestMessage	5639	4608		242	273
+RENUMEROTE	NicknameRefusedMessage	NicknameRefusedMessage	5638	4482		242	273
+RENUMEROTE	NicknameRegistrationMessage	NicknameRegistrationMessage	5640	8872		242	273
+RENUMEROTE	NotificationByServerMessage	NotificationByServerMessage	6103	3884		242	273
+RENUMEROTE	NotificationListMessage	NotificationListMessage	6087	7443		242	273
+RENUMEROTE	NotificationResetMessage	NotificationResetMessage	6089	4503		242	273
+RENUMEROTE	NotificationUpdateFlagMessage	NotificationUpdateFlagMessage	6090	8455		242	273
+RENUMEROTE	NpcDialogQuestionMessage	NpcDialogQuestionMessage	5617	5481		242	273
+RENUMEROTE	NpcDialogReplyMessage	NpcDialogReplyMessage	5616	4752		242	273
+RENUMEROTE	NpcGenericActionFailureMessage	NpcGenericActionFailureMessage	5900	5877		242	273
+RENUMEROTE	NumericWhoIsMessage	NumericWhoIsMessage	6297	2693		242	273
+RENUMEROTE	NumericWhoIsRequestMessage	NumericWhoIsRequestMessage	6298	2359		242	273
+RENUMEROTE	ObjectAveragePricesErrorMessage	ObjectAveragePricesErrorMessage	6336	5074		242	273
+RENUMEROTE	ObjectAveragePricesGetMessage	ObjectAveragePricesGetMessage	6334	2730		242	273
+RENUMEROTE	ObjectDeleteMessage	ObjectDeleteMessage	3022	5997		242	273
+RENUMEROTE	ObjectDeletedMessage	ObjectDeletedMessage	3024	6668		242	273
+RENUMEROTE	ObjectDropMessage	ObjectDropMessage	3005	2531		242	273
+RENUMEROTE	ObjectErrorMessage	ObjectErrorMessage	3004	2089		242	273
+RENUMEROTE	ObjectGroundRemovedMessage	ObjectGroundRemovedMessage	3014	5855		242	273
+RENUMEROTE	ObjectGroundRemovedMultipleMessage	ObjectGroundRemovedMultipleMessage	5944	3407		242	273
+RENUMEROTE	ObjectJobAddedMessage	ObjectJobAddedMessage	6014	5441		242	273
+RENUMEROTE	ObjectModifiedMessage	ObjectModifiedMessage	3029	7821		242	273
+RENUMEROTE	ObjectUseMessage	ObjectUseMessage	3019	1372		242	273
+RENUMEROTE	ObjectUseMultipleMessage	ObjectUseMultipleMessage	6234	1310		242	273
+RENUMEROTE	ObjectUseOnCellMessage	ObjectUseOnCellMessage	3013	4046		242	273
+RENUMEROTE	ObjectUseOnCharacterMessage	ObjectUseOnCharacterMessage	3003	2165		242	273
+RENUMEROTE	ObjectsAddedMessage	ObjectsAddedMessage	6033	1527		242	273
+RENUMEROTE	ObjectsDeletedMessage	ObjectsDeletedMessage	6034	5219		242	273
+RENUMEROTE	ObjectsQuantityMessage	ObjectsQuantityMessage	6206	5664		242	273
+RENUMEROTE	ObtainedItemWithBonusMessage	ObtainedItemWithBonusMessage	6520	7133		242	273
+RENUMEROTE	OnConnectionEventMessage	OnConnectionEventMessage	5726	999		242	273
+RENUMEROTE	OpenHavenBagFurnitureSequenceRequestMessage	OpenHavenBagFurnitureSequenceRequestMessage	6635	7398		242	273
+RENUMEROTE	OrnamentGainedMessage	OrnamentGainedMessage	6368	9883		242	273
+RENUMEROTE	OrnamentSelectErrorMessage	OrnamentSelectErrorMessage	6370	6401		242	273
+RENUMEROTE	OrnamentSelectRequestMessage	OrnamentSelectRequestMessage	6374	732		242	273
+RENUMEROTE	OrnamentSelectedMessage	OrnamentSelectedMessage	6369	7251		242	273
+RENUMEROTE	PaddockBuyRequestMessage	PaddockBuyRequestMessage	5951	1669		242	273
+RENUMEROTE	PaddockMoveItemRequestMessage	PaddockMoveItemRequestMessage	6052	6071		242	273
+RENUMEROTE	PaddockPropertiesMessage	PaddockPropertiesMessage	5824	4650		242	273
+RENUMEROTE	PaddockRemoveItemRequestMessage	PaddockRemoveItemRequestMessage	5958	2191		242	273
+RENUMEROTE	PaddockSellBuyDialogMessage	PaddockSellBuyDialogMessage	6018	4196		242	273
+RENUMEROTE	PaddockSellRequestMessage	PaddockSellRequestMessage	5953	6528		242	273
+RENUMEROTE	PaddockToSellListMessage	PaddockToSellListMessage	6138	7795		242	273
+RENUMEROTE	PaddockToSellListRequestMessage	PaddockToSellListRequestMessage	6141	101		242	273
+RENUMEROTE	PartyAbdicateThroneMessage	PartyAbdicateThroneMessage	6080	7804		242	273
+RENUMEROTE	PartyAcceptInvitationMessage	PartyAcceptInvitationMessage	5580	4342		242	273
+RENUMEROTE	PartyCancelInvitationMessage	PartyCancelInvitationMessage	6254	425		242	273
+RENUMEROTE	PartyCancelInvitationNotificationMessage	PartyCancelInvitationNotificationMessage	6251	1327		242	273
+RENUMEROTE	PartyCannotJoinErrorMessage	PartyCannotJoinErrorMessage	5583	6016		242	273
+RENUMEROTE	PartyDeletedMessage	PartyDeletedMessage	6261	8038		242	273
+RENUMEROTE	PartyFollowMemberRequestMessage	PartyFollowMemberRequestMessage	5577	7118		242	273
+RENUMEROTE	PartyFollowStatusUpdateMessage	PartyFollowStatusUpdateMessage	5581	4068		242	273
+RENUMEROTE	PartyFollowThisMemberRequestMessage	PartyFollowThisMemberRequestMessage	5588	327		242	273
+RENUMEROTE	PartyInvitationArenaRequestMessage	PartyInvitationArenaRequestMessage	6283	2774		242	273
+RENUMEROTE	PartyInvitationCancelledForGuestMessage	PartyInvitationCancelledForGuestMessage	6256	7618		242	273
+RENUMEROTE	PartyInvitationDetailsRequestMessage	PartyInvitationDetailsRequestMessage	6264	8629		242	273
+RENUMEROTE	PartyInvitationDungeonDetailsMessage	PartyInvitationDungeonDetailsMessage	6262	2367		242	273
+RENUMEROTE	PartyInvitationDungeonMessage	PartyInvitationDungeonMessage	6244	3539		242	273
+RENUMEROTE	PartyInvitationDungeonRequestMessage	PartyInvitationDungeonRequestMessage	6245	5145		242	273
+RENUMEROTE	PartyInvitationMessage	PartyInvitationMessage	5586	729		242	273
+RENUMEROTE	PartyJoinMessage	PartyJoinMessage	5576	6577		242	273
+RENUMEROTE	PartyKickRequestMessage	PartyKickRequestMessage	5592	7926		242	273
+RENUMEROTE	PartyKickedByMessage	PartyKickedByMessage	5590	4958		242	273
+RENUMEROTE	PartyLeaderUpdateMessage	PartyLeaderUpdateMessage	5578	6439		242	273
+RENUMEROTE	PartyLeaveMessage	PartyLeaveMessage	5594	83		242	273
+RENUMEROTE	PartyLeaveRequestMessage	PartyLeaveRequestMessage	5593	6779		242	273
+RENUMEROTE	PartyLocateMembersMessage	PartyLocateMembersMessage	5595	8066		242	273
+RENUMEROTE	PartyLocateMembersRequestMessage	PartyLocateMembersRequestMessage	5587	4987		242	273
+RENUMEROTE	PartyLoyaltyStatusMessage	PartyLoyaltyStatusMessage	6270	5384		242	273
+RENUMEROTE	PartyMemberEjectedMessage	PartyMemberEjectedMessage	6252	9438		242	273
+RENUMEROTE	PartyMemberRemoveMessage	PartyMemberRemoveMessage	5579	7328		242	273
+RENUMEROTE	PartyModifiableStatusMessage	PartyModifiableStatusMessage	6277	2363		242	273
+RENUMEROTE	PartyNameSetErrorMessage	PartyNameSetErrorMessage	6501	7989		242	273
+RENUMEROTE	PartyNameSetRequestMessage	PartyNameSetRequestMessage	6503	9125		242	273
+RENUMEROTE	PartyNameUpdateMessage	PartyNameUpdateMessage	6502	9591		242	273
+RENUMEROTE	PartyNewGuestMessage	PartyNewGuestMessage	6260	7060		242	273
+RENUMEROTE	PartyNewMemberMessage	PartyNewMemberMessage	6306	4529		242	273
+RENUMEROTE	PartyPledgeLoyaltyRequestMessage	PartyPledgeLoyaltyRequestMessage	6269	7730		242	273
+RENUMEROTE	PartyRefuseInvitationMessage	PartyRefuseInvitationMessage	5582	9721		242	273
+RENUMEROTE	PartyRefuseInvitationNotificationMessage	PartyRefuseInvitationNotificationMessage	5596	1724		242	273
+RENUMEROTE	PartyRestrictedMessage	PartyRestrictedMessage	6175	2879		242	273
+RENUMEROTE	PartyStopFollowRequestMessage	PartyStopFollowRequestMessage	5574	8393		242	273
+RENUMEROTE	PartyUpdateMessage	PartyUpdateMessage	5575	5707		242	273
+RENUMEROTE	PauseDialogMessage	PauseDialogMessage	6012	3238		242	273
+RENUMEROTE	PlayerStatusUpdateErrorMessage	PlayerStatusUpdateErrorMessage	6385	3860		242	273
+RENUMEROTE	PlayerStatusUpdateMessage	PlayerStatusUpdateMessage	6386	3675		242	273
+RENUMEROTE	PlayerStatusUpdateRequestMessage	PlayerStatusUpdateRequestMessage	6387	4213		242	273
+RENUMEROTE	PopupWarningMessage	PopupWarningMessage	6134	1024		242	273
+RENUMEROTE	PortalUseRequestMessage	PortalUseRequestMessage	6492	6790		242	273
+RENUMEROTE	PrismAttackRequestMessage	PrismAttackRequestMessage	6042	6412		242	273
+RENUMEROTE	QuestListMessage	QuestListMessage	5626	3323		242	273
+RENUMEROTE	QuestListRequestMessage	QuestListRequestMessage	5623	7114		242	273
+RENUMEROTE	QuestObjectiveValidatedMessage	QuestObjectiveValidatedMessage	6098	3508		242	273
+RENUMEROTE	QuestObjectiveValidationMessage	QuestObjectiveValidationMessage	6085	4654		242	273
+RENUMEROTE	QuestStartRequestMessage	QuestStartRequestMessage	5643	8398		242	273
+RENUMEROTE	QuestStartedMessage	QuestStartedMessage	6091	8372		242	273
+RENUMEROTE	QuestStepInfoMessage	QuestStepInfoMessage	5625	830		242	273
+RENUMEROTE	QuestStepInfoRequestMessage	QuestStepInfoRequestMessage	5622	5778		242	273
+RENUMEROTE	QuestStepStartedMessage	QuestStepStartedMessage	6096	2945		242	273
+RENUMEROTE	QuestStepValidatedMessage	QuestStepValidatedMessage	6099	4373		242	273
+RENUMEROTE	QuestValidatedMessage	QuestValidatedMessage	6097	1736		242	273
+RENUMEROTE	QueueStatusMessage	QueueStatusMessage	6100	4838		242	273
+RENUMEROTE	RecycleResultMessage	RecycleResultMessage	6601	4137		242	273
+RENUMEROTE	RefreshFollowedQuestsOrderRequestMessage	RefreshFollowedQuestsOrderRequestMessage	6722	3965		242	273
+RENUMEROTE	SelectedServerDataExtendedMessage	SelectedServerDataExtendedMessage	6469	7269		242	273
+RENUMEROTE	SelectedServerRefusedMessage	SelectedServerRefusedMessage	41	277		242	273
+RENUMEROTE	SequenceEndMessage	SequenceEndMessage	956	1586		242	273
+RENUMEROTE	SequenceNumberMessage	SequenceNumberMessage	6317	1188		242	273
+RENUMEROTE	SequenceNumberRequestMessage	SequenceNumberRequestMessage	6316	594		242	273
+RENUMEROTE	SequenceStartMessage	SequenceStartMessage	955	7231		242	273
+RENUMEROTE	ServerExperienceModificatorMessage	ServerExperienceModificatorMessage	6237	9259		242	273
+RENUMEROTE	ServerSelectionMessage	ServerSelectionMessage	40	4134		242	273
+RENUMEROTE	ServerSessionConstantsMessage	ServerSessionConstantsMessage	6434	9337		242	273
+RENUMEROTE	ServerStatusUpdateMessage	ServerStatusUpdateMessage	50	4424		242	273
+RENUMEROTE	SetCharacterRestrictionsMessage	SetCharacterRestrictionsMessage	170	1324		242	273
+RENUMEROTE	SetEnableAVARequestMessage	SetEnableAVARequestMessage	6443	6858		242	273
+RENUMEROTE	SetEnablePVPRequestMessage	SetEnablePVPRequestMessage	1810	3251		242	273
+RENUMEROTE	ShortcutBarAddErrorMessage	ShortcutBarAddErrorMessage	6227	1627		242	273
+RENUMEROTE	ShortcutBarAddRequestMessage	ShortcutBarAddRequestMessage	6225	6013		242	273
+RENUMEROTE	ShortcutBarContentMessage	ShortcutBarContentMessage	6231	9158		242	273
+RENUMEROTE	ShortcutBarRefreshMessage	ShortcutBarRefreshMessage	6229	5972		242	273
+RENUMEROTE	ShortcutBarRemoveErrorMessage	ShortcutBarRemoveErrorMessage	6222	4981		242	273
+RENUMEROTE	ShortcutBarRemoveRequestMessage	ShortcutBarRemoveRequestMessage	6228	2126		242	273
+RENUMEROTE	ShortcutBarRemovedMessage	ShortcutBarRemovedMessage	6224	8757		242	273
+RENUMEROTE	ShortcutBarReplacedMessage	ShortcutBarReplacedMessage	6706	125		242	273
+RENUMEROTE	ShortcutBarSwapErrorMessage	ShortcutBarSwapErrorMessage	6226	6501		242	273
+RENUMEROTE	ShortcutBarSwapRequestMessage	ShortcutBarSwapRequestMessage	6230	45		242	273
+RENUMEROTE	ShowCellMessage	ShowCellMessage	5612	9194		242	273
+RENUMEROTE	ShowCellRequestMessage	ShowCellRequestMessage	5611	4804		242	273
+RENUMEROTE	ShowCellSpectatorMessage	ShowCellSpectatorMessage	6158	4927		242	273
+RENUMEROTE	SocialNoticeMessage	SocialNoticeMessage	6688	4859		242	273
+RENUMEROTE	SocialNoticeSetErrorMessage	SocialNoticeSetErrorMessage	6684	3100		242	273
+RENUMEROTE	SocialNoticeSetRequestMessage	SocialNoticeSetRequestMessage	6686	3682		242	273
+RENUMEROTE	SpellListMessage	SpellListMessage	1200	7427		242	273
+RENUMEROTE	SpellVariantActivationRequestMessage	SpellVariantActivationRequestMessage	6707	1715		242	273
+RENUMEROTE	SpouseGetInformationsMessage	SpouseGetInformationsMessage	6355	9594		242	273
+RENUMEROTE	SpouseInformationsMessage	SpouseInformationsMessage	6356	7779		242	273
+RENUMEROTE	SpouseStatusMessage	SpouseStatusMessage	6265	8361		242	273
+RENUMEROTE	StatedElementUpdatedMessage	StatedElementUpdatedMessage	5709	7859		242	273
+RENUMEROTE	StatedMapUpdateMessage	StatedMapUpdateMessage	5716	2054		242	273
+RENUMEROTE	StatsUpgradeRequestMessage	StatsUpgradeRequestMessage	5610	5002		242	273
+RENUMEROTE	StatsUpgradeResultMessage	StatsUpgradeResultMessage	5609	3065		242	273
+RENUMEROTE	StopToListenRunningFightRequestMessage	StopToListenRunningFightRequestMessage	6124	3109		242	273
+RENUMEROTE	StorageInventoryContentMessage	StorageInventoryContentMessage	5646	6526		242	273
+RENUMEROTE	StorageKamasUpdateMessage	StorageKamasUpdateMessage	5645	8968		242	273
+RENUMEROTE	StorageObjectRemoveMessage	StorageObjectRemoveMessage	5648	8450		242	273
+RENUMEROTE	StorageObjectUpdateMessage	StorageObjectUpdateMessage	5647	2670		242	273
+RENUMEROTE	StorageObjectsRemoveMessage	StorageObjectsRemoveMessage	6035	1673		242	273
+RENUMEROTE	StorageObjectsUpdateMessage	StorageObjectsUpdateMessage	6036	5323		242	273
+RENUMEROTE	SubscriptionLimitationMessage	SubscriptionLimitationMessage	5542	8244		242	273
+RENUMEROTE	SubscriptionZoneMessage	SubscriptionZoneMessage	5573	8183		242	273
+RENUMEROTE	SymbioticObjectAssociateRequestMessage	SymbioticObjectAssociateRequestMessage	6522	9614		242	273
+RENUMEROTE	SymbioticObjectAssociatedMessage	SymbioticObjectAssociatedMessage	6527	7196		242	273
+RENUMEROTE	SymbioticObjectErrorMessage	SymbioticObjectErrorMessage	6526	2086		242	273
+RENUMEROTE	SystemMessageDisplayMessage	SystemMessageDisplayMessage	189	5943		242	273
+RENUMEROTE	TaxCollectorErrorMessage	TaxCollectorErrorMessage	5634	2186		242	273
+RENUMEROTE	TaxCollectorMovementsOfflineMessage	TaxCollectorMovementsOfflineMessage	6611	4833		242	273
+RENUMEROTE	TeleportBuddiesAnswerMessage	TeleportBuddiesAnswerMessage	6294	368		242	273
+RENUMEROTE	TeleportBuddiesMessage	TeleportBuddiesMessage	6289	9554		242	273
+RENUMEROTE	TeleportBuddiesRequestedMessage	TeleportBuddiesRequestedMessage	6302	2454		242	273
+RENUMEROTE	TeleportHavenBagAnswerMessage	TeleportHavenBagAnswerMessage	6646	9340		242	273
+RENUMEROTE	TeleportHavenBagRequestMessage	TeleportHavenBagRequestMessage	6647	8587		242	273
+RENUMEROTE	TeleportOnSameMapMessage	TeleportOnSameMapMessage	6048	6669		242	273
+RENUMEROTE	TeleportToBuddyAnswerMessage	TeleportToBuddyAnswerMessage	6293	3588		242	273
+RENUMEROTE	TeleportToBuddyCloseMessage	TeleportToBuddyCloseMessage	6303	4968		242	273
+RENUMEROTE	TeleportToBuddyOfferMessage	TeleportToBuddyOfferMessage	6287	5491		242	273
+RENUMEROTE	TextInformationMessage	TextInformationMessage	780	3766		242	273
+RENUMEROTE	TitleGainedMessage	TitleGainedMessage	6364	455		242	273
+RENUMEROTE	TitleLostMessage	TitleLostMessage	6371	4759		242	273
+RENUMEROTE	TitleSelectErrorMessage	TitleSelectErrorMessage	6373	3338		242	273
+RENUMEROTE	TitleSelectRequestMessage	TitleSelectRequestMessage	6365	5375		242	273
+RENUMEROTE	TitleSelectedMessage	TitleSelectedMessage	6366	1653		242	273
+RENUMEROTE	TitlesAndOrnamentsListMessage	TitlesAndOrnamentsListMessage	6367	3749		242	273
+RENUMEROTE	TitlesAndOrnamentsListRequestMessage	TitlesAndOrnamentsListRequestMessage	6363	483		242	273
+RENUMEROTE	TreasureHuntAvailableRetryCountUpdateMessage	TreasureHuntAvailableRetryCountUpdateMessage	6491	1628		242	273
+RENUMEROTE	TreasureHuntDigRequestAnswerFailedMessage	TreasureHuntDigRequestAnswerFailedMessage	6509	2459		242	273
+RENUMEROTE	TreasureHuntDigRequestAnswerMessage	TreasureHuntDigRequestAnswerMessage	6484	3567		242	273
+RENUMEROTE	TreasureHuntDigRequestMessage	TreasureHuntDigRequestMessage	6485	6696		242	273
+RENUMEROTE	TreasureHuntFinishedMessage	TreasureHuntFinishedMessage	6483	1937		242	273
+RENUMEROTE	TreasureHuntFlagRemoveRequestMessage	TreasureHuntFlagRemoveRequestMessage	6510	2928		242	273
+RENUMEROTE	TreasureHuntFlagRequestAnswerMessage	TreasureHuntFlagRequestAnswerMessage	6507	6871		242	273
+RENUMEROTE	TreasureHuntFlagRequestMessage	TreasureHuntFlagRequestMessage	6508	6775		242	273
+RENUMEROTE	TreasureHuntGiveUpRequestMessage	TreasureHuntGiveUpRequestMessage	6487	143		242	273
+RENUMEROTE	TreasureHuntLegendaryRequestMessage	TreasureHuntLegendaryRequestMessage	6499	7183		242	273
+RENUMEROTE	TreasureHuntRequestAnswerMessage	TreasureHuntRequestAnswerMessage	6489	7470		242	273
+RENUMEROTE	TreasureHuntShowLegendaryUIMessage	TreasureHuntShowLegendaryUIMessage	6498	8368		242	273
+RENUMEROTE	UnfollowQuestObjectiveRequestMessage	UnfollowQuestObjectiveRequestMessage	6723	2136		242	273
+RENUMEROTE	UpdateLifePointsMessage	UpdateLifePointsMessage	5658	1395		242	273
+RENUMEROTE	WarnOnPermaDeathMessage	WarnOnPermaDeathMessage	6512	4732		242	273
+RENUMEROTE	WarnOnPermaDeathStateMessage	WarnOnPermaDeathStateMessage	6513	5243		242	273
+RENUMEROTE	WrapperObjectAssociatedMessage	WrapperObjectAssociatedMessage	6523	3871		242	273
+RENUMEROTE	WrapperObjectDissociateRequestMessage	WrapperObjectDissociateRequestMessage	6524	5244		242	273
+RENUMEROTE	WrapperObjectErrorMessage	WrapperObjectErrorMessage	6529	5215		242	273
+RENUMEROTE	ZaapRespawnSaveRequestMessage	ZaapRespawnSaveRequestMessage	6572	3373		242	273
+RESTRUCTURE	AccessoryPreviewRequestMessage	AccessoryPreviewRequestMessage	6518	375	ordre	242	273
+RESTRUCTURE	AccountCapabilitiesMessage	AccountCapabilitiesMessage	6216	8908	champs+ordre	242	273
+RESTRUCTURE	AchievementFinishedMessage	AchievementFinishedMessage	6208	1474	champs+ordre	242	273
+RESTRUCTURE	AchievementListMessage	AchievementListMessage	6205	9652	champs+ordre	242	273
+RESTRUCTURE	AcquaintanceSearchMessage	AcquaintanceSearchMessage	6144	1642	champs+ordre	242	273
+RESTRUCTURE	AdminCommandMessage	AdminCommandMessage	76	9773	champs+ordre	242	273
+RESTRUCTURE	AllianceBulletinSetRequestMessage	AllianceBulletinSetRequestMessage	6693	5995	champs+ordre	242	273
+RESTRUCTURE	AllianceCreationValidMessage	AllianceCreationValidMessage	6393	5413	champs+ordre	242	273
+RESTRUCTURE	AllianceFactsMessage	AllianceFactsMessage	6414	9269	champs+ordre	242	273
+RESTRUCTURE	AllianceInsiderInfoMessage	AllianceInsiderInfoMessage	6403	4562	champs+ordre	242	273
+RESTRUCTURE	AllianceInvitedMessage	AllianceInvitedMessage	6397	9032	champs+ordre	242	273
+RESTRUCTURE	AllianceJoinedMessage	AllianceJoinedMessage	6402	5220	champs+ordre	242	273
+RESTRUCTURE	AllianceKickRequestMessage	AllianceKickRequestMessage	6400	4578	champs+ordre	242	273
+RESTRUCTURE	AllianceListMessage	AllianceListMessage	6408	9553	champs+ordre	242	273
+RESTRUCTURE	AllianceModificationEmblemValidMessage	AllianceModificationEmblemValidMessage	6447	5179	champs+ordre	242	273
+RESTRUCTURE	AllianceModificationValidMessage	AllianceModificationValidMessage	6450	4239	champs+ordre	242	273
+RESTRUCTURE	BasicWhoIsMessage	BasicWhoIsMessage	180	8673	champs+ordre	242	273
+RESTRUCTURE	BasicWhoIsNoMatchMessage	BasicWhoIsNoMatchMessage	179	4629	champs+ordre	242	273
+RESTRUCTURE	BasicWhoIsRequestMessage	BasicWhoIsRequestMessage	181	6759	champs+ordre	242	273
+RESTRUCTURE	BulletinMessage	BulletinMessage	6695	4597	champs+ordre	242	273
+RESTRUCTURE	ChallengeResultMessage	ChallengeResultMessage	6019	5894	ordre	242	273
+RESTRUCTURE	ChangeMapMessage	ChangeMapMessage	221	5242	champs+ordre	242	273
+RESTRUCTURE	CharacterCreationResultMessage	CharacterCreationResultMessage	161	5979	champs+ordre	242	273
+RESTRUCTURE	CharacterLevelUpMessage	CharacterLevelUpMessage	5670	5797	ordre	242	273
+RESTRUCTURE	CharactersListMessage	CharactersListMessage	151	8016	champs+ordre	242	273
+RESTRUCTURE	ChatClientPrivateMessage	ChatClientPrivateMessage	851	7053	champs+ordre	242	273
+RESTRUCTURE	ChatServerMessage	ChatServerMessage	881	6772	champs+ordre	242	273
+RESTRUCTURE	CurrentMapMessage	CurrentMapMessage	220	7991	champs+ordre	242	273
+RESTRUCTURE	DebugHighlightCellsMessage	DebugHighlightCellsMessage	2001	9357	champs+ordre	242	273
+RESTRUCTURE	EmoteAddMessage	EmoteAddMessage	5644	2112	ordre	242	273
+RESTRUCTURE	EmoteListMessage	EmoteListMessage	5689	6038	ordre	242	273
+RESTRUCTURE	EmotePlayAbstractMessage	EmotePlayAbstractMessage	5690	8135	ordre	242	273
+RESTRUCTURE	EmotePlayErrorMessage	EmotePlayErrorMessage	5688	7853	ordre	242	273
+RESTRUCTURE	EmotePlayRequestMessage	EmotePlayRequestMessage	5685	7754	ordre	242	273
+RESTRUCTURE	EmoteRemoveMessage	EmoteRemoveMessage	5687	4524	ordre	242	273
+RESTRUCTURE	ErrorMapNotFoundMessage	ErrorMapNotFoundMessage	6197	8967	champs+ordre	242	273
+RESTRUCTURE	ExchangeBidHouseGenericItemAddedMessage	ExchangeBidHouseGenericItemAddedMessage	5947	3696	ordre	242	273
+RESTRUCTURE	ExchangeBidHouseGenericItemRemovedMessage	ExchangeBidHouseGenericItemRemovedMessage	5948	3347	ordre	242	273
+RESTRUCTURE	ExchangeBidHouseInListAddedMessage	ExchangeBidHouseInListAddedMessage	5949	9001	champs+ordre	242	273
+RESTRUCTURE	ExchangeBidHouseInListRemovedMessage	ExchangeBidHouseInListRemovedMessage	5950	4180	champs+ordre	242	273
+RESTRUCTURE	ExchangeBidHouseListMessage	ExchangeBidHouseListMessage	5807	6171	champs+ordre	242	273
+RESTRUCTURE	ExchangeBidHousePriceMessage	ExchangeBidHousePriceMessage	5805	1454	champs+ordre	242	273
+RESTRUCTURE	ExchangeBidHouseSearchMessage	ExchangeBidHouseSearchMessage	5806	5862	champs+ordre	242	273
+RESTRUCTURE	ExchangeBidHouseTypeMessage	ExchangeBidHouseTypeMessage	5803	8802	champs+ordre	242	273
+RESTRUCTURE	ExchangeBidPriceMessage	ExchangeBidPriceMessage	5755	4274	ordre	242	273
+RESTRUCTURE	ExchangeCraftResultWithObjectIdMessage	ExchangeCraftResultWithObjectIdMessage	6000	1423	ordre	242	273
+RESTRUCTURE	ExchangeOfflineSoldItemsMessage	ExchangeOfflineSoldItemsMessage	6613	2524	champs+ordre	242	273
+RESTRUCTURE	ExchangeRequestOnTaxCollectorMessage	ExchangeRequestOnTaxCollectorMessage	5779	1216	champs+ordre	242	273
+RESTRUCTURE	ExchangeSetCraftRecipeMessage	ExchangeSetCraftRecipeMessage	6389	3981	ordre	242	273
+RESTRUCTURE	ExchangeStartOkNpcShopMessage	ExchangeStartOkNpcShopMessage	5761	6130	ordre	242	273
+RESTRUCTURE	ExchangeStartOkRecycleTradeMessage	ExchangeStartOkRecycleTradeMessage	6600	1067	champs+ordre	242	273
+RESTRUCTURE	ExchangeTypesExchangerDescriptionForUserMessage	ExchangeTypesExchangerDescriptionForUserMessage	5765	6572	champs+ordre	242	273
+RESTRUCTURE	ExchangeTypesItemsExchangerDescriptionForUserMessage	ExchangeTypesItemsExchangerDescriptionForUserMessage	5752	2738	champs+ordre	242	273
+RESTRUCTURE	FriendAddRequestMessage	FriendAddRequestMessage	4004	5713	champs+ordre	242	273
+RESTRUCTURE	FriendDeleteResultMessage	FriendDeleteResultMessage	5601	4930	champs+ordre	242	273
+RESTRUCTURE	FriendJoinRequestMessage	FriendJoinRequestMessage	5605	5530	champs+ordre	242	273
+RESTRUCTURE	GameActionFightCloseCombatMessage	GameActionFightCloseCombatMessage	6116	2405	ordre	242	273
+RESTRUCTURE	GameActionFightDispellMessage	GameActionFightDispellMessage	5533	9152	champs+ordre	242	273
+RESTRUCTURE	GameActionFightLifePointsLostMessage	GameActionFightLifePointsLostMessage	6312	6444	champs+ordre	242	273
+RESTRUCTURE	GameActionFightTriggerGlyphTrapMessage	GameActionFightTriggerGlyphTrapMessage	5741	6199	champs+ordre	242	273
+RESTRUCTURE	GameContextReadyMessage	GameContextReadyMessage	6071	9237	champs+ordre	242	273
+RESTRUCTURE	GameFightEndMessage	GameFightEndMessage	720	2386	champs+ordre	242	273
+RESTRUCTURE	GameFightJoinRequestMessage	GameFightJoinRequestMessage	701	4010	champs+ordre	242	273
+RESTRUCTURE	GameFightOptionStateUpdateMessage	GameFightOptionStateUpdateMessage	5927	3172	ordre	242	273
+RESTRUCTURE	GameFightRemoveTeamMemberMessage	GameFightRemoveTeamMemberMessage	711	7301	ordre	242	273
+RESTRUCTURE	GameFightSpectateMessage	GameFightSpectateMessage	6069	6318	champs+ordre	242	273
+RESTRUCTURE	GameFightStartMessage	GameFightStartMessage	712	9783	champs+ordre	242	273
+RESTRUCTURE	GameFightStartingMessage	GameFightStartingMessage	700	6131	champs+ordre	242	273
+RESTRUCTURE	GameFightUpdateTeamMessage	GameFightUpdateTeamMessage	5572	3874	ordre	242	273
+RESTRUCTURE	GameMapMovementRequestMessage	GameMapMovementRequestMessage	950	4548	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayArenaFightAnswerMessage	GameRolePlayArenaFightAnswerMessage	6279	7230	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayArenaFightPropositionMessage	GameRolePlayArenaFightPropositionMessage	6276	5667	ordre	242	273
+RESTRUCTURE	GameRolePlayArenaFighterStatusMessage	GameRolePlayArenaFighterStatusMessage	6281	3114	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayArenaRegisterMessage	GameRolePlayArenaRegisterMessage	6280	2855	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayArenaSwitchToFightServerMessage	GameRolePlayArenaSwitchToFightServerMessage	6575	4751	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayArenaSwitchToGameServerMessage	GameRolePlayArenaSwitchToGameServerMessage	6574	6763	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayArenaUpdatePlayerInfosMessage	GameRolePlayArenaUpdatePlayerInfosMessage	6301	1665	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayDelayedObjectUseMessage	GameRolePlayDelayedObjectUseMessage	6425	3110	ordre	242	273
+RESTRUCTURE	GameRolePlayFightRequestCanceledMessage	GameRolePlayFightRequestCanceledMessage	5822	5826	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayPlayerFightFriendlyAnswerMessage	GameRolePlayPlayerFightFriendlyAnswerMessage	5732	1704	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayPlayerFightFriendlyAnsweredMessage	GameRolePlayPlayerFightFriendlyAnsweredMessage	5733	1668	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayPlayerFightFriendlyRequestedMessage	GameRolePlayPlayerFightFriendlyRequestedMessage	5937	4626	ordre	242	273
+RESTRUCTURE	GameRolePlayPlayerLifeStatusMessage	GameRolePlayPlayerLifeStatusMessage	5996	8693	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayRemoveChallengeMessage	GameRolePlayRemoveChallengeMessage	300	3370	champs+ordre	242	273
+RESTRUCTURE	GameRolePlaySpellAnimMessage	GameRolePlaySpellAnimMessage	6114	1173	champs+ordre	242	273
+RESTRUCTURE	GameRolePlayTaxCollectorFightRequestMessage	GameRolePlayTaxCollectorFightRequestMessage	5954	1944	champs+ordre	242	273
+RESTRUCTURE	GuildBulletinSetRequestMessage	GuildBulletinSetRequestMessage	6694	5517	champs+ordre	242	273
+RESTRUCTURE	GuildChangeMemberParametersMessage	GuildChangeMemberParametersMessage	5549	1951	champs+ordre	242	273
+RESTRUCTURE	GuildCreationValidMessage	GuildCreationValidMessage	5546	1720	champs+ordre	242	273
+RESTRUCTURE	GuildFactsMessage	GuildFactsMessage	6415	5626	champs+ordre	242	273
+RESTRUCTURE	GuildInformationsGeneralMessage	GuildInformationsGeneralMessage	5557	4406	champs+ordre	242	273
+RESTRUCTURE	GuildInformationsMemberUpdateMessage	GuildInformationsMemberUpdateMessage	5597	6708	champs+ordre	242	273
+RESTRUCTURE	GuildInformationsMembersMessage	GuildInformationsMembersMessage	5558	6362	champs+ordre	242	273
+RESTRUCTURE	GuildInvitedMessage	GuildInvitedMessage	5552	4003	champs+ordre	242	273
+RESTRUCTURE	GuildJoinedMessage	GuildJoinedMessage	5564	2814	champs+ordre	242	273
+RESTRUCTURE	GuildModificationEmblemValidMessage	GuildModificationEmblemValidMessage	6328	4735	champs+ordre	242	273
+RESTRUCTURE	GuildModificationValidMessage	GuildModificationValidMessage	6323	4686	champs+ordre	242	273
+RESTRUCTURE	GuildPaddockRemovedMessage	GuildPaddockRemovedMessage	5955	1415	champs+ordre	242	273
+RESTRUCTURE	GuildPaddockTeleportRequestMessage	GuildPaddockTeleportRequestMessage	5957	8533	champs+ordre	242	273
+RESTRUCTURE	HaapiApiKeyMessage	HaapiApiKeyMessage	6649	4765	champs+ordre	242	273
+RESTRUCTURE	HaapiApiKeyRequestMessage	HaapiApiKeyRequestMessage	6648	9219	champs+ordre	242	273
+RESTRUCTURE	HavenBagDailyLoteryMessage	HavenBagDailyLoteryMessage	6644	9352	champs+ordre	242	273
+RESTRUCTURE	HouseSellingUpdateMessage	HouseSellingUpdateMessage	6727	6800	champs+ordre	242	273
+RESTRUCTURE	HouseTeleportRequestMessage	HouseTeleportRequestMessage	6726	3189	champs	242	273
+RESTRUCTURE	HouseToSellFilterMessage	HouseToSellFilterMessage	6137	9188	champs+ordre	242	273
+RESTRUCTURE	IdentificationMessage	IdentificationMessage	4	9262	champs+ordre	242	273
+RESTRUCTURE	IdentificationSuccessMessage	IdentificationSuccessMessage	22	6104	champs+ordre	242	273
+RESTRUCTURE	IgnoredAddRequestMessage	IgnoredAddRequestMessage	5673	5112	champs+ordre	242	273
+RESTRUCTURE	IgnoredDeleteResultMessage	IgnoredDeleteResultMessage	5677	2365	champs+ordre	242	273
+RESTRUCTURE	InventoryWeightMessage	InventoryWeightMessage	3009	9677	champs+ordre	242	273
+RESTRUCTURE	KohUpdateMessage	KohUpdateMessage	6439	1036	champs+ordre	242	273
+RESTRUCTURE	LivingObjectMessageMessage	LivingObjectMessageMessage	6065	6015	ordre	242	273
+RESTRUCTURE	LockableStateUpdateStorageMessage	LockableStateUpdateStorageMessage	5669	569	champs+ordre	242	273
+RESTRUCTURE	MapComplementaryInformationsDataMessage	MapComplementaryInformationsDataMessage	226	9792	champs+ordre	242	273
+RESTRUCTURE	MapFightStartPositionsUpdateMessage	MapFightStartPositionsUpdateMessage	6716	9437	champs+ordre	242	273
+RESTRUCTURE	MapInformationsRequestMessage	MapInformationsRequestMessage	225	2408	champs+ordre	242	273
+RESTRUCTURE	MapRunningFightDetailsMessage	MapRunningFightDetailsMessage	5751	2005	ordre	242	273
+RESTRUCTURE	MapRunningFightDetailsRequestMessage	MapRunningFightDetailsRequestMessage	5750	337	ordre	242	273
+RESTRUCTURE	MountRidingMessage	MountRidingMessage	5967	3880	champs+ordre	242	273
+RESTRUCTURE	NpcDialogCreationMessage	NpcDialogCreationMessage	5618	3289	champs+ordre	242	273
+RESTRUCTURE	NpcGenericActionRequestMessage	NpcGenericActionRequestMessage	5898	6670	champs+ordre	242	273
+RESTRUCTURE	ObjectAddedMessage	ObjectAddedMessage	3025	6866	champs+ordre	242	273
+RESTRUCTURE	ObjectAveragePricesMessage	ObjectAveragePricesMessage	6335	2729	ordre	242	273
+RESTRUCTURE	ObjectFeedMessage	ObjectFeedMessage	6290	8727	champs+ordre	242	273
+RESTRUCTURE	ObjectGroundAddedMessage	ObjectGroundAddedMessage	3017	3774	ordre	242	273
+RESTRUCTURE	ObjectGroundListAddedMessage	ObjectGroundListAddedMessage	5925	7785	ordre	242	273
+RESTRUCTURE	ObjectMovementMessage	ObjectMovementMessage	3010	4510	ordre	242	273
+RESTRUCTURE	ObjectQuantityMessage	ObjectQuantityMessage	3023	204	champs+ordre	242	273
+RESTRUCTURE	ObjectSetPositionMessage	ObjectSetPositionMessage	3021	5569	ordre	242	273
+RESTRUCTURE	ObtainedItemMessage	ObtainedItemMessage	6519	9678	ordre	242	273
+RESTRUCTURE	PaddockBuyResultMessage	PaddockBuyResultMessage	6516	5838	champs+ordre	242	273
+RESTRUCTURE	PaddockToSellFilterMessage	PaddockToSellFilterMessage	6161	3852	champs+ordre	242	273
+RESTRUCTURE	PartyInvitationDetailsMessage	PartyInvitationDetailsMessage	6263	8607	ordre	242	273
+RESTRUCTURE	PartyInvitationRequestMessage	PartyInvitationRequestMessage	5585	7920	champs+ordre	242	273
+RESTRUCTURE	PartyUpdateLightMessage	PartyUpdateLightMessage	6054	4231	ordre	242	273
+RESTRUCTURE	PrismsListMessage	PrismsListMessage	6440	7733	champs	242	273
+RESTRUCTURE	ProtocolRequired	ProtocolRequired	1	1939	champs+ordre	242	273
+RESTRUCTURE	PurchasableDialogMessage	PurchasableDialogMessage	5739	100	champs+ordre	242	273
+RESTRUCTURE	RefreshCharacterStatsMessage	RefreshCharacterStatsMessage	6699	2710	champs+ordre	242	273
+RESTRUCTURE	SelectedServerDataMessage	SelectedServerDataMessage	42	4944	champs+ordre	242	273
+RESTRUCTURE	ServerOptionalFeaturesMessage	ServerOptionalFeaturesMessage	6305	8385	ordre	242	273
+RESTRUCTURE	ServerSettingsMessage	ServerSettingsMessage	6340	154	champs+ordre	242	273
+RESTRUCTURE	ServersListMessage	ServersListMessage	30	9500	champs+ordre	242	273
+RESTRUCTURE	SetUpdateMessage	SetUpdateMessage	5503	7483	ordre	242	273
+RESTRUCTURE	SlaveSwitchContextMessage	SlaveSwitchContextMessage	6214	974	champs+ordre	242	273
+RESTRUCTURE	SpellVariantActivationMessage	SpellVariantActivationMessage	6705	7767	champs+ordre	242	273
+RESTRUCTURE	TaxCollectorAttackedMessage	TaxCollectorAttackedMessage	5918	5361	champs+ordre	242	273
+RESTRUCTURE	TaxCollectorAttackedResultMessage	TaxCollectorAttackedResultMessage	5635	4787	champs+ordre	242	273
+RESTRUCTURE	TaxCollectorDialogQuestionBasicMessage	TaxCollectorDialogQuestionBasicMessage	5619	3500	champs+ordre	242	273
+RESTRUCTURE	TaxCollectorDialogQuestionExtendedMessage	TaxCollectorDialogQuestionExtendedMessage	5615	8713	champs+ordre	242	273
+RESTRUCTURE	TaxCollectorStateUpdateMessage	TaxCollectorStateUpdateMessage	6455	5744	champs+ordre	242	273
+RESTRUCTURE	TeleportRequestMessage	TeleportRequestMessage	5961	9439	champs+ordre	242	273
+RESTRUCTURE	TopTaxCollectorListMessage	TopTaxCollectorListMessage	6565	3893	champs+ordre	242	273
+RESTRUCTURE	TreasureHuntMessage	TreasureHuntMessage	6486	7235	champs+ordre	242	273
+RESTRUCTURE	TrustStatusMessage	TrustStatusMessage	6267	3339	champs+ordre	242	273
+RESTRUCTURE	UpdateMapPlayersAgressableStatusMessage	UpdateMapPlayersAgressableStatusMessage	6454	1751	champs+ordre	242	273
+RESTRUCTURE	UpdateSelfAgressableStatusMessage	UpdateSelfAgressableStatusMessage	6456	5808	champs+ordre	242	273
+RESTRUCTURE	ZaapRespawnUpdatedMessage	ZaapRespawnUpdatedMessage	6571	9315	champs+ordre	242	273
+INCHANGE	NetworkDataContainerMessage	NetworkDataContainerMessage	2	2		242	273
+INCHANGE	RawDataMessage	RawDataMessage	6253	6253		242	273

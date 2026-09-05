@@ -1,0 +1,9 @@
+opcode	nom_clair	fichier:ligne	provenance	note
+ij	Hello	refs/dofus3-sniffer-tui/internal/protoreg/mappings.go:24	docstring_exemple_fictif	
+kl	Goodbye	refs/dofus3-sniffer-tui/internal/protoreg/mappings.go:25	docstring_exemple_fictif	renommage de champ: abc -> userId; renommage de champ: 2 -> timestamp
+Inner	FriendlyInner	refs/dofus3-sniffer-tui/internal/protoreg/mappings_test.go:116	fixture_test_synthetique	renommage de champ: abc -> name; renommage de champ: 2 -> count
+ab	Alpha	refs/dofus3-sniffer-tui/internal/protoreg/mappings_test.go:18	fixture_test_synthetique	
+cd	Charlie	refs/dofus3-sniffer-tui/internal/protoreg/mappings_test.go:18	fixture_test_synthetique	
+ij	Hello	refs/dofus3-sniffer-tui/internal/protoreg/mappings_test.go:40	fixture_test_synthetique	renommage de champ: abc -> userId; renommage de champ: 2 -> timestamp
+iri	MapMovementRequest	refs/dofus3-sniffer-tui/README.md:43	readme_exemple	
+irl	MapMovementEvent	refs/dofus3-sniffer-tui/README.md:44	readme_exemple	renommage de champ: fhtj -> actor_id

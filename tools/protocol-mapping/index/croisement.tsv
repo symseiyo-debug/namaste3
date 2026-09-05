@@ -1,0 +1,1808 @@
+message_nom	presence_2x	nb_emus_2x	sur_n_total	handler_2x	tag	jondo_opcode_deduit	jondo_score
+AbstractCharacterInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractCharacterToRefurbishInformation	symbioz	1	5		DIVERGENT		
+AbstractContactInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractFightDispellableEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractFightTeamInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractGameActionFightTargetedAbilityMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractGameActionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractGameActionWithAckMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractPartyEventMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractPartyMemberInFightMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AbstractPartyMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractPlayerSearchInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AbstractSocialGroupInfos	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AbstractTaxCollectorListMessage	ginycore;symbioz	2	5		PARTIEL		
+AccessoryPreviewErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccessoryPreviewMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccessoryPreviewRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccountCapabilitiesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccountHouseInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccountHouseMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccountInformationsUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AccountLinkRequiredMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccountLoggingKickedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AccountMessage	giny;ginycore;oneair;symbioz	4	5		PARTIEL		
+AccountRequestMessage	giny;ginycore;oneair;symbioz	4	5	giny;ginycore;oneair;symbioz	PARTIEL		
+AccountSubscriptionElapsedDurationMessage	jiva;giny;oneair	3	5		PARTIEL		
+AccountTagInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+Achievement	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementAchieved	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AchievementAchievedRewardable	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AchievementAlmostFinishedDetailedListMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AchievementAlmostFinishedDetailedListRequestMessage	jiva;giny;ginycore;oneair	4	5	giny;oneair	PARTIEL		
+AchievementDetailedListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementDetailedListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	giny;oneair	INVARIANT		
+AchievementDetailsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementDetailsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	giny;oneair	INVARIANT		
+AchievementFinishedInformationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementFinishedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementObjective	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementPioneerRank	jiva	1	5		DIVERGENT		
+AchievementRewardErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementRewardRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	giny;oneair	INVARIANT		
+AchievementRewardSuccessMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementRewardable	symbioz	1	5		DIVERGENT		
+AchievementStartedObjective	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AchievementsPioneerRanksMessage	jiva	1	5		DIVERGENT		
+AchievementsPioneerRanksRequestMessage	jiva	1	5		DIVERGENT		
+AcquaintanceAddedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AcquaintanceInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AcquaintanceOnlineInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AcquaintanceSearchErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AcquaintanceSearchMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+AcquaintanceServerListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AcquaintancesGetListMessage	jiva;giny;ginycore;oneair	4	5	giny;ginycore;oneair	PARTIEL		
+AcquaintancesListMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ActivityHideRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ActivityLockRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ActivitySuggestionsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ActivitySuggestionsRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ActorAlignmentInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ActorExtendedAlignmentInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ActorOrientation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ActorRestrictionsInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AddListenerOnSynchronizedStorageMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AddTaxCollectorOrderedSpellMessage	jiva;giny;oneair	3	5		PARTIEL		
+AddTaxCollectorPresetSpellMessage	jiva;giny;oneair	3	5		PARTIEL		
+AdditionalTaxCollectorInformation	jiva;giny;oneair	3	5		PARTIEL		
+AdditionalTaxCollectorInformations	ginycore;symbioz	2	5		PARTIEL		
+AdminCommandMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT		
+AdminQuietCommandMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+AggregateStatMessage	symbioz	1	5		DIVERGENT		
+AggregateStatWithDataMessage	symbioz	1	5		DIVERGENT		
+AgressableStatusMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlignmentRankUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AlignmentWarEffortDonatePreviewMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AlignmentWarEffortDonateRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AlignmentWarEffortDonationResultMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AlignmentWarEffortInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AlignmentWarEffortProgressionMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AlignmentWarEffortProgressionRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AllianceAllRanksUpdateRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceApplicationAnswerMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceApplicationDeletedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceApplicationIsAnsweredMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceApplicationListenMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceApplicationPresenceMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceApplicationReceivedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceBulletinMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AllianceBulletinSetErrorMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AllianceBulletinSetRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+AllianceChangeGuildRightsMessage	ginycore;symbioz	2	5		PARTIEL		
+AllianceChangeMemberRankMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceCreationResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceCreationStartedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceCreationValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+AllianceDeleteApplicationRequestMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceFactSheetInformation	jiva;giny;oneair	3	5		PARTIEL		
+AllianceFactSheetInformations	ginycore;symbioz	2	5		PARTIEL		
+AllianceFactsErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceFactsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceFactsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+AllianceFightFighterAddedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceFightFighterRemovedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceFightFinishedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceFightInfoMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceFightPhaseUpdateMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceFightStartedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceGetPlayerApplicationMessage	jiva;giny;oneair	3	5	jiva;oneair	PARTIEL		
+AllianceGetRecruitmentInformationMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceGuildLeavingMessage	ginycore;symbioz	2	5		PARTIEL		
+AllianceInformation	jiva;giny;oneair	3	5		PARTIEL		
+AllianceInformations	ginycore;symbioz	2	5		PARTIEL		
+AllianceInsiderInfoMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceInsiderInfoRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+AllianceInsiderPrismInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceInvitationAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+AllianceInvitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+AllianceInvitationStateRecrutedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceInvitationStateRecruterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceInvitedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceIsThereAnyApplicationMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceJoinAutomaticallyRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceJoinedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceKickRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+AllianceLeftMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceListApplicationAnswerMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceListApplicationModifiedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceListApplicationRequestMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceMemberInfo	jiva;giny;oneair	3	5		PARTIEL		
+AllianceMemberInformationUpdateMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceMemberLeavingMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceMemberOnlineStatusMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceMemberStartWarningOnConnectionMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceMemberStopWarningOnConnectionMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceMembershipMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceModificationEmblemValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceModificationNameAndTagValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceModificationResultMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceModificationStartedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceModificationValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceMotdMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AllianceMotdSetErrorMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AllianceMotdSetRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva;oneair	PARTIEL	lyf	0.62
+AlliancePartialListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AlliancePlayerApplicationAbstractMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlliancePlayerApplicationInformationMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlliancePlayerNoApplicationInformationMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlliancePrismDialogQuestionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AlliancePrismInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AllianceRankCreateRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceRankRemoveRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceRankUpdateRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceRanksMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceRanksRequestMessage	jiva;giny;oneair	3	5	jiva;oneair	PARTIEL		
+AllianceRecruitmentInformation	jiva;giny;oneair	3	5		PARTIEL		
+AllianceRecruitmentInformationMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceRecruitmentInvalidateMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceRightsUpdateMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceSubmitApplicationMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceSummaryMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AllianceSummaryRequestMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+AllianceTaxCollectorDialogQuestionExtendedMessage	ginycore;symbioz	2	5		PARTIEL		
+AllianceUpdateApplicationMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+AllianceUpdateRecruitmentInformationMessage	jiva;giny;oneair	3	5		PARTIEL		
+AllianceVersatileInfoListMessage	symbioz	1	5		DIVERGENT		
+AllianceVersatileInformations	symbioz	1	5		DIVERGENT		
+AlliancedGuildFactSheetInformations	ginycore;symbioz	2	5		PARTIEL		
+AlmanachCalendarDateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AlreadyConnectedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AlterationAddedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlterationInfo	jiva;giny;oneair	3	5		PARTIEL		
+AlterationRemovedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlterationsMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlterationsUpdatedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AlternativeMonstersInGroupLightInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AnomalyOpenedMessage	jiva;giny;oneair	3	5		PARTIEL		
+AnomalyStateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AnomalySubareaInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+AnomalySubareaInformationRequestMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+AnomalySubareaInformationResponseMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ApplicationPlayerInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ApplySpellModifierMessage	jiva;giny;oneair	3	5		PARTIEL		
+AreaFightModificatorUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ArenaFightAnswerAcknowledgementMessage	jiva	1	5		DIVERGENT		
+ArenaFighterIdleMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ArenaFighterLeaveMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ArenaLeagueRanking	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ArenaRankInfos	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ArenaRanking	giny;ginycore;oneair	3	5		PARTIEL		
+AtlasPointInformationsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AtlasPointsInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+AuthenticationTicketAcceptedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kra	1.00
+AuthenticationTicketMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kqz	1.00
+AuthenticationTicketRefusedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BanConfirmMessage	symbioz	1	5		DIVERGENT		
+BanRequestMessage	symbioz	1	5	symbioz	DIVERGENT		
+BaseSpawnMonsterInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BasicAckMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicAllianceInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicCharactersListMessage	ginycore;symbioz	2	5		PARTIEL		
+BasicDateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicGuildInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicLatencyStatsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicLatencyStatsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicNamedAllianceInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicNoOperationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicPingMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kqo	1.00
+BasicPongMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kqy	1.00
+BasicStatMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicStatWithDataMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicTimeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lqu	1.00
+BasicWhoAmIRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+BasicWhoIsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicWhoIsNoMatchMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BasicWhoIsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+BidExchangerObjectInfo	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+BreachBonusMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachBranch	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachBranchesMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachBudgetMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachCharactersMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachEnterMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachExitRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachExitResponseMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachGameFightEndMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachInvitationAnswerMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachInvitationCloseMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachInvitationOfferMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachInvitationRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachInvitationResponseMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachKickRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachKickResponseMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachReward	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachRewardBoughtMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachRewardBuyMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachRewardsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachRoomLockedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachRoomUnlockRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachRoomUnlockResultMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachSavedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachStateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL	lxo	0.62
+BreachTeleportRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BreachTeleportResponseMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BufferInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+BulletinMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ChallengeAddMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeBonusChoiceMessage	jiva;giny;oneair	3	5	giny;oneair	PARTIEL		
+ChallengeBonusChoiceSelectedMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeFightJoinRefusedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChallengeInfoMessage	ginycore;symbioz	2	5		PARTIEL		
+ChallengeInformation	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeListMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeModSelectMessage	jiva;giny;oneair	3	5	giny;oneair	PARTIEL		
+ChallengeModSelectedMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeNumberMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeProposalMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeReadyMessage	jiva;giny;oneair	3	5	giny;oneair	PARTIEL		
+ChallengeResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChallengeSelectedMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeSelectionMessage	jiva;giny;oneair	3	5	giny;oneair	PARTIEL		
+ChallengeTargetInformation	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeTargetUpdateMessage	ginycore;symbioz	2	5		PARTIEL		
+ChallengeTargetWithAttackerInformation	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeTargetsListMessage	ginycore;symbioz	2	5		PARTIEL		
+ChallengeTargetsListRequestMessage	ginycore;symbioz	2	5	symbioz	PARTIEL		
+ChallengeTargetsMessage	jiva;giny;oneair	3	5		PARTIEL		
+ChallengeTargetsRequestMessage	jiva;giny;oneair	3	5	jiva;giny;oneair	PARTIEL		
+ChallengeValidateMessage	jiva;giny;oneair	3	5	giny;oneair	PARTIEL		
+ChangeHavenBagRoomRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+ChangeMapMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	jqk	1.00
+ChangeThemeRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+ChannelEnablingChangeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChannelEnablingMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+CharacterAlignmentWarEffortProgressionMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterAlignmentWarEffortProgressionRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterBaseCharacteristic	symbioz	1	5		DIVERGENT		
+CharacterBaseInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterBasicMinimalInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterCanBeCreatedRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;ginycore;oneair	PARTIEL		
+CharacterCanBeCreatedResultMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterCapabilitiesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterCharacteristic	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterCharacteristicDetailed	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterCharacteristicForPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterCharacteristicValue	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterCharacteristics	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharacterCharacteristicsInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterCreationRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kvz	1.00
+CharacterCreationResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kvb	1.00
+CharacterDeletionErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterDeletionPrepareMessage	jiva;giny;oneair	3	5		PARTIEL		
+CharacterDeletionPrepareRequestMessage	jiva;giny;oneair	3	5	jiva;giny;oneair	PARTIEL		
+CharacterDeletionRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+CharacterExperienceGainMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterFirstSelectionMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT	kvl	1.00
+CharacterHardcoreOrEpicInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterLevelUpInformationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterLevelUpMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterLoadingCompleteMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterMinimalAllianceInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterMinimalGuildInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterMinimalGuildPublicInformations	ginycore	1	5		DIVERGENT		
+CharacterMinimalInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterMinimalPlusLookAndGradeInformations	ginycore;symbioz	2	5		PARTIEL		
+CharacterMinimalPlusLookInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterMinimalSocialPublicInformations	jiva;giny;oneair	3	5		PARTIEL		
+CharacterNameSuggestionFailureMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterNameSuggestionRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+CharacterNameSuggestionSuccessMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kvk	1.00
+CharacterRemodelingInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterReplayRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;oneair	INVARIANT		
+CharacterReplayWithRemodelRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterReportMessage	symbioz	1	5		DIVERGENT		
+CharacterSelectedErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterSelectedForceMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterSelectedForceReadyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+CharacterSelectedSuccessMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kva	1.00
+CharacterSelectionMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kvw	1.00
+CharacterSelectionWithRemodelMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+CharacterSpellModification	ginycore;symbioz	2	5		PARTIEL		
+CharacterStatsListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kub	1.00
+CharacterToRecolorInformation	symbioz	1	5		DIVERGENT		
+CharacterToRelookInformation	symbioz	1	5		DIVERGENT		
+CharacterToRemodelInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharacterUsableCharacteristicDetailed	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CharactersListErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharactersListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CharactersListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kvd;kvi;kpa	0.90;1.00;1.00
+CharactersListWithModificationsMessage	symbioz	1	5		DIVERGENT		
+CharactersListWithRemodelingMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatAbstractClientMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatAbstractServerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatAdminServerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatClientMultiMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	ktm	1.00
+ChatClientMultiWithObjectMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ChatClientPrivateMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ChatClientPrivateWithObjectMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT		
+ChatCommunityChannelCommunityMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ChatCommunityChannelSetCommunityRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+ChatErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatKolizeumServerMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ChatMessageReportMessage	symbioz	1	5		DIVERGENT		
+ChatServerCopyMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatServerCopyWithObjectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatServerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kti	1.00
+ChatServerWithObjectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatSmileyExtraPackListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatSmileyMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ChatSmileyRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+CheckFileMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CheckFileRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CheckIntegrityMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CinematicMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ClearIdentificationMessage	jiva	1	5	jiva	DIVERGENT		
+ClientKeyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair;symbioz	INVARIANT		
+ClientUIOpenedByObjectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ClientUIOpenedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ClientYouAreDrunkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CloseHavenBagFurnitureSequenceRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+ComicReadingBeginMessage	symbioz	1	5		DIVERGENT		
+CompassResetMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CompassUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CompassUpdatePartyMemberMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CompassUpdatePvpSeekMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ConfirmationOfListeningTaxCollectorUpdatesMessage	jiva;giny;oneair	3	5		PARTIEL		
+ConsoleCommandsListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ConsoleEndMessage	jiva;giny;oneair	3	5		PARTIEL		
+ConsoleMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ConsumeAllGameActionItemMessage	jiva;giny;oneair	3	5		PARTIEL		
+ConsumeGameActionItemMessage	jiva;giny;oneair	3	5		PARTIEL		
+ContactAddFailureMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ContactLookErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ContactLookMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kqg	0.70
+ContactLookRequestByIdMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ContactLookRequestByNameMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ContactLookRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ContentPart	symbioz	1	5		DIVERGENT		
+Contribution	jiva;giny;oneair	3	5		PARTIEL		
+CreateGuildRankRequestMessage	jiva;giny;ginycore;oneair	4	5	giny;oneair	PARTIEL		
+CredentialsAcknowledgementMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+CurrentMapInstanceMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+CurrentMapMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jru	1.00
+CurrentServerStatusUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DareCancelRequestMessage	symbioz	1	5		DIVERGENT		
+DareCanceledMessage	symbioz	1	5		DIVERGENT		
+DareCreatedListMessage	symbioz	1	5		DIVERGENT		
+DareCreatedMessage	symbioz	1	5		DIVERGENT		
+DareCreationRequestMessage	symbioz	1	5		DIVERGENT		
+DareCriteria	symbioz	1	5		DIVERGENT		
+DareErrorMessage	symbioz	1	5		DIVERGENT		
+DareInformations	symbioz	1	5		DIVERGENT		
+DareInformationsMessage	symbioz	1	5		DIVERGENT		
+DareInformationsRequestMessage	symbioz	1	5		DIVERGENT		
+DareListMessage	symbioz	1	5		DIVERGENT		
+DareReward	symbioz	1	5		DIVERGENT		
+DareRewardConsumeRequestMessage	symbioz	1	5		DIVERGENT		
+DareRewardConsumeValidationMessage	symbioz	1	5		DIVERGENT		
+DareRewardWonMessage	symbioz	1	5		DIVERGENT		
+DareRewardsListMessage	symbioz	1	5		DIVERGENT		
+DareSubscribeRequestMessage	symbioz	1	5		DIVERGENT		
+DareSubscribedListMessage	symbioz	1	5		DIVERGENT		
+DareSubscribedMessage	symbioz	1	5		DIVERGENT		
+DareVersatileInformations	symbioz	1	5		DIVERGENT		
+DareVersatileListMessage	symbioz	1	5		DIVERGENT		
+DareWonListMessage	symbioz	1	5		DIVERGENT		
+DareWonMessage	symbioz	1	5		DIVERGENT		
+DebtInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+DebtsDeleteMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+DebtsUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+DebugClearHighlightCellsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DebugHighlightCellsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DebugInClientMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DecraftResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DecraftedItemStackInfo	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DiceRollRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+DisconnectClientRequestMessage	giny;ginycore;oneair;symbioz	4	5	giny;ginycore;oneair;symbioz	PARTIEL		
+DisconnectClientResultMessage	giny;ginycore;oneair;symbioz	4	5		PARTIEL		
+DisplayNumericalValuePaddockMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DocumentReadingBeginMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DownloadCurrentSpeedMessage	symbioz	1	5		DIVERGENT		
+DownloadErrorMessage	symbioz	1	5		DIVERGENT		
+DownloadGetCurrentSpeedRequestMessage	symbioz	1	5		DIVERGENT		
+DownloadPartMessage	symbioz	1	5		DIVERGENT		
+DownloadSetSpeedRequestMessage	symbioz	1	5		DIVERGENT		
+DumpedEntityStatsMessage	giny;ginycore;oneair	3	5		PARTIEL		
+DungeonKeyRingMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonKeyRingUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderAvailableDungeonsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderAvailableDungeonsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderListenErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderListenRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderPlayer	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderRegisterErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderRegisterRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderRegisterSuccessMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderRoomContentMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+DungeonPartyFinderRoomContentUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EditHavenBagCancelRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT	jbl	0.65
+EditHavenBagFinishedMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+EditHavenBagRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+EditHavenBagStartMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EmoteAddMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lva	0.59
+EmoteListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EmotePlayAbstractMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EmotePlayErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EmotePlayMassiveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EmotePlayMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EmotePlayRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+EmoteRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EnabledChannelsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EnterHavenBagRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT	jbn	1.00
+EntitiesInformationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+EntitiesPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+EntityDispositionInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EntityInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+EntityInformationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+EntityLook	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EntityMovementInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EntityTalkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ErrorMapNotFoundMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+EvolutiveObjectRecycleResultMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ExchangeAcceptMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeBidHouseBuyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeBidHouseBuyResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseGenericItemAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseGenericItemRemovedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseInListAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseInListRemovedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseInListUpdatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseItemAddOkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseItemRemoveOkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidHouseListMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeBidHousePriceMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT		
+ExchangeBidHouseSearchMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeBidHouseTypeMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeBidHouseUnsoldItemsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidPriceForSellerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidPriceMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBidSearchOkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeBuyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeBuyOkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeCraftCountModifiedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeCraftCountRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeCraftInformationObjectMessage	symbioz	1	5		DIVERGENT		
+ExchangeCraftPaymentModificationRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeCraftPaymentModifiedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeCraftResultMagicWithObjectDescMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeCraftResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeCraftResultWithObjectDescMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeCraftResultWithObjectIdMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeCrafterJobLevelupMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeGuildTaxCollectorGetMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeHandleMountsMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+ExchangeHandleMountsStableMessage	symbioz	1	5	symbioz	DIVERGENT		
+ExchangeIsReadyMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeItemAutoCraftStopedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeKamaModifiedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeLeaveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	khd	1.00
+ExchangeMoneyMovementInformationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ExchangeMountFreeFromPaddockMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountStableErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountSterilizeFromPaddockMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountsPaddockAddMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountsPaddockRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountsStableAddMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountsStableBornAddMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountsStableRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMountsTakenFromPaddockMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMultiCraftCrafterCanUseHisRessourcesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeMultiCraftSetCrafterCanUseHisRessourcesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectModifiedInBagMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectModifiedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectModifyPricedMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeObjectMoveKamaMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeObjectMoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kcr	1.00
+ExchangeObjectMovePricedMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeObjectMoveToTabMessage	jiva;giny;oneair	3	5		PARTIEL		
+ExchangeObjectPutInBagMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectRemovedFromBagMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectRemovedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectTransfertAllFromInvMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT		
+ExchangeObjectTransfertAllToInvMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT		
+ExchangeObjectTransfertExistingFromInvMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeObjectTransfertExistingToInvMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeObjectTransfertListFromInvMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeObjectTransfertListToInvMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeObjectTransfertListWithQuantityToInvMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectUseInWorkshopMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeObjectsAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectsModifiedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeObjectsRemovedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeOfflineSoldItemsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeOkMultiCraftMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeOnHumanVendorRequestMessage	ginycore;symbioz	2	5	ginycore	PARTIEL		
+ExchangePlayerMultiCraftRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangePlayerRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangePodsModifiedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeReadyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeReplayStopMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeReplyTaxVendorMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+ExchangeRequestOnMountStockMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeRequestOnShopStockMessage	ginycore;symbioz	2	5	ginycore	PARTIEL		
+ExchangeRequestOnTaxCollectorMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ExchangeRequestedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeRequestedTradeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeSellMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+ExchangeSellOkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeSetCraftRecipeMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ExchangeShopStockMovementRemovedMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeShopStockMovementUpdatedMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeShopStockMultiMovementRemovedMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeShopStockMultiMovementUpdatedMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeShopStockStartedMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeShowVendorTaxMessage	ginycore;symbioz	2	5	ginycore	PARTIEL		
+ExchangeStartAsVendorMessage	ginycore;symbioz	2	5	ginycore	PARTIEL		
+ExchangeStartOkCraftMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkCraftWithInformationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkEvolutiveObjectRecycleTradeMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ExchangeStartOkHumanVendorMessage	ginycore;symbioz	2	5		PARTIEL		
+ExchangeStartOkJobIndexMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkMountMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkMountWithOutPaddockMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkMulticraftCrafterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkMulticraftCustomerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkNpcShopMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkNpcTradeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkRecycleTradeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartOkRunesTradeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartedBidBuyerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartedBidSellerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartedMountStockMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartedTaxCollectorEquipmentMessage	jiva;giny;oneair	3	5		PARTIEL		
+ExchangeStartedTaxCollectorShopMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartedWithMultiTabStorageMessage	jiva;giny;oneair	3	5		PARTIEL		
+ExchangeStartedWithPodsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeStartedWithStorageMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kci	0.92
+ExchangeStoppedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeTaxCollectorGetMessage	jiva;giny;oneair	3	5		PARTIEL		
+ExchangeTypesExchangerDescriptionForUserMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeTypesItemsExchangerDescriptionForUserMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeWaitingResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExchangeWeightMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ExitHavenBagRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+ExtendedBreachBranch	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ExtendedLockedBreachBranch	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FightAllianceTeamInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightCommonInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightDetailedTemporaryBoostEffect	jiva	1	5		DIVERGENT		
+FightDispellableEffectExtendedInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightEntityDispositionInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightExternalInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightLoot	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightLootObject	jiva;giny;oneair	3	5		PARTIEL		
+FightOptionsInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightPhase	jiva;giny;oneair	3	5		PARTIEL		
+FightResultAdditionalData	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightResultExperienceData	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightResultFighterListEntry	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightResultListEntry	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightResultMutantListEntry	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightResultPlayerListEntry	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightResultPvpData	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightResultTaxCollectorListEntry	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightStartingPositions	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FightTeamInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTeamLightInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTeamMemberCharacterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTeamMemberCompanionInformations	symbioz	1	5		DIVERGENT		
+FightTeamMemberEntityInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FightTeamMemberInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTeamMemberMonsterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTeamMemberTaxCollectorInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTeamMemberWithAllianceCharacterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTemporaryBoostEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTemporaryBoostStateEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTemporaryBoostWeaponDamagesEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTemporarySpellBoostEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTemporarySpellImmunityEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FightTriggeredEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FighterStatsListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FinishMoveInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FinishMoveListMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FinishMoveListRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+FinishMoveSetRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+FocusedExchangeReadyMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;ginycore;oneair	PARTIEL		
+FollowQuestObjectiveRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FollowedQuestsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ForceAccountErrorMessage	jiva;giny;oneair	3	5		PARTIEL		
+ForceAccountMessage	jiva;giny;oneair	3	5	giny;oneair	PARTIEL		
+ForceAccountStatusMessage	jiva;giny;oneair	3	5		PARTIEL		
+ForgettableSpellClientActionMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ForgettableSpellDeleteMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ForgettableSpellEquipmentSlotsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ForgettableSpellItem	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ForgettableSpellListUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ForgettableSpellsPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FriendAddFailureMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendAddRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+FriendAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendDeleteRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+FriendDeleteResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lyj	0.59
+FriendGuildSetWarnOnAchievementCompleteMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendGuildWarnOnAchievementCompleteStateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendJoinRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	giny;ginycore;oneair	INVARIANT		
+FriendOnlineInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendSetStatusShareMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+FriendSetWarnOnConnectionMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+FriendSetWarnOnLevelGainMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+FriendSpouseFollowWithCompassRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendSpouseInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendSpouseJoinRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendSpouseOnlineInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendStatusShareStateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+FriendUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendWarnOnConnectionStateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FriendWarnOnLevelGainStateMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+FriendsGetListMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+FriendsListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+FullStatsPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameActionAcknowledgementMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameActionFightActivateGlyphTrapMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightCarryCharacterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightCastOnTargetRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameActionFightCastRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameActionFightChangeLookMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightCloseCombatMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightDeathMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightDispellEffectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightDispellMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightDispellSpellMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightDispellableEffectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightDodgePointLossMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightDropCharacterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightExchangePositionsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightInvisibilityMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lxg	0.59
+GameActionFightInvisibleDetectedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightKillMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightLifeAndShieldPointsLostMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightLifePointsGainMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightLifePointsLostMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightMarkCellsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightModifyEffectsDurationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightMultipleSummonMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameActionFightNoSpellCastMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightPointsVariationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightReduceDamagesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightReflectDamagesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightReflectSpellMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightSlideMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightSpellCastMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightSpellCooldownVariationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightSpellImmunityMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightStealKamaMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightSummonMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightTackledMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightTeleportOnSameMapMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightThrowCharacterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightTriggerEffectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightTriggerGlyphTrapMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightUnmarkCellsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionFightVanishMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionItem	jiva;giny;oneair	3	5		PARTIEL		
+GameActionItemAddMessage	jiva;giny;oneair	3	5		PARTIEL		
+GameActionItemConsumedMessage	jiva;giny;oneair	3	5		PARTIEL		
+GameActionItemListMessage	jiva;giny;oneair	3	5		PARTIEL		
+GameActionMark	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionMarkedCell	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionNoopMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameActionSpamMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameActionUpdateEffectTriggerCountMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameCautiousMapMovementMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameCautiousMapMovementRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GameContextActorInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextActorPositionInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameContextBasicSpawnInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameContextCreateErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextCreateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lqc	1.00
+GameContextCreateRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameContextDestroyMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextKickMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameContextMoveElementMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextMoveMultipleElementsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextQuitMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameContextReadyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT		
+GameContextRefreshEntityLookMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jsn	1.00
+GameContextRemoveElementMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jsd	1.00
+GameContextRemoveElementWithEventMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextRemoveMultipleElementsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextRemoveMultipleElementsWithEventsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameContextSummonsInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameDataPaddockObjectAddMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameDataPaddockObjectListAddMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameDataPaddockObjectRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameDataPlayFarmObjectAnimationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameEntitiesDispositionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameEntityDispositionErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameEntityDispositionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightAIInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightCharacterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightCharacteristics	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameFightCompanionInformations	symbioz	1	5		DIVERGENT		
+GameFightEffectTriggerCount	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameFightEndMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightEntityInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameFightFighterCompanionLightInformations	symbioz	1	5		DIVERGENT		
+GameFightFighterEntityLightInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameFightFighterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightFighterLightInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightFighterMonsterLightInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightFighterNamedInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightFighterNamedLightInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightFighterTaxCollectorLightInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightHumanReadyStateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightJoinMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightJoinRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameFightLeaveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightMinimalStats	symbioz	1	5		DIVERGENT		
+GameFightMinimalStatsPreparation	symbioz	1	5		DIVERGENT		
+GameFightMonsterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightMonsterWithAlignmentInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightMutantInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightNewRoundMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightNewWaveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightOptionStateUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightOptionToggleMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameFightPauseMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameFightPlacementPositionRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameFightPlacementPossiblePositionsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightPlacementSwapPositionsAcceptMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GameFightPlacementSwapPositionsCancelMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GameFightPlacementSwapPositionsCancelledMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightPlacementSwapPositionsErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightPlacementSwapPositionsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightPlacementSwapPositionsOfferMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightPlacementSwapPositionsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameFightReadyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameFightRefreshFighterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightRemoveTeamMemberMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightResumeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightResumeSlaveInfo	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightResumeWithSlavesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightShowFighterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightShowFighterRandomStaticPoseMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightSpectateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightSpectatePlayerRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GameFightSpectatorJoinMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightSpellCooldown	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightStartMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightStartingMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightSynchronizeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightTaxCollectorInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightTurnEndMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightTurnFinishMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameFightTurnListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightTurnReadyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameFightTurnReadyRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightTurnResumeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightTurnStartMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightTurnStartPlayingMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameFightUpdateTeamMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameMapChangeOrientationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameMapChangeOrientationRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameMapChangeOrientationsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameMapMovementCancelMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameMapMovementConfirmMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	jsq	0.75
+GameMapMovementMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jsj;jrw	1.00;1.00
+GameMapMovementRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameMapNoMovementMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameMapSpeedMovementMessage	ginycore	1	5		DIVERGENT		
+GameRefreshMonsterBoostsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayActorInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayAggressionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayArenaFightAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameRolePlayArenaFightPropositionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayArenaFighterStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayArenaInvitationCandidatesAnswerMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameRolePlayArenaLeagueRewardsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameRolePlayArenaPlayerBehavioursMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameRolePlayArenaRegisterMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameRolePlayArenaRegistrationStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayArenaRegistrationWarningMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameRolePlayArenaSwitchToFightServerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayArenaSwitchToGameServerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayArenaUnregisterMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameRolePlayArenaUpdatePlayerInfosAllQueuesMessage	giny;ginycore;oneair	3	5		PARTIEL		
+GameRolePlayArenaUpdatePlayerInfosMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayArenaUpdatePlayerInfosWithTeamMessage	symbioz	1	5		DIVERGENT		
+GameRolePlayAttackMonsterRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameRolePlayCharacterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayDelayedActionFinishedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayDelayedActionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayDelayedObjectUseMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayFightRequestCanceledMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayFreeSoulRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;oneair	INVARIANT		
+GameRolePlayGameOverMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayGroupMonsterInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayGroupMonsterWaveInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayHumanoidInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayMerchantInformations	ginycore;symbioz	2	5		PARTIEL		
+GameRolePlayMonsterAngryAtPlayerMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameRolePlayMonsterNotAngryAtPlayerMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameRolePlayMountInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayMutantInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayNamedActorInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayNpcInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayNpcQuestFlag	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayNpcWithQuestInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayPlayerFightFriendlyAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameRolePlayPlayerFightFriendlyAnsweredMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayPlayerFightFriendlyRequestedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayPlayerFightRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GameRolePlayPlayerLifeStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayPortalInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayPrismInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayRemoveChallengeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayShowActorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayShowActorWithEventMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayShowChallengeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayShowMultipleActorsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GameRolePlaySpellAnimMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayTaxCollectorFightRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GameRolePlayTaxCollectorInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameRolePlayTreasureHintInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GameServerInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GetPartInfoMessage	symbioz	1	5		DIVERGENT		
+GetPartsListMessage	symbioz	1	5		DIVERGENT	jtg	0.67
+GoldAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GoldItem	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GroupMonsterStaticInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GroupMonsterStaticInformationsWithAlternatives	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GroupTeleportPlayerAnswerMessage	jiva;giny;oneair	3	5		PARTIEL		
+GroupTeleportPlayerCloseMessage	jiva;giny;oneair	3	5		PARTIEL		
+GroupTeleportPlayerOfferMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuestLimitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuestModeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuidedModeQuitRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuidedModeReturnRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildApplicationAnswerMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+GuildApplicationDeletedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildApplicationInformation	ginycore	1	5		DIVERGENT		
+GuildApplicationIsAnsweredMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildApplicationListenMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+GuildApplicationPresenceMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildApplicationReceivedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildArenaSubscribeAnswerMessage	symbioz	1	5		DIVERGENT		
+GuildBulletinMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildBulletinSetErrorMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildBulletinSetRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;oneair	PARTIEL		
+GuildChangeMemberParametersMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GuildCharacsUpgradeRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GuildChestTabContributionMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildChestTabContributionsMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildChestTabLastContributionMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildCreationResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildCreationStartedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildCreationValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GuildDeleteApplicationRequestMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+GuildEmblem	ginycore;symbioz	2	5		PARTIEL		
+GuildFactSheetInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildFactsErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildFactsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildFactsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;oneair	INVARIANT		
+GuildFightJoinRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildFightLeaveRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildFightPlayersEnemiesListMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildFightPlayersEnemyRemoveMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildFightPlayersHelpersJoinMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildFightPlayersHelpersLeaveMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildFightTakePlaceRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildGetChestTabContributionsRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildGetInformationsMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GuildGetPlayerApplicationMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;oneair	PARTIEL		
+GuildHouseRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildHouseTeleportRequestMessage	symbioz	1	5		DIVERGENT		
+GuildHouseUpdateInformationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildHousesInformationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInAllianceFactsMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildInAllianceInformations	ginycore;symbioz	2	5		PARTIEL		
+GuildInAllianceVersatileInformations	ginycore;symbioz	2	5		PARTIEL		
+GuildInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInformationsGeneralMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jhh	1.00
+GuildInformationsMemberUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInformationsMembersMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInformationsPaddocksMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInfosUpgradeMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildInsiderFactSheetInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInvitationAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GuildInvitationByNameMessage	symbioz	1	5	jiva	DIVERGENT		
+GuildInvitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GuildInvitationSearchMessage	ginycore	1	5		DIVERGENT		
+GuildInvitationStateRecrutedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInvitationStateRecruterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildInvitedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildIsThereAnyApplicationMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+GuildJoinAutomaticallyRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildJoinedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildKickRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GuildLeftMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildLevelUpActivity	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildLevelUpMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildListApplicationAnswerMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildListApplicationModifiedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildListApplicationRequestMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+GuildListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildLogbookChestActivity	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildLogbookEntryBasicInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildLogbookInformationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildLogbookInformationRequestMessage	jiva;giny;ginycore;oneair	4	5	giny;oneair	PARTIEL		
+GuildMember	ginycore;symbioz	2	5		PARTIEL		
+GuildMemberInfo	jiva;giny;oneair	3	5		PARTIEL		
+GuildMemberLeavingMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildMemberOnlineStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildMemberSetWarnOnConnectionMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildMemberStartWarnOnConnectionMessage	jiva;giny;oneair	3	5	jiva	PARTIEL		
+GuildMemberStopWarnOnConnectionMessage	jiva;giny;oneair	3	5	jiva	PARTIEL		
+GuildMemberWarnOnConnectionStateMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildMembershipMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildModificationEmblemValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GuildModificationNameValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GuildModificationResultMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildModificationStartedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildModificationValidMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GuildMotdMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildMotdSetErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildMotdSetRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+GuildPaddockActivity	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildPaddockBoughtMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildPaddockRemovedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+GuildPaddockTeleportRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GuildPlayerApplicationAbstractMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildPlayerApplicationInformationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildPlayerFlowActivity	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildPlayerNoApplicationInformationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildPlayerRankUpdateActivity	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildRankActivity	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildRankInformation	ginycore	1	5		DIVERGENT		
+GuildRankMinimalInformation	ginycore	1	5		DIVERGENT		
+GuildRankPublicInformation	ginycore	1	5		DIVERGENT		
+GuildRanksMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildRanksRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;oneair	PARTIEL		
+GuildRecruitmentInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildRecruitmentInvalidateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildSelectChestTabRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildSpellUpgradeRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+GuildSubmitApplicationMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+GuildSummaryMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+GuildSummaryRequestMessage	jiva;giny;ginycore;oneair	4	5	giny;oneair	PARTIEL		
+GuildUnlockNewTabActivity	jiva;giny;oneair	3	5		PARTIEL		
+GuildUpdateApplicationMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+GuildUpdateChestTabRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+GuildUpdateNoteMessage	jiva;giny;ginycore;oneair	4	5	giny;oneair	PARTIEL		
+GuildVersatileInfoListMessage	ginycore;symbioz	2	5		PARTIEL		
+GuildVersatileInformations	ginycore;symbioz	2	5		PARTIEL		
+HaapiApiKeyMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HaapiApiKeyRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+HaapiAuthErrorMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiBufferListMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiBufferListRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiBuyValidationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiCancelBidRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiConfirmationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiConfirmationRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiConsumeBufferRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiSessionMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiShopApiKeyMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiShopApiKeyRequestMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+HaapiTokenMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiTokenRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiValidationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HaapiValidationRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HandshakeMessage	giny;ginycore;oneair	3	5	giny;ginycore;oneair	PARTIEL		
+HavenBagDailyLoteryMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+HavenBagFurnitureInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HavenBagFurnituresMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jbu;jbg	1.00;0.86
+HavenBagFurnituresRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+HavenBagPackListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HavenBagPermissionsUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HavenBagPermissionsUpdateRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL	jbm;jba	0.72;0.68
+HavenBagRoomPreviewInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HavenBagRoomUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HelloConnectMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HelloGameMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	hoy	1.00
+HouseBuyRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseBuyResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kqr;jbs	0.62;0.67
+HouseGuildNoneMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseGuildRightsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseGuildRightsViewMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseGuildShareRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseGuildedInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HouseInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseInformationsExtended	symbioz	1	5		DIVERGENT		
+HouseInformationsForGuild	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseInformationsForSell	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseInformationsInside	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseInstanceInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HouseKickIndoorMerchantRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+HouseKickRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseLockFromInsideRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseOnMapInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HousePropertiesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseSellFromInsideRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseSellRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseSellingUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HouseSoldMessage	symbioz	1	5		DIVERGENT		
+HouseTeleportRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+HouseToSellFilterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseToSellListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HouseToSellListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOption	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionAlliance	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionEmote	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionFollowers	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionGuild	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionObjectUse	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionOrnament	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionSkillUse	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+HumanOptionSpeedMultiplier	jiva;giny;oneair	3	5		PARTIEL		
+HumanOptionTitle	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IPCCharacterCreationRequestMessage	giny;ginycore;oneair	3	5	giny;ginycore;oneair	PARTIEL		
+IPCCharacterDeletionRequestMessage	giny;ginycore;oneair	3	5	giny;ginycore;oneair	PARTIEL		
+IPCServerStatusUpdateMessage	giny;ginycore;oneair	3	5	giny;ginycore;oneair	PARTIEL		
+IconNamedPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+IconNamedPresetSaveRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+IconPresetSaveRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+IdentificationAccountForceMessage	ginycore;symbioz	2	5		PARTIEL		
+IdentificationFailedBannedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IdentificationFailedForBadVersionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	mgz	0.59
+IdentificationFailedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IdentificationMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+IdentificationSuccessMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IdentificationSuccessWithLoginTokenMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IdentifiedEntityDispositionInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+Idol	ginycore;symbioz	2	5		PARTIEL		
+IdolFightPreparationUpdateMessage	ginycore;symbioz	2	5		PARTIEL		
+IdolListMessage	ginycore;symbioz	2	5		PARTIEL		
+IdolPartyLostMessage	ginycore;symbioz	2	5		PARTIEL		
+IdolPartyRefreshMessage	ginycore;symbioz	2	5		PARTIEL		
+IdolPartyRegisterRequestMessage	ginycore;symbioz	2	5	jiva;ginycore;symbioz	PARTIEL		
+IdolSelectErrorMessage	ginycore;symbioz	2	5		PARTIEL		
+IdolSelectRequestMessage	ginycore;symbioz	2	5	jiva;ginycore;symbioz	PARTIEL		
+IdolSelectedMessage	ginycore;symbioz	2	5		PARTIEL		
+IdolsPreset	ginycore;symbioz	2	5		PARTIEL		
+IdolsPresetDeleteMessage	symbioz	1	5		DIVERGENT		
+IdolsPresetDeleteResultMessage	symbioz	1	5		DIVERGENT		
+IdolsPresetSaveMessage	symbioz	1	5		DIVERGENT		
+IdolsPresetSaveRequestMessage	ginycore	1	5		DIVERGENT		
+IdolsPresetSaveResultMessage	symbioz	1	5		DIVERGENT	lyu	0.63
+IdolsPresetUpdateMessage	symbioz	1	5		DIVERGENT		
+IdolsPresetUseMessage	symbioz	1	5		DIVERGENT		
+IdolsPresetUseResultMessage	symbioz	1	5		DIVERGENT		
+IgnoredAddFailureMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IgnoredAddRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+IgnoredAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IgnoredDeleteRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;oneair	INVARIANT		
+IgnoredDeleteResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IgnoredGetListMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+IgnoredInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IgnoredListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IgnoredOnlineInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IndexedEntityLook	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveElement	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveElementNamedSkill	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveElementSkill	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveElementUpdatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveElementWithAgeBonus	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveMapUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveUseEndedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveUseErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InteractiveUseRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	iwo	1.00
+InteractiveUseWithParamRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+InteractiveUsedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	iwn	1.00
+InvalidPresetsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+InventoryContentAndPresetMessage	symbioz	1	5		DIVERGENT		
+InventoryContentMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	ivx	1.00
+InventoryPresetDeleteMessage	symbioz	1	5		DIVERGENT		
+InventoryPresetDeleteResultMessage	symbioz	1	5		DIVERGENT		
+InventoryPresetItemUpdateErrorMessage	symbioz	1	5		DIVERGENT		
+InventoryPresetItemUpdateMessage	symbioz	1	5		DIVERGENT		
+InventoryPresetItemUpdateRequestMessage	symbioz	1	5	jiva	DIVERGENT		
+InventoryPresetSaveCustomMessage	symbioz	1	5	jiva	DIVERGENT		
+InventoryPresetSaveMessage	symbioz	1	5	jiva;symbioz	DIVERGENT		
+InventoryPresetSaveResultMessage	symbioz	1	5		DIVERGENT		
+InventoryPresetUpdateMessage	symbioz	1	5		DIVERGENT		
+InventoryPresetUseMessage	symbioz	1	5		DIVERGENT		
+InventoryPresetUseResultMessage	symbioz	1	5		DIVERGENT		
+InventoryWeightMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	iun	1.00
+InviteInHavenBagClosedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InviteInHavenBagMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+InviteInHavenBagOfferMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+IsIpConnectedMessage	giny;ginycore;oneair	3	5		PARTIEL		
+IsIpConnectedRequestMessage	giny;ginycore;oneair	3	5	giny;ginycore;oneair	PARTIEL		
+Item	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ItemDurability	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ItemForPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ItemForPresetUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ItemNoMoreAvailableMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ItemsPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+JobAllowMultiCraftRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobBookSubscribeRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+JobBookSubscription	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobBookSubscriptionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryAddMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryDefineSettingsMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+JobCrafterDirectoryEntryJobInfo	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryEntryMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryEntryPlayerInfo	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryEntryRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryListEntry	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectoryListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+JobCrafterDirectoryRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectorySettings	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobCrafterDirectorySettingsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobDescription	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobDescriptionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobExperience	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobExperienceMultiUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	irq	1.00
+JobExperienceOtherPlayerUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobExperienceUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobLevelUpMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+JobMultiCraftAvailableSkillsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+KamaDebtInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+KamasUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	ivf	1.00
+KickHavenBagRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+KnownZaapListMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+KohAllianceInfo	jiva;giny;oneair	3	5		PARTIEL		
+KohAllianceRoleMembers	jiva;giny;oneair	3	5		PARTIEL		
+KohScore	jiva;giny;oneair	3	5		PARTIEL		
+KohUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+KothEndMessage	jiva;giny;oneair	3	5		PARTIEL		
+KothWinner	jiva;giny;oneair	3	5		PARTIEL		
+KrosmasterAuthTokenErrorMessage	symbioz	1	5		DIVERGENT		
+KrosmasterAuthTokenMessage	symbioz	1	5		DIVERGENT		
+KrosmasterAuthTokenRequestMessage	symbioz	1	5		DIVERGENT		
+KrosmasterFigure	symbioz	1	5		DIVERGENT		
+KrosmasterInventoryErrorMessage	symbioz	1	5		DIVERGENT		
+KrosmasterInventoryMessage	symbioz	1	5		DIVERGENT		
+KrosmasterInventoryRequestMessage	symbioz	1	5		DIVERGENT		
+KrosmasterPlayingStatusMessage	symbioz	1	5		DIVERGENT		
+KrosmasterTransferMessage	symbioz	1	5		DIVERGENT		
+KrosmasterTransferRequestMessage	symbioz	1	5		DIVERGENT		
+LeagueFriendInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+LeaveDialogMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+LeaveDialogRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kld	1.00
+LifePointsRegenBeginMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LifePointsRegenEndMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ListMapNpcsQuestStatusUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ListenersOfSynchronizedStorageMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+LivingObjectChangeSkinRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+LivingObjectDissociateMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+LivingObjectMessageMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LivingObjectMessageRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+LocalizedChatSmileyMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LockableChangeCodeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LockableCodeResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LockableShowCodeDialogMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LockableStateUpdateAbstractMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LockableStateUpdateHouseDoorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LockableStateUpdateStorageMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LockableUseCodeMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+LoginQueueStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MailStatusMessage	symbioz	1	5		DIVERGENT		
+MapComplementaryInformationsAnomalyMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+MapComplementaryInformationsBreachMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+MapComplementaryInformationsDataInHavenBagMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapComplementaryInformationsDataInHouseMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapComplementaryInformationsDataMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jss	1.00
+MapComplementaryInformationsWithCoordsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapCoordinates	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapCoordinatesAndId	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapCoordinatesExtended	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapFightCountMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapFightStartPositionsUpdateMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+MapInformationsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+MapNpcQuestInfo	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+MapNpcsQuestStatusUpdateMessage	symbioz	1	5		DIVERGENT		
+MapObstacle	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapObstacleUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapRewardRateMessage	ginycore	1	5		DIVERGENT		
+MapRunningFightDetailsExtendedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapRunningFightDetailsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapRunningFightDetailsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+MapRunningFightListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MapRunningFightListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+MigratedServerListMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+MimicryObjectAssociatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MimicryObjectEraseRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+MimicryObjectErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MimicryObjectFeedAndAssociateRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+MimicryObjectPreviewMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MonsterBoosts	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MonsterInGroupInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MonsterInGroupLightInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MoodSmileyRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+MoodSmileyResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MoodSmileyUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountClientData	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountDataErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountDataMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountEmoteIconUsedOkMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountEquipedErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountFeedRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+MountHarnessColorsUpdateRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+MountHarnessDissociateRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+MountInformationInPaddockRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+MountInformationRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+MountInformationsForPaddock	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountReleaseRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+MountReleasedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountRenameRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+MountRenamedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountRidingMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountSetMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountSetXpRatioRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+MountSterilizeRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+MountSterilizedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountToggleRidingRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+MountUnSetMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MountXpRatioMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+MoveTaxCollectorOrderedSpellMessage	jiva;giny;oneair	3	5		PARTIEL		
+MoveTaxCollectorPresetSpellMessage	jiva;giny;oneair	3	5		PARTIEL		
+MultiTabStorageMessage	jiva;giny;oneair	3	5		PARTIEL		
+NamedPartyTeam	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NamedPartyTeamWithOutcome	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NetworkDataContainerMessage	jiva;symbioz	2	5		PARTIEL		
+NewMailMessage	symbioz	1	5		DIVERGENT		
+NicknameAcceptedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NicknameChoiceRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+NicknameRefusedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NicknameRegistrationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NotificationByServerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NotificationListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lyt	0.67
+NotificationResetMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NotificationUpdateFlagMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NpcDialogCreationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NpcDialogQuestionMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NpcDialogReplyMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+NpcGenericActionFailureMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NpcGenericActionRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+NuggetsBeneficiary	jiva;giny;oneair	3	5		PARTIEL		
+NuggetsDistributionMessage	jiva;giny;oneair	3	5		PARTIEL		
+NuggetsInformationMessage	jiva;giny;oneair	3	5		PARTIEL		
+NumericWhoIsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+NumericWhoIsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ObjectAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	iua	1.00
+ObjectAveragePricesErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectAveragePricesGetMessage	jiva;giny;ginycore;oneair;symbioz	5	5	giny;ginycore;oneair	INVARIANT		
+ObjectAveragePricesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectDeleteMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	iuw	1.00
+ObjectDeletedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	ium	1.00
+ObjectDropMessage	jiva;giny;ginycore;oneair;symbioz	5	5	symbioz	INVARIANT		
+ObjectEffect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectCreature	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectDate	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectDice	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectDuration	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectInteger	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectLadder	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectMinMax	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectMount	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffectString	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectEffects	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ObjectErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectFeedMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair	INVARIANT		
+ObjectFoundWhileRecoltingMessage	symbioz	1	5		DIVERGENT		
+ObjectGroundAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectGroundListAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectGroundRemovedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectGroundRemovedMultipleMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItem	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemGenericQuantity	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemGenericQuantityPrice	symbioz	1	5		DIVERGENT		
+ObjectItemInRolePlay	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemInformationWithQuantity	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemMinimalInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemNotInContainer	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemQuantity	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemQuantityPriceDateEffects	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ObjectItemToSell	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemToSellInBid	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectItemToSellInHumanVendorShop	ginycore;symbioz	2	5		PARTIEL		
+ObjectItemToSellInNpcShop	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectJobAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectModifiedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectMovementMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	ivq	1.00
+ObjectQuantityMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectSetPositionMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	iuk	1.00
+ObjectUseMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ObjectUseMultipleMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+ObjectUseOnCellMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ObjectUseOnCharacterMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+ObjectsAddedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectsDeletedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObjectsQuantityMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObtainedItemMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ObtainedItemWithBonusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+OnCharacterCreationMessage	symbioz	1	5	symbioz	DIVERGENT		
+OnCharacterDeletionMessage	symbioz	1	5	symbioz	DIVERGENT		
+OnCharacterDeletionResultMessage	symbioz	1	5		DIVERGENT		
+OnConnectionEventMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+OpenGuideBookMessage	jiva;giny;oneair	3	5		PARTIEL		
+OpenHavenBagFurnitureSequenceRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+OpponentSurrenderMessage	jiva	1	5		DIVERGENT		
+OrnamentGainedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+OrnamentLostMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+OrnamentSelectErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+OrnamentSelectRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	lwm	1.00
+OrnamentSelectedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lyv;hif	0.83;1.00
+PaddockAbandonnedInformations	symbioz	1	5		DIVERGENT		
+PaddockBuyRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockBuyResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockBuyableInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockContentInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockGuildedInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PaddockInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockInformationsForSell	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockInstancesInformations	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PaddockItem	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockMoveItemRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockPrivateInformations	symbioz	1	5		DIVERGENT		
+PaddockPropertiesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockRemoveItemRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockSellBuyDialogMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockSellRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockToSellFilterMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockToSellListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaddockToSellListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PaginationAnswerAbstractMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PaginationRequestAbstractMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PartInfoMessage	symbioz	1	5		DIVERGENT		
+PartsListMessage	symbioz	1	5		DIVERGENT		
+PartyAbdicateThroneMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+PartyAcceptInvitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+PartyCancelInvitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	lwz	0.56
+PartyCancelInvitationNotificationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyCannotJoinErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyCompanionBaseInformations	symbioz	1	5		DIVERGENT		
+PartyCompanionMemberInformations	symbioz	1	5		DIVERGENT		
+PartyCompanionUpdateLightMessage	symbioz	1	5		DIVERGENT		
+PartyDeletedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyEntityBaseInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PartyEntityMemberInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PartyEntityUpdateLightMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PartyFollowMemberRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+PartyFollowStatusUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyFollowThisMemberRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+PartyGuestInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyIdol	ginycore;symbioz	2	5		PARTIEL		
+PartyInvitationArenaRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+PartyInvitationCancelledForGuestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyInvitationDetailsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyInvitationDetailsRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+PartyInvitationDungeonDetailsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyInvitationDungeonMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyInvitationDungeonRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyInvitationMemberInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyInvitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyInvitationRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+PartyJoinMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyKickRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+PartyKickedByMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyLeaderUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyLeaveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyLeaveRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+PartyLocateMembersMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyLocateMembersRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyLoyaltyStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyMemberArenaInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyMemberEjectedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyMemberGeoPosition	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyMemberInBreachFightMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PartyMemberInFightMessage	symbioz	1	5		DIVERGENT		
+PartyMemberInStandardFightMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PartyMemberInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyMemberRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyModifiableStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyNameSetErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyNameSetRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+PartyNameUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyNewGuestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyNewMemberMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lys	0.56
+PartyPledgeLoyaltyRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+PartyRefuseInvitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+PartyRefuseInvitationNotificationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyRestrictedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyStopFollowRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+PartyUpdateLightMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PartyUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PauseDialogMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PlayerNote	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PlayerSearchCharacterNameInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PlayerSearchTagInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PlayerStatus	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PlayerStatusExtended	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PlayerStatusUpdateErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PlayerStatusUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PlayerStatusUpdateRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+PopupWarningCloseRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;oneair	PARTIEL		
+PopupWarningClosedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PopupWarningMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PortalDialogCreationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PortalInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PortalUseRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	symbioz	INVARIANT		
+Preset	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PresetDeleteRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+PresetDeleteResultMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PresetItem	symbioz	1	5		DIVERGENT		
+PresetSaveErrorMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PresetSavedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PresetUseRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva	PARTIEL		
+PresetUseResultMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PresetUseResultWithMissingIdsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PresetsContainerPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PresetsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+PrismAddOrUpdateMessage	jiva;giny;oneair	3	5		PARTIEL		
+PrismAttackRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PrismAttackResultMessage	jiva;giny;oneair	3	5		PARTIEL		
+PrismAttackedMessage	jiva;giny;oneair	3	5		PARTIEL		
+PrismExchangeRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+PrismFightAddedMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightAttackerAddMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightAttackerRemoveMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightDefenderAddMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightDefenderLeaveMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightJoinLeaveRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightRemovedMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightStateUpdateMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightSwapRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismFightersInformation	ginycore;symbioz	2	5		PARTIEL		
+PrismGeolocalizedInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PrismInfoCloseMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismInfoInValidMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismInfoJoinLeaveRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PrismModuleExchangeRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismRecycleTradeRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+PrismRemoveMessage	jiva;giny;oneair	3	5		PARTIEL		
+PrismSetSabotagedRefusedMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismSetSabotagedRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismSettingsErrorMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismSettingsRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismSubareaEmptyInfo	ginycore;symbioz	2	5		PARTIEL		
+PrismTeleportationRequestMessage	jiva;giny;oneair	3	5		PARTIEL		
+PrismUseRequestMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismsInfoValidMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismsListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PrismsListRegisterMessage	ginycore;symbioz	2	5		PARTIEL		
+PrismsListUpdateMessage	ginycore;symbioz	2	5		PARTIEL		
+ProtectedEntityWaitingForHelpInfo	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ProtocolRequired	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+PurchasableDialogMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestActiveDetailedInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestActiveInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+QuestObjectiveInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestObjectiveInformationsWithCompletion	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestObjectiveValidatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestObjectiveValidationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestStartRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+QuestStartedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestStepInfoMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestStepInfoRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	giny;oneair	INVARIANT		
+QuestStepStartedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestStepValidatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QuestValidatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+QueueStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+RankInformation	jiva;giny;oneair	3	5		PARTIEL		
+RankMinimalInformation	jiva;giny;oneair	3	5		PARTIEL		
+RankPublicInformation	jiva;giny;oneair	3	5		PARTIEL		
+RawDataMessage	jiva;giny;ginycore;oneair;symbioz	5	5	symbioz	INVARIANT		
+RawDataMessageFixed	jiva	1	5		DIVERGENT		
+RecruitmentInformationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+RecycleResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+RecycledItem	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+RefreshCharacterStatsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+RefreshFollowedQuestsOrderRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ReleaseAccountMessage	jiva;giny;oneair	3	5	giny;oneair	PARTIEL		
+ReloginTokenRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ReloginTokenStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+RemodelingInformation	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+RemoveGuildRankRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+RemoveListenerOnSynchronizedStorageMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+RemoveSpellModifierMessage	jiva;giny;oneair	3	5		PARTIEL		
+RemoveTaxCollectorOrderedSpellMessage	jiva;giny;oneair	3	5		PARTIEL		
+RemoveTaxCollectorPresetSpellMessage	jiva;giny;oneair	3	5		PARTIEL		
+ReportRequestMessage	jiva	1	5		DIVERGENT		
+ReportResponseMessage	jiva	1	5		DIVERGENT		
+ResetCharacterStatsRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;ginycore;oneair	PARTIEL		
+ResetDatabaseMessage	symbioz	1	5	symbioz	DIVERGENT		
+ResetWorldRequestMessage	giny;ginycore;oneair	3	5	giny;ginycore;oneair	PARTIEL		
+ResetWorldResultMessage	giny;ginycore;oneair	3	5		PARTIEL		
+RoomAvailableUpdateMessage	symbioz	1	5		DIVERGENT		
+SelectedServerDataExtendedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SelectedServerDataMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SelectedServerRefusedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SellerBuyerDescriptor	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SequenceEndMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SequenceNumberMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+SequenceNumberRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SequenceStartMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerExperienceModificatorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerOptionalFeaturesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	kqu	1.00
+ServerSelectionMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ServerSessionConstant	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerSessionConstantInteger	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerSessionConstantLong	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerSessionConstantString	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerSessionConstantsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerSettingsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServerStatusUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ServersListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SetCharacterRestrictionsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SetEnableAVARequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SetEnablePVPRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;symbioz	INVARIANT		
+SetServerStatusMessage	symbioz	1	5	symbioz	DIVERGENT		
+SetUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+Shortcut	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutBarAddErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutBarAddRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	itz	1.00
+ShortcutBarContentMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	itg	1.00
+ShortcutBarRefreshMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	ivk	1.00
+ShortcutBarRemoveErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutBarRemoveRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ShortcutBarRemovedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutBarReplacedMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL	iuq	1.00
+ShortcutBarSwapErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutBarSwapRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ShortcutEmote	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutEntitiesPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ShortcutObject	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutObjectIdolsPreset	ginycore;symbioz	2	5		PARTIEL		
+ShortcutObjectItem	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutObjectPreset	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutSmiley	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShortcutSpell	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShowCellMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ShowCellRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+ShowCellSpectatorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SimpleCharacterCharacteristicForPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SkillActionDescription	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SkillActionDescriptionCollect	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SkillActionDescriptionCraft	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SkillActionDescriptionTimed	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SlaveNoLongerControledMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SlaveSwitchContextMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SocialApplicationInformation	jiva;giny;oneair	3	5		PARTIEL		
+SocialEmblem	jiva;giny;oneair	3	5		PARTIEL		
+SocialFight	jiva;giny;oneair	3	5		PARTIEL		
+SocialFightInfo	jiva;giny;oneair	3	5		PARTIEL		
+SocialFightJoinRequestMessage	jiva;giny;oneair	3	5	jiva	PARTIEL		
+SocialFightLeaveRequestMessage	jiva;giny;oneair	3	5	jiva	PARTIEL		
+SocialFightTakePlaceRequestMessage	jiva;giny;oneair	3	5	jiva	PARTIEL		
+SocialMember	jiva;giny;oneair	3	5		PARTIEL		
+SocialNoticeMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SocialNoticeSetErrorMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SocialNoticeSetRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SocialRecruitmentInformation	jiva;giny;oneair	3	5		PARTIEL		
+SpawnCharacterInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SpawnCompanionInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SpawnInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SpawnMonsterInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SpawnScaledMonsterInformation	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SpellForPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SpellItem	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SpellItemBoostMessage	symbioz	1	5		DIVERGENT		
+SpellListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	hms	1.00
+SpellModifierMessage	jiva;giny;oneair	3	5		PARTIEL		
+SpellModifyFailureMessage	symbioz	1	5		DIVERGENT		
+SpellModifyRequestMessage	symbioz	1	5	jiva;symbioz	DIVERGENT		
+SpellModifySuccessMessage	symbioz	1	5		DIVERGENT		
+SpellVariantActivationMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL	hmt;hng	1.00;0.86
+SpellVariantActivationRequestMessage	jiva;giny;ginycore;oneair	4	5	jiva;giny;ginycore;oneair	PARTIEL		
+SpellsPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+SpouseGetInformationsMessage	jiva;giny;ginycore;oneair;symbioz	5	5	oneair	INVARIANT		
+SpouseInformationsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	jgu	1.00
+SpouseStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StartExchangeTaxCollectorEquipmentMessage	jiva;giny;oneair	3	5		PARTIEL		
+StartGuildChestContributionMessage	jiva;giny;oneair	3	5		PARTIEL		
+StartListenAllianceFightMessage	jiva;giny;oneair	3	5		PARTIEL		
+StartListenGuildChestStructureMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+StartListenNuggetsMessage	jiva;giny;oneair	3	5		PARTIEL		
+StartListenTaxCollectorPresetsUpdatesMessage	jiva;giny;oneair	3	5		PARTIEL		
+StartListenTaxCollectorUpdatesMessage	jiva;giny;oneair	3	5		PARTIEL		
+StartupActionAddMessage	ginycore;symbioz	2	5		PARTIEL		
+StartupActionAddObject	ginycore;symbioz	2	5		PARTIEL		
+StartupActionFinishedMessage	ginycore;symbioz	2	5		PARTIEL		
+StartupActionsAllAttributionMessage	ginycore;symbioz	2	5		PARTIEL		
+StartupActionsExecuteMessage	ginycore;symbioz	2	5	symbioz	PARTIEL		
+StartupActionsListMessage	ginycore;symbioz	2	5		PARTIEL		
+StartupActionsObjetAttributionMessage	ginycore;symbioz	2	5	jiva;symbioz	PARTIEL		
+StatedElement	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatedElementUpdatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatedMapUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatisticData	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatisticDataBoolean	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatisticDataByte	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatisticDataInt	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatisticDataShort	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatisticDataString	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StatsPreset	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+StatsUpgradeRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	kum	1.00
+StatsUpgradeResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lwx	0.58
+StopGuildChestContributionMessage	jiva;giny;oneair	3	5		PARTIEL		
+StopListenAllianceFightMessage	jiva;giny;oneair	3	5		PARTIEL		
+StopListenGuildChestStructureMessage	jiva;giny;oneair	3	5	oneair	PARTIEL		
+StopListenNuggetsMessage	jiva;giny;oneair	3	5		PARTIEL		
+StopListenTaxCollectorPresetsUpdatesMessage	jiva;giny;oneair	3	5		PARTIEL		
+StopListenTaxCollectorUpdatesMessage	jiva;giny;oneair	3	5		PARTIEL		
+StopToListenRunningFightRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva	INVARIANT		
+StorageInventoryContentMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	iwb	1.00
+StorageKamasUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StorageObjectRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	itc	1.00
+StorageObjectUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	itd	1.00
+StorageObjectsRemoveMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StorageObjectsUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+StorageTabInformation	jiva;giny;oneair	3	5		PARTIEL		
+SubEntity	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SubareaRewardRateMessage	jiva;giny;oneair	3	5		PARTIEL		
+SubscriptionLimitationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SubscriptionUpdateMessage	symbioz	1	5		DIVERGENT		
+SubscriptionZoneMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SurrenderAccepted	jiva	1	5		DIVERGENT		
+SurrenderInfoRequestMessage	jiva	1	5	jiva	DIVERGENT		
+SurrenderInfoResponseMessage	jiva	1	5		DIVERGENT		
+SurrenderRefused	jiva	1	5		DIVERGENT		
+SurrenderRefusedBeforeTurn	jiva	1	5		DIVERGENT		
+SurrenderRefusedBeforeVote	jiva	1	5		DIVERGENT		
+SurrenderResponse	jiva	1	5		DIVERGENT		
+SurrenderStateMessage	jiva	1	5		DIVERGENT		
+SurrenderVoteAccepted	jiva	1	5		DIVERGENT		
+SurrenderVoteCastMessage	jiva	1	5		DIVERGENT		
+SurrenderVoteEndMessage	jiva	1	5		DIVERGENT		
+SurrenderVoteRefused	jiva	1	5		DIVERGENT		
+SurrenderVoteRefusedAlreadyAsked	jiva	1	5		DIVERGENT		
+SurrenderVoteRefusedBeforeTurn	jiva	1	5		DIVERGENT		
+SurrenderVoteRefusedWaitBetweenVotes	jiva	1	5		DIVERGENT		
+SurrenderVoteResponse	jiva	1	5		DIVERGENT		
+SurrenderVoteStartMessage	jiva	1	5		DIVERGENT		
+SurrenderVoteUpdateMessage	jiva	1	5		DIVERGENT		
+SwitchArenaXpRewardsModeMessage	jiva	1	5		DIVERGENT		
+SymbioticObjectAssociateRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SymbioticObjectAssociatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SymbioticObjectErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+SystemMessageDisplayMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorAddedMessage	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorAttackedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorAttackedResultMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorBasicInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorComplementaryInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorDialogQuestionBasicMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorDialogQuestionExtendedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorEquipmentUpdateMessage	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorFightersInformation	ginycore;symbioz	2	5		PARTIEL		
+TaxCollectorGuildInformations	ginycore;symbioz	2	5		PARTIEL		
+TaxCollectorHarvestedMessage	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorListMessage	ginycore;symbioz	2	5		PARTIEL		
+TaxCollectorLootInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorMovement	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorMovementAddMessage	ginycore;symbioz	2	5		PARTIEL		
+TaxCollectorMovementMessage	ginycore;symbioz	2	5		PARTIEL		
+TaxCollectorMovementRemoveMessage	ginycore;symbioz	2	5		PARTIEL		
+TaxCollectorMovementsOfflineMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorOrderedSpell	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorOrderedSpellUpdatedMessage	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorPreset	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorPresetSpellUpdatedMessage	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorPresetsMessage	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorRemovedMessage	jiva;giny;oneair	3	5		PARTIEL		
+TaxCollectorStateUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorStaticExtendedInformations	ginycore;symbioz	2	5		PARTIEL		
+TaxCollectorStaticInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TaxCollectorWaitingForHelpInformations	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportBuddiesAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportBuddiesMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportBuddiesRequestedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportDestination	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+TeleportDestinationsListMessage	symbioz	1	5		DIVERGENT		
+TeleportDestinationsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL	hjj	1.00
+TeleportHavenBagAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportHavenBagRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportOnSameMapMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportPlayerAnswerMessage	jiva;giny;oneair	3	5		PARTIEL		
+TeleportPlayerCloseMessage	jiva;giny;oneair	3	5		PARTIEL		
+TeleportPlayerOfferMessage	jiva;giny;oneair	3	5		PARTIEL		
+TeleportRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	hjc	1.00
+TeleportToBuddyAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportToBuddyCloseMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TeleportToBuddyOfferMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TextInformationMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TitleGainedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TitleLostMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TitleSelectErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TitleSelectRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	lze	1.00
+TitleSelectedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	lxa;hid	0.80;1.00
+TitlesAndOrnamentsListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT	hhy	1.00
+TitlesAndOrnamentsListRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+TopTaxCollectorListMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntAvailableRetryCountUpdateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntDigRequestAnswerFailedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntDigRequestAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntDigRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntFinishedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntFlag	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntFlagRemoveRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntFlagRequestAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntFlagRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntGiveUpRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntLegendaryRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntRequestAnswerMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntRequestMessage	symbioz	1	5		DIVERGENT		
+TreasureHuntShowLegendaryUIMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntStep	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntStepDig	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntStepFight	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntStepFollowDirection	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntStepFollowDirectionToHint	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TreasureHuntStepFollowDirectionToPOI	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TrustCertificate	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+TrustStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+URLOpenMessage	symbioz	1	5		DIVERGENT		
+UnfollowQuestObjectiveRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+UpdateAllGuildRankRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+UpdateGuildRankRequestMessage	jiva;giny;ginycore;oneair	4	5	giny;oneair	PARTIEL		
+UpdateGuildRightsMessage	jiva;giny;ginycore;oneair	4	5	giny;oneair	PARTIEL		
+UpdateLifePointsMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+UpdateMapPlayersAgressableStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+UpdateMountBooleanCharacteristic	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+UpdateMountBoost	symbioz	1	5		DIVERGENT		
+UpdateMountBoostMessage	symbioz	1	5		DIVERGENT		
+UpdateMountCharacteristic	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+UpdateMountCharacteristicsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+UpdateMountIntBoost	symbioz	1	5		DIVERGENT		
+UpdateMountIntegerCharacteristic	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+UpdateRecruitmentInformationMessage	jiva;giny;ginycore;oneair	4	5	oneair	PARTIEL		
+UpdateSelfAgressableStatusMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+UpdateSpellModifierMessage	ginycore	1	5		DIVERGENT		
+UpdatedStorageTabInformation	jiva;giny;oneair	3	5		PARTIEL		
+Uuid	jiva;giny;oneair	3	5		PARTIEL		
+Version	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+VersionExtended	symbioz	1	5		DIVERGENT		
+WarnOnPermaDeathMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+WarnOnPermaDeathStateMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+WatchInventoryContentMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+WatchQuestListMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+WatchQuestStepInfoMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+WatchQuestStepInfoRequestMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+WorldRegistrationRequestMessage	symbioz	1	5	symbioz	DIVERGENT		
+WrapperObjectAssociatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+WrapperObjectDissociateRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT		
+WrapperObjectErrorMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		
+ZaapDestinationsMessage	jiva;giny;ginycore;oneair	4	5		PARTIEL		
+ZaapListMessage	symbioz	1	5		DIVERGENT		
+ZaapRespawnSaveRequestMessage	jiva;giny;ginycore;oneair;symbioz	5	5	jiva;giny;ginycore;oneair;symbioz	INVARIANT	lxs	0.62
+ZaapRespawnUpdatedMessage	jiva;giny;ginycore;oneair;symbioz	5	5		INVARIANT		

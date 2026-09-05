@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Namaste 3 — serveur Dofus 3 souverain">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#141A30"/>
+      <stop offset="1" stop-color="#1E1732"/>
+    </linearGradient>
+
+    <!-- Sakura : géométrie à 5 pétales (5 pétales à 72°, dégradé nacré, étamines dorées).
+         / Sakura: 5-petal geometry (5 petals at 72°, pearly gradient, gold stamens). -->
+    <radialGradient id="petalG" cx="50%" cy="78%" r="72%">
+      <stop offset="0%" stop-color="#fffafc"/>
+      <stop offset="34%" stop-color="#fbdfe9"/>
+      <stop offset="72%" stop-color="#d98ca6" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#d98ca6" stop-opacity=".32"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F4C6DA" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#F4C6DA" stop-opacity="0"/>
+    </radialGradient>
+    <path id="p" d="M0,-8 C -9,-16 -17,-31 -10,-45 C -8,-50 -4,-49 0,-43 C 4,-49 8,-50 10,-45 C 17,-31 9,-16 0,-8 Z"/>
+
+    <!-- une fleur complète, réutilisable / one full blossom, reusable -->
+    <g id="fleur">
+      <g style="mix-blend-mode:screen">
+        <use href="#p" fill="url(#petalG)" transform="rotate(0)"/>
+        <use href="#p" fill="url(#petalG)" transform="rotate(72)"/>
+        <use href="#p" fill="url(#petalG)" transform="rotate(144)"/>
+        <use href="#p" fill="url(#petalG)" transform="rotate(216)"/>
+        <use href="#p" fill="url(#petalG)" transform="rotate(288)"/>
+      </g>
+      <g stroke="#f6c9a8" stroke-width="1.1" stroke-linecap="round" opacity=".9">
+        <line x1="0" y1="0" x2="0" y2="-11"/><line x1="0" y1="0" x2="9" y2="-6"/>
+        <line x1="0" y1="0" x2="6" y2="9"/><line x1="0" y1="0" x2="-6" y2="9"/><line x1="0" y1="0" x2="-9" y2="-6"/>
+      </g>
+    </g>
+    <!-- un pétale isolé qui tombe / a single falling petal -->
+    <g id="petale"><use href="#p" fill="url(#petalG)" opacity="0.85"/></g>
+  </defs>
+
+  <!-- ciel nocturne / night sky -->
+  <rect width="1200" height="340" fill="url(#night)"/>
+
+  <!-- étoiles, tenues loin du texte / stars, kept clear of the text -->
+  <g fill="#EAD9E6">
+    <circle cx="120" cy="42" r="1.2" opacity="0.65"/>
+    <circle cx="286" cy="30" r="1"   opacity="0.45"/>
+    <circle cx="520" cy="52" r="1.2" opacity="0.55"/>
+    <circle cx="742" cy="28" r="0.9" opacity="0.42"/>
+    <circle cx="1148" cy="248" r="1.1" opacity="0.5"/>
+    <circle cx="1064" cy="296" r="0.9" opacity="0.4"/>
+  </g>
+
+  <!-- LA SAKURA, en haut à droite, à la place de la lune.
+       Le halo et la fleur vivent dans la moitié droite ; le texte s'arrête à x=760. -->
+  <circle cx="1010" cy="170" r="132" fill="url(#glow)"/>
+  <use href="#fleur" transform="translate(1010,170) scale(2.05)"/>
+
+  <!-- branche : cantonnée SOUS la ligne de texte (y > 262) pour ne rien chevaucher.
+       branch: kept below the text baseline so nothing overlaps. -->
+  <g stroke="#3A2A3F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.9">
+    <path d="M0,322 C110,300 190,312 286,288 C340,274 372,280 424,266"/>
+    <path d="M286,288 C300,276 316,278 330,268"/>
+    <path d="M168,306 C182,296 198,297 212,288"/>
+  </g>
+  <use href="#fleur" transform="translate(424,266) scale(0.42)"/>
+  <use href="#fleur" transform="translate(330,268) scale(0.34)"/>
+  <use href="#fleur" transform="translate(212,288) scale(0.34)"/>
+  <use href="#fleur" transform="translate(286,288) scale(0.28)"/>
+
+  <!-- pétales qui tombent : uniquement dans le couloir libre entre le texte (x<760)
+       et la sakura (x>880). / falling petals confined to the free corridor. -->
+  <use href="#petale" transform="translate(806,96)  rotate(24)  scale(0.42)"/>
+  <use href="#petale" transform="translate(842,186) rotate(-32) scale(0.32)"/>
+  <use href="#petale" transform="translate(792,262) rotate(48)  scale(0.36)" opacity="0.8"/>
+  <use href="#petale" transform="translate(870,300) rotate(-12) scale(0.28)" opacity="0.7"/>
+
+  <!-- titre : bloc de texte réservé, x de 70 à ~760, aucune fleur dedans -->
+  <text x="70" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="72" font-weight="700" fill="#FBEAF1" letter-spacing="2">Namaste&#160;3</text>
+  <text x="72" y="194" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#F4C6DA" letter-spacing="1.5">Un serveur Dofus&#160;3 souverain &#183; open source</text>
+  <text x="72" y="228" font-family="'Consolas','SF Mono',monospace" font-size="14" fill="#9C8FB0" letter-spacing="0.5">reverse-engineering &#183; protocole &#183; &#233;mulateur &#183; outils communautaires</text>
+</svg>

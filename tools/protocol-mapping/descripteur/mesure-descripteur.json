@@ -1,0 +1,32 @@
+{
+  "version": "3.6.10.11",
+  "chemins_de_mesure": [
+    {
+      "conteneur": "global-metadata.dat",
+      "octets": 40335992,
+      "occurrences_texte_point_proto": 118,
+      "candidats_0x0A_nom_proto": 0,
+      "descripteurs_valides": 0
+    },
+    {
+      "conteneur": "global-metadata.dat (base64)",
+      "octets": 40335992,
+      "candidats_base64_40plus": 4684,
+      "base64_decodables": 3684,
+      "descripteurs_valides": 0
+    },
+    {
+      "conteneur": "GameAssembly.dll",
+      "octets": 115367424,
+      "occurrences_texte_point_proto": 0,
+      "candidats_0x0A_nom_proto": 0,
+      "descripteurs_valides": 0
+    }
+  ],
+  "totaux": {
+    "fichiers_proto": 0,
+    "messages": 0,
+    "champs": 0,
+    "enums": 0
+  }
+}

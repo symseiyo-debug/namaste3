@@ -1,0 +1,3 @@
+raw	motif	fichier:ligne	classe_courante	emu	version
+[WorldHandler(HaapiApiKeyRequestMessage.Id, ShouldBeLogged = false, IsGamePacket = false,	attribut multi-ligne ou forme non reconnue	refs/dofus-emu-dev/Server/Stump.Server.WorldServer/Handlers/Approach/ApproachHandler.cs:200	ApproachHandler	jiva	2.42
+[WorldHandler(HaapiShopApiKeyRequestMessage.Id, ShouldBeLogged = false, IsGamePacket = false,	attribut multi-ligne ou forme non reconnue	refs/dofus-emu-dev/Server/Stump.Server.WorldServer/Handlers/Approach/ApproachHandler.cs:222	ApproachHandler	jiva	2.42

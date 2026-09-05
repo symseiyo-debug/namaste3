@@ -1,0 +1,19 @@
+  HighlightedZaap: 
+ZaapError
+ZaapError(
+[ZaapClient] Exception while connecting to Zaap: 
+[ZaapClient] Trying to connect to port 
+[ZaapClient] Unable to connect to Zaap: Invalid ZaapClientParameters
+[ZaapClient] Unable to connect to Zaap: No ZaapClientParameters
+zaapMustUpdate_get
+zaapMustUpdate_get failed: unknown result
+zaapMustUpdate_get_args
+zaapMustUpdate_get_args(
+zaapMustUpdate_get_result
+zaapMustUpdate_get_result(
+zaapVersion_get
+zaapVersion_get failed: unknown result
+zaapVersion_get_args
+zaapVersion_get_args(
+zaapVersion_get_result
+zaapVersion_get_result(

@@ -1,0 +1,88 @@
+{
+  "classes_trahies": 2814,
+  "classes_trahies_par_dll": {
+    "Ankama.Dofus.Protocol.Game.dll": 1601,
+    "Core.dll": 1178,
+    "Ankama.Dofus.Protocol.Connection.dll": 27,
+    "Ankama.Animator2D.dll": 5,
+    "Ankama.Dofus.Core.World.dll": 3
+  },
+  "classes_trahies_Core_dll": 1178,
+  "messages_total": 2206,
+  "messages_avec_indice": 1664,
+  "messages_avec_indice_specifique": 762,
+  "messages_avec_indice_direct": 14,
+  "messages_avec_nom_propose": 31,
+  "noms_reels_charges": 513,
+  "opcodes_chemin_critique_avec_indice": 6,
+  "opcodes_chemin_critique": {
+    "mgq": {
+      "score": 0,
+      "directs": [],
+      "specifiques": [],
+      "nb_porteurs": 0,
+      "nom_propose": "",
+      "mot": ""
+    },
+    "mgt": {
+      "score": 1,
+      "directs": [],
+      "specifiques": [],
+      "nb_porteurs": 1,
+      "nom_propose": "",
+      "mot": ""
+    },
+    "hpd": {
+      "score": 1,
+      "directs": [],
+      "specifiques": [],
+      "nb_porteurs": 1,
+      "nom_propose": "",
+      "mot": ""
+    },
+    "krs": {
+      "score": 0,
+      "directs": [],
+      "specifiques": [],
+      "nb_porteurs": 0,
+      "nom_propose": "",
+      "mot": ""
+    },
+    "kqp": {
+      "score": 1,
+      "directs": [],
+      "specifiques": [],
+      "nb_porteurs": 1,
+      "nom_propose": "",
+      "mot": ""
+    },
+    "ksl": {
+      "score": 1,
+      "directs": [],
+      "specifiques": [],
+      "nb_porteurs": 1,
+      "nom_propose": "",
+      "mot": ""
+    },
+    "krt": {
+      "score": 3,
+      "directs": [],
+      "specifiques": [
+        "fro"
+      ],
+      "nb_porteurs": 1,
+      "nom_propose": "",
+      "mot": ""
+    },
+    "hjk": {
+      "score": 3,
+      "directs": [],
+      "specifiques": [
+        "ko"
+      ],
+      "nb_porteurs": 1,
+      "nom_propose": "",
+      "mot": ""
+    }
+  }
+}

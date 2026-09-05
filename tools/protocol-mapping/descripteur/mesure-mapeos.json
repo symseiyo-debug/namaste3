@@ -1,0 +1,162 @@
+{
+  "table_de_notre_version": "mapeo_3.6.10.10_a_3.6.10.11.tsv",
+  "lignes": 2169,
+  "jetons_identiques_3_6_10_10_vers_3_6_10_11": 2169,
+  "rotation_entre_ces_deux_correctifs": 0,
+  "repartition_fiabilite": {
+    "jeton:FIABLE": 2169,
+    "significations_mesurees": 274,
+    "noms_proposes": 99
+  },
+  "noms_utilisables_sur_notre_client": 99,
+  "anclas_opcodes": 293,
+  "anclas_avec_nom_propose": 99,
+  "anclas_avec_signification_mesuree": 287,
+  "nos_correspondances_v4": 208,
+  "nos_correspondances_v4_recopiees_de_jondo": 72,
+  "accord_independant": 24,
+  "accord_circulaire_exclu": 72,
+  "desaccord": 1,
+  "nouveau_apporte_par_jondo": 2,
+  "seulement_chez_nous": 111,
+  "accords_independants": [
+    {
+      "jeton": "hoy",
+      "nom": "HelloGameMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jqi",
+      "nom": "MapMovementConfirmRequest",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jqk",
+      "nom": "ChangeMapMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jrh",
+      "nom": "WorldEntryRequests",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jru",
+      "nom": "CurrentMapMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jrw",
+      "nom": "GameMapMovementRequestMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jsd",
+      "nom": "GameContextRemoveElementMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jsj",
+      "nom": "GameMapMovementMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jsn",
+      "nom": "GameContextRefreshEntityLookMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jsq",
+      "nom": "MapMovementConfirmResponse",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jss",
+      "nom": "MapComplementaryInformationsDataMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "jtg",
+      "nom": "GiftsListMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kqu",
+      "nom": "ServerOptionalFeaturesMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kqz",
+      "nom": "AuthenticationTicketMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kra",
+      "nom": "AuthenticationTicketAcceptedMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kva",
+      "nom": "CharacterSelectedSuccessMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kvd",
+      "nom": "CharactersListEndMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kvi",
+      "nom": "CharactersListMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kvl",
+      "nom": "CharacterFirstSelectionMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "kvw",
+      "nom": "CharacterSelectionMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "lqc",
+      "nom": "GameContextCreateRequestMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "lqu",
+      "nom": "BasicTimeMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "lva",
+      "nom": "MapLoadedMessage",
+      "provenance_v4": "capture_verifiee"
+    },
+    {
+      "jeton": "mgz",
+      "nom": "ContentCatalogVersionMessage",
+      "provenance_v4": "capture_verifiee"
+    }
+  ],
+  "desaccords": [
+    {
+      "jeton": "hjj",
+      "jondo": "TeleportDestinationsMessage",
+      "nous": "GuildCardEvent",
+      "provenance_v4": "structure_v2"
+    }
+  ],
+  "autres_tables": {
+    "mapeo_3.6.10.10_a_DofusClient.tsv": {
+      "lignes": 1555,
+      "note": "deux colonnes de JETONS, pas un mapping vers des noms clairs"
+    },
+    "mapeo_Ankama.Dofus.Protocol.Game_a_3.6.10.10.tsv": {
+      "lignes": 1530,
+      "note": "deux colonnes de JETONS, aucune colonne nom renseignée"
+    }
+  }
+}

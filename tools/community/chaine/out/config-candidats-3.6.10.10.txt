@@ -1,0 +1,5 @@
+.json
+/catalogs.json
+/settings.json
+credentials.json
+view-hierarchy.json

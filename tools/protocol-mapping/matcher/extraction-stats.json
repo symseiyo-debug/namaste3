@@ -1,0 +1,25 @@
+{
+  "classes_ibuffermessage": 2206,
+  "noeuds_total": 5740,
+  "repartition_par_nature": {
+    "class": 2959,
+    "struct": 6,
+    "message": 2206,
+    "enum": 569
+  },
+  "champs": {
+    "champs_resolus": 6277,
+    "champs_non_resolus": 0,
+    "champs_type_incertain": 0
+  },
+  "parse_stats": {
+    "top_level_vus": 1804,
+    "top_level_hors_cible": 4115,
+    "pending_const_non_resolu": 0,
+    "const_total": 6277,
+    "const_resolus": 6277,
+    "skip_lines_backing": 5219,
+    "oneof_groupes": 117
+  },
+  "registre_ambigus": 0
+}

@@ -1,0 +1,24 @@
+classe_obf	typedef_index	raison	indice_pour_la_capture
+krt	13337	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : (aucun)
+mgq	15045	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : jsh,kqu,mco,mgt
+mgt	15050	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : hpd,mgq
+hpd	9923	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : hid,krs,mgt
+krs	13335	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : hpd,mgz
+kqp	13285	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : keg,kvi,mgz
+ksl	13366	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : (aucun)
+hjk	9679	chemin_critique	écran de connexion/perso/carte selon la position dans la séquence (cf. chemin-critique.txt) — voisins de voisinage : hrc
+ljx	14075	famille_citee(22_arêtes)	capturer une action qui touche un de ses voisins : hlp,hnu,hxj,ian,ify
+llc	14124	famille_citee(12_arêtes)	capturer une action qui touche un de ses voisins : hxt,inb,iwb,jir,jkl
+lmm	14183	famille_citee(10_arêtes)	capturer une action qui touche un de ses voisins : jbf,llq,llu,llw,llz
+jbf	11517	famille_citee(6_arêtes)	capturer une action qui touche un de ses voisins : iec,jbd,kqm,llu,llw
+isa	11115	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : hgp,iry,itl,jal
+mig	39004	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : hhd,jxi,mia,mie
+iom	10959	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : hsz,ioi,iok,lmo
+kox	13218	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : kcz,kou,kov,llc
+kpy	13258	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : kgl,kpv,kpw,lnw
+mep	14957	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : len,mei,mel,men
+jse	12237	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : idf,ijg,klk,men
+iej	10536	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : idt,ixa,lxc,mfv
+lhk	13972	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : igs,ioa,jdb,jku
+lhs	13987	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : ivf,jbl,knl,lfg
+mgq	15045	famille_citee(4_arêtes)	capturer une action qui touche un de ses voisins : jsh,kqu,mco,mgt

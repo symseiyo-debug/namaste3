@@ -1,0 +1,4 @@
+// Régénéré depuis les descripteurs BRUTS du client 3.6.10.11
+// Regenerated from the RAW descriptors found inside the client.
+syntax = "proto3";
+

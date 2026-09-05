@@ -1,0 +1,144 @@
+message_nom	protocol_id	direction	handler_classe	handler_methode	fichier:ligne	emu	version
+AuthenticationTicketMessage	kqz	C2S	GameNodeProxy	HandleTicketPresentation	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:14	jondo	3.6.10.10
+AuthenticationTicketAcceptedMessage	kra	S2C	ConnectionProtocol	BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:16	jondo	3.6.10.10
+BasicTimeMessage	lqu	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:17	jondo	3.6.10.10
+BasicTimeMessage	lqu	S2C		BuildMapClock	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:17	jondo	3.6.10.10
+HelloGameMessage	hoy	S2C	ConnectionProtocol	BuildHoy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:18	jondo	3.6.10.10
+ServerOptionalFeaturesMessage	kqu	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:19	jondo	3.6.10.10
+	mgq	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:20	jondo	3.6.10.10
+	mgt	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:21	jondo	3.6.10.10
+	hpd	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:22	jondo	3.6.10.10
+	krs	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:23	jondo	3.6.10.10
+ContentCatalogVersionMessage	mgz	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:24	jondo	3.6.10.10
+	kqp	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:25	jondo	3.6.10.10
+CharactersListMessage	kvi	S2C		BuildCharactersList	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:26	jondo	3.6.10.10
+CharactersListEndMessage	kvd	S2C		BuildWelcomeBurst	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:27	jondo	3.6.10.10
+GiftsListMessage	jtg	S2C		BuildGiftCatalogue	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:28	jondo	3.6.10.10
+LogoutResultMessage	kqr	S2C	GameNodeProxy	BuildKqrPayload	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:30	jondo	3.6.10.10
+CharacterCreationRequestMessage	kvz	C2S	CharacterCreationHandler	CreateAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:31	jondo	3.6.10.10
+CharacterCreationResultMessage	kvb	S2C		CharacterCreationHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:32	jondo	3.6.10.10
+CharacterNameSuggestionSuccessMessage	kvk	S2C	CharacterCreationHandler	SuggestNameAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:33	jondo	3.6.10.10
+CharacterSelectionMessage	kvw	C2S		CharacterSelectionHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:34	jondo	3.6.10.10
+CharacterFirstSelectionMessage	kvl	C2S		CharacterSelectionHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:35	jondo	3.6.10.10
+CharacterSelectedSuccessMessage	kva	S2C		BuildCharacterSelectedSuccess	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:36	jondo	3.6.10.10
+CharactersListRequestMessage	kpa	C2S	CharacterSelectionHandler	HandleCharacterListRequest	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:37	jondo	3.6.10.10
+GameContextCreateRequestMessage	lqc	C2S		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:38	jondo	3.6.10.10
+CurrentMapMessage	jru	S2C		BuildLoadMap	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:39	jondo	3.6.10.10
+CurrentMapMessage	jru	S2C	WorldEntry	SendMapAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:39	jondo	3.6.10.10
+	hjk	S2C		BuildMapDiscovered	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:40	jondo	3.6.10.10
+MapComplementaryInformationsDataMessage	jss	S2C		BuildMapActors	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:42	jondo	3.6.10.10
+MapLoadedMessage	lva	S2C		BuildActorsComplete	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:43	jondo	3.6.10.10
+CharacterStatsListMessage	kub	S2C		BuildCharacteristics	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:44	jondo	3.6.10.10
+CharacterStatsListMessage	kub	S2C	WorldEntry	ContainerOf	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:44	jondo	3.6.10.10
+JobExperienceMultiUpdateMessage	irq	S2C	WorldEntry	ResetJobs	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:45	jondo	3.6.10.10
+SpellListMessage	hms	S2C		BuildSpellList	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:46	jondo	3.6.10.10
+InventoryContentMessage	ivx	S2C		BuildInventory	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:47	jondo	3.6.10.10
+ShortcutBarContentMessage	itg	S2C		BuildSpellBar	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:48	jondo	3.6.10.10
+ShortcutBarContentMessage	itg	S2C	WorldEntry	Rebuilt	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:48	jondo	3.6.10.10
+GameMapMovementRequestMessage	jrw	C2S	WorldMoveHandler	ConfirmMovementAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:49	jondo	3.6.10.10
+GameMapMovementMessage	jsj	S2C		BuildActorMoved	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:50	jondo	3.6.10.10
+MapMovementConfirmResponse	jsq	S2C_f3	ConnectionProtocol	Answer	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:52	jondo	3.6.10.10
+ChangeMapMessage	jqk	C2S	WorldMoveHandler	ChangeMapAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:53	jondo	3.6.10.10
+GameContextRemoveElementMessage	jsd	S2C		BuildActorLeft	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:54	jondo	3.6.10.10
+ObjectSetPositionMessage	iuk	C2S	EquipmentHandler	MoveAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:55	jondo	3.6.10.10
+ObjectMovementMessage	ivq	S2C		EquipmentHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:56	jondo	3.6.10.10
+	lym	S2C		EquipmentHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:57	jondo	3.6.10.10
+	lym	S2C	AppearanceHandler	AuraAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:57	jondo	3.6.10.10
+	hie	S2C		EquipmentHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:58	jondo	3.6.10.10
+	hii	S2C		EquipmentHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:59	jondo	3.6.10.10
+InventoryWeightMessage	iun	S2C		BuildPods	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:60	jondo	3.6.10.10
+ObjectDeleteMessage	iuw	C2S	DestroyItemHandler	DestroyAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:61	jondo	3.6.10.10
+ObjectDeletedMessage	ium	S2C		BuildItemGone	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:62	jondo	3.6.10.10
+ObjectAddedMessage	iua	S2C		BuildItemArrived	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:63	jondo	3.6.10.10
+StorageObjectUpdateMessage	itd	S2C		BuildItemArrived	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:64	jondo	3.6.10.10
+StorageObjectRemoveMessage	itc	S2C		BuildItemGone	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:65	jondo	3.6.10.10
+ExchangeStartedStorageMessage	kci	S2C		BuildStorageOpened	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:66	jondo	3.6.10.10
+StorageInventoryContentMessage	iwb	S2C		BuildStorageContent	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:67	jondo	3.6.10.10
+ExchangeObjectMoveMessage	kcr	C2S	ChestHandler	MoveAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:68	jondo	3.6.10.10
+ExchangeLeaveMessage	khd	S2C		BuildStorageClosed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:70	jondo	3.6.10.10
+LotteryResultMessage	jbs	S2C		BuildLotteryResult	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:71	jondo	3.6.10.10
+StatsUpgradeRequestMessage	kum	C2S	CharacteristicsHandler	SpendAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:72	jondo	3.6.10.10
+SpellVariantActivationRequestMessage	hmt	C2S	SpellHandler	HandleVariantAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:74	jondo	3.6.10.10
+ShortcutBarReplacedMessage	iuq	S2C		BuildShortcutChanged	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:75	jondo	3.6.10.10
+SpellVariantActivationSuccessMessage	hng	S2C		BuildSpellSwapped	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:76	jondo	3.6.10.10
+ShortcutBarAddRequestMessage	itz	C2S	GameNodeProxy	RememberShortcut	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:77	jondo	3.6.10.10
+ShortcutBarRefreshMessage	ivk	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:78	jondo	3.6.10.10
+InteractiveUseRequestMessage	iwo	C2S	ZaapTravelHandler	UseAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:79	jondo	3.6.10.10
+InteractiveUsedMessage	iwn	S2C		BuildElementInUse	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:80	jondo	3.6.10.10
+TeleportDestinationsMessage	hjj	S2C		BuildZaapList	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:81	jondo	3.6.10.10
+TeleportRequestMessage	hjc	C2S	ZaapTravelHandler	TravelAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:82	jondo	3.6.10.10
+KamasUpdateMessage	ivf	S2C		BuildKamas	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:83	jondo	3.6.10.10
+LeaveDialogMessage	kld	S2C		BuildDialogClosed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:84	jondo	3.6.10.10
+EnterHavenBagRequestMessage	jbn	C2S	MerkasakoHandler	EnterFromOutsideAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:85	jondo	3.6.10.10
+HavenBagThemeChangeRequestMessage	jbl	C2S	MerkasakoHandler	ChangeThemeAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:86	jondo	3.6.10.10
+HavenBagEditionStartedMessage	jbm	S2C		MerkasakoHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:88	jondo	3.6.10.10
+HavenBagFurnituresUpdateRequestMessage	jbg	C2S	MerkasakoHandler	CollectFurniture	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:89	jondo	3.6.10.10
+HavenBagEditionStoppedMessage	jba	S2C		MerkasakoHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:93	jondo	3.6.10.10
+HavenBagFurnituresMessage	jbu	S2C		BuildHavenBagFurniture	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:94	jondo	3.6.10.10
+	jaz	S2C		MerkasakoHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:95	jondo	3.6.10.10
+AppearanceStateMessage	lxo	S2C_f3		BuildAppearanceState	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:98	jondo	3.6.10.10
+AppearanceItemWearRequestMessage	lys	C2S	AppearanceHandler	WearAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:99	jondo	3.6.10.10
+AppearanceItemWornMessage	lwz	S2C_f3		AppearanceHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:100	jondo	3.6.10.10
+AppearanceSlotSetRequestMessage	lyf	C2S	AppearanceHandler	AssignAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:101	jondo	3.6.10.10
+AppearanceSlotSetResultMessage	lyj	S2C_f3		AppearanceHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:102	jondo	3.6.10.10
+AppearanceSlotVisibilityRequestMessage	lxg	C2S	AppearanceHandler	ToggleAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:103	jondo	3.6.10.10
+AppearanceSlotVisibilityResultMessage	lxk	S2C_f3		AppearanceHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:104	jondo	3.6.10.10
+AppearanceAuraRequestMessage	lxw	C2S	AppearanceHandler	AuraAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:105	jondo	3.6.10.10
+AppearanceAuraResultMessage	lwx	S2C_f3		AppearanceHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:106	jondo	3.6.10.10
+AppearancePreviewLookMessage	lxc	S2C		BuildLookChanged	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:107	jondo	3.6.10.10
+GameContextRefreshEntityLookMessage	jsn	S2C		BuildActorRefreshed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:108	jondo	3.6.10.10
+TitleSelectRequestMessage	lze	C2S	WardrobeHandler	ChooseTitleAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:109	jondo	3.6.10.10
+TitleSelectResultMessage	lxa	S2C_f3		WardrobeHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:110	jondo	3.6.10.10
+OrnamentSelectRequestMessage	lwm	C2S	WardrobeHandler	ChooseOrnamentAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:111	jondo	3.6.10.10
+OrnamentSelectResultMessage	lyv	S2C_f3		WardrobeHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:112	jondo	3.6.10.10
+AppearanceSaveRequestMessage	lxs	C2S	WardrobeHandler	SaveAsync	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:113	jondo	3.6.10.10
+AppearanceSaveResultMessage	lyu	S2C_f3		WardrobeHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:114	jondo	3.6.10.10
+TitleSelectedMessage	hid	S2C		BuildTitleUpdated	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:115	jondo	3.6.10.10
+OrnamentSelectedMessage	hif	S2C		BuildOrnamentUpdated	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:116	jondo	3.6.10.10
+TitlesAndOrnamentsListMessage	hhy	S2C		BuildTitlesOwned	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:117	jondo	3.6.10.10
+OutfitsListMessage	lyt	S2C		BuildOutfits	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:118	jondo	3.6.10.10
+ChatClientMultiMessage	ktm	C2S		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:119	jondo	3.6.10.10
+ChatServerMessage	kti	S2C		BuildChatLine	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:120	jondo	3.6.10.10
+BasicPingMessage	kqo	C2S		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:121	jondo	3.6.10.10
+BasicPongMessage	kqy	S2C		BuildHeartbeatAnswer	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:122	jondo	3.6.10.10
+	jyj	S2C		FightHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:129	jondo	3.6.10.10
+	jyg	S2C		FightHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:130	jondo	3.6.10.10
+	hnk	S2C	TransitionPacketsBuilder	BuildHnkMessage	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:134	jondo	3.6.10.10
+	ilc	S2C		BuildIlcMessage	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:135	jondo	3.6.10.10
+	isf	S2C	StatsHandler	BuildIsfPacket	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:136	jondo	3.6.10.10
+	hhf	S2C		InventoryHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:137	jondo	3.6.10.10
+	kku	S2C		InventoryHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:138	jondo	3.6.10.10
+	luy	C2S		InventoryHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:139	jondo	3.6.10.10
+	luy	C2S		BuildLuyMessage	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:139	jondo	3.6.10.10
+	kdx	C2S		BuildKdxMessage	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:140	jondo	3.6.10.10
+	izh	C2S		BuildIzhMessage	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:141	jondo	3.6.10.10
+	izu	S2C		BuildIzuMessage	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:142	jondo	3.6.10.10
+	koj	S2C		BuildKojMessage	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:143	jondo	3.6.10.10
+	koj	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:143	jondo	3.6.10.10
+	lpj	C2S		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:238	jondo	3.6.10.10
+	loy	C2S		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:239	jondo	3.6.10.10
+	kod	C2S		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:240	jondo	3.6.10.10
+	kkr	C2S		MapLoadHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:242	jondo	3.6.10.10
+	jos	C2S		MapChangeHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:243	jondo	3.6.10.10
+	isi	C2S		InventoryHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:245	jondo	3.6.10.10
+	krc	C2S		StatsHandler	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:246	jondo	3.6.10.10
+	kkm	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:250	jondo	3.6.10.10
+	joh	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:252	jondo	3.6.10.10
+	kri	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:254	jondo	3.6.10.10
+	hmd	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:255	jondo	3.6.10.10
+	itp	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:256	jondo	3.6.10.10
+	ith	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:258	jondo	3.6.10.10
+	klp	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:260	jondo	3.6.10.10
+	kqm	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:261	jondo	3.6.10.10
+	lpe	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:262	jondo	3.6.10.10
+	kns	S2C		GameNodeProxy	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:265	jondo	3.6.10.10
+ContactsListMessage	kqg	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:270	jondo	3.6.10.10
+	jhe	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:271	jondo	3.6.10.10
+GuildInformationsGeneralMessage	jhh	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:272	jondo	3.6.10.10
+	jhk	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:273	jondo	3.6.10.10
+	hol	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:274	jondo	3.6.10.10
+SpouseInformationsMessage	jgu	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:275	jondo	3.6.10.10
+	ihb	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:276	jondo	3.6.10.10
+	ife	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:277	jondo	3.6.10.10
+	jjs	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:278	jondo	3.6.10.10
+	jaa	S2C	WorldEntry	NotReplayed	refs/JondoEmu/datos/anclas_3.6.10.10.tsv:279	jondo	3.6.10.10

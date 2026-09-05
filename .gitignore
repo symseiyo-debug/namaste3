@@ -1,0 +1,42 @@
+# Build artifacts (.NET)
+obj/
+bin/
+*.dll
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Node (defensive; no JS toolchain here today)
+node_modules/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets — never commit
+*.pem
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+*secret*
+*credential*
+
+# Anything explicitly marked as a pre-edit backup
+*.bak
+*.avant-*
+
+# Large/raw extraction output — never meant for this repo
+internal/il2cpp-dump/
+internal/as3/
+**/cartes/sortie/
+*.dump

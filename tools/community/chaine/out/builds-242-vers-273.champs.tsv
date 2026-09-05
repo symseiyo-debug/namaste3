@@ -1,0 +1,226 @@
+nature	message	champ	type_a	type_b	build_a	build_b
+CHAMP_AJOUTE	AchievementFinishedMessage	achievement		AchievementAchievedRewardable	242	273
+CHAMP_AJOUTE	AchievementListMessage	finishedAchievements		Vector.<AchievementAchieved>	242	273
+CHAMP_AJOUTE	AcquaintanceSearchMessage	tag		AccountTagInformation	242	273
+CHAMP_AJOUTE	AdminCommandMessage	messageUuid		Uuid	242	273
+CHAMP_AJOUTE	AllianceFactsMessage	members		Vector.<CharacterMinimalSocialPublicInformations>	242	273
+CHAMP_AJOUTE	AllianceInsiderInfoMessage	members		Vector.<AllianceMemberInfo>	242	273
+CHAMP_AJOUTE	AllianceInsiderInfoMessage	taxCollectors		Vector.<TaxCollectorInformations>	242	273
+CHAMP_AJOUTE	AllianceJoinedMessage	rankId		uint	242	273
+CHAMP_AJOUTE	AllianceModificationEmblemValidMessage	allianceEmblem		SocialEmblem	242	273
+CHAMP_AJOUTE	AllianceModificationValidMessage	allianceEmblem		SocialEmblem	242	273
+CHAMP_AJOUTE	BasicWhoIsMessage	accountTag		AccountTagInformation	242	273
+CHAMP_AJOUTE	BasicWhoIsNoMatchMessage	target		AbstractPlayerSearchInformation	242	273
+CHAMP_AJOUTE	BasicWhoIsRequestMessage	target		AbstractPlayerSearchInformation	242	273
+CHAMP_AJOUTE	ChangeMapMessage	autopilot		Boolean	242	273
+CHAMP_AJOUTE	CharacterCreationResultMessage	reason		uint	242	273
+CHAMP_AJOUTE	CharactersListMessage	characters		Vector.<CharacterBaseInformations>	242	273
+CHAMP_AJOUTE	ChatServerMessage	prefix		String	242	273
+CHAMP_AJOUTE	ExchangeBidHouseInListAddedMessage	objectGID		uint	242	273
+CHAMP_AJOUTE	ExchangeBidHouseInListAddedMessage	objectType		uint	242	273
+CHAMP_AJOUTE	ExchangeBidHouseInListRemovedMessage	objectGID		uint	242	273
+CHAMP_AJOUTE	ExchangeBidHouseInListRemovedMessage	objectType		uint	242	273
+CHAMP_AJOUTE	ExchangeBidHouseListMessage	follow		Boolean	242	273
+CHAMP_AJOUTE	ExchangeBidHouseListMessage	objectGID		uint	242	273
+CHAMP_AJOUTE	ExchangeBidHousePriceMessage	objectGID		uint	242	273
+CHAMP_AJOUTE	ExchangeBidHouseSearchMessage	follow		Boolean	242	273
+CHAMP_AJOUTE	ExchangeBidHouseSearchMessage	objectGID		uint	242	273
+CHAMP_AJOUTE	ExchangeBidHouseTypeMessage	follow		Boolean	242	273
+CHAMP_AJOUTE	ExchangeStartOkRecycleTradeMessage	adjacentSubareaPossessed		Vector.<uint>	242	273
+CHAMP_AJOUTE	ExchangeStartOkRecycleTradeMessage	adjacentSubareaUnpossessed		Vector.<uint>	242	273
+CHAMP_AJOUTE	ExchangeTypesExchangerDescriptionForUserMessage	objectType		uint	242	273
+CHAMP_AJOUTE	ExchangeTypesItemsExchangerDescriptionForUserMessage	objectGID		uint	242	273
+CHAMP_AJOUTE	ExchangeTypesItemsExchangerDescriptionForUserMessage	objectType		uint	242	273
+CHAMP_AJOUTE	FriendAddRequestMessage	target		AbstractPlayerSearchInformation	242	273
+CHAMP_AJOUTE	FriendDeleteResultMessage	tag		AccountTagInformation	242	273
+CHAMP_AJOUTE	FriendJoinRequestMessage	target		AbstractPlayerSearchInformation	242	273
+CHAMP_AJOUTE	GameActionFightDispellMessage	verboseCast		Boolean	242	273
+CHAMP_AJOUTE	GameActionFightLifePointsLostMessage	elementId		int	242	273
+CHAMP_AJOUTE	GameActionFightTriggerGlyphTrapMessage	markImpactCell		uint	242	273
+CHAMP_AJOUTE	GameFightEndMessage	rewardRate		int	242	273
+CHAMP_AJOUTE	GameFightSpectateMessage	fxTriggerCounts		Vector.<GameFightEffectTriggerCount>	242	273
+CHAMP_AJOUTE	GameFightStartingMessage	containsBoss		Boolean	242	273
+CHAMP_AJOUTE	GameFightStartingMessage	fightId		uint	242	273
+CHAMP_AJOUTE	GameFightStartingMessage	monsters		Vector.<int>	242	273
+CHAMP_AJOUTE	GameRolePlayArenaRegisterMessage	arenaType		uint	242	273
+CHAMP_AJOUTE	GameRolePlayArenaSwitchToFightServerMessage	token		String	242	273
+CHAMP_AJOUTE	GameRolePlayArenaSwitchToGameServerMessage	token		String	242	273
+CHAMP_AJOUTE	GameRolePlayArenaUpdatePlayerInfosMessage	arenaRanks		Vector.<ArenaRankInfos>	242	273
+CHAMP_AJOUTE	GameRolePlayArenaUpdatePlayerInfosMessage	banEndDate		Number	242	273
+CHAMP_AJOUTE	GameRolePlaySpellAnimMessage	direction		int	242	273
+CHAMP_AJOUTE	GuildChangeMemberParametersMessage	rankId		uint	242	273
+CHAMP_AJOUTE	GuildInformationsGeneralMessage	score		int	242	273
+CHAMP_AJOUTE	GuildJoinedMessage	rankId		uint	242	273
+CHAMP_AJOUTE	HavenBagDailyLoteryMessage	gameActionId		String	242	273
+CHAMP_AJOUTE	HouseSellingUpdateMessage	buyerTag		AccountTagInformation	242	273
+CHAMP_AJOUTE	HouseToSellFilterMessage	orderBy		uint	242	273
+CHAMP_AJOUTE	IdentificationSuccessMessage	accountTag		AccountTagInformation	242	273
+CHAMP_AJOUTE	IdentificationSuccessMessage	hasForceRight		Boolean	242	273
+CHAMP_AJOUTE	IdentificationSuccessMessage	hasReportRight		Boolean	242	273
+CHAMP_AJOUTE	IgnoredAddRequestMessage	target		AbstractPlayerSearchInformation	242	273
+CHAMP_AJOUTE	IgnoredDeleteResultMessage	tag		AccountTagInformation	242	273
+CHAMP_AJOUTE	InventoryWeightMessage	inventoryWeight		uint	242	273
+CHAMP_AJOUTE	KohUpdateMessage	kohAllianceInfo		Vector.<KohAllianceInfo>	242	273
+CHAMP_AJOUTE	KohUpdateMessage	startingAvaTimestamp		uint	242	273
+CHAMP_AJOUTE	MountRidingMessage	isAutopilot		Boolean	242	273
+CHAMP_AJOUTE	ObjectAddedMessage	origin		uint	242	273
+CHAMP_AJOUTE	ObjectFeedMessage	meal		Vector.<ObjectItemQuantity>	242	273
+CHAMP_AJOUTE	ObjectQuantityMessage	origin		uint	242	273
+CHAMP_AJOUTE	PaddockToSellFilterMessage	orderBy		uint	242	273
+CHAMP_AJOUTE	PartyInvitationRequestMessage	target		AbstractPlayerSearchInformation	242	273
+CHAMP_AJOUTE	ProtocolRequired	version		String	242	273
+CHAMP_AJOUTE	SelectedServerDataMessage	ports		Vector.<uint>	242	273
+CHAMP_AJOUTE	ServerSettingsMessage	hasFreeAutopilot		Boolean	242	273
+CHAMP_AJOUTE	ServerSettingsMessage	isMonoAccount		Boolean	242	273
+CHAMP_AJOUTE	ServerSettingsMessage	itemMaxLevel		uint	242	273
+CHAMP_AJOUTE	SlaveSwitchContextMessage	slaveTurn		uint	242	273
+CHAMP_AJOUTE	SpellVariantActivationMessage	spellId		uint	242	273
+CHAMP_AJOUTE	TaxCollectorAttackedMessage	alliance		BasicAllianceInformations	242	273
+CHAMP_AJOUTE	TaxCollectorAttackedResultMessage	alliance		BasicAllianceInformations	242	273
+CHAMP_AJOUTE	TaxCollectorDialogQuestionBasicMessage	allianceInfo		BasicAllianceInformations	242	273
+CHAMP_AJOUTE	TaxCollectorDialogQuestionExtendedMessage	alliance		BasicNamedAllianceInformations	242	273
+CHAMP_AJOUTE	TeleportRequestMessage	destinationType		uint	242	273
+CHAMP_AJOUTE	TeleportRequestMessage	sourceType		uint	242	273
+CHAMP_AJOUTE	TopTaxCollectorListMessage	dungeonTaxCollectorsInformation		Vector.<TaxCollectorInformations>	242	273
+CHAMP_AJOUTE	TopTaxCollectorListMessage	worldTaxCollectorsInformation		Vector.<TaxCollectorInformations>	242	273
+CHAMP_AJOUTE	UpdateMapPlayersAgressableStatusMessage	playerAvAMessages		Vector.<AgressableStatusMessage>	242	273
+CHAMP_AJOUTE	UpdateSelfAgressableStatusMessage	pictoScore		int	242	273
+CHAMP_AJOUTE	UpdateSelfAgressableStatusMessage	roleAvAId		int	242	273
+CHAMP_RETIRE	AccountCapabilitiesMessage	breedsAvailable	uint		242	273
+CHAMP_RETIRE	AccountCapabilitiesMessage	breedsVisible	uint		242	273
+CHAMP_RETIRE	AchievementFinishedMessage	finishedlevel	uint		242	273
+CHAMP_RETIRE	AchievementFinishedMessage	id	uint		242	273
+CHAMP_RETIRE	AchievementListMessage	finishedAchievementsIds	Vector.<uint>		242	273
+CHAMP_RETIRE	AchievementListMessage	rewardableAchievements	Vector.<AchievementRewardable>		242	273
+CHAMP_RETIRE	AcquaintanceSearchMessage	nickname	String		242	273
+CHAMP_RETIRE	AllianceBulletinSetRequestMessage	notifyMembers	Boolean		242	273
+CHAMP_RETIRE	AllianceFactsMessage	guilds	Vector.<GuildInAllianceInformations>		242	273
+CHAMP_RETIRE	AllianceInsiderInfoMessage	guilds	Vector.<GuildInsiderFactSheetInformations>		242	273
+CHAMP_RETIRE	AllianceInvitedMessage	recruterId	Number		242	273
+CHAMP_RETIRE	AllianceJoinedMessage	enabled	Boolean		242	273
+CHAMP_RETIRE	AllianceJoinedMessage	leadingGuildId	uint		242	273
+CHAMP_RETIRE	AllianceModificationEmblemValidMessage	Alliancemblem	GuildEmblem		242	273
+CHAMP_RETIRE	AllianceModificationValidMessage	Alliancemblem	GuildEmblem		242	273
+CHAMP_RETIRE	BasicWhoIsMessage	accountNickname	String		242	273
+CHAMP_RETIRE	BasicWhoIsNoMatchMessage	search	String		242	273
+CHAMP_RETIRE	BasicWhoIsRequestMessage	search	String		242	273
+CHAMP_RETIRE	BulletinMessage	lastNotifiedTimestamp	uint		242	273
+CHAMP_RETIRE	CharactersListMessage	hasStartupActions	Boolean		242	273
+CHAMP_RETIRE	CurrentMapMessage	mapKey	String		242	273
+CHAMP_RETIRE	ExchangeBidHouseInListAddedMessage	objGenericId	int		242	273
+CHAMP_RETIRE	ExchangeBidHouseListMessage	id	uint		242	273
+CHAMP_RETIRE	ExchangeBidHousePriceMessage	genId	uint		242	273
+CHAMP_RETIRE	ExchangeBidHouseSearchMessage	genId	uint		242	273
+CHAMP_RETIRE	ExchangeBidHouseSearchMessage	type	uint		242	273
+CHAMP_RETIRE	ExchangeOfflineSoldItemsMessage	merchantItems	Vector.<ObjectItemGenericQuantityPrice>		242	273
+CHAMP_RETIRE	ExchangeRequestOnTaxCollectorMessage	taxCollectorId	int		242	273
+CHAMP_RETIRE	FriendAddRequestMessage	name	String		242	273
+CHAMP_RETIRE	FriendDeleteResultMessage	name	String		242	273
+CHAMP_RETIRE	FriendJoinRequestMessage	name	String		242	273
+CHAMP_RETIRE	GameFightEndMessage	ageBonus	int		242	273
+CHAMP_RETIRE	GameFightSpectateMessage	idols	Vector.<Idol>		242	273
+CHAMP_RETIRE	GameFightStartMessage	idols	Vector.<Idol>		242	273
+CHAMP_RETIRE	GameRolePlayArenaRegisterMessage	battleMode	uint		242	273
+CHAMP_RETIRE	GameRolePlayArenaSwitchToFightServerMessage	ticket	Vector.<int>		242	273
+CHAMP_RETIRE	GameRolePlayArenaSwitchToGameServerMessage	ticket	Vector.<int>		242	273
+CHAMP_RETIRE	GameRolePlayArenaUpdatePlayerInfosMessage	solo	ArenaRankInfos		242	273
+CHAMP_RETIRE	GameRolePlayTaxCollectorFightRequestMessage	taxCollectorId	int		242	273
+CHAMP_RETIRE	GuildBulletinSetRequestMessage	notifyMembers	Boolean		242	273
+CHAMP_RETIRE	GuildChangeMemberParametersMessage	rank	uint		242	273
+CHAMP_RETIRE	GuildChangeMemberParametersMessage	rights	uint		242	273
+CHAMP_RETIRE	GuildFactsMessage	nbTaxCollectors	uint		242	273
+CHAMP_RETIRE	GuildInformationsGeneralMessage	nbConnectedMembers	uint		242	273
+CHAMP_RETIRE	GuildInformationsGeneralMessage	nbTotalMembers	uint		242	273
+CHAMP_RETIRE	GuildInvitedMessage	recruterId	Number		242	273
+CHAMP_RETIRE	GuildJoinedMessage	memberRights	uint		242	273
+CHAMP_RETIRE	HaapiApiKeyMessage	keyType	uint		242	273
+CHAMP_RETIRE	HaapiApiKeyMessage	returnType	uint		242	273
+CHAMP_RETIRE	HaapiApiKeyRequestMessage	keyType	uint		242	273
+CHAMP_RETIRE	HavenBagDailyLoteryMessage	tokenId	String		242	273
+CHAMP_RETIRE	HouseSellingUpdateMessage	buyerName	String		242	273
+CHAMP_RETIRE	IdentificationSuccessMessage	nickname	String		242	273
+CHAMP_RETIRE	IdentificationSuccessMessage	secretQuestion	String		242	273
+CHAMP_RETIRE	IdentificationSuccessMessage	subscriptionElapsedDuration	Number		242	273
+CHAMP_RETIRE	IgnoredAddRequestMessage	name	String		242	273
+CHAMP_RETIRE	IgnoredDeleteResultMessage	name	String		242	273
+CHAMP_RETIRE	InventoryWeightMessage	weight	uint		242	273
+CHAMP_RETIRE	KohUpdateMessage	allianceMapMyAllianceScore	uint		242	273
+CHAMP_RETIRE	KohUpdateMessage	allianceMapWinner	BasicAllianceInformations		242	273
+CHAMP_RETIRE	KohUpdateMessage	allianceMapWinnerScore	uint		242	273
+CHAMP_RETIRE	KohUpdateMessage	allianceMatchScore	Vector.<uint>		242	273
+CHAMP_RETIRE	KohUpdateMessage	allianceNbMembers	Vector.<uint>		242	273
+CHAMP_RETIRE	KohUpdateMessage	allianceRoundWeigth	Vector.<uint>		242	273
+CHAMP_RETIRE	KohUpdateMessage	alliances	Vector.<AllianceInformations>		242	273
+CHAMP_RETIRE	ObjectFeedMessage	foodQuantity	uint		242	273
+CHAMP_RETIRE	ObjectFeedMessage	foodUID	uint		242	273
+CHAMP_RETIRE	PartyInvitationRequestMessage	name	String		242	273
+CHAMP_RETIRE	ProtocolRequired	currentVersion	uint		242	273
+CHAMP_RETIRE	ProtocolRequired	requiredVersion	uint		242	273
+CHAMP_RETIRE	SelectedServerDataMessage	port	uint		242	273
+CHAMP_RETIRE	ServersListMessage	alreadyConnectedToServerId	uint		242	273
+CHAMP_RETIRE	SpellVariantActivationMessage	activatedSpellId	uint		242	273
+CHAMP_RETIRE	SpellVariantActivationMessage	deactivatedSpellId	uint		242	273
+CHAMP_RETIRE	TaxCollectorAttackedMessage	guild	BasicGuildInformations		242	273
+CHAMP_RETIRE	TaxCollectorAttackedResultMessage	guild	BasicGuildInformations		242	273
+CHAMP_RETIRE	TaxCollectorDialogQuestionBasicMessage	guildInfo	BasicGuildInformations		242	273
+CHAMP_RETIRE	TaxCollectorDialogQuestionExtendedMessage	experience	Number		242	273
+CHAMP_RETIRE	TaxCollectorDialogQuestionExtendedMessage	kamas	Number		242	273
+CHAMP_RETIRE	TaxCollectorDialogQuestionExtendedMessage	wisdom	uint		242	273
+CHAMP_RETIRE	TeleportRequestMessage	teleporterType	uint		242	273
+CHAMP_RETIRE	TopTaxCollectorListMessage	isDungeon	Boolean		242	273
+CHAMP_RETIRE	TrustStatusMessage	trusted	Boolean		242	273
+CHAMP_RETIRE	UpdateMapPlayersAgressableStatusMessage	enable	Vector.<uint>		242	273
+CHAMP_RETIRE	UpdateMapPlayersAgressableStatusMessage	playerIds	Vector.<Number>		242	273
+TYPE_CHANGE	AllianceCreationValidMessage	allianceEmblem	GuildEmblem	SocialEmblem	242	273
+TYPE_CHANGE	AllianceFactsMessage	infos	AllianceFactSheetInformations	AllianceFactSheetInformation	242	273
+TYPE_CHANGE	AllianceInsiderInfoMessage	allianceInfos	AllianceFactSheetInformations	AllianceFactSheetInformation	242	273
+TYPE_CHANGE	AllianceInsiderInfoMessage	prisms	Vector.<PrismSubareaEmptyInfo>	Vector.<PrismGeolocalizedInformation>	242	273
+TYPE_CHANGE	AllianceInvitedMessage	allianceInfo	BasicNamedAllianceInformations	AllianceInformation	242	273
+TYPE_CHANGE	AllianceJoinedMessage	allianceInfo	AllianceInformations	AllianceInformation	242	273
+TYPE_CHANGE	AllianceKickRequestMessage	kickedId	uint	Number	242	273
+TYPE_CHANGE	AllianceListMessage	alliances	Vector.<AllianceFactSheetInformations>	Vector.<AllianceFactSheetInformation>	242	273
+TYPE_CHANGE	ChangeMapMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	ChatClientPrivateMessage	receiver	String	AbstractPlayerSearchInformation	242	273
+TYPE_CHANGE	CurrentMapMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	DebugHighlightCellsMessage	color	int	Number	242	273
+TYPE_CHANGE	ErrorMapNotFoundMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	ExchangeOfflineSoldItemsMessage	bidHouseItems	Vector.<ObjectItemGenericQuantityPrice>	Vector.<ObjectItemQuantityPriceDateEffects>	242	273
+TYPE_CHANGE	GameContextReadyMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	GameFightJoinRequestMessage	fightId	int	uint	242	273
+TYPE_CHANGE	GameMapMovementRequestMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	GameRolePlayArenaFightAnswerMessage	fightId	int	uint	242	273
+TYPE_CHANGE	GameRolePlayArenaFighterStatusMessage	fightId	int	uint	242	273
+TYPE_CHANGE	GameRolePlayArenaFighterStatusMessage	playerId	int	Number	242	273
+TYPE_CHANGE	GameRolePlayFightRequestCanceledMessage	fightId	int	uint	242	273
+TYPE_CHANGE	GameRolePlayPlayerFightFriendlyAnswerMessage	fightId	int	uint	242	273
+TYPE_CHANGE	GameRolePlayPlayerFightFriendlyAnsweredMessage	fightId	int	uint	242	273
+TYPE_CHANGE	GameRolePlayPlayerLifeStatusMessage	phenixMapId	uint	Number	242	273
+TYPE_CHANGE	GameRolePlayRemoveChallengeMessage	fightId	int	uint	242	273
+TYPE_CHANGE	GuildCreationValidMessage	guildEmblem	GuildEmblem	SocialEmblem	242	273
+TYPE_CHANGE	GuildFactsMessage	members	Vector.<CharacterMinimalInformations>	Vector.<CharacterMinimalSocialPublicInformations>	242	273
+TYPE_CHANGE	GuildInformationsMemberUpdateMessage	member	GuildMember	GuildMemberInfo	242	273
+TYPE_CHANGE	GuildInformationsMembersMessage	members	Vector.<GuildMember>	Vector.<GuildMemberInfo>	242	273
+TYPE_CHANGE	GuildInvitedMessage	guildInfo	BasicGuildInformations	GuildInformations	242	273
+TYPE_CHANGE	GuildModificationEmblemValidMessage	guildEmblem	GuildEmblem	SocialEmblem	242	273
+TYPE_CHANGE	GuildModificationValidMessage	guildEmblem	GuildEmblem	SocialEmblem	242	273
+TYPE_CHANGE	GuildPaddockRemovedMessage	paddockId	int	Number	242	273
+TYPE_CHANGE	GuildPaddockTeleportRequestMessage	paddockId	int	Number	242	273
+TYPE_CHANGE	HouseTeleportRequestMessage	houseInstanceId	int	uint	242	273
+TYPE_CHANGE	IdentificationMessage	version	VersionExtended	Version	242	273
+TYPE_CHANGE	LockableStateUpdateStorageMessage	mapId	int	Number	242	273
+TYPE_CHANGE	MapComplementaryInformationsDataMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	MapFightStartPositionsUpdateMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	MapInformationsRequestMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	NpcDialogCreationMessage	mapId	int	Number	242	273
+TYPE_CHANGE	NpcGenericActionRequestMessage	npcMapId	int	Number	242	273
+TYPE_CHANGE	PaddockBuyResultMessage	paddockId	int	Number	242	273
+TYPE_CHANGE	PrismsListMessage	prisms	Vector.<PrismSubareaEmptyInfo>	Vector.<PrismGeolocalizedInformation>	242	273
+TYPE_CHANGE	PurchasableDialogMessage	purchasableId	uint	Number	242	273
+TYPE_CHANGE	RefreshCharacterStatsMessage	stats	GameFightMinimalStats	GameFightCharacteristics	242	273
+TYPE_CHANGE	TaxCollectorAttackedMessage	mapId	int	Number	242	273
+TYPE_CHANGE	TaxCollectorStateUpdateMessage	state	int	uint	242	273
+TYPE_CHANGE	TaxCollectorStateUpdateMessage	uniqueId	int	Number	242	273
+TYPE_CHANGE	TeleportRequestMessage	mapId	uint	Number	242	273
+TYPE_CHANGE	TreasureHuntMessage	startMapId	int	Number	242	273
+TYPE_CHANGE	UpdateSelfAgressableStatusMessage	probationTime	uint	Number	242	273
+TYPE_CHANGE	ZaapRespawnUpdatedMessage	mapId	uint	Number	242	273

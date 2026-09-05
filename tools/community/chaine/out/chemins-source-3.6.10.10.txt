@@ -1,0 +1,99 @@
+.\Library\PackageCache\com.ankama.addressable-utilities@24113ff9611d\Runtime\AddressableUtility.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioContext.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManagerUtility.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Banks.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Bus.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Devices.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Events.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Listener.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Localization.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Music.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Parameters.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\AudioManager_Spatialization.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Components\AudioEventAreaParameter.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Components\AudioEventDynamic.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Components\AudioEventEmitter.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Components\AudioEventLoader.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Components\Music.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Playables\AudioEventPlayableMixer.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Playables\AudioEventPlayableUtility.cs
+.\Library\PackageCache\com.ankama.audiomanager@9de2bb0a2b75\Runtime\Sources\Video\AudioSampleConsumer.cs
+.\Library\PackageCache\com.ankama.dofus.core.datacenter@0bbf1515f211\Runtime\DataCenterModule.cs
+.\Library\PackageCache\com.ankama.dofus.core.datacenter@0bbf1515f211\Runtime\Metadata\Effect\EffectInstanceData.cs
+.\Library\PackageCache\com.ankama.dofus.core.datacenter@0bbf1515f211\Runtime\Metadata\Effect\Instance\EffectInstanceDice.cs
+.\Library\PackageCache\com.ankama.dofus.core.datacenter@0bbf1515f211\Runtime\Metadata\Effect\Instance\EffectInstanceInteger.cs
+.\Library\PackageCache\com.ankama.dofus.core.datacenter@0bbf1515f211\Runtime\Metadata\Item\ItemTypeData.cs
+.\Library\PackageCache\com.ankama.dofus.core.datacenter@0bbf1515f211\Runtime\Utils\PatternDecoder.cs
+.\Library\PackageCache\com.ankama.launcherconnection@c8c3cea1052c\Runtime\Sources\LauncherConnection.cs
+.\Library\PackageCache\com.ankama.launcherconnection@c8c3cea1052c\Runtime\Sources\ZaapWorker.cs
+.\Library\PackageCache\com.ankama.screenmanager@57598f6901db\Runtime\Sources\DisplayConfiguration.cs
+.\Library\PackageCache\com.ankama.screenmanager@57598f6901db\Runtime\Sources\ScreenManager.Windows.cs
+.\Library\PackageCache\com.ankama.spinconnection@0826a159891a\Runtime\Sources\Layers\FrameDelimiter.FrameDataBuffer.cs
+.\Library\PackageCache\com.ankama.spinconnection@0826a159891a\Runtime\Sources\Layers\FrameDelimiter.cs
+.\Library\PackageCache\com.ankama.spinconnection@0826a159891a\Runtime\Sources\Layers\TcpConnectionLayer.cs
+.\Library\PackageCache\com.ankama.spinconnection@0826a159891a\Runtime\Sources\SpinConnection.cs
+.\Library\PackageCache\com.ankama.spinconnection@0826a159891a\Runtime\Sources\SpinProtocol.cs
+.\Library\PackageCache\com.ankama.spinconnection@0826a159891a\Runtime\Sources\SpinTransportLayer.cs
+.\Library\PackageCache\com.ankama.utilities@a9dd6ba11c3d\Runtime\Sources\Collections\CollectionsExtensions.cs
+.\Library\PackageCache\com.ankama.utilities@a9dd6ba11c3d\Runtime\Sources\Collections\SerializableDictionary.cs
+.\Library\PackageCache\com.ankama.utilities@a9dd6ba11c3d\Runtime\Sources\Collections\SerializableDictionaryLogic.cs
+.\Library\PackageCache\com.ankama.utilities@a9dd6ba11c3d\Runtime\Sources\Device.cs
+.\Library\PackageCache\com.ankama.utilities@a9dd6ba11c3d\Runtime\Sources\InputUtility.cs
+.\Library\PackageCache\com.ankama.utilities@a9dd6ba11c3d\Runtime\Sources\MonoBehaviourExtensions.cs
+.\Library\PackageCache\com.unity.render-pipelines.core@648b47f96bf1\Runtime\GPUDriven\InstanceCuller.cs
+.\Library\PackageCache\com.unity.render-pipelines.core@648b47f96bf1\Runtime\GPUDriven\OcclusionCullingCommon.cs
+.\Library\PackageCache\com.unity.render-pipelines.core@648b47f96bf1\Runtime\Lighting\ProbeVolume\ProbeReferenceVolume.Debug.cs
+.\Library\PackageCache\com.unity.render-pipelines.core@648b47f96bf1\Runtime\STP\STP.cs
+.\Library\PackageCache\com.unity.render-pipelines.core@648b47f96bf1\Runtime\Vrs\Vrs.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Debug\DebugHandler.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Decal\DBuffer\DBufferRenderPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Decal\DBuffer\DecalForwardEmissivePass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Decal\DecalPreviewPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Decal\ScreenSpace\DecalGBufferRenderPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Decal\ScreenSpace\DecalScreenSpaceRenderPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\DeferredLights.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\ForwardLights.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\AdditionalLightsShadowCasterPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\CapturePass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\ColorGradingLutPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\CopyColorPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\CopyDepthPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\DeferredPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\DepthNormalOnlyPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\DepthOnlyPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\DrawObjectsPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\DrawScreenSpaceUIPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\DrawSkyboxPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\FinalBlitPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\GBufferPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\HDRDebugViewPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\InvokeOnRenderObjectCallbackPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\MainLightShadowCasterPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\MotionVectorRenderPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\PostProcessPassRenderGraph.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\ProbeVolumeDebugPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\RenderObjectsPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\ScreenSpaceAmbientOcclusionPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\Passes\StencilCrossFadeRenderPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\RendererFeatures\FullScreenPassRendererFeature.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\RendererFeatures\OnTilePostProcessPass.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\RendererFeatures\ScreenSpaceShadows.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\ScriptableRenderer.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\TemporalAA.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\UniversalRendererDebug.cs
+.\Library\PackageCache\com.unity.render-pipelines.universal@97f77d4dda9a\Runtime\UniversalRendererRenderGraph.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Components\Quad.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\ColorStack.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\DashStack.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\DisposableMesh.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\Draw.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\DrawCommand.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\GradientFillStack.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\IMDrawer.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\MetaMpb.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Immediate Mode\StyleStack.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Utils\ShapesMaterials.cs
+C:\TeamCity\buildAgent-2\work\bb6631cefc89a98\Dofus-Client-Unity\Assets\Plugins\Shapes\Scripts\Runtime\Utils\ShapesMeshGen.cs

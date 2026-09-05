@@ -1,0 +1,651 @@
+{"a": "jdu", "b": "jdx", "count": 18, "examples": [{"carrying_class": "iz", "line": 917070}, {"carrying_class": "ja", "line": 919114}, {"carrying_class": "jb", "line": 921288}]}
+{"a": "iry", "b": "isa", "count": 13, "examples": [{"carrying_class": "bv", "line": 749607}, {"carrying_class": "bw", "line": 749831}, {"carrying_class": "bw", "line": 749832}]}
+{"a": "lmk", "b": "lmm", "count": 11, "examples": [{"carrying_class": "fkv", "line": 804782}, {"carrying_class": "fkv", "line": 804783}, {"carrying_class": "fkv", "line": 804784}]}
+{"a": "mie", "b": "mig", "count": 10, "examples": [{"carrying_class": "bdi", "line": 743846}, {"carrying_class": "bdi", "line": 743850}, {"carrying_class": "bdk", "line": 743862}]}
+{"a": "llw", "b": "lmm", "count": 8, "examples": [{"carrying_class": "fkx", "line": 804831}, {"carrying_class": "fkx", "line": 804832}, {"carrying_class": "fkx", "line": 804838}]}
+{"a": "mia", "b": "mig", "count": 8, "examples": [{"carrying_class": "dys", "line": 766121}, {"carrying_class": "dys", "line": 766122}, {"carrying_class": "dys", "line": 766138}]}
+{"a": "kbw", "b": "kby", "count": 7, "examples": [{"carrying_class": "fr", "line": 812983}, {"carrying_class": "fr", "line": 812984}, {"carrying_class": "fr", "line": 812985}]}
+{"a": "llu", "b": "llw", "count": 7, "examples": [{"carrying_class": "fkx", "line": 804831}, {"carrying_class": "fkx", "line": 804832}, {"carrying_class": "fkx", "line": 804838}]}
+{"a": "llu", "b": "lmm", "count": 7, "examples": [{"carrying_class": "fkx", "line": 804831}, {"carrying_class": "fkx", "line": 804832}, {"carrying_class": "fkx", "line": 804838}]}
+{"a": "jbd", "b": "jbf", "count": 6, "examples": [{"carrying_class": "bc", "line": 743562}, {"carrying_class": "egx", "line": 775693}, {"carrying_class": "egx", "line": 775697}]}
+{"a": "hwr", "b": "hyr", "count": 5, "examples": [{"carrying_class": "kb", "line": 965698}, {"carrying_class": "kd", "line": 969511}, {"carrying_class": "ke", "line": 971181}]}
+{"a": "ioi", "b": "iok", "count": 5, "examples": [{"carrying_class": "lf", "line": 1012685}, {"carrying_class": "lf", "line": 1012687}, {"carrying_class": "lf", "line": 1012688}]}
+{"a": "ioi", "b": "iom", "count": 5, "examples": [{"carrying_class": "lf", "line": 1012685}, {"carrying_class": "lf", "line": 1012687}, {"carrying_class": "lf", "line": 1012688}]}
+{"a": "iok", "b": "iom", "count": 5, "examples": [{"carrying_class": "lf", "line": 1012685}, {"carrying_class": "lf", "line": 1012687}, {"carrying_class": "lf", "line": 1012688}]}
+{"a": "jvi", "b": "jwe", "count": 5, "examples": [{"carrying_class": "fmc", "line": 808038}, {"carrying_class": "fmc", "line": 808073}, {"carrying_class": "fmc", "line": 808098}]}
+{"a": "kid", "b": "kif", "count": 5, "examples": [{"carrying_class": "di", "line": 759437}, {"carrying_class": "di", "line": 759438}, {"carrying_class": "di", "line": 759439}]}
+{"a": "knt", "b": "knv", "count": 5, "examples": [{"carrying_class": "fhk", "line": 800842}, {"carrying_class": "fhk", "line": 800863}, {"carrying_class": "fhk", "line": 800864}]}
+{"a": "kov", "b": "kox", "count": 5, "examples": [{"carrying_class": "fhk", "line": 800791}, {"carrying_class": "fhk", "line": 800792}, {"carrying_class": "fhk", "line": 800796}]}
+{"a": "kpv", "b": "kpy", "count": 5, "examples": [{"carrying_class": "fhk", "line": 800782}, {"carrying_class": "fhk", "line": 800817}, {"carrying_class": "fhk", "line": 800824}]}
+{"a": "lmg", "b": "lmk", "count": 5, "examples": [{"carrying_class": "fkv", "line": 804782}, {"carrying_class": "fkv", "line": 804784}, {"carrying_class": "fkv", "line": 804787}]}
+{"a": "lmg", "b": "lmm", "count": 5, "examples": [{"carrying_class": "fkv", "line": 804782}, {"carrying_class": "fkv", "line": 804784}, {"carrying_class": "fkv", "line": 804787}]}
+{"a": "lmi", "b": "lmk", "count": 5, "examples": [{"carrying_class": "fkv", "line": 804783}, {"carrying_class": "fkv", "line": 804785}, {"carrying_class": "fkv", "line": 804791}]}
+{"a": "lmi", "b": "lmm", "count": 5, "examples": [{"carrying_class": "fkv", "line": 804783}, {"carrying_class": "fkv", "line": 804785}, {"carrying_class": "fkv", "line": 804791}]}
+{"a": "ibh", "b": "ibj", "count": 4, "examples": [{"carrying_class": "kj", "line": 979775}, {"carrying_class": "kj", "line": 979776}, {"carrying_class": "kj", "line": 979777}]}
+{"a": "izd", "b": "izg", "count": 4, "examples": [{"carrying_class": "eft", "line": 774262}, {"carrying_class": "eft", "line": 774266}, {"carrying_class": "eft", "line": 774267}]}
+{"a": "jzq", "b": "jzu", "count": 4, "examples": [{"carrying_class": "fix", "line": 802737}, {"carrying_class": "fix", "line": 802738}, {"carrying_class": "fix", "line": 802740}]}
+{"a": "kfn", "b": "kfp", "count": 4, "examples": [{"carrying_class": "fo", "line": 810019}, {"carrying_class": "fo", "line": 810020}, {"carrying_class": "fo", "line": 810021}]}
+{"a": "kpw", "b": "kpy", "count": 4, "examples": [{"carrying_class": "fhk", "line": 800801}, {"carrying_class": "fhk", "line": 800867}, {"carrying_class": "fhk", "line": 800870}]}
+{"a": "kux", "b": "kva", "count": 4, "examples": [{"carrying_class": "ecv", "line": 770777}, {"carrying_class": "ecv", "line": 770781}, {"carrying_class": "ecv", "line": 770796}]}
+{"a": "kuy", "b": "kva", "count": 4, "examples": [{"carrying_class": "ecv", "line": 770773}, {"carrying_class": "ecv", "line": 770782}, {"carrying_class": "ecv", "line": 770787}]}
+{"a": "let", "b": "lev", "count": 4, "examples": [{"carrying_class": "dt", "line": 764079}, {"carrying_class": "dt", "line": 764083}, {"carrying_class": "dt", "line": 764084}]}
+{"a": "ias", "b": "iau", "count": 3, "examples": [{"carrying_class": "kk", "line": 981418}, {"carrying_class": "kk", "line": 981420}, {"carrying_class": "kk", "line": 981421}]}
+{"a": "ldx", "b": "ldz", "count": 3, "examples": [{"carrying_class": "fk", "line": 803781}, {"carrying_class": "fk", "line": 803785}, {"carrying_class": "fk", "line": 803786}]}
+{"a": "lkc", "b": "llc", "count": 3, "examples": [{"carrying_class": "cs", "line": 755237}, {"carrying_class": "cs", "line": 755238}, {"carrying_class": "cs", "line": 755239}]}
+{"a": "lkc", "b": "llk", "count": 3, "examples": [{"carrying_class": "cs", "line": 755237}, {"carrying_class": "cs", "line": 755238}, {"carrying_class": "cs", "line": 755239}]}
+{"a": "llc", "b": "llk", "count": 3, "examples": [{"carrying_class": "cs", "line": 755237}, {"carrying_class": "cs", "line": 755238}, {"carrying_class": "cs", "line": 755239}]}
+{"a": "jvf", "b": "jvg", "count": 2, "examples": [{"carrying_class": "fmc", "line": 808038}, {"carrying_class": "fmc", "line": 808098}]}
+{"a": "jvf", "b": "jvi", "count": 2, "examples": [{"carrying_class": "fmc", "line": 808038}, {"carrying_class": "fmc", "line": 808098}]}
+{"a": "jvf", "b": "jwe", "count": 2, "examples": [{"carrying_class": "fmc", "line": 808038}, {"carrying_class": "fmc", "line": 808098}]}
+{"a": "jvg", "b": "jvi", "count": 2, "examples": [{"carrying_class": "fmc", "line": 808038}, {"carrying_class": "fmc", "line": 808098}]}
+{"a": "jvg", "b": "jwe", "count": 2, "examples": [{"carrying_class": "fmc", "line": 808038}, {"carrying_class": "fmc", "line": 808098}]}
+{"a": "kip", "b": "kis", "count": 2, "examples": [{"carrying_class": "dj", "line": 759669}, {"carrying_class": "dj", "line": 759670}]}
+{"a": "kiq", "b": "kis", "count": 2, "examples": [{"carrying_class": "dp", "line": 763029}, {"carrying_class": "dp", "line": 763030}]}
+{"a": "klx", "b": "klz", "count": 2, "examples": [{"carrying_class": "fv", "line": 816053}, {"carrying_class": "fv", "line": 816054}]}
+{"a": "knf", "b": "knk", "count": 2, "examples": [{"carrying_class": "fhk", "line": 800844}, {"carrying_class": "fhk", "line": 800851}]}
+{"a": "kni", "b": "knk", "count": 2, "examples": [{"carrying_class": "fhk", "line": 800845}, {"carrying_class": "fhk", "line": 800893}]}
+{"a": "kns", "b": "knv", "count": 2, "examples": [{"carrying_class": "fhk", "line": 800821}, {"carrying_class": "fhk", "line": 800854}]}
+{"a": "kou", "b": "kox", "count": 2, "examples": [{"carrying_class": "fhk", "line": 800857}, {"carrying_class": "fhk", "line": 800862}]}
+{"a": "kyo", "b": "kyr", "count": 2, "examples": [{"carrying_class": "ks", "line": 993568}, {"carrying_class": "ks", "line": 993570}]}
+{"a": "kyo", "b": "kzl", "count": 2, "examples": [{"carrying_class": "ks", "line": 993568}, {"carrying_class": "ks", "line": 993570}]}
+{"a": "kyr", "b": "kzl", "count": 2, "examples": [{"carrying_class": "ks", "line": 993568}, {"carrying_class": "ks", "line": 993570}]}
+{"a": "ldk", "b": "ldm", "count": 2, "examples": [{"carrying_class": "ft", "line": 814689}, {"carrying_class": "ft", "line": 814692}]}
+{"a": "len", "b": "mei", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "len", "b": "mel", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "len", "b": "men", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "len", "b": "mep", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "lzj", "b": "lzl", "count": 2, "examples": [{"carrying_class": "gv", "line": 832278}, {"carrying_class": "gv", "line": 832279}]}
+{"a": "mei", "b": "mel", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "mei", "b": "men", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "mei", "b": "mep", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "mel", "b": "men", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "mel", "b": "mep", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "men", "b": "mep", "count": 2, "examples": [{"carrying_class": "kp", "line": 988731}, {"carrying_class": "kp", "line": 988734}]}
+{"a": "mik", "b": "mim", "count": 2, "examples": [{"carrying_class": "eaw", "line": 768463}, {"carrying_class": "eaw", "line": 768470}]}
+{"a": "hea", "b": "iyw", "count": 1, "examples": [{"carrying_class": "gjv", "line": 825197}]}
+{"a": "hei", "b": "hrl", "count": 1, "examples": [{"carrying_class": "egf", "line": 774702}]}
+{"a": "heo", "b": "lgw", "count": 1, "examples": [{"carrying_class": "gop", "line": 827716}]}
+{"a": "hfb", "b": "ios", "count": 1, "examples": [{"carrying_class": "fsw", "line": 814655}]}
+{"a": "hfb", "b": "lrc", "count": 1, "examples": [{"carrying_class": "egx", "line": 775692}]}
+{"a": "hfe", "b": "keo", "count": 1, "examples": [{"carrying_class": "emc", "line": 781413}]}
+{"a": "hfe", "b": "lyj", "count": 1, "examples": [{"carrying_class": "egf", "line": 774707}]}
+{"a": "hfh", "b": "kvb", "count": 1, "examples": [{"carrying_class": "bo", "line": 746531}]}
+{"a": "hfi", "b": "igs", "count": 1, "examples": [{"carrying_class": "egf", "line": 774673}]}
+{"a": "hfj", "b": "jyp", "count": 1, "examples": [{"carrying_class": "bo", "line": 746525}]}
+{"a": "hfj", "b": "kgv", "count": 1, "examples": [{"carrying_class": "emz", "line": 782452}]}
+{"a": "hfl", "b": "jvi", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808126}]}
+{"a": "hfl", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808126}]}
+{"a": "hfo", "b": "khr", "count": 1, "examples": [{"carrying_class": "eqx", "line": 787526}]}
+{"a": "hfw", "b": "hpr", "count": 1, "examples": [{"carrying_class": "eht", "line": 776446}]}
+{"a": "hfx", "b": "hio", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797745}]}
+{"a": "hga", "b": "itd", "count": 1, "examples": [{"carrying_class": "euw", "line": 792175}]}
+{"a": "hgb", "b": "jqs", "count": 1, "examples": [{"carrying_class": "bo", "line": 746542}]}
+{"a": "hgg", "b": "hzn", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798738}]}
+{"a": "hgg", "b": "jtn", "count": 1, "examples": [{"carrying_class": "guk", "line": 831939}]}
+{"a": "hgg", "b": "lcy", "count": 1, "examples": [{"carrying_class": "dyx", "line": 766398}]}
+{"a": "hgp", "b": "iry", "count": 1, "examples": [{"carrying_class": "bx", "line": 750078}]}
+{"a": "hgp", "b": "isa", "count": 1, "examples": [{"carrying_class": "bx", "line": 750078}]}
+{"a": "hgx", "b": "hha", "count": 1, "examples": [{"carrying_class": "he", "line": 839322}]}
+{"a": "hgx", "b": "hhf", "count": 1, "examples": [{"carrying_class": "he", "line": 839322}]}
+{"a": "hha", "b": "hhf", "count": 1, "examples": [{"carrying_class": "he", "line": 839322}]}
+{"a": "hhd", "b": "mie", "count": 1, "examples": [{"carrying_class": "dys", "line": 766167}]}
+{"a": "hhd", "b": "mig", "count": 1, "examples": [{"carrying_class": "dys", "line": 766167}]}
+{"a": "hhf", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808155}]}
+{"a": "hhk", "b": "kki", "count": 1, "examples": [{"carrying_class": "epy", "line": 785958}]}
+{"a": "hhk", "b": "mdj", "count": 1, "examples": [{"carrying_class": "epy", "line": 785946}]}
+{"a": "hhn", "b": "ike", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799651}]}
+{"a": "hhy", "b": "itj", "count": 1, "examples": [{"carrying_class": "euy", "line": 792311}]}
+{"a": "hhz", "b": "hsy", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786151}]}
+{"a": "hhz", "b": "kco", "count": 1, "examples": [{"carrying_class": "euy", "line": 792297}]}
+{"a": "hid", "b": "hpd", "count": 1, "examples": [{"carrying_class": "ear", "line": 768115}]}
+{"a": "hii", "b": "ild", "count": 1, "examples": [{"carrying_class": "euy", "line": 792309}]}
+{"a": "hii", "b": "lst", "count": 1, "examples": [{"carrying_class": "eat", "line": 768193}]}
+{"a": "hil", "b": "ikt", "count": 1, "examples": [{"carrying_class": "ffq", "line": 798071}]}
+{"a": "him", "b": "kcs", "count": 1, "examples": [{"carrying_class": "etw", "line": 790650}]}
+{"a": "hin", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808041}]}
+{"a": "hin", "b": "mdz", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800282}]}
+{"a": "hiq", "b": "iqb", "count": 1, "examples": [{"carrying_class": "bo", "line": 746505}]}
+{"a": "hir", "b": "iri", "count": 1, "examples": [{"carrying_class": "egf", "line": 774714}]}
+{"a": "hit", "b": "iqu", "count": 1, "examples": [{"carrying_class": "ffq", "line": 798074}]}
+{"a": "hiw", "b": "kgu", "count": 1, "examples": [{"carrying_class": "eon", "line": 784178}]}
+{"a": "hja", "b": "ltd", "count": 1, "examples": [{"carrying_class": "fff", "line": 797451}]}
+{"a": "hje", "b": "hjg", "count": 1, "examples": [{"carrying_class": "enx", "line": 783418}]}
+{"a": "hjg", "b": "kub", "count": 1, "examples": [{"carrying_class": "ees", "line": 773096}]}
+{"a": "hjk", "b": "hrc", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786158}]}
+{"a": "hjt", "b": "jlg", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786973}]}
+{"a": "hjz", "b": "ier", "count": 1, "examples": [{"carrying_class": "bk", "line": 745498}]}
+{"a": "hkh", "b": "hol", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800264}]}
+{"a": "hkh", "b": "iot", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800150}]}
+{"a": "hkh", "b": "lgu", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800185}]}
+{"a": "hks", "b": "mie", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800254}]}
+{"a": "hla", "b": "jrk", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800299}]}
+{"a": "hlc", "b": "jqe", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800221}]}
+{"a": "hlp", "b": "hxt", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798779}]}
+{"a": "hlp", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gih", "line": 824224}]}
+{"a": "hlr", "b": "inv", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786985}]}
+{"a": "hlr", "b": "lyu", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786816}]}
+{"a": "hlx", "b": "ilw", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797740}]}
+{"a": "hmc", "b": "lrg", "count": 1, "examples": [{"carrying_class": "egx", "line": 775717}]}
+{"a": "hmh", "b": "kxb", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786984}]}
+{"a": "hmj", "b": "iwq", "count": 1, "examples": [{"carrying_class": "eon", "line": 784195}]}
+{"a": "hml", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808113}]}
+{"a": "hmn", "b": "jfk", "count": 1, "examples": [{"carrying_class": "edd", "line": 771890}]}
+{"a": "hmo", "b": "lea", "count": 1, "examples": [{"carrying_class": "kx", "line": 1002010}]}
+{"a": "hnd", "b": "jgq", "count": 1, "examples": [{"carrying_class": "fft", "line": 798441}]}
+{"a": "hnd", "b": "kei", "count": 1, "examples": [{"carrying_class": "fke", "line": 804039}]}
+{"a": "hns", "b": "jcl", "count": 1, "examples": [{"carrying_class": "ern", "line": 788268}]}
+{"a": "hns", "b": "jxu", "count": 1, "examples": [{"carrying_class": "ern", "line": 788250}]}
+{"a": "hnt", "b": "jut", "count": 1, "examples": [{"carrying_class": "ern", "line": 788243}]}
+{"a": "hnu", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gja", "line": 824637}]}
+{"a": "hnz", "b": "mft", "count": 1, "examples": [{"carrying_class": "epj", "line": 785328}]}
+{"a": "hoc", "b": "isr", "count": 1, "examples": [{"carrying_class": "ern", "line": 788260}]}
+{"a": "hod", "b": "kad", "count": 1, "examples": [{"carrying_class": "fhc", "line": 800526}]}
+{"a": "hon", "b": "jzl", "count": 1, "examples": [{"carrying_class": "eht", "line": 776460}]}
+{"a": "hon", "b": "kqh", "count": 1, "examples": [{"carrying_class": "ees", "line": 773076}]}
+{"a": "hou", "b": "kua", "count": 1, "examples": [{"carrying_class": "ees", "line": 773027}]}
+{"a": "hpc", "b": "mcr", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800314}]}
+{"a": "hpf", "b": "ipx", "count": 1, "examples": [{"carrying_class": "bo", "line": 746517}]}
+{"a": "hpp", "b": "khj", "count": 1, "examples": [{"carrying_class": "ern", "line": 788284}]}
+{"a": "hps", "b": "mht", "count": 1, "examples": [{"carrying_class": "epd", "line": 784972}]}
+{"a": "hpu", "b": "idr", "count": 1, "examples": [{"carrying_class": "eps", "line": 785670}]}
+{"a": "hqc", "b": "lyu", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786935}]}
+{"a": "hql", "b": "iqk", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786123}]}
+{"a": "hql", "b": "jea", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786142}]}
+{"a": "hqr", "b": "lny", "count": 1, "examples": [{"carrying_class": "en", "line": 782524}]}
+{"a": "hqx", "b": "kld", "count": 1, "examples": [{"carrying_class": "eoa", "line": 783516}]}
+{"a": "hrc", "b": "hyr", "count": 1, "examples": [{"carrying_class": "kb", "line": 965703}]}
+{"a": "hrc", "b": "ifl", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786160}]}
+{"a": "hrh", "b": "iwc", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786139}]}
+{"a": "hsa", "b": "lfy", "count": 1, "examples": [{"carrying_class": "jm", "line": 939376}]}
+{"a": "hsh", "b": "ifg", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786152}]}
+{"a": "hsm", "b": "kcc", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786105}]}
+{"a": "hsn", "b": "ivk", "count": 1, "examples": [{"carrying_class": "fhw", "line": 801774}]}
+{"a": "hss", "b": "ibk", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798731}]}
+{"a": "hsz", "b": "hux", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786169}]}
+{"a": "hsz", "b": "iom", "count": 1, "examples": [{"carrying_class": "epd", "line": 785004}]}
+{"a": "htd", "b": "jkj", "count": 1, "examples": [{"carrying_class": "fft", "line": 798475}]}
+{"a": "htf", "b": "jxk", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786128}]}
+{"a": "hti", "b": "ihq", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786863}]}
+{"a": "hty", "b": "ipr", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786161}]}
+{"a": "htz", "b": "inc", "count": 1, "examples": [{"carrying_class": "eqc", "line": 786138}]}
+{"a": "hur", "b": "ieb", "count": 1, "examples": [{"carrying_class": "eps", "line": 785665}]}
+{"a": "hux", "b": "irc", "count": 1, "examples": [{"carrying_class": "egf", "line": 774659}]}
+{"a": "hux", "b": "lwc", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786893}]}
+{"a": "hvt", "b": "jcy", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798708}]}
+{"a": "hvx", "b": "iqw", "count": 1, "examples": [{"carrying_class": "egf", "line": 774668}]}
+{"a": "hwb", "b": "idr", "count": 1, "examples": [{"carrying_class": "egf", "line": 774681}]}
+{"a": "hwe", "b": "jte", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798717}]}
+{"a": "hwl", "b": "jyq", "count": 1, "examples": [{"carrying_class": "kg", "line": 974997}]}
+{"a": "hwl", "b": "lyk", "count": 1, "examples": [{"carrying_class": "kg", "line": 974991}]}
+{"a": "hwp", "b": "iuj", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786882}]}
+{"a": "hwr", "b": "jak", "count": 1, "examples": [{"carrying_class": "jx", "line": 957938}]}
+{"a": "hwr", "b": "lit", "count": 1, "examples": [{"carrying_class": "jx", "line": 957942}]}
+{"a": "hwr", "b": "lkg", "count": 1, "examples": [{"carrying_class": "kb", "line": 965710}]}
+{"a": "hwr", "b": "mjp", "count": 1, "examples": [{"carrying_class": "jx", "line": 957933}]}
+{"a": "hwu", "b": "kgt", "count": 1, "examples": [{"carrying_class": "egf", "line": 774712}]}
+{"a": "hwu", "b": "kmr", "count": 1, "examples": [{"carrying_class": "egf", "line": 774683}]}
+{"a": "hxj", "b": "hxm", "count": 1, "examples": [{"carrying_class": "jy", "line": 960051}]}
+{"a": "hxj", "b": "ljx", "count": 1, "examples": [{"carrying_class": "giv", "line": 824522}]}
+{"a": "hxm", "b": "krj", "count": 1, "examples": [{"carrying_class": "ekk", "line": 779023}]}
+{"a": "hxr", "b": "ivr", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786876}]}
+{"a": "hxt", "b": "llc", "count": 1, "examples": [{"carrying_class": "co", "line": 754275}]}
+{"a": "hyg", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808175}]}
+{"a": "hyj", "b": "kqo", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798802}]}
+{"a": "hyx", "b": "ign", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786846}]}
+{"a": "hyx", "b": "jxg", "count": 1, "examples": [{"carrying_class": "ke", "line": 971192}]}
+{"a": "hyx", "b": "ltg", "count": 1, "examples": [{"carrying_class": "ke", "line": 971184}]}
+{"a": "hzp", "b": "keq", "count": 1, "examples": [{"carrying_class": "emv", "line": 782343}]}
+{"a": "hzr", "b": "jvs", "count": 1, "examples": [{"carrying_class": "bo", "line": 746513}]}
+{"a": "hzr", "b": "jzx", "count": 1, "examples": [{"carrying_class": "bo", "line": 746502}]}
+{"a": "iaa", "b": "jwq", "count": 1, "examples": [{"carrying_class": "guk", "line": 831940}]}
+{"a": "iak", "b": "lpy", "count": 1, "examples": [{"carrying_class": "ki", "line": 978475}]}
+{"a": "ian", "b": "ljx", "count": 1, "examples": [{"carrying_class": "giy", "line": 824586}]}
+{"a": "iau", "b": "jml", "count": 1, "examples": [{"carrying_class": "kk", "line": 981417}]}
+{"a": "ibg", "b": "ium", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786865}]}
+{"a": "ibo", "b": "iuj", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786964}]}
+{"a": "ibv", "b": "lde", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798759}]}
+{"a": "idf", "b": "ixl", "count": 1, "examples": [{"carrying_class": "eft", "line": 774252}]}
+{"a": "idf", "b": "jse", "count": 1, "examples": [{"carrying_class": "ffz", "line": 798793}]}
+{"a": "idr", "b": "jxm", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808163}]}
+{"a": "idt", "b": "iej", "count": 1, "examples": [{"carrying_class": "efl", "line": 774070}]}
+{"a": "ieb", "b": "khv", "count": 1, "examples": [{"carrying_class": "eps", "line": 785675}]}
+{"a": "iec", "b": "jbd", "count": 1, "examples": [{"carrying_class": "egx", "line": 775706}]}
+{"a": "iec", "b": "jbf", "count": 1, "examples": [{"carrying_class": "egx", "line": 775706}]}
+{"a": "ief", "b": "ium", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786998}]}
+{"a": "iei", "b": "krp", "count": 1, "examples": [{"carrying_class": "ean", "line": 767946}]}
+{"a": "iej", "b": "ixa", "count": 1, "examples": [{"carrying_class": "efl", "line": 774041}]}
+{"a": "iej", "b": "lxc", "count": 1, "examples": [{"carrying_class": "efl", "line": 774062}]}
+{"a": "iej", "b": "mfv", "count": 1, "examples": [{"carrying_class": "eps", "line": 785662}]}
+{"a": "iek", "b": "jys", "count": 1, "examples": [{"carrying_class": "fa", "line": 794599}]}
+{"a": "iew", "b": "loj", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800284}]}
+{"a": "ifa", "b": "lng", "count": 1, "examples": [{"carrying_class": "ls", "line": 1035233}]}
+{"a": "ife", "b": "iwp", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800248}]}
+{"a": "ife", "b": "ljr", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800287}]}
+{"a": "ifg", "b": "jru", "count": 1, "examples": [{"carrying_class": "eni", "line": 782854}]}
+{"a": "ifh", "b": "ivk", "count": 1, "examples": [{"carrying_class": "eqq", "line": 787028}]}
+{"a": "ifh", "b": "kch", "count": 1, "examples": [{"carrying_class": "lw", "line": 1041929}]}
+{"a": "ifr", "b": "mim", "count": 1, "examples": [{"carrying_class": "eaw", "line": 768466}]}
+{"a": "ifw", "b": "ixm", "count": 1, "examples": [{"carrying_class": "eft", "line": 774249}]}
+{"a": "ify", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gjc", "line": 824668}]}
+{"a": "ifz", "b": "ipp", "count": 1, "examples": [{"carrying_class": "hbb", "line": 837256}]}
+{"a": "ifz", "b": "jux", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786920}]}
+{"a": "igi", "b": "mfs", "count": 1, "examples": [{"carrying_class": "epj", "line": 785335}]}
+{"a": "ign", "b": "iue", "count": 1, "examples": [{"carrying_class": "emz", "line": 782449}]}
+{"a": "ign", "b": "kpi", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800834}]}
+{"a": "igs", "b": "lhk", "count": 1, "examples": [{"carrying_class": "chi", "line": 752680}]}
+{"a": "igv", "b": "isv", "count": 1, "examples": [{"carrying_class": "emi", "line": 781775}]}
+{"a": "igv", "b": "ivy", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786952}]}
+{"a": "igz", "b": "imv", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797755}]}
+{"a": "iha", "b": "jxz", "count": 1, "examples": [{"carrying_class": "fiw", "line": 802637}]}
+{"a": "ihc", "b": "mdw", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786880}]}
+{"a": "ihr", "b": "irp", "count": 1, "examples": [{"carrying_class": "ls", "line": 1035231}]}
+{"a": "ihr", "b": "mga", "count": 1, "examples": [{"carrying_class": "ls", "line": 1035237}]}
+{"a": "ihv", "b": "meh", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800195}]}
+{"a": "ihw", "b": "ljx", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808194}]}
+{"a": "iia", "b": "lgz", "count": 1, "examples": [{"carrying_class": "bi", "line": 744974}]}
+{"a": "iih", "b": "kku", "count": 1, "examples": [{"carrying_class": "dyx", "line": 766350}]}
+{"a": "iir", "b": "jzq", "count": 1, "examples": [{"carrying_class": "fix", "line": 802737}]}
+{"a": "iir", "b": "jzu", "count": 1, "examples": [{"carrying_class": "fix", "line": 802737}]}
+{"a": "iix", "b": "ktq", "count": 1, "examples": [{"carrying_class": "hbb", "line": 837245}]}
+{"a": "iiy", "b": "jxb", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808048}]}
+{"a": "ija", "b": "kad", "count": 1, "examples": [{"carrying_class": "fjw", "line": 803628}]}
+{"a": "ijd", "b": "kav", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786925}]}
+{"a": "ijd", "b": "lqx", "count": 1, "examples": [{"carrying_class": "hbb", "line": 837230}]}
+{"a": "ijg", "b": "jse", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808035}]}
+{"a": "ijj", "b": "inp", "count": 1, "examples": [{"carrying_class": "fka", "line": 803829}]}
+{"a": "ijq", "b": "itj", "count": 1, "examples": [{"carrying_class": "fhr", "line": 801516}]}
+{"a": "ijy", "b": "jei", "count": 1, "examples": [{"carrying_class": "fft", "line": 798400}]}
+{"a": "ijz", "b": "jxh", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797639}]}
+{"a": "ijz", "b": "jzr", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797738}]}
+{"a": "ike", "b": "imj", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797716}]}
+{"a": "ikf", "b": "jyn", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797685}]}
+{"a": "ikf", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gig", "line": 824209}]}
+{"a": "ikf", "b": "lmk", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797655}]}
+{"a": "iks", "b": "jxl", "count": 1, "examples": [{"carrying_class": "fka", "line": 803860}]}
+{"a": "ikt", "b": "jag", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797647}]}
+{"a": "ikt", "b": "lwy", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797730}]}
+{"a": "ikx", "b": "mbv", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800227}]}
+{"a": "ilr", "b": "klm", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797784}]}
+{"a": "ils", "b": "mfc", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797694}]}
+{"a": "ilw", "b": "krq", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797670}]}
+{"a": "ilx", "b": "jly", "count": 1, "examples": [{"carrying_class": "fft", "line": 798520}]}
+{"a": "ime", "b": "keo", "count": 1, "examples": [{"carrying_class": "emc", "line": 781394}]}
+{"a": "imj", "b": "kad", "count": 1, "examples": [{"carrying_class": "fjw", "line": 803647}]}
+{"a": "imn", "b": "jug", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797692}]}
+{"a": "imr", "b": "krp", "count": 1, "examples": [{"carrying_class": "ean", "line": 767944}]}
+{"a": "imu", "b": "jyy", "count": 1, "examples": [{"carrying_class": "fke", "line": 803965}]}
+{"a": "imu", "b": "kdc", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797736}]}
+{"a": "inb", "b": "llc", "count": 1, "examples": [{"carrying_class": "cv", "line": 756097}]}
+{"a": "ing", "b": "jpe", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799589}]}
+{"a": "ing", "b": "mch", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800331}]}
+{"a": "inn", "b": "jxl", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808156}]}
+{"a": "inq", "b": "kuc", "count": 1, "examples": [{"carrying_class": "ees", "line": 773089}]}
+{"a": "iny", "b": "kef", "count": 1, "examples": [{"carrying_class": "ern", "line": 788290}]}
+{"a": "ioa", "b": "lhk", "count": 1, "examples": [{"carrying_class": "ls", "line": 1035220}]}
+{"a": "ioc", "b": "jff", "count": 1, "examples": [{"carrying_class": "epd", "line": 785020}]}
+{"a": "ioc", "b": "jvl", "count": 1, "examples": [{"carrying_class": "epd", "line": 785037}]}
+{"a": "iof", "b": "jid", "count": 1, "examples": [{"carrying_class": "epd", "line": 785011}]}
+{"a": "ioi", "b": "lmo", "count": 1, "examples": [{"carrying_class": "lf", "line": 1012685}]}
+{"a": "iok", "b": "lmo", "count": 1, "examples": [{"carrying_class": "lf", "line": 1012685}]}
+{"a": "iom", "b": "lmo", "count": 1, "examples": [{"carrying_class": "lf", "line": 1012685}]}
+{"a": "ion", "b": "knv", "count": 1, "examples": [{"carrying_class": "fsw", "line": 814645}]}
+{"a": "ion", "b": "lgx", "count": 1, "examples": [{"carrying_class": "fsw", "line": 814662}]}
+{"a": "ios", "b": "jys", "count": 1, "examples": [{"carrying_class": "fsw", "line": 814656}]}
+{"a": "iot", "b": "jez", "count": 1, "examples": [{"carrying_class": "fft", "line": 798454}]}
+{"a": "ipa", "b": "lgr", "count": 1, "examples": [{"carrying_class": "ff", "line": 797064}]}
+{"a": "ipb", "b": "jax", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800837}]}
+{"a": "ipc", "b": "mik", "count": 1, "examples": [{"carrying_class": "eaw", "line": 768470}]}
+{"a": "ipc", "b": "mim", "count": 1, "examples": [{"carrying_class": "eaw", "line": 768470}]}
+{"a": "ipk", "b": "mfl", "count": 1, "examples": [{"carrying_class": "ebc", "line": 768680}]}
+{"a": "ipv", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gip", "line": 824397}]}
+{"a": "ipx", "b": "kab", "count": 1, "examples": [{"carrying_class": "bo", "line": 746520}]}
+{"a": "iqc", "b": "jqx", "count": 1, "examples": [{"carrying_class": "enq", "line": 783191}]}
+{"a": "iqd", "b": "jpq", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799670}]}
+{"a": "iqm", "b": "kqo", "count": 1, "examples": [{"carrying_class": "egf", "line": 774697}]}
+{"a": "iqm", "b": "ktx", "count": 1, "examples": [{"carrying_class": "fka", "line": 803854}]}
+{"a": "iqn", "b": "jii", "count": 1, "examples": [{"carrying_class": "bo", "line": 746544}]}
+{"a": "iqn", "b": "lhe", "count": 1, "examples": [{"carrying_class": "bo", "line": 746543}]}
+{"a": "iqx", "b": "jbs", "count": 1, "examples": [{"carrying_class": "bo", "line": 746518}]}
+{"a": "iqy", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gig", "line": 824211}]}
+{"a": "irb", "b": "kkk", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799694}]}
+{"a": "irb", "b": "koj", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800814}]}
+{"a": "irc", "b": "kbn", "count": 1, "examples": [{"carrying_class": "emr", "line": 782160}]}
+{"a": "ird", "b": "kxa", "count": 1, "examples": [{"carrying_class": "bo", "line": 746509}]}
+{"a": "irg", "b": "mhc", "count": 1, "examples": [{"carrying_class": "dyx", "line": 766364}]}
+{"a": "irh", "b": "lua", "count": 1, "examples": [{"carrying_class": "egf", "line": 774666}]}
+{"a": "iro", "b": "jhe", "count": 1, "examples": [{"carrying_class": "emi", "line": 781788}]}
+{"a": "irq", "b": "maz", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800318}]}
+{"a": "irs", "b": "mcn", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800289}]}
+{"a": "iry", "b": "itl", "count": 1, "examples": [{"carrying_class": "bw", "line": 749831}]}
+{"a": "iry", "b": "jal", "count": 1, "examples": [{"carrying_class": "bz", "line": 750592}]}
+{"a": "isa", "b": "itl", "count": 1, "examples": [{"carrying_class": "bw", "line": 749831}]}
+{"a": "isa", "b": "jal", "count": 1, "examples": [{"carrying_class": "bz", "line": 750592}]}
+{"a": "ise", "b": "jiz", "count": 1, "examples": [{"carrying_class": "emi", "line": 781792}]}
+{"a": "ise", "b": "kvg", "count": 1, "examples": [{"carrying_class": "fqb", "line": 811912}]}
+{"a": "isf", "b": "ixk", "count": 1, "examples": [{"carrying_class": "emi", "line": 781767}]}
+{"a": "isf", "b": "lvb", "count": 1, "examples": [{"carrying_class": "fka", "line": 803845}]}
+{"a": "iss", "b": "kep", "count": 1, "examples": [{"carrying_class": "emi", "line": 781759}]}
+{"a": "iss", "b": "lyt", "count": 1, "examples": [{"carrying_class": "emi", "line": 781787}]}
+{"a": "ist", "b": "lpo", "count": 1, "examples": [{"carrying_class": "ih", "line": 884413}]}
+{"a": "isw", "b": "kty", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800795}]}
+{"a": "isz", "b": "jxo", "count": 1, "examples": [{"carrying_class": "emi", "line": 781773}]}
+{"a": "itd", "b": "lva", "count": 1, "examples": [{"carrying_class": "emr", "line": 782151}]}
+{"a": "ite", "b": "kuy", "count": 1, "examples": [{"carrying_class": "ecv", "line": 770773}]}
+{"a": "ite", "b": "kva", "count": 1, "examples": [{"carrying_class": "ecv", "line": 770773}]}
+{"a": "itg", "b": "iuj", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786899}]}
+{"a": "itg", "b": "lqr", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786819}]}
+{"a": "itk", "b": "lno", "count": 1, "examples": [{"carrying_class": "eqq", "line": 787025}]}
+{"a": "itm", "b": "jiq", "count": 1, "examples": [{"carrying_class": "fft", "line": 798476}]}
+{"a": "itr", "b": "khr", "count": 1, "examples": [{"carrying_class": "eqx", "line": 787523}]}
+{"a": "itw", "b": "jfk", "count": 1, "examples": [{"carrying_class": "fft", "line": 798504}]}
+{"a": "iur", "b": "jiy", "count": 1, "examples": [{"carrying_class": "gjp", "line": 825037}]}
+{"a": "iuu", "b": "lpg", "count": 1, "examples": [{"carrying_class": "gk", "line": 825262}]}
+{"a": "ivc", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gik", "line": 824288}]}
+{"a": "ivf", "b": "lhs", "count": 1, "examples": [{"carrying_class": "ky", "line": 1003015}]}
+{"a": "ivg", "b": "jqz", "count": 1, "examples": [{"carrying_class": "fin", "line": 802214}]}
+{"a": "ivg", "b": "kqg", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800850}]}
+{"a": "ivk", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808276}]}
+{"a": "ivk", "b": "lld", "count": 1, "examples": [{"carrying_class": "fhw", "line": 801775}]}
+{"a": "ivl", "b": "ksu", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786913}]}
+{"a": "ivo", "b": "jft", "count": 1, "examples": [{"carrying_class": "egx", "line": 775719}]}
+{"a": "ivo", "b": "lwc", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786850}]}
+{"a": "ivq", "b": "jdc", "count": 1, "examples": [{"carrying_class": "fft", "line": 798468}]}
+{"a": "ivr", "b": "jgs", "count": 1, "examples": [{"carrying_class": "iy", "line": 915319}]}
+{"a": "ivr", "b": "jie", "count": 1, "examples": [{"carrying_class": "eqq", "line": 787031}]}
+{"a": "ivx", "b": "ltf", "count": 1, "examples": [{"carrying_class": "eqq", "line": 787012}]}
+{"a": "ivy", "b": "lpg", "count": 1, "examples": [{"carrying_class": "gl", "line": 825678}]}
+{"a": "ivy", "b": "mfl", "count": 1, "examples": [{"carrying_class": "ha", "line": 835115}]}
+{"a": "iwb", "b": "llc", "count": 1, "examples": [{"carrying_class": "da", "line": 757373}]}
+{"a": "iwd", "b": "kdy", "count": 1, "examples": [{"carrying_class": "ees", "line": 773082}]}
+{"a": "iwm", "b": "kzq", "count": 1, "examples": [{"carrying_class": "eor", "line": 784442}]}
+{"a": "iwo", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gin", "line": 824349}]}
+{"a": "iwp", "b": "lzl", "count": 1, "examples": [{"carrying_class": "eor", "line": 784444}]}
+{"a": "iwq", "b": "jfs", "count": 1, "examples": [{"carrying_class": "eoh", "line": 783830}]}
+{"a": "iwq", "b": "knz", "count": 1, "examples": [{"carrying_class": "eoh", "line": 783815}]}
+{"a": "ixd", "b": "kau", "count": 1, "examples": [{"carrying_class": "fin", "line": 802211}]}
+{"a": "ixj", "b": "jyg", "count": 1, "examples": [{"carrying_class": "fjt", "line": 803488}]}
+{"a": "ixn", "b": "jgq", "count": 1, "examples": [{"carrying_class": "fft", "line": 798383}]}
+{"a": "ixn", "b": "jss", "count": 1, "examples": [{"carrying_class": "ehl", "line": 776395}]}
+{"a": "ixq", "b": "koi", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800797}]}
+{"a": "ixu", "b": "iyh", "count": 1, "examples": [{"carrying_class": "eft", "line": 774248}]}
+{"a": "iyj", "b": "lfc", "count": 1, "examples": [{"carrying_class": "eft", "line": 774241}]}
+{"a": "iym", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gjd", "line": 824691}]}
+{"a": "iyr", "b": "mgc", "count": 1, "examples": [{"carrying_class": "epj", "line": 785326}]}
+{"a": "iyu", "b": "mjb", "count": 1, "examples": [{"carrying_class": "dys", "line": 766179}]}
+{"a": "izd", "b": "jjp", "count": 1, "examples": [{"carrying_class": "eft", "line": 774262}]}
+{"a": "ize", "b": "jwe", "count": 1, "examples": [{"carrying_class": "eju", "line": 778280}]}
+{"a": "izg", "b": "jjp", "count": 1, "examples": [{"carrying_class": "eft", "line": 774262}]}
+{"a": "izh", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808114}]}
+{"a": "izr", "b": "kte", "count": 1, "examples": [{"carrying_class": "hbr", "line": 837901}]}
+{"a": "izw", "b": "izy", "count": 1, "examples": [{"carrying_class": "cd", "line": 751533}]}
+{"a": "jab", "b": "jxc", "count": 1, "examples": [{"carrying_class": "fke", "line": 804028}]}
+{"a": "jac", "b": "jor", "count": 1, "examples": [{"carrying_class": "eqx", "line": 787545}]}
+{"a": "jal", "b": "mhq", "count": 1, "examples": [{"carrying_class": "eaw", "line": 768474}]}
+{"a": "jaq", "b": "lfy", "count": 1, "examples": [{"carrying_class": "jm", "line": 939379}]}
+{"a": "jar", "b": "lvs", "count": 1, "examples": [{"carrying_class": "ce", "line": 751781}]}
+{"a": "jat", "b": "knz", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800874}]}
+{"a": "jaw", "b": "lzc", "count": 1, "examples": [{"carrying_class": "lk", "line": 1021594}]}
+{"a": "jaz", "b": "ktn", "count": 1, "examples": [{"carrying_class": "erd", "line": 787897}]}
+{"a": "jaz", "b": "lwb", "count": 1, "examples": [{"carrying_class": "erd", "line": 787894}]}
+{"a": "jbf", "b": "kqm", "count": 1, "examples": [{"carrying_class": "egx", "line": 775718}]}
+{"a": "jbf", "b": "llu", "count": 1, "examples": [{"carrying_class": "fkx", "line": 804838}]}
+{"a": "jbf", "b": "llw", "count": 1, "examples": [{"carrying_class": "fkx", "line": 804838}]}
+{"a": "jbf", "b": "lmm", "count": 1, "examples": [{"carrying_class": "fkx", "line": 804838}]}
+{"a": "jbg", "b": "jij", "count": 1, "examples": [{"carrying_class": "fft", "line": 798448}]}
+{"a": "jbl", "b": "lhs", "count": 1, "examples": [{"carrying_class": "ky", "line": 1003009}]}
+{"a": "jbo", "b": "jbt", "count": 1, "examples": [{"carrying_class": "egx", "line": 775704}]}
+{"a": "jbu", "b": "kzy", "count": 1, "examples": [{"carrying_class": "erd", "line": 787895}]}
+{"a": "jbx", "b": "lqs", "count": 1, "examples": [{"carrying_class": "dyx", "line": 766333}]}
+{"a": "jcz", "b": "jxu", "count": 1, "examples": [{"carrying_class": "fke", "line": 804027}]}
+{"a": "jdb", "b": "lhk", "count": 1, "examples": [{"carrying_class": "mm", "line": 1067603}]}
+{"a": "jdc", "b": "jxk", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808264}]}
+{"a": "jdk", "b": "keq", "count": 1, "examples": [{"carrying_class": "emv", "line": 782351}]}
+{"a": "jdu", "b": "jns", "count": 1, "examples": [{"carrying_class": "jk", "line": 936077}]}
+{"a": "jdu", "b": "krq", "count": 1, "examples": [{"carrying_class": "jk", "line": 936067}]}
+{"a": "jdu", "b": "kst", "count": 1, "examples": [{"carrying_class": "jk", "line": 936071}]}
+{"a": "jdu", "b": "mez", "count": 1, "examples": [{"carrying_class": "jk", "line": 936073}]}
+{"a": "jdv", "b": "jdx", "count": 1, "examples": [{"carrying_class": "jh", "line": 930937}]}
+{"a": "jdv", "b": "kkt", "count": 1, "examples": [{"carrying_class": "epd", "line": 784991}]}
+{"a": "jdx", "b": "jns", "count": 1, "examples": [{"carrying_class": "jk", "line": 936077}]}
+{"a": "jdx", "b": "krq", "count": 1, "examples": [{"carrying_class": "jk", "line": 936067}]}
+{"a": "jdx", "b": "kst", "count": 1, "examples": [{"carrying_class": "jk", "line": 936071}]}
+{"a": "jdx", "b": "mez", "count": 1, "examples": [{"carrying_class": "jk", "line": 936073}]}
+{"a": "jen", "b": "jku", "count": 1, "examples": [{"carrying_class": "fft", "line": 798459}]}
+{"a": "jen", "b": "kkk", "count": 1, "examples": [{"carrying_class": "fft", "line": 798364}]}
+{"a": "jeo", "b": "kby", "count": 1, "examples": [{"carrying_class": "emz", "line": 782456}]}
+{"a": "jeo", "b": "lsh", "count": 1, "examples": [{"carrying_class": "fff", "line": 797415}]}
+{"a": "jex", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gix", "line": 824569}]}
+{"a": "jez", "b": "jxz", "count": 1, "examples": [{"carrying_class": "fiw", "line": 802683}]}
+{"a": "jfd", "b": "ljx", "count": 1, "examples": [{"carrying_class": "giw", "line": 824547}]}
+{"a": "jff", "b": "kid", "count": 1, "examples": [{"carrying_class": "fft", "line": 798493}]}
+{"a": "jfo", "b": "kkh", "count": 1, "examples": [{"carrying_class": "fft", "line": 798365}]}
+{"a": "jfo", "b": "lkv", "count": 1, "examples": [{"carrying_class": "fft", "line": 798529}]}
+{"a": "jfp", "b": "kcc", "count": 1, "examples": [{"carrying_class": "emv", "line": 782350}]}
+{"a": "jgb", "b": "kpe", "count": 1, "examples": [{"carrying_class": "ix", "line": 914008}]}
+{"a": "jgl", "b": "lyg", "count": 1, "examples": [{"carrying_class": "fft", "line": 798517}]}
+{"a": "jgs", "b": "mcx", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800210}]}
+{"a": "jgu", "b": "jzw", "count": 1, "examples": [{"carrying_class": "eht", "line": 776454}]}
+{"a": "jgu", "b": "mgz", "count": 1, "examples": [{"carrying_class": "dys", "line": 766149}]}
+{"a": "jgz", "b": "joc", "count": 1, "examples": [{"carrying_class": "fft", "line": 798407}]}
+{"a": "jhp", "b": "kld", "count": 1, "examples": [{"carrying_class": "fgz", "line": 800466}]}
+{"a": "jhq", "b": "jpj", "count": 1, "examples": [{"carrying_class": "fft", "line": 798387}]}
+{"a": "jhr", "b": "kaz", "count": 1, "examples": [{"carrying_class": "fft", "line": 798428}]}
+{"a": "jib", "b": "kpe", "count": 1, "examples": [{"carrying_class": "fft", "line": 798484}]}
+{"a": "jik", "b": "kwu", "count": 1, "examples": [{"carrying_class": "flq", "line": 807658}]}
+{"a": "jio", "b": "lec", "count": 1, "examples": [{"carrying_class": "me", "line": 1058434}]}
+{"a": "jir", "b": "llc", "count": 1, "examples": [{"carrying_class": "dg", "line": 758976}]}
+{"a": "jiv", "b": "kku", "count": 1, "examples": [{"carrying_class": "fft", "line": 798513}]}
+{"a": "jje", "b": "jqx", "count": 1, "examples": [{"carrying_class": "enq", "line": 783167}]}
+{"a": "jjt", "b": "lng", "count": 1, "examples": [{"carrying_class": "lc", "line": 1007840}]}
+{"a": "jjy", "b": "kid", "count": 1, "examples": [{"carrying_class": "di", "line": 759437}]}
+{"a": "jjy", "b": "kif", "count": 1, "examples": [{"carrying_class": "di", "line": 759437}]}
+{"a": "jkf", "b": "jxw", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808107}]}
+{"a": "jkf", "b": "ltk", "count": 1, "examples": [{"carrying_class": "fff", "line": 797446}]}
+{"a": "jkl", "b": "llc", "count": 1, "examples": [{"carrying_class": "co", "line": 754276}]}
+{"a": "jko", "b": "jkq", "count": 1, "examples": [{"carrying_class": "dro", "line": 763672}]}
+{"a": "jku", "b": "lhk", "count": 1, "examples": [{"carrying_class": "mm", "line": 1067596}]}
+{"a": "jkv", "b": "lej", "count": 1, "examples": [{"carrying_class": "fft", "line": 798374}]}
+{"a": "jky", "b": "llc", "count": 1, "examples": [{"carrying_class": "dd", "line": 758226}]}
+{"a": "jla", "b": "jyd", "count": 1, "examples": [{"carrying_class": "fft", "line": 798373}]}
+{"a": "jle", "b": "kbm", "count": 1, "examples": [{"carrying_class": "fft", "line": 798378}]}
+{"a": "jle", "b": "mee", "count": 1, "examples": [{"carrying_class": "fft", "line": 798461}]}
+{"a": "jlq", "b": "lpj", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786840}]}
+{"a": "jls", "b": "jyj", "count": 1, "examples": [{"carrying_class": "fke", "line": 803997}]}
+{"a": "jly", "b": "jsj", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808032}]}
+{"a": "jma", "b": "lhl", "count": 1, "examples": [{"carrying_class": "fft", "line": 798478}]}
+{"a": "jmf", "b": "lqn", "count": 1, "examples": [{"carrying_class": "hbb", "line": 837225}]}
+{"a": "jmi", "b": "lfm", "count": 1, "examples": [{"carrying_class": "fft", "line": 798382}]}
+{"a": "jnc", "b": "kfw", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799616}]}
+{"a": "jnc", "b": "loy", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799636}]}
+{"a": "jnh", "b": "jss", "count": 1, "examples": [{"carrying_class": "eoh", "line": 783777}]}
+{"a": "jnn", "b": "jxm", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799654}]}
+{"a": "jnr", "b": "mce", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800272}]}
+{"a": "jnu", "b": "kni", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799664}]}
+{"a": "jnu", "b": "kvv", "count": 1, "examples": [{"carrying_class": "ees", "line": 773018}]}
+{"a": "jog", "b": "kdv", "count": 1, "examples": [{"carrying_class": "epd", "line": 784981}]}
+{"a": "jol", "b": "mda", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799604}]}
+{"a": "joq", "b": "jru", "count": 1, "examples": [{"carrying_class": "ejv", "line": 778342}]}
+{"a": "joq", "b": "jrv", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799669}]}
+{"a": "joz", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808057}]}
+{"a": "jpk", "b": "lpg", "count": 1, "examples": [{"carrying_class": "gk", "line": 825266}]}
+{"a": "jpk", "b": "mdw", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799594}]}
+{"a": "jpr", "b": "khu", "count": 1, "examples": [{"carrying_class": "eqx", "line": 787516}]}
+{"a": "jpx", "b": "kno", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799591}]}
+{"a": "jpz", "b": "kga", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799687}]}
+{"a": "jqb", "b": "jzu", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808217}]}
+{"a": "jqe", "b": "lmi", "count": 1, "examples": [{"carrying_class": "ffl", "line": 797723}]}
+{"a": "jqf", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808047}]}
+{"a": "jql", "b": "kub", "count": 1, "examples": [{"carrying_class": "fjt", "line": 803494}]}
+{"a": "jqp", "b": "kld", "count": 1, "examples": [{"carrying_class": "ffg", "line": 797499}]}
+{"a": "jqy", "b": "jzr", "count": 1, "examples": [{"carrying_class": "fhs", "line": 801599}]}
+{"a": "jrd", "b": "ksn", "count": 1, "examples": [{"carrying_class": "fke", "line": 803966}]}
+{"a": "jrh", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808043}]}
+{"a": "jrh", "b": "jyt", "count": 1, "examples": [{"carrying_class": "fke", "line": 804034}]}
+{"a": "jru", "b": "kew", "count": 1, "examples": [{"carrying_class": "ejv", "line": 778348}]}
+{"a": "jru", "b": "lyr", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800276}]}
+{"a": "jrz", "b": "kte", "count": 1, "examples": [{"carrying_class": "hbr", "line": 837904}]}
+{"a": "jse", "b": "klk", "count": 1, "examples": [{"carrying_class": "eju", "line": 778296}]}
+{"a": "jse", "b": "men", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808232}]}
+{"a": "jsh", "b": "mgq", "count": 1, "examples": [{"carrying_class": "ebc", "line": 768671}]}
+{"a": "jsj", "b": "lfo", "count": 1, "examples": [{"carrying_class": "eon", "line": 784188}]}
+{"a": "jss", "b": "kof", "count": 1, "examples": [{"carrying_class": "ehl", "line": 776406}]}
+{"a": "jss", "b": "kvn", "count": 1, "examples": [{"carrying_class": "ehl", "line": 776347}]}
+{"a": "jss", "b": "lob", "count": 1, "examples": [{"carrying_class": "fml", "line": 808535}]}
+{"a": "jtd", "b": "kjb", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799614}]}
+{"a": "jua", "b": "lzp", "count": 1, "examples": [{"carrying_class": "eex", "line": 773662}]}
+{"a": "jue", "b": "kur", "count": 1, "examples": [{"carrying_class": "ees", "line": 773080}]}
+{"a": "jug", "b": "jui", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808103}]}
+{"a": "jug", "b": "juk", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808103}]}
+{"a": "jug", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808103}]}
+{"a": "jui", "b": "juk", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808103}]}
+{"a": "jui", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808103}]}
+{"a": "juk", "b": "jwe", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808103}]}
+{"a": "juz", "b": "jwe", "count": 1, "examples": [{"carrying_class": "guf", "line": 831799}]}
+{"a": "jwa", "b": "jzc", "count": 1, "examples": [{"carrying_class": "fiw", "line": 802687}]}
+{"a": "jwe", "b": "kfl", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808136}]}
+{"a": "jwe", "b": "llh", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808174}]}
+{"a": "jwe", "b": "lud", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808141}]}
+{"a": "jwe", "b": "luk", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808118}]}
+{"a": "jwe", "b": "mho", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808162}]}
+{"a": "jwn", "b": "ltd", "count": 1, "examples": [{"carrying_class": "fff", "line": 797437}]}
+{"a": "jws", "b": "kef", "count": 1, "examples": [{"carrying_class": "fke", "line": 804009}]}
+{"a": "jws", "b": "kvq", "count": 1, "examples": [{"carrying_class": "ecv", "line": 770785}]}
+{"a": "jww", "b": "kvy", "count": 1, "examples": [{"carrying_class": "dw", "line": 765169}]}
+{"a": "jwz", "b": "kau", "count": 1, "examples": [{"carrying_class": "fin", "line": 802218}]}
+{"a": "jwz", "b": "kbg", "count": 1, "examples": [{"carrying_class": "emr", "line": 782109}]}
+{"a": "jxa", "b": "kpa", "count": 1, "examples": [{"carrying_class": "fqu", "line": 812692}]}
+{"a": "jxb", "b": "lhd", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808146}]}
+{"a": "jxc", "b": "lkz", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808187}]}
+{"a": "jxg", "b": "lwr", "count": 1, "examples": [{"carrying_class": "fka", "line": 803840}]}
+{"a": "jxi", "b": "lty", "count": 1, "examples": [{"carrying_class": "fff", "line": 797466}]}
+{"a": "jxi", "b": "mie", "count": 1, "examples": [{"carrying_class": "dys", "line": 766144}]}
+{"a": "jxi", "b": "mig", "count": 1, "examples": [{"carrying_class": "dys", "line": 766144}]}
+{"a": "jxs", "b": "klu", "count": 1, "examples": [{"carrying_class": "epd", "line": 785032}]}
+{"a": "jxu", "b": "kgl", "count": 1, "examples": [{"carrying_class": "fke", "line": 804036}]}
+{"a": "jxz", "b": "kcu", "count": 1, "examples": [{"carrying_class": "erd", "line": 787882}]}
+{"a": "jya", "b": "jzc", "count": 1, "examples": [{"carrying_class": "fmc", "line": 808267}]}
+{"a": "jyb", "b": "mea", "count": 1, "examples": [{"carrying_class": "fke", "line": 803996}]}
+{"a": "jyg", "b": "kru", "count": 1, "examples": [{"carrying_class": "ejv", "line": 778380}]}
+{"a": "jyg", "b": "mcr", "count": 1, "examples": [{"carrying_class": "fjt", "line": 803492}]}
+{"a": "jyj", "b": "kmk", "count": 1, "examples": [{"carrying_class": "fke", "line": 803999}]}
+{"a": "jyt", "b": "kfb", "count": 1, "examples": [{"carrying_class": "fke", "line": 804000}]}
+{"a": "jyu", "b": "kon", "count": 1, "examples": [{"carrying_class": "fqu", "line": 812581}]}
+{"a": "jyy", "b": "mel", "count": 1, "examples": [{"carrying_class": "fhw", "line": 801752}]}
+{"a": "jzd", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779761}]}
+{"a": "jze", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779783}]}
+{"a": "jze", "b": "kwu", "count": 1, "examples": [{"carrying_class": "flq", "line": 807678}]}
+{"a": "jzh", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779805}]}
+{"a": "jzi", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779827}]}
+{"a": "jzj", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779849}]}
+{"a": "jzk", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779871}]}
+{"a": "jzl", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779893}]}
+{"a": "jzm", "b": "jzo", "count": 1, "examples": [{"carrying_class": "el", "line": 779915}]}
+{"a": "jzw", "b": "mja", "count": 1, "examples": [{"carrying_class": "dys", "line": 766186}]}
+{"a": "kac", "b": "mde", "count": 1, "examples": [{"carrying_class": "fjw", "line": 803649}]}
+{"a": "kah", "b": "kzl", "count": 1, "examples": [{"carrying_class": "fka", "line": 803841}]}
+{"a": "kam", "b": "lgm", "count": 1, "examples": [{"carrying_class": "ejv", "line": 778367}]}
+{"a": "kam", "b": "lhe", "count": 1, "examples": [{"carrying_class": "fjt", "line": 803486}]}
+{"a": "kam", "b": "lun", "count": 1, "examples": [{"carrying_class": "ejv", "line": 778377}]}
+{"a": "kba", "b": "lvp", "count": 1, "examples": [{"carrying_class": "fjw", "line": 803653}]}
+{"a": "kbk", "b": "kvx", "count": 1, "examples": [{"carrying_class": "emr", "line": 782132}]}
+{"a": "kbl", "b": "lng", "count": 1, "examples": [{"carrying_class": "me", "line": 1058404}]}
+{"a": "kcc", "b": "lyy", "count": 1, "examples": [{"carrying_class": "emv", "line": 782346}]}
+{"a": "kcm", "b": "kvm", "count": 1, "examples": [{"carrying_class": "emv", "line": 782342}]}
+{"a": "kcm", "b": "llc", "count": 1, "examples": [{"carrying_class": "cv", "line": 756096}]}
+{"a": "kcu", "b": "lrs", "count": 1, "examples": [{"carrying_class": "egx", "line": 775714}]}
+{"a": "kcz", "b": "kou", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800857}]}
+{"a": "kcz", "b": "kox", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800857}]}
+{"a": "kdc", "b": "lqr", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800246}]}
+{"a": "kde", "b": "kdg", "count": 1, "examples": [{"carrying_class": "emr", "line": 782101}]}
+{"a": "kdg", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gja", "line": 824632}]}
+{"a": "keg", "b": "kqp", "count": 1, "examples": [{"carrying_class": "fob", "line": 810226}]}
+{"a": "keg", "b": "kzi", "count": 1, "examples": [{"carrying_class": "emc", "line": 781420}]}
+{"a": "kek", "b": "kem", "count": 1, "examples": [{"carrying_class": "cxu", "line": 756861}]}
+{"a": "kek", "b": "kmu", "count": 1, "examples": [{"carrying_class": "ejv", "line": 778369}]}
+{"a": "ket", "b": "lny", "count": 1, "examples": [{"carrying_class": "fir", "line": 802311}]}
+{"a": "kev", "b": "lst", "count": 1, "examples": [{"carrying_class": "eat", "line": 768202}]}
+{"a": "kfj", "b": "llc", "count": 1, "examples": [{"carrying_class": "cr", "line": 754947}]}
+{"a": "kfn", "b": "mhq", "count": 1, "examples": [{"carrying_class": "eaw", "line": 768461}]}
+{"a": "kfp", "b": "kub", "count": 1, "examples": [{"carrying_class": "eqq", "line": 787050}]}
+{"a": "kfz", "b": "mgz", "count": 1, "examples": [{"carrying_class": "emr", "line": 782105}]}
+{"a": "kgl", "b": "kpy", "count": 1, "examples": [{"carrying_class": "emc", "line": 781429}]}
+{"a": "kgw", "b": "kmu", "count": 1, "examples": [{"carrying_class": "eni", "line": 782876}]}
+{"a": "kgw", "b": "lvi", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786909}]}
+{"a": "kha", "b": "lze", "count": 1, "examples": [{"carrying_class": "emr", "line": 782114}]}
+{"a": "khm", "b": "kqt", "count": 1, "examples": [{"carrying_class": "ern", "line": 788289}]}
+{"a": "khw", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gih", "line": 824227}]}
+{"a": "kid", "b": "kth", "count": 1, "examples": [{"carrying_class": "hbb", "line": 837238}]}
+{"a": "kid", "b": "kwh", "count": 1, "examples": [{"carrying_class": "flq", "line": 807661}]}
+{"a": "kij", "b": "ldm", "count": 1, "examples": [{"carrying_class": "ft", "line": 814693}]}
+{"a": "kjl", "b": "mfx", "count": 1, "examples": [{"carrying_class": "fgr", "line": 799653}]}
+{"a": "klm", "b": "kty", "count": 1, "examples": [{"carrying_class": "fft", "line": 798430}]}
+{"a": "klm", "b": "lqn", "count": 1, "examples": [{"carrying_class": "hbb", "line": 837235}]}
+{"a": "kmi", "b": "lqb", "count": 1, "examples": [{"carrying_class": "fz", "line": 819665}]}
+{"a": "kmk", "b": "lif", "count": 1, "examples": [{"carrying_class": "fka", "line": 803836}]}
+{"a": "knl", "b": "lhs", "count": 1, "examples": [{"carrying_class": "ky", "line": 1003016}]}
+{"a": "koi", "b": "lqs", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800846}]}
+{"a": "kox", "b": "llc", "count": 1, "examples": [{"carrying_class": "df", "line": 758724}]}
+{"a": "kpb", "b": "lpg", "count": 1, "examples": [{"carrying_class": "ecw", "line": 770878}]}
+{"a": "kpj", "b": "lqu", "count": 1, "examples": [{"carrying_class": "elc", "line": 780070}]}
+{"a": "kpl", "b": "lfo", "count": 1, "examples": [{"carrying_class": "ca", "line": 750833}]}
+{"a": "kpr", "b": "lld", "count": 1, "examples": [{"carrying_class": "ia", "line": 873840}]}
+{"a": "kpw", "b": "lnw", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800898}]}
+{"a": "kpy", "b": "lnw", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800898}]}
+{"a": "kqc", "b": "kwm", "count": 1, "examples": [{"carrying_class": "fhk", "line": 800852}]}
+{"a": "krh", "b": "kvq", "count": 1, "examples": [{"carrying_class": "ecv", "line": 770772}]}
+{"a": "ksu", "b": "lxc", "count": 1, "examples": [{"carrying_class": "fke", "line": 804003}]}
+{"a": "ktb", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gif", "line": 824197}]}
+{"a": "ktz", "b": "loc", "count": 1, "examples": [{"carrying_class": "ees", "line": 773102}]}
+{"a": "kvb", "b": "lnz", "count": 1, "examples": [{"carrying_class": "edr", "line": 772344}]}
+{"a": "kvd", "b": "lqn", "count": 1, "examples": [{"carrying_class": "hbr", "line": 837910}]}
+{"a": "kvq", "b": "mju", "count": 1, "examples": [{"carrying_class": "ecv", "line": 770770}]}
+{"a": "kwl", "b": "ldq", "count": 1, "examples": [{"carrying_class": "flq", "line": 807668}]}
+{"a": "kww", "b": "lev", "count": 1, "examples": [{"carrying_class": "dt", "line": 764096}]}
+{"a": "kwx", "b": "lvl", "count": 1, "examples": [{"carrying_class": "flq", "line": 807663}]}
+{"a": "kxs", "b": "lff", "count": 1, "examples": [{"carrying_class": "guf", "line": 831787}]}
+{"a": "kzn", "b": "lvi", "count": 1, "examples": [{"carrying_class": "eqq", "line": 787007}]}
+{"a": "lad", "b": "ltm", "count": 1, "examples": [{"carrying_class": "flv", "line": 807808}]}
+{"a": "lco", "b": "lhd", "count": 1, "examples": [{"carrying_class": "em", "line": 781259}]}
+{"a": "lco", "b": "lhn", "count": 1, "examples": [{"carrying_class": "gqc", "line": 828652}]}
+{"a": "lda", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gin", "line": 824348}]}
+{"a": "lff", "b": "mde", "count": 1, "examples": [{"carrying_class": "guf", "line": 831792}]}
+{"a": "lfg", "b": "lhs", "count": 1, "examples": [{"carrying_class": "ky", "line": 1003011}]}
+{"a": "lfh", "b": "ljx", "count": 1, "examples": [{"carrying_class": "gii", "line": 824248}]}
+{"a": "lfx", "b": "lpg", "count": 1, "examples": [{"carrying_class": "lh", "line": 1016592}]}
+{"a": "lgm", "b": "lyn", "count": 1, "examples": [{"carrying_class": "ig", "line": 883150}]}
+{"a": "lgw", "b": "lhl", "count": 1, "examples": [{"carrying_class": "eic", "line": 776717}]}
+{"a": "ljx", "b": "lsa", "count": 1, "examples": [{"carrying_class": "giy", "line": 824589}]}
+{"a": "ljx", "b": "lzv", "count": 1, "examples": [{"carrying_class": "gim", "line": 824328}]}
+{"a": "ljx", "b": "mgb", "count": 1, "examples": [{"carrying_class": "gjc", "line": 824673}]}
+{"a": "lkm", "b": "mbs", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800172}]}
+{"a": "llc", "b": "lvv", "count": 1, "examples": [{"carrying_class": "cu", "line": 755835}]}
+{"a": "llk", "b": "lqo", "count": 1, "examples": [{"carrying_class": "emc", "line": 781379}]}
+{"a": "llq", "b": "lmm", "count": 1, "examples": [{"carrying_class": "fkx", "line": 804845}]}
+{"a": "llz", "b": "lme", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804807}]}
+{"a": "llz", "b": "lmg", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804807}]}
+{"a": "llz", "b": "lmk", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804807}]}
+{"a": "llz", "b": "lmm", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804807}]}
+{"a": "lme", "b": "lmg", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804807}]}
+{"a": "lme", "b": "lmk", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804807}]}
+{"a": "lme", "b": "lmm", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804807}]}
+{"a": "lmh", "b": "lmk", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804792}]}
+{"a": "lmh", "b": "lmm", "count": 1, "examples": [{"carrying_class": "fkv", "line": 804792}]}
+{"a": "lmk", "b": "lpg", "count": 1, "examples": [{"carrying_class": "ecw", "line": 770875}]}
+{"a": "lng", "b": "lth", "count": 1, "examples": [{"carrying_class": "gzc", "line": 834449}]}
+{"a": "lnj", "b": "lwt", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786848}]}
+{"a": "lpg", "b": "mfy", "count": 1, "examples": [{"carrying_class": "gh", "line": 823692}]}
+{"a": "lpl", "b": "lqe", "count": 1, "examples": [{"carrying_class": "fn", "line": 809051}]}
+{"a": "lqx", "b": "lww", "count": 1, "examples": [{"carrying_class": "hbb", "line": 837250}]}
+{"a": "lrc", "b": "mgh", "count": 1, "examples": [{"carrying_class": "dyx", "line": 766387}]}
+{"a": "lru", "b": "mbm", "count": 1, "examples": [{"carrying_class": "ebg", "line": 768959}]}
+{"a": "ltk", "b": "mhh", "count": 1, "examples": [{"carrying_class": "fff", "line": 797424}]}
+{"a": "ltw", "b": "lty", "count": 1, "examples": [{"carrying_class": "oa", "line": 1068900}]}
+{"a": "lvb", "b": "mcv", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800324}]}
+{"a": "lxd", "b": "lzq", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786923}]}
+{"a": "lxd", "b": "mcy", "count": 1, "examples": [{"carrying_class": "eqq", "line": 787009}]}
+{"a": "lxk", "b": "mbr", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786928}]}
+{"a": "lyz", "b": "mgr", "count": 1, "examples": [{"carrying_class": "eqq", "line": 786849}]}
+{"a": "mbs", "b": "mbv", "count": 1, "examples": [{"carrying_class": "fgv", "line": 800231}]}
+{"a": "mco", "b": "mgq", "count": 1, "examples": [{"carrying_class": "ebc", "line": 768677}]}
+{"a": "med", "b": "mft", "count": 1, "examples": [{"carrying_class": "epj", "line": 785321}]}
+{"a": "mfv", "b": "mfx", "count": 1, "examples": [{"carrying_class": "gy", "line": 833756}]}

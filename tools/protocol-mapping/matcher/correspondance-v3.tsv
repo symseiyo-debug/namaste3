@@ -1,0 +1,1410 @@
+classe_obf	typedef_index	nom_clair	score	methode	statut	provenances_daccord	nb_candidats_a_egalite	chemin_de_preuve
+		AIFighterInformation			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+mir		Accessibility	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (mit.f2=mir <-> ServerInformation.f2=Accessibility)
+		AccessoryPreviewRequest			À_CLASSER		13	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AccountCapabilitiesEvent			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AccountInformationUpdateEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AccountSubscriptionElapsedDurationUpdateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ihi	10661	AccountTag	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		AchievedAchievement			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Achievement			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementDetailsEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementDetailsRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementFinishedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementFinishedInformationEvent			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementObjective			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementPioneerRank			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementRewardRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementRewardResultEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementsAlmostFinishedDetailedEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementsAlmostFinishedDetailedRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementsDetailedEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementsDetailedRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementsPioneerRanksRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AchievementsPioneerRanksResponse			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AcquaintanceAddedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AcquaintanceInformation			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AcquaintanceListEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AcquaintanceListRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AcquaintanceServersResponse			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		ActionInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ActivateGlyphTrap			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ActivityHideRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ActivityLockRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ActivitySuggestionsEvent			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ActivitySuggestionsRequest			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ActorInformation			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ActorPositionInformation			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AddTagObjectRequest			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AddTagObjectResponse			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AddTagStorageResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AdditionalSmileyEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AggressionEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AlignmentExtendedInformation			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AlignmentInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AlignmentRankUpdateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationAnswerRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationDeletedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationDeletionRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationInformationEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationNoInformationEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationPresenceEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationPresenceRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationReceivedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationResponseEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationSubmitRequest			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceApplicationUpdateRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceBulletinEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceBulletinSetRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceCardInformation			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceCreationStartedEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceCreationValidRequest			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceEmblemModificationValidRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFactsErrorEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFactsEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFactsRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightFighterAddedEvent			À_CLASSER		27	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightFighterRemovedEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightFinishedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightJoinRequest			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightLeaveRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightListenStartRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightListenStopRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightPhaseUpdateEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightReplaceRequest			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightStartedEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceFightsInformationEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hts		AllianceInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f4 (htu.f4=hts <-> TaxCollectorStaticInformation.f4=AllianceInformation)
+jdf	11602	AllianceInsiderInformationEvent		arrosage	DÉDUIT	arrosage	1	arrosage score=0.75
+		AllianceInsiderInformationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceInvitationAnswerRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceInvitationRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceInvitationStateRecruitedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceInvitationStateRecruiterEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceInvitedEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceJoinedEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceKickRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceLeftEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceMemberInformation			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceMemberLeavingEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceMemberStartWarningOnConnectionRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceMemberStopWarningOnConnectionRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceMembershipEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceModificationStartedEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceModificationValidRequest			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceMotdEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceMotdSetRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceNameAndTagModificationValidRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceOption			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRankChangeRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRankCreationRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRankDeletionRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRanksRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRecruitmentAutomaticJoinRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRecruitmentInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRecruitmentInformationEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRecruitmentInformationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRecruitmentInvalidateEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRecruitmentUpdateRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceRightsUpdateRequest			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AllianceSummaryRequest			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AlmanachCalendarDateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AlreadyConnectedEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+lpk	14299	Alteration	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		AlterationAddedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lbk		AlterationExpirationType	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (lpk.f3=lbk <-> Alteration.f3=AlterationExpirationType)
+		AlterationRemovedEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AlterationsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AlterationsUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hxd	10239	Anomaly	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (ibg.f2=hwr <-> TeleportDestinationsEvent.f2=TeleportDestination) -> arrastre champ f6 (hwr.f6=hxd <-> TeleportDestination.f6=Anomaly)
+		AnomalyOpenedEvent			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AnomalyStateEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AnomalySubareaInformation			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AnomalySubareaInformationEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AnomalySubareaInformationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lxw	14660	AppearanceAuraRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxw
+lwx	14618	AppearanceAuraResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lwx
+lys	14698	AppearanceItemWearRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lys
+lwz	14622	AppearanceItemWornMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lwz
+lyk	14684	AppearanceOpenRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lyk
+lxc	14628	AppearancePreviewLookMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxc
+lxs	14653	AppearanceSaveRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxs
+lyu	14702	AppearanceSaveResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lyu
+lyf	14675	AppearanceSlotSetRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lyf
+lyj	14682	AppearanceSlotSetResultMessage			À_CLASSER		0	nom clair EN CONFLIT avec lya (v2, retenu) — autres revendicants : lyj(jondo-anclas)
+lya	14666	AppearanceSlotSetResultMessage	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+lxg	14634	AppearanceSlotVisibilityRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxg
+lxk	14640	AppearanceSlotVisibilityResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxk
+lxo	14646	AppearanceStateMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxo
+lyy	14708	AppearanceStateRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lyy
+		ApplicationInformation			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ApplySpellModifierEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AreaFightModifierUpdateEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaFightAnswerResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaFightPropositionEvent			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaFighterIdleEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaFighterStatusEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaLeagueRewardsEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lsy	14448	ArenaPlayerBehavioursEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		ArenaRank			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaRegisterRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaRegistrationStatusEvent			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaRegistrationWarningEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaSwitchXpRewardsModeRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaUnregisterRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ArenaUpdatePlayerInformationEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AttackMonsterRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AttackableStatus			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AuthenticationTicketAcceptedEvent			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+kra	13306	AuthenticationTicketAcceptedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kra
+kqz	13304	AuthenticationTicketMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kqz
+		AuthenticationTicketRefusedEvent			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		AutoFollowActivationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		AutoFollowDeactivationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakActionRequest			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakApiTokenRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakBufferListEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakBufferListRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakCancelBidRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakConsumeBufferRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakShopTokenRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakTransactionValidationEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BakTransactionValidationRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BasicAllianceInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BasicLatencyStatsEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BasicLatencyStatsRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kqo	13283	BasicPingMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kqo
+kqy	13302	BasicPongMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kqy
+lqu	14359	BasicTimeMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lqu
+		BidActivitiesRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BidExchangerObject			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BidPriceForSeller			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BlockEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BlockListEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BlockListRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BlockRequest			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachBranch			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachBranchesEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+htl	10096	BreachCharactersEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		BreachExitRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachInvitationAnswerRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachInvitationOfferEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachKickRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kid		BreachReward	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (kif.f1=kid <-> ExtendedBreachBranch.f1=BreachReward)
+		BreachRewardBoughtEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachRewardBuyRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachRewardsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachRoomLockedEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachRoomUnlockRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachRoomUnlockResultEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachTeleportRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BreachTeleportResultEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		BufferInformation			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CanCreateCharacterRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CarryCharacter			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+maz	14796	Challenge	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		ChallengeAddEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeBonusChoiceRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeBonusChoiceSelectedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeListEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeModSelectRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeModSelectedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeNumberEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeProposalEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeReadyRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeResultEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeSelectedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeSelectionRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+maw		ChallengeState	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f5 (maz.f5=maw <-> Challenge.f5=ChallengeState)
+lpo	14305	ChallengeTarget	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		ChallengeTargetsEvent			À_CLASSER		27	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeTargetsRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChallengeValidateRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChangeAppearanceDialogLeave			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChangeLook			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jqk	12161	ChangeMapMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jqk
+lpg	14292	Channel	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (lgz.f1=lpg <-> ChatChannelsEnabledEvent.f1=Channel) [nom réutilisé par 2 occurrences distinctes : hee]
+hee		Channel	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (heg.f2=hee <-> ChatChannelMessageRequest.f2=Channel) [nom réutilisé par 2 occurrences distinctes : lpg]
+		ChannelUpdateEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ifj	10580	Character	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f5 (ifh.f5=ifj <-> PartyJoinEvent.f5=Character) [nom réutilisé par 2 occurrences distinctes : hjg]
+hjg	9672	Character	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (hjj.f3=hjg <-> GuildCardEvent.f3=Character) [nom réutilisé par 2 occurrences distinctes : ifj]
+		CharacterAppearancesRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterBaseInformation			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hik		CharacterBasicInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (hjj.f3=hjg <-> GuildCardEvent.f3=Character) -> arrastre champ f3 (hjg.f3=hik <-> Character.f3=CharacterBasicInformation)
+		CharacterCapabilitiesEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterChangeBreedRequest			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterCharacteristic			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterCharacteristicDetailed			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterCharacteristicDetailedUsable			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterCharacteristicUpgradeRequest			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterCharacteristics			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterCreationRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kvz	13521	CharacterCreationRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kvz
+kvb	13479	CharacterCreationResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kvb
+		CharacterDeletionPrepareEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterDeletionRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterEpicInformation			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterExperienceGainEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kvl	13497	CharacterFirstSelectionMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kvl
+		CharacterFirstSelectionRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterForceSelectionEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterForceSelectionReadyRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+mjg	39042	CharacterInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		CharacterLevelUpEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterLifeStatusEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterListErrorEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterListEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterListRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterListResponse			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		CharacterListWithRemodelingEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterLoadingCompleteEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterLook			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterNameSuggestionEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterNameSuggestionRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kvk	13495	CharacterNameSuggestionSuccessMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kvk
+		CharacterOnConnectionEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterPresetCreateResponse			À_CLASSER		27	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterPresetCurrentStateRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterPresetInfo			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterPresetInfoRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterPresetInfoResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterPresetResetResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterPresetSetResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iis	10720	CharacterRemodelingInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f5 (ifh.f5=ifj <-> PartyJoinEvent.f5=Character) -> arrastre champ f1 (ifj.f1=iis <-> Character.f1=CharacterRemodelingInformation)
+		CharacterReplayRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterReplayWithRemodelRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterRestrictionsEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kva	13477	CharacterSelectedSuccessMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kva
+		CharacterSelectionEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kvw	13515	CharacterSelectionMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kvw
+		CharacterSelectionRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacterSelectionWithRemodelRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kub	13438	CharacterStatsListMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kub
+mje		CharacterStatus	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (mjg.f2=mje <-> CharacterInformation.f2=CharacterStatus)
+		CharacterToRemodelInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacteristicsDetails			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CharacteristicsInfo			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kvd	13483	CharactersListEndMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kvd
+kvi	13491	CharactersListMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kvi
+kpa	13222	CharactersListRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kpa
+		CharactersRequest			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		ChatChannelMessageEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+heg	9459	ChatChannelMessageRequest	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+lgz	13955	ChatChannelsEnabledEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+ktm	13411	ChatClientMultiMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=ktm
+		ChatPrivateCopyMessageEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kti	13405	ChatServerMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kti
+		ChestActivity			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Choice			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChoiceSelectedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChoiceSelectedRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ChoiceSelectionEvent			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CinematicEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ClientChallengeInitRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ClientIdRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ClientUIOpenedEvent			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Command			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hki	9720	CommandSummary	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		Companion			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CompassUpdateEvent			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jot		Completion	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f4 (jov.f4=jot <-> QuestObjective.f4=Completion)
+		ConsoleCommand			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ConsoleEnd			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ConsoleMessage			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContactInformation			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContactLookErrorEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContactLookEvent			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContactLookRequest			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kqg	13270	ContactsListMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kqg
+mgz	15060	ContentCatalogVersionMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=mgz
+		ContextCreationEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextCreationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextDestroyEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextKickRequest			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextQuitRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextReadyRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextRefreshEntityLookEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextRemoveElementEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ContextRemoveElementsEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Contribution			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CosmeticInventoryLivingObjectFeedRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CosmeticInventoryLivingObjectFeedResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CosmeticInventoryLoadedEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		CosmeticInventoryPopObjectResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Craft			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jru	12219	CurrentMapMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jru
+		DateRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Death			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DebtInformation			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DebugClearHighlightCellsEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DebugInClientEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DecraftResultEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DecraftedItem			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DelayedActionCancelRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DelayedActionEvent			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DelayedActionFinishedEvent			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Details			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DialogLeaveEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DialogLeaveRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+htj		Dictionary<int, int>	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (htl.f2=htj <-> BreachCharactersEvent.f2=Dictionary<int, int>)
+lgp	13937	Dictionary<string, string>	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (lgz.f3=lgp <-> ChatChannelsEnabledEvent.f3=Dictionary<string, string>)
+		Dig			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DocumentReadingBeginEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DodgePointLoss			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DropCharacter			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		DumpedEntityStatsEvent			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EffectRemove			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Element			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmoteAddedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmoteMassivePlayEvent			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmoteOption			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmotePlayErrorEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmotePlayEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmotePlayRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmoteRemovedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmotesEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EmptyPreset			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jbn	11531	EnterHavenBagRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jbn
+		EntitiesDispositionEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EntityDisposition			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EntityDispositionErrorEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		EntityFighterInformation			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jpl		EntityLook	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (jpn.f3=jpl <-> SummonContextInformation.f3=EntityLook) [nom réutilisé par 2 occurrences distinctes : hoj]
+hoj		EntityLook	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (hol.f2=hoj <-> Outfit.f2=EntityLook) [nom réutilisé par 2 occurrences distinctes : jpl]
+		EntityMember			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+joa	12062	EntitySpawnInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (jpn.f1=joa <-> SummonContextInformation.f1=EntitySpawnInformation)
+jlp	11960	EntityTalkEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		EquipmentRefresh			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Error			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Event			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeAcceptRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidBuyerStartedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseBuyRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseBuyResultEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseGenericItemAddedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseGenericItemRemovedEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseInListAddedEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseInListRemovedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseInListUpdatedEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseItemRemovedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseListRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseOfflineSoldItemsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHousePriceRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseSearchRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseTypeRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidHouseUnsoldItemsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidPriceEvent			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBidSellerStartedEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBoughtEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeBuyRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeCraftPaymentModificationRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeCraftResultWithObjectDescription			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeCraftStartedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeCrafterJobLevelUpEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeErrorEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hdx	9446	ExchangeHandleMountsRequest	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		ExchangeKamaModifiedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeLeaveEvent			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+khd	12901	ExchangeLeaveMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=khd
+		ExchangeMountFreeFromPaddockEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMountRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMountStockStartedEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMountWithoutPaddockStartedEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMountsPaddockRemoveEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMountsStableAddedEvent			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMountsStableRemoveEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMoveKamaRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMultiCraftCrafterCanUseHisResourcesEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMultiCraftCrafterStartedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMultiCraftCustomerStartedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeMultiCraftOkEvent			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeNpcShopStartedEvent			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeNpcTradeStartedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObject			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectModifyPricedRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kcr	12703	ExchangeObjectMoveMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kcr
+		ExchangeObjectMovePricedRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectMoveRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectMoveToTabRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectRemovedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectRemovedFromBagEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferAllFromInventoryRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferAllToInventoryRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferExistingFromInventoryRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferExistingToInventoryRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferListFromInventoryRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferListToInventoryRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferListWithQuantityToInventoryRequest			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectTransferTypeFromInventoryRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectUseInWorkshopRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectsAddedEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectsModifiedEvent			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectsRemovedEvent			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeObjectsSellRequest			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangePlayerMultiCraftRequest			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangePlayerRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangePodsModifiedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangePositions			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeReadyEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeRecycleTradeStartedEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeReplayStopRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeRequestedTradeEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeRunesTradeStartedEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeSellRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeSetCraftRecipeRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeSoldEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeStartedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kci	12687	ExchangeStartedStorageMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kci
+		ExchangeStartedWithMultiTabStorageEvent			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeStartedWithPodsEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeStartedWithStorageEvent			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeStoppedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeTaxCollectorEquipmentRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeTaxCollectorEquipmentStartedEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeTaxCollectorGetEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeTaxCollectorRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeTaxCollectorShopStartedEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeTypesExchangerDescriptionForUserEvent			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeTypesItemsExchangerDescriptionForUserEvent			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExchangeWeightEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExecuteScript			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExitRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ExperienceData			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kif	12944	ExtendedBreachBranch	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		Fight			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightAutoJoinDeactivatedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightAutoJoinDeactivationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightAutoReadyActivationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightAutoReadyDeactivationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightChallengeJoinRefuseEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightCharacterInformation			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jos	12092	FightCharacteristics	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f4 (jpn.f4=jos <-> SummonContextInformation.f4=FightCharacteristics) [nom réutilisé par 2 occurrences distinctes : lpr]
+lpr		FightCharacteristics	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (lpx.f3=lpr <-> FightFighterInformation.f3=FightCharacteristics) [nom réutilisé par 2 occurrences distinctes : jos]
+		FightCommonInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightEffectTriggerCount			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightEndEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jwv	12438	FightExternalInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+lpx	14320	FightFighterInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		FightFighterRefreshEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightFighterShowEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightHumanReadyStateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightIsTurnReadyEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightJoinEvent			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightJoinRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightJoinRunningEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightLeaveEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightLoot			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightMapInformationEvent			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightMapInformationResponse			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightMapRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightMark			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightMutantInformation			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightNewRoundEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightNewWaveEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightOptionsInformation			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPauseEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPhaseInfo			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementPositionRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementPossiblePositionsEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementSwapPositionsAcceptRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementSwapPositionsCancelRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementSwapPositionsCancelledEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementSwapPositionsErrorEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementSwapPositionsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightPlacementSwapPositionsOfferEvent			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightReadyRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightRefreshCharacterStatsEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightRemovableEffect			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightRemovableEffectExtendedInformation			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightRequestCanceledEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightResultAdditionalData			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightResultListEntry			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightResume			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightResumeSlaves			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightSlaveNoLongerControlledEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightSlaveSwitchContextEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightSpectatePlayerRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightSpectatorJoinEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hnz		FightSpellCastCritical	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (hob.f3=hnz <-> TargetedAbility.f3=FightSpellCastCritical)
+		FightSpellCoolDown			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightStartEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightStartingEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightStartingPositions			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightStatisticsEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightSynchronizeEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTeamInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTeamLightInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lef	13835	FightTeamMemberEntity	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (lns.f3=lef <-> FightTeamMemberInformation.f3=FightTeamMemberEntity)
+lns	14235	FightTeamMemberInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		FightTeamMemberMonster			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTeamMemberTaxCollector			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hnc	9837	FightTeamMembersInformation		arrosage	DÉDUIT	arrosage	1	arrosage score=1.0
+		FightTeamRemoveMemberEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTeamUpdateEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jwt		FightTeamsWithOptions	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f5 (jwv.f5=jwt <-> FightExternalInformation.f5=FightTeamsWithOptions)
+		FightTemporaryBoostEffect			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTemporarySpellImmunityEffect			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTriggeredEffect			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTurnEndEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTurnEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTurnFinishRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTurnReadyRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FightTurnStartPlayingEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FighterEntityLightInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FighterLightInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FighterListEntry			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FighterMonsterLightInformation			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FighterTaxCollectorLightInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FileCheckEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FileCheckRequest			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FinishMove			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FinishMoveSetRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FinishMovesEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FinishMovesRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FollowDirection			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FollowDirectionToHint			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FollowDirectionToPOI			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FollowingCharactersOption			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ForceAccountError			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+mhw	38991	ForceAccountRequest	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+miz	39031	ForceAccountResponse	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+mja	39033	ForceAccountStatus	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		ForgettableSpellActionRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ForgettableSpellEquipmentSlotsEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ForgettableSpellInfo			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ForgettableSpellPresetCreateResponse			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jxf	12455	ForgettableSpellPresetInfo		arrosage	DÉDUIT	arrosage	1	arrosage score=0.714
+		ForgettableSpellPresetInfoRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ForgettableSpellPresetInfoResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ForgettableSpellPresetResetResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ForgettableSpellPresetSetResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FreeSoulRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+mjx	39068	Friend	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		FriendDeleteRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FriendDeletionResultEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FriendInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FriendList			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		FriendListRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		FriendListResponse			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		FriendOnlineInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionAcknowledgementRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionFightCastOnTargetRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionFightCastRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jwe	12409	GameActionFightEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		GameActionItem			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionItemConsumeAllRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionItemConsumeRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionItemConsumedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionItemListEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameActionUpdateEffectTriggerCountEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lqc	14329	GameContextCreateRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lqc
+jsn	12252	GameContextRefreshEntityLookMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jsn
+jsd	12235	GameContextRemoveElementMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jsd
+jsj	12245	GameMapMovementMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jsj
+jrw	12223	GameMapMovementRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jrw
+		GameMessage			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GameOverEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jtg	12280	GiftsListMessage			À_CLASSER		0	nom clair EN CONFLIT avec kmz (v2, retenu) — autres revendicants : jtg(jondo-anclas)
+kmz	13138	GiftsListMessage	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		GroupTeleportPlayerClosedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GroupTeleportPlayerOfferEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuestModeEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuideModQuitRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuideModReturnRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationAnswerEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationAnswerRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationDeleteRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationDeletedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationGetOwnRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationModifiedEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationPlayerEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationPresenceEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationPresenceRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationReceivedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationSubmitRequest			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildApplicationUpdateRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildBulletinEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildBulletinSetRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildCardErrorEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hjj	9677	GuildCardEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		GuildCardRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestContributionStartRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestContributionStopRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestCurrentListenersAddEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestCurrentListenersEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestCurrentListenersRemoveEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestStructureStartListeningRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestStructureStopListeningRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestTabContributionEvent			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestTabContributionsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestTabContributionsRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestTabLastContributionDateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestTabSelectRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildChestTabUpdateRequest			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildCreationStartedEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildDetailedInformation			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jyg	12506	GuildGeneralInformationEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		GuildHouseRemoveEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hjh		GuildInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (hjj.f1=hjh <-> GuildCardEvent.f1=GuildInformation)
+		GuildInformationRequest			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jhh	11778	GuildInformationsGeneralMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jhh
+		GuildInvitationAnswerRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildInvitationRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildInvitationStateRecruitedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildInvitationStateRecruiterEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildInvitedEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildJoinAutomaticallyRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildJoinedEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildKickRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildLeftEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildLogbookEntry			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildLogbookEvent			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildLogbookRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMember			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMemberLeaveEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMemberOnlineStatusEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMemberParametersChangeRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMemberWarnOnConnectionStartRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMemberWarnOnConnectionStopRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMembersEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMembershipEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildModificationStartedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildMotdSetRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildNoteUpdateRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildPaddockBoughtEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildPaddockRemovedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildPaddockTeleportRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildPaddocksInformationEvent			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRankCreateRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRankRemoveRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRanksRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRecruitmentEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRecruitmentInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRecruitmentInvalidateEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRecruitmentUpdateRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildRightsUpdateRequest			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildSocialInformation			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		GuildSummaryRequest			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HaapiAuthenticationErrorEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HaapiSessionEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HaapiTokenRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagChangeRoomRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagDailyLotteryEvent			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagEditCancelRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagEditFinishedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagEditRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagEditStartEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jbv	11545	HavenBagEditionStartRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jbv
+jbm	11529	HavenBagEditionStartedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jbm
+jba	11509	HavenBagEditionStoppedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jba
+		HavenBagExitRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagFurnitureCloseRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagFurnitureEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagFurnitureOpenRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagFurnitureRequest			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jbu	11543	HavenBagFurnituresMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jbu
+jbg	11519	HavenBagFurnituresUpdateRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jbg
+		HavenBagInvitationAnswerRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagInvitationClosedEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagInvitationEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagInvitationOfferedEvent			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagInvitationRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagKickRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagPackListEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagPermissionsUpdateEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagPermissionsUpdateRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagRoomPreview			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HavenBagRoomUpdateEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jbl	11527	HavenBagThemeChangeRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jbl
+		Hdd			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hde			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hdf			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hdg			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hdh			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HelloGameMessage			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hep			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hnk			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hnl			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		House			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseAccount			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseBuyRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseBuyResultEvent			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hko	9729	HouseGuild	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		HouseGuildNoneEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseGuildRightsEvent			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseGuildRightsViewRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseGuildShareRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseInformationRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseInformationResponse			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseInside			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ihr	10674	HouseInstance	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) [nom réutilisé par 4 occurrences distinctes : ihx, hmc, lli]
+ihx		HouseInstance	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (ihz.f3=ihx <-> HousePropertiesEvent.f3=HouseInstance) [nom réutilisé par 4 occurrences distinctes : ihr, hmc, lli]
+hmc	9795	HouseInstance	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (hlz.f2=hmc <-> HouseOnMap.f2=HouseInstance) [nom réutilisé par 4 occurrences distinctes : ihr, ihx, lli]
+lli	14134	HouseInstance	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (hko.f1=lli <-> HouseGuild.f1=HouseInstance) [nom réutilisé par 4 occurrences distinctes : ihr, ihx, hmc]
+		HouseKickRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hlz	9789	HouseOnMap	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+ihz	10688	HousePropertiesEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		HouseSellRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseSellingUpdateEvent			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseTeleportRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HouseToSell			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HousesToSellEvent			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HousesToSellFiltersRequest			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		HousesToSellRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hpf			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Hpg			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lng	14216	HumanOption	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+hxm	10254	Humanoid		arrosage	DÉDUIT	arrosage	1	arrosage score=0.727
+		IdentificationRequest			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		IdentificationResponse			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		IgnoreEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		IgnoreRequest			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Ila			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lev	13861	InteractiveElement	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+let		InteractiveElementSkill	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (lev.f3=let <-> InteractiveElement.f3=InteractiveElementSkill)
+		InteractiveElementUpdatedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		InteractiveMapUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		InteractiveUseEndedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		InteractiveUseErrorEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		InteractiveUseRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iwo	11319	InteractiveUseRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iwo
+		InteractiveUsedEvent			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iwn	11317	InteractiveUsedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iwn
+		InventoryContentEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ivx	11290	InventoryContentMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=ivx
+		InventoryContentWatchEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		InventoryWeightEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iun	11227	InventoryWeightMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iun
+		Invisibility			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		InvisibleDetected			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jdx	11629	ItemMinimalInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+jdu		ItemToSellInNpcShop	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f4 (jdx.f4=jdu <-> ItemMinimalInformation.f4=ItemToSellInNpcShop)
+		Iuk			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Iwk			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Jid			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobBookSubscribeRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobBookSubscriptionEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectoryEntry			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ivj	11264	JobCrafterDirectoryEntryEvent		arrosage	DÉDUIT	arrosage	1	arrosage score=1.0
+		JobCrafterDirectoryJobInformation			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectoryListEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectoryListRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectoryPlayerInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectoryRemoveEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectorySettings			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectorySettingsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobCrafterDirectorySettingsRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+imw		JobDescription	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (imy.f2=imw <-> JobLevelUpEvent.f2=JobDescription)
+		JobExperience			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+irq	11099	JobExperienceMultiUpdateMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=irq
+		JobExperienceOtherPlayerUpdateEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JobExperiencesUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+imy	10896	JobLevelUpEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		JobMultiCraftStateEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JoinFriendRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		JoinSpouseRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Jsl			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Jsm			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Jso			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Jss			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Jtp			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Jtu			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hoi		Juv>	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f12 (hol.f12=hoi <-> Outfit.f12=Juv>)
+izw		KOTHAllianceInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (izy.f1=izw <-> KOTHUpdateEvent.f1=KOTHAllianceInformation)
+		KOTHAllianceRoleNumber			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		KOTHScore			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+izy	11456	KOTHUpdateEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		KamasUpdateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ivf	11257	KamasUpdateMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=ivf
+		Kill			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LeaderPositionEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LeagueRanking			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kld	13065	LeaveDialogMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kld
+kla	13060	LeaveDialogRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kla
+		LevelUpActivity			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LifePointsGain			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LifePointsLost			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LifePointsRegenBeginEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LivingObjectChangeSkinRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LivingObjectDissociateRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LivingObjectMessageEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LivingObjectMessageRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LockableShowCodeDialogEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		LockableStateUpdateHouseDoorEvent			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+mhh	38966	LoginMessage	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+kqq	13287	LogoutRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kqq
+kqr	13289	LogoutResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kqr
+jbs	11539	LotteryResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jbs
+		MapChangeOrientationEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapChangeOrientationRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapChangeRequest			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapComplementaryAnomalyInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapComplementaryBreachInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapComplementaryHavenBagInformation			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapComplementaryInHouseInformation			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapComplementaryInformationEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jss	12259	MapComplementaryInformationsDataMessage	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		MapComplementaryWithCoordsInformation			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lbg		MapCoordinates	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (kam.f2=lbg <-> PaddockForSale.f2=MapCoordinates)
+		MapCurrentEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapCurrentInstanceEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapErrorNotFoundRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hkm		MapExtendedCoordinates	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (hko.f2=hkm <-> HouseGuild.f2=MapExtendedCoordinates)
+		MapFightCountEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapInformationRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lva	14536	MapLoadedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lva
+		MapMovementCancelRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jqi	12157	MapMovementConfirmRequest	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jqi
+jsq	12256	MapMovementConfirmResponse	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jsq
+ikx	10811	MapMovementEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		MapMovementRefusedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hnx	9870	MapMovementRequest	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		MapNpcQuest			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapObstacle			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapObstacleUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapRunningFightDetailsEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapRunningFightDetailsExtendedEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapRunningFightDetailsRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapRunningFightStopListeningRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapRunningFightsRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MapTeleportOnSameEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MarkedCell			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+mio		MaxSlotByTypeEntry	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (miq.f2=mio <-> ServerList.f2=MaxSlotByTypeEntry)
+		Message			À_CLASSER		27	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MimicryFreeRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MimicryFreeResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MimicryRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MissingEquipments			À_CLASSER		13	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ModifyEffectsDuration			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonsterAngryAtPlayerEvent			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonsterBoosts			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonsterCount			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonsterFighter			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonsterGroupActor			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonsterGroupStaticInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonsterNotAngryAtPlayerEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MonstersInGroupAlternativeInformation			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MoodUpdateEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Mount			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountCharacteristicUpdate			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountData			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountDataEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountEmoteIconUsedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountEquippedEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountFeedRequest			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountForPaddock			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountHarnessColorsUpdateRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountHarnessDissociateRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountInformationInPaddockRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountInformationRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountReleaseRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountReleasedEvent			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountRenameRequest			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountRenamedErrorEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountRenamedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountRidingEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountSetXpRatioRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountSterilizeRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountSterilizedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountToggleRidingRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountUnequippedEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MountUpdateCharacteristicsEvent			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		MutantInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NamedActor			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NamedFighterInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NamedPartyTeam			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NamedPartyTeamWithOutcome			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NotificationEvent			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NotificationResetRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NpcDialogCreationEvent			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lxh	14636	NpcDialogLeaveRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxh
+		NpcDialogQuestionEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NpcDialogReplyRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NpcGenericActionFailureEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NpcGenericActionRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NpcStaticInformation			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jwo	12426	NpcWithQuest	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		NpcsMapQuestStatusUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NuggetsBeneficiary			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NuggetsDistributionRequest			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NuggetsInformationEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NuggetsListenStartRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		NuggetsListenStopRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Object			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iua	11205	ObjectAddedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iua
+		ObjectAveragePrice			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectAveragePricesErrorEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectAveragePricesEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectAveragePricesRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectCellDeleteEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectCellsDeleteEvent			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iuw	11242	ObjectDeleteMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iuw
+		ObjectDeletedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ium	11225	ObjectDeletedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=ium
+jdv		ObjectEffect	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (jdx.f2=jdv <-> ItemMinimalInformation.f2=ObjectEffect)
+		ObjectEffectMountValue			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectFavorite			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectFavoriteRequest			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectFeedRequest			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectGidWithQuantity			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectHarvestedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectHarvestedWithBonusEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectInRolePlay			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ifp	10590	ObjectItem	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+ifi	10578	ObjectItemInventory	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) [nom réutilisé par 2 occurrences distinctes : hex]
+hex	9487	ObjectItemInventory	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (heg.f3=hex <-> ChatChannelMessageRequest.f3=ObjectItemInventory) [nom réutilisé par 2 occurrences distinctes : ifi]
+		ObjectMovementEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ivq	11277	ObjectMovementMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=ivq
+iuk	11221	ObjectSetPositionMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iuk
+		ObjectSetPositionRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectUidWithQuantity			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectUseMultipleRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectUseOnCellRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectUseOnCharacterRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectUseOption			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectUseRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectsAddedEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ObjectsDeletedEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lhg	13965	ObjectsEntry	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f4 (hol.f4=lhg <-> Outfit.f4=ObjectsEntry)
+		Online			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OnlineInformation			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OpenGuideBookEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OpponentSurrenderEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OptionalFeaturesEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		OrderAndGfx			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OrnamentGainedEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OrnamentLostEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OrnamentOption			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lwm	14599	OrnamentSelectRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lwm
+lyv	14704	OrnamentSelectResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lyv
+		OrnamentSelectedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hif	9623	OrnamentSelectedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=hif
+hol	9892	Outfit	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		OutfitAuraChangedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitCreateEmptyRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitCreationResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitDuplicateRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEntityLookChangedEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipAuraRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipAuraResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipObjectBestSlotRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipObjectBestSlotResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipObjectResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipOrnamentRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipOrnamentResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipTitleRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitEquipTitleResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitRemoveRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitRemoveResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitUpdateRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		OutfitUpdateResponse			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lyt	14700	OutfitsListMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lyt
+		OutfitsLoadedEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockActivity			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockBuyRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockContent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kam	12604	PaddockForSale	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		PaddockGuildInformation			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockInformation			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockInstances			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockItem			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockMoveItemRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockObjectAddedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockObjectAnimationPlayEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockObjectRemovedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockObjectsAddedEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockPropertiesEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockRemoveItemRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockSellRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddockTransactionDialogEvent			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jmf	11989	PaddocksToSellEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		PaddocksToSellFiltersRequest			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PaddocksToSellRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyAbdicateThroneRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyDeletedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyEntity			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyFollowMemberRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyFollowStatusUpdateEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationAcceptRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationCancelRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationCancelledEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationCancelledForGuestEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationDetailsEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationDetailsRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hoy	9915	PartyInvitationEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		PartyInvitationMemberInformation			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationRefuseRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationRefusedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyInvitationRequest			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyJoinErrorEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ifh	10576	PartyJoinEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		PartyKickRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyKickedByEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyLeaderUpdateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyLeaveEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyLeaveRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyLocateMembersRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyLoyaltyStatusEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyMember			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyMemberInBreachFightEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyMemberInFightEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyMemberInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyMemberRemoveEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyMemberUpdateEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyMemberUpdateLightEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyNameSetErrorEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyNameSetRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyNameUpdateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyNewGuestEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyNewMemberEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyPledgeLoyaltyRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyRestrictedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PartyStopFollowMemberRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lbu		PartyType	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (hoy.f2=lbu <-> PartyInvitationEvent.f2=PartyType)
+		PartyUpdateCommonsInformation			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Ping			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		PlayerCopy			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerFightFriendlyAnswerRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerFightFriendlyAnsweredEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerFightFriendlyRequestedEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerFightRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerFlowActivity			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerListEntry			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerNote			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerRankUpdateActivity			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerSearch			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerSkills			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerStatusUpdateErrorEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayerStatusUpdatedEvent			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PlayersMapAttackableStatusUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PointsVariation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Pong			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		PopupWarningCloseRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PopupWarningClosedEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PopupWarningEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PortalInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PortalUseRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrepareCharacterDeletionRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetClone			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetDeleteRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetDeleteResponse			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetEquipmentUpdateRequest			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetEquipmentUpdateResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetItemUpdateEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetListEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetLook			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetOutfitUpdateRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetOutfitUpdateResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetRenameRequest			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetSaveResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetSetFavoriteRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetSetFavoriteResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetSpellUpdateRequest			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetSpellUpdateResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetStatUpdateRequest			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetStatUpdateResponse			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetSymbolUpdateRequest			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetSymbolUpdateResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetUseRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PresetUseResponse			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismAddOrUpdateEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismAttackRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismAttackResultEvent			À_CLASSER		27	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismAttackedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismCristal			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismDialogQuestionEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismExchangeRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismListEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismLocalizedInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismModule			À_CLASSER		27	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismRecycleRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismRemoveEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrismTeleportationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PrivateInformation			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PurchasableDialogEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PvpData			À_CLASSER		11	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		PvpSeek			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestActive			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestFinished			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jov	12097	QuestObjective	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		QuestObjectiveFollowRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestObjectiveUnfollowRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestObjectiveValidatedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestObjectiveValidationRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestStartRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestStartedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestStepInformationEvent			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestStepInformationRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestStepStartedEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestStepValidatedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestValidatedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hmn	9814	Quests	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		QuestsEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QuestsRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		QueueStatusEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		RankActivity			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RankInformation			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ReconnectToGameServerEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		RecycleResultEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ReduceDamages			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ReflectDamages			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ReflectSpell			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RefreshMonsterBoostsEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ReleaseAccountRequest			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		ReloginRequest			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		ReloginTokenEvent			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		RemoveChallengeEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveItem			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveNotificationEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveRide			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveSpellModifierEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveTagObjectRequest			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveTagObjectResponse			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveTagStorageRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		RemoveTagStorageResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Request			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ResetCharacterCharacteristicsRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Response			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Ride			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+mhs	38984	Rights	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+jzo	12563	RolePlayActor		arrosage	DÉDUIT	arrosage	1	arrosage score=0.762
+		Rune			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SelectServerResponse			À_CLASSER		4	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		SelfAttackableStatusUpdateEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SellingConditions			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SequenceEndEvent			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SequenceNumberEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SequenceStartEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+miw	39026	Server	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		ServerExperienceModifierEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+mit	39022	ServerInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+miq	39018	ServerList	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+kqu	13295	ServerOptionalFeaturesMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kqu
+		ServerSessionConstant			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ServerSessionConstantsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ServerSessionReadyEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ion	10961	ServerSettingsEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+len	13848	ServerType	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (ion.f3=len <-> ServerSettingsEvent.f3=ServerType)
+		ServerVerificationEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Servers			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		SetItem			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SetMoodEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SetMoodRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SetRide			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SetUpdateEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Shield			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		Shortcut			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutBarAddRequest			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+itz	11203	ShortcutBarAddRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=itz
+		ShortcutBarContentEvent			À_CLASSER		6	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+itg	11168	ShortcutBarContentMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=itg
+		ShortcutBarRefreshEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+ivk	11266	ShortcutBarRefreshMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=ivk
+		ShortcutBarRemoveRequest			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutBarRemovedEvent			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutBarReplacedEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iuq	11231	ShortcutBarReplacedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iuq
+		ShortcutBarSwapRequest			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutCosmeticObject			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutEmote			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutObjectItem			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutOutfit			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutPreset			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutSmiley			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShortcutSpell			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShowCellEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShowCellRequest			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ShowChallengeEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SkillUseOption			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Slide			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SmileyEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SmileyRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SocialApplicationInformation			À_CLASSER		18	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SocialEmblem			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SocialFight			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SocialFightInformation			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SocialMember			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SocialNoticeInformation			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpellAnimEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hny		SpellCast	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f6 (hob.f6=hny <-> TargetedAbility.f6=SpellCast)
+		SpellCoolDownVariation			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpellImmunity			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpellItem			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hms	9823	SpellListMessage			À_CLASSER		0	nom clair EN CONFLIT avec hks (v2, retenu) — autres revendicants : hms(jondo-anclas)
+hks	9735	SpellListMessage	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+llp	14147	SpellModifier	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+laz		SpellModifierActionType	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (llp.f2=laz <-> SpellModifier.f2=SpellModifierActionType)
+lln		SpellModifierType	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f3 (llp.f3=lln <-> SpellModifier.f3=SpellModifierType)
+		SpellPositions			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpellPreset			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpellRemove			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpellVariantActivationEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpellVariantActivationRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hmt	9825	SpellVariantActivationRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=hmt
+hng	9843	SpellVariantActivationSuccessMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=hng
+		SpellsEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpouseInformationEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SpouseInformationRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jgu	11754	SpouseInformationsMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jgu
+		SpouseStatusEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		StatedElement			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		StatedElementUpdatedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		StatedMapUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+kuh	13448	StatsResetRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kuh
+kum	13456	StatsUpgradeRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=kum
+miu		Status	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (miw.f2=miu <-> Server.f2=Status)
+		StealKama			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		StorageInventoryContentEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+iwb	11297	StorageInventoryContentMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=iwb
+itc	11160	StorageObjectRemoveMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=itc
+		StorageObjectRemovedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+itd	11162	StorageObjectUpdateMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=itd
+		StorageObjectsRemovedEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		StorageObjectsUpdateEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		StorageTab			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SubEntityInformation			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SubareaRewardRateEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SubscribeChannelRequest			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SubscribeMultipleChannelRequest			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Subscription			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SubscriptionZoneEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Success			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jpn	12124	SummonContextInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		Summons			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SummonsByActor			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SummonsByContextInformation			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderAccepted			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderBeforeTurn			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderBeforeVote			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderInfoRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderInfoResponse			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderRefused			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderResponse			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderStateEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteAccepted			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteAlreadyAsked			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteBeforeTurn			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteCastRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteEndEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteRefused			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+icz	10477	SurrenderVoteResponse		arrosage	DÉDUIT	arrosage	1	arrosage score=1.0
+		SurrenderVoteStartEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteUpdateEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SurrenderVoteWaiting			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		SystemMessageDisplayEvent			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Tackled			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TagInformation			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TagObjectData			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TagObjectUpdateContent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TagStoragesRefreshEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hob	9876	TargetedAbility	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		TaxCollectorActor			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorAddedEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorAttackResultEvent			À_CLASSER		1	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorAttackedEvent			À_CLASSER		5	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorComplementaryInformation			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorDialogQuestionEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorEquipmentUpdateEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorFightRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorFighter			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorHarvestedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorInformation			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorListEntry			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorLootInformation			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorMovement			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorMovementsOfflineEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorOrderedSpell			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorOrderedSpellAddRequest			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorOrderedSpellMoveRequest			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorOrderedSpellRemoveRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorOrderedSpellUpdatedEvent			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPreset			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPresetSpellAddRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPresetSpellMoveRequest			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPresetSpellRemoveRequest			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPresetSpellUpdatedEvent			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPresetsEvent			À_CLASSER		47	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPresetsUpdatesListenStartRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorPresetsUpdatesListenStopRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorRemovedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorStateUpdateEvent			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+htu	10109	TaxCollectorStaticInformation	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		TaxCollectorTopListEvent			À_CLASSER		3	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorUpdatesListenStartRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorUpdatesListenStopRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorUpdatesListeningConfirmationEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TaxCollectorWaitingForHelpInformation			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TeleportBuddiesEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TeleportBuddiesRequestedEvent			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hwr	10221	TeleportDestination	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (ibg.f2=hwr <-> TeleportDestinationsEvent.f2=TeleportDestination)
+ibg	10408	TeleportDestinationsEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+		TeleportDestinationsMessage			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TeleportOnSameMap			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TeleportPlayerClosedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TeleportPlayerOfferEvent			À_CLASSER		25	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TeleportRequest			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hjc	9666	TeleportRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=hjc
+		TeleportToBuddyClosedEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TeleportToBuddyOfferEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hyr	10300	Teleporter	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (ibg.f1=hyr <-> TeleportDestinationsEvent.f1=Teleporter) [nom réutilisé par 2 occurrences distinctes : hwp]
+hwp		Teleporter	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f2 (ibg.f2=hwr <-> TeleportDestinationsEvent.f2=TeleportDestination) -> arrastre champ f2 (hwr.f2=hwp <-> TeleportDestination.f2=Teleporter) [nom réutilisé par 2 occurrences distinctes : hyr]
+hmz	9833	TextInformationEvent	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py)
+hmx		TextInformationType	1.0	v2	DÉDUIT	v2	1	graine v2 (forme+champs, matcher_v2.py) -> arrastre champ f1 (hmz.f1=hmx <-> TextInformationEvent.f1=TextInformationType)
+		ThrowCharacter			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TimeEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Timed			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TitleGainedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TitleLostEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TitleOption			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+lze	14719	TitleSelectRequestMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lze
+lxa	14624	TitleSelectResultMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=lxa
+		TitleSelectedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hid	9619	TitleSelectedMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=hid
+		TitlesAndOrnamentsEvent			À_CLASSER		9	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+hhy	9611	TitlesAndOrnamentsListMessage	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=hhy
+		TitlesAndOrnamentsRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntAnswerEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntDigAnswerEvent			À_CLASSER		12	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntDigRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntFinishedEvent			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntFlag			À_CLASSER		48	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntFlagRemoveRequest			À_CLASSER		58	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntFlagRequest			À_CLASSER		14	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntGiveUpRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntLegendaryEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntLegendaryRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TreasureHuntStep			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TriggerGlyphTrap			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		TrustStatusEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UnBlockEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UnBlockRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UnIgnoreEvent			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UnIgnoreRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UnlockNewTabActivity			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UnmarkCells			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UpdateLifePointsEvent			À_CLASSER		59	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UpdateServerEvent			À_CLASSER		2	0 ou plusieurs candidats de même round-0 dans Connection, aucun retenu
+		UpdateTagStorageContentRequest			À_CLASSER		111	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		UpdateTagStorageContentResponse			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		Vanish			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		VisibleReply			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WaveInformation			À_CLASSER		7	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WhoAmIRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WhoIsEvent			À_CLASSER		0	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WhoIsNoMatchEvent			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WhoIsNumericEvent			À_CLASSER		147	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WhoIsNumericRequest			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WhoIsRequest			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		WithLook			À_CLASSER		81	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+jrh	12198	WorldEntryRequests	1.0	jondo-anclas	DÉDUIT	jondo-anclas	1	graine directe : anclas Jondo (242 captures), opcode=jrh
+		WrapperObjectDissociateRequest			À_CLASSER		34	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		YoshiRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ZaapKnownListEvent			À_CLASSER		23	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ZaapRespawnSaveRequest			À_CLASSER		108	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu
+		ZaapRespawnUpdatedEvent			À_CLASSER		179	0 ou plusieurs candidats de même round-0 dans Game, aucun retenu

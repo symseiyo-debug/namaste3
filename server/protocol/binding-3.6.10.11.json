@@ -1,0 +1,895 @@
+{
+  "build": "3.6.10.11",
+  "build_des_mesures": "3.6.10.10",
+  "genere_par": "protocol/generer-binding.py",
+  "genere_le": "2026-09-05",
+  "recroisement_etage5": {
+    "table": "protocol/extract/proto-sync/out/dispatch-3.6.10.10.json",
+    "build_de_la_table": "3.6.10.10",
+    "note_de_build": "la table de dispatch est mesuree sur 3.6.10.10, nous visons 3.6.10.11 : le recroisement est donc CROSS-BUILD. Il tient parce que les 25 opcodes du chemin critique portent le meme nom obfusque dans les deux builds, ce qui est verifie ici meme — un opcode qui aurait bouge serait rendu ABSENT, pas silencieusement accepte.",
+    "champs_verifies": [
+      {
+        "message": "kqz",
+        "numero": 2,
+        "type": "string",
+        "sens": "le ticket presente par le client",
+        "source": "il2cpp.cs:991830"
+      },
+      {
+        "message": "kvw",
+        "numero": 1,
+        "type": "int64",
+        "sens": "l'identifiant de personnage, selection normale",
+        "source": "il2cpp.cs:1000120"
+      },
+      {
+        "message": "kvl",
+        "numero": 2,
+        "type": "int64",
+        "sens": "l'identifiant de personnage, PREMIERE selection (f1 est un bool)",
+        "source": "il2cpp.cs:999392"
+      },
+      {
+        "message": "lpg",
+        "numero": 2,
+        "type": "int64",
+        "sens": "l'identifiant dans une entree de la liste de personnages",
+        "source": "il2cpp.cs:1029273"
+      },
+      {
+        "message": "lpg.lpe",
+        "numero": 2,
+        "type": "string",
+        "sens": "le nom du personnage",
+        "source": "il2cpp.cs:1029326"
+      },
+      {
+        "message": "lpg.lpe",
+        "numero": 3,
+        "type": "int32",
+        "sens": "le niveau du personnage",
+        "source": "il2cpp.cs:1029328"
+      },
+      {
+        "message": "kvi",
+        "numero": 1,
+        "type": "lpg",
+        "sens": "la liste de personnages est un repete d'entrees lpg",
+        "source": "il2cpp.cs:999132"
+      },
+      {
+        "message": "jru",
+        "numero": 2,
+        "type": "int64",
+        "sens": "l'identifiant de carte",
+        "source": "il2cpp.cs:948199"
+      },
+      {
+        "message": "mhh",
+        "numero": 2,
+        "type": "mhl",
+        "sens": "la branche RESULTAT de la racine de connexion",
+        "source": "il2cpp.cs:1063679"
+      },
+      {
+        "message": "mhj",
+        "numero": 4,
+        "type": "mih",
+        "sens": "le serveur choisi, dans la branche AUTH",
+        "source": "il2cpp.cs:1063789"
+      },
+      {
+        "message": "mih",
+        "numero": 1,
+        "type": "int32",
+        "sens": "l'identifiant de serveur choisi",
+        "source": "il2cpp.cs:1065258"
+      },
+      {
+        "message": "mhl",
+        "numero": 3,
+        "type": "mig",
+        "sens": "la branche ACCES ACCEPTE du resultat",
+        "source": "il2cpp.cs:1063920"
+      },
+      {
+        "message": "mhl",
+        "numero": 4,
+        "type": "mim",
+        "sens": "la branche SERVEUR SELECTIONNE du resultat",
+        "source": "il2cpp.cs:1063921"
+      },
+      {
+        "message": "mig.mia",
+        "numero": 4,
+        "type": "miq",
+        "sens": "la liste des serveurs, dans l'acces accepte",
+        "source": "il2cpp.cs:1064831"
+      },
+      {
+        "message": "mim.mik",
+        "numero": 1,
+        "type": "string",
+        "sens": "le ticket rendu au client",
+        "source": "il2cpp.cs:1065397"
+      },
+      {
+        "message": "mim.mik",
+        "numero": 2,
+        "type": "string",
+        "sens": "l'hote annonce au client",
+        "source": "il2cpp.cs:1065399"
+      },
+      {
+        "message": "mim.mik",
+        "numero": 3,
+        "type": "int32",
+        "sens": "les ports annonces au client (repete empaquete)",
+        "source": "il2cpp.cs:1065401"
+      },
+      {
+        "message": "miw",
+        "numero": 1,
+        "type": "int32",
+        "sens": "l'identifiant d'un serveur de la liste",
+        "source": "il2cpp.cs:1065859"
+      },
+      {
+        "message": "mjg",
+        "numero": 1,
+        "type": "string",
+        "sens": "le nom du personnage sur l'ecran de selection de serveur",
+        "source": "il2cpp.cs:1066420"
+      },
+      {
+        "message": "mjg",
+        "numero": 4,
+        "type": "int32",
+        "sens": "le niveau du personnage sur l'ecran de selection de serveur",
+        "source": "il2cpp.cs:1066426"
+      }
+    ]
+  },
+  "avertissement": "Ce fichier est le SEUL a nommer des opcodes 3 lettres. src/ n'en contient aucun (gate-serveur.sh le mesure). Regenerer a chaque build du client, ne jamais editer a la main.",
+  "messages": [
+    {
+      "semantique": "AuthTicket",
+      "opcode": "kqz",
+      "sens": "C2S",
+      "nom_clair": "AuthenticationTicketMessage",
+      "source": "SEQUENCE-CHEMIN-CRITIQUE-JONDO.md §3.5 ; il2cpp.cs:991823 (f1 int, f2 string, f3 string)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "AuthTicketCompanion",
+      "opcode": "krt",
+      "sens": "C2S",
+      "nom_clair": "",
+      "source": "COMPLEMENT-CHEMIN-CRITIQUE-G1.md « krt » — SENS INCONNU de la source elle-même ; il2cpp.cs:993113 (0 champ). Accompagne kqz, n'attend aucune reponse.",
+      "recroisement": "sans_nom_clair",
+      "recroisement_dispatch": "present_sans_nom"
+    },
+    {
+      "semantique": "AuthTicketAccepted",
+      "opcode": "kra",
+      "sens": "S2C",
+      "nom_clair": "AuthenticationTicketAcceptedMessage",
+      "source": "SEQUENCE §3.6 ; il2cpp.cs:991928 (0 champ)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "BasicTime",
+      "opcode": "lqu",
+      "sens": "S2C",
+      "nom_clair": "BasicTimeMessage",
+      "source": "COMPLEMENT « lqu » ; il2cpp.cs:1033385 (f1 int32, f2 int64, f3 int32)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "HelloGame",
+      "opcode": "hoy",
+      "sens": "S2C",
+      "nom_clair": "HelloGameMessage",
+      "source": "COMPLEMENT « hoy » ; il2cpp.cs:857576 (f1 int, f2 enum lbu, f3 bool, f4 bool, f5 int, f6 string, f7 int) — f2 est un ENUM donc un varint, la forme Jondo tient",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "ServerOptionalFeatures",
+      "opcode": "kqu",
+      "sens": "S2C",
+      "nom_clair": "ServerOptionalFeaturesMessage",
+      "source": "SEQUENCE §3.6 ; il2cpp.cs:991459 (f1 repeated int32 packed, f2 repeated bool)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "BurstFlagsTriple",
+      "opcode": "mgq",
+      "sens": "S2C",
+      "nom_clair": "",
+      "source": "COMPLEMENT « mgq » — nom clair INEXISTANT ; il2cpp.cs:1062818 (f1 enum mgo, f2 bool, f3 enum lbb) : trois varints, la forme Jondo tient",
+      "recroisement": "sans_nom_clair",
+      "recroisement_dispatch": "present_sans_nom"
+    },
+    {
+      "semantique": "BurstPairEmpty",
+      "opcode": "mgt",
+      "sens": "S2C",
+      "nom_clair": "",
+      "source": "SEQUENCE §3.6 ; il2cpp.cs:1062925 (f1 message mgr, f2 message mgr)",
+      "recroisement": "sans_nom_clair",
+      "recroisement_dispatch": "present_sans_nom"
+    },
+    {
+      "semantique": "BurstFlagSingle",
+      "opcode": "hpd",
+      "sens": "S2C",
+      "nom_clair": "",
+      "source": "COMPLEMENT « hpd » — nom clair INEXISTANT ; il2cpp.cs:857888 (f1 bool)",
+      "recroisement": "sans_nom_clair",
+      "recroisement_dispatch": "present_sans_nom"
+    },
+    {
+      "semantique": "BurstEmptyMarker",
+      "opcode": "krs",
+      "sens": "S2C",
+      "nom_clair": "",
+      "source": "SEQUENCE §3.6 ; il2cpp.cs:992926 (f1 message krq) — Jondo l'emet VIDE",
+      "recroisement": "sans_nom_clair",
+      "recroisement_dispatch": "present_sans_nom"
+    },
+    {
+      "semantique": "ContentCatalogVersion",
+      "opcode": "mgz",
+      "sens": "S2C",
+      "nom_clair": "ContentCatalogVersionMessage",
+      "source": "COMPLEMENT « mgz » ; il2cpp.cs:1063424 (f1 int64)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "BurstCounterPair",
+      "opcode": "kqp",
+      "sens": "S2C",
+      "nom_clair": "",
+      "source": "SEQUENCE §3.6 — emis TROIS FOIS avec trois charges differentes ; il2cpp.cs:991027 (f1 int32, f2 int32)",
+      "recroisement": "sans_nom_clair",
+      "recroisement_dispatch": "present_sans_nom"
+    },
+    {
+      "semantique": "CharactersList",
+      "opcode": "kvi",
+      "sens": "S2C",
+      "nom_clair": "CharactersListMessage",
+      "source": "SEQUENCE §4.1 ; il2cpp.cs:999127 (f1 repeated lpg)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "CharactersListEnd",
+      "opcode": "kvd",
+      "sens": "S2C",
+      "nom_clair": "CharactersListEndMessage",
+      "source": "SEQUENCE §4 ; il2cpp.cs:998873 (0 champ)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "GiftsList",
+      "opcode": "jtg",
+      "sens": "S2C",
+      "nom_clair": "GiftsListMessage",
+      "source": "SEQUENCE §3.6 ; il2cpp.cs:950553 (f1 int64, f2/f3 repeated jtd) — emis VIDE",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "CharacterSelection",
+      "opcode": "kvw",
+      "sens": "C2S",
+      "nom_clair": "CharacterSelectionMessage",
+      "source": "COMPLEMENT « kvw » ; il2cpp.cs:1000115 (f1 int64 characterId)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "CharacterFirstSelection",
+      "opcode": "kvl",
+      "sens": "C2S",
+      "nom_clair": "CharacterFirstSelectionMessage",
+      "source": "COMPLEMENT « kvl » ; il2cpp.cs:999385 (f1 bool, f2 int64) — l'id est en f2, PAS f1",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "CharacterSelectedSuccess",
+      "opcode": "kva",
+      "sens": "S2C",
+      "nom_clair": "CharacterSelectedSuccessMessage",
+      "source": "SEQUENCE §4 ; il2cpp.cs:998424 (oneof f1 kuy, f2 kux) ; kuy = { f1 lpg } il2cpp.cs:998547",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "GameContextCreateRequest",
+      "opcode": "lqc",
+      "sens": "C2S",
+      "nom_clair": "GameContextCreateRequestMessage",
+      "source": "SEQUENCE §5.1 ; il2cpp.cs:1032191 (f1 int32, f2 int64)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "BasicPing",
+      "opcode": "kqo",
+      "sens": "C2S",
+      "nom_clair": "BasicPingMessage",
+      "source": "SEQUENCE §5 ; il2cpp.cs:990937 (f1 repeated bool, f2 bool)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "BasicPong",
+      "opcode": "kqy",
+      "sens": "S2C",
+      "nom_clair": "BasicPongMessage",
+      "source": "SEQUENCE §5 ; il2cpp.cs:991644 (f1 bool, f2 string, f3 kqw) — voyage sur le cas racine 1",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "CurrentMap",
+      "opcode": "jru",
+      "sens": "S2C",
+      "nom_clair": "CurrentMapMessage",
+      "source": "SEQUENCE §5 ; il2cpp.cs:948192 (f1 enum jrs, f2 int64 mapId)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "MapDiscovered",
+      "opcode": "hjk",
+      "sens": "S2C",
+      "nom_clair": "",
+      "source": "COMPLEMENT « hjk » — nom clair INEXISTANT ; f1 packed [mapId], voyage AVEC jru",
+      "recroisement": "sans_nom_clair",
+      "recroisement_dispatch": "present_sans_nom"
+    },
+    {
+      "semantique": "WorldEntryRequests",
+      "opcode": "jrh",
+      "sens": "C2S",
+      "nom_clair": "WorldEntryRequests",
+      "source": "SEQUENCE §5.2 ; le client demande qui est sur la carte",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    },
+    {
+      "semantique": "MapLoaded",
+      "opcode": "lva",
+      "sens": "S2C",
+      "nom_clair": "MapLoadedMessage",
+      "source": "SEQUENCE §5.2 ; 0 champ — le plus petit message serveur possible (26 octets)",
+      "recroisement": "confirme_par_correspondance_v4",
+      "recroisement_dispatch": "confirme_par_dispatch"
+    }
+  ],
+  "rafale_bienvenue": [
+    {
+      "semantique": "AuthTicketAccepted",
+      "charge": []
+    },
+    {
+      "semantique": "BasicTime",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint",
+          "v": 120
+        },
+        {
+          "n": 2,
+          "t": "varint_injecte",
+          "v": "horloge_ms"
+        }
+      ]
+    },
+    {
+      "semantique": "HelloGame",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint",
+          "v": 30
+        },
+        {
+          "n": 2,
+          "t": "varint",
+          "v": 1
+        },
+        {
+          "n": 3,
+          "t": "varint",
+          "v": 1
+        },
+        {
+          "n": 6,
+          "t": "chaine",
+          "v": "fr"
+        },
+        {
+          "n": 7,
+          "t": "varint",
+          "v": 200
+        }
+      ]
+    },
+    {
+      "semantique": "ServerOptionalFeatures",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint_packed",
+          "v": [
+            3,
+            7,
+            13,
+            20,
+            23,
+            105,
+            124,
+            125,
+            126,
+            136,
+            143,
+            145,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "semantique": "BurstFlagsTriple",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint",
+          "v": 1
+        },
+        {
+          "n": 2,
+          "t": "varint",
+          "v": 1
+        },
+        {
+          "n": 3,
+          "t": "varint",
+          "v": 1
+        }
+      ]
+    },
+    {
+      "semantique": "BurstPairEmpty",
+      "charge": [
+        {
+          "n": 2,
+          "t": "message",
+          "v": []
+        }
+      ]
+    },
+    {
+      "semantique": "BurstFlagSingle",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint",
+          "v": 1
+        }
+      ]
+    },
+    {
+      "semantique": "BurstEmptyMarker",
+      "charge": []
+    },
+    {
+      "semantique": "ContentCatalogVersion",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint",
+          "v": 304672615
+        }
+      ]
+    },
+    {
+      "semantique": "BurstCounterPair",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint",
+          "v": 1
+        },
+        {
+          "n": 2,
+          "t": "varint",
+          "v": 1
+        }
+      ]
+    },
+    {
+      "semantique": "BurstCounterPair",
+      "charge": [
+        {
+          "n": 1,
+          "t": "varint",
+          "v": 1
+        }
+      ]
+    },
+    {
+      "semantique": "BurstCounterPair",
+      "charge": []
+    },
+    {
+      "semantique": "CharactersList",
+      "charge": [
+        {
+          "n": 1,
+          "t": "message",
+          "v": [
+            {
+              "n": 1,
+              "t": "message",
+              "v": [
+                {
+                  "n": 2,
+                  "t": "chaine",
+                  "v": "Namaste"
+                },
+                {
+                  "n": 3,
+                  "t": "varint",
+                  "v": 1
+                },
+                {
+                  "n": 4,
+                  "t": "message",
+                  "v": [
+                    {
+                      "n": 2,
+                      "t": "message",
+                      "v": []
+                    },
+                    {
+                      "n": 6,
+                      "t": "message",
+                      "v": [
+                        {
+                          "n": 2,
+                          "t": "varint",
+                          "v": 3
+                        },
+                        {
+                          "n": 3,
+                          "t": "varint",
+                          "v": 9584
+                        },
+                        {
+                          "n": 5,
+                          "t": "chaine",
+                          "v": "s"
+                        }
+                      ]
+                    },
+                    {
+                      "n": 7,
+                      "t": "varint",
+                      "v": 11
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "n": 2,
+              "t": "varint",
+              "v": 302677754147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semantique": "CharactersListEnd",
+      "charge": []
+    },
+    {
+      "semantique": "GiftsList",
+      "charge": []
+    }
+  ],
+  "charges": {
+    "carte_courante": [
+      {
+        "n": 2,
+        "t": "varint",
+        "v": 191105026
+      }
+    ],
+    "carte_decouverte": [
+      {
+        "n": 1,
+        "t": "varint_packed",
+        "v": [
+          191105026
+        ]
+      }
+    ],
+    "carte_prete": [],
+    "pong": [
+      {
+        "n": 1,
+        "t": "varint",
+        "v": 1
+      }
+    ],
+    "acces_accepte": [
+      {
+        "n": 2,
+        "t": "message",
+        "v": [
+          {
+            "n": 1,
+            "t": "chaine",
+            "v": "fr"
+          },
+          {
+            "n": 3,
+            "t": "message",
+            "v": [
+              {
+                "n": 1,
+                "t": "message",
+                "v": [
+                  {
+                    "n": 1,
+                    "t": "varint",
+                    "v": 1
+                  },
+                  {
+                    "n": 2,
+                    "t": "chaine",
+                    "v": "Namaste"
+                  },
+                  {
+                    "n": 3,
+                    "t": "chaine",
+                    "v": "0001"
+                  },
+                  {
+                    "n": 4,
+                    "t": "message",
+                    "v": [
+                      {
+                        "n": 1,
+                        "t": "message",
+                        "v": [
+                          {
+                            "n": 1,
+                            "t": "message",
+                            "v": [
+                              {
+                                "n": 1,
+                                "t": "varint",
+                                "v": 290
+                              },
+                              {
+                                "n": 3,
+                                "t": "varint",
+                                "v": 1
+                              }
+                            ]
+                          },
+                          {
+                            "n": 3,
+                            "t": "message",
+                            "v": [
+                              {
+                                "n": 1,
+                                "t": "chaine",
+                                "v": "Namaste"
+                              },
+                              {
+                                "n": 2,
+                                "t": "varint",
+                                "v": 10
+                              },
+                              {
+                                "n": 3,
+                                "t": "varint",
+                                "v": 0
+                              },
+                              {
+                                "n": 4,
+                                "t": "varint",
+                                "v": 1
+                              },
+                              {
+                                "n": 5,
+                                "t": "chaine",
+                                "v": "2026-09-05T00:00:00Z"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "n": 2,
+                        "t": "message",
+                        "v": [
+                          {
+                            "n": 1,
+                            "t": "varint",
+                            "v": 1
+                          },
+                          {
+                            "n": 2,
+                            "t": "varint",
+                            "v": 5
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "n": 5,
+                    "t": "chaine",
+                    "v": "2035-01-01T00:00:00Z"
+                  },
+                  {
+                    "n": 6,
+                    "t": "message",
+                    "v": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "serveur_selectionne": [
+      {
+        "n": 2,
+        "t": "message",
+        "v": [
+          {
+            "n": 1,
+            "t": "chaine",
+            "v": "fr"
+          },
+          {
+            "n": 4,
+            "t": "message",
+            "v": [
+              {
+                "n": 1,
+                "t": "message",
+                "v": [
+                  {
+                    "n": 1,
+                    "t": "chaine_injectee",
+                    "v": "ticket"
+                  },
+                  {
+                    "n": 2,
+                    "t": "chaine_injectee",
+                    "v": "hote"
+                  },
+                  {
+                    "n": 3,
+                    "t": "varint_packed_injecte",
+                    "v": "ports_jeu"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "personnage_selectionne": [
+      {
+        "n": 1,
+        "t": "message",
+        "v": [
+          {
+            "n": 1,
+            "t": "message",
+            "v": [
+              {
+                "n": 1,
+                "t": "message",
+                "v": [
+                  {
+                    "n": 2,
+                    "t": "chaine",
+                    "v": "Namaste"
+                  },
+                  {
+                    "n": 3,
+                    "t": "varint",
+                    "v": 1
+                  },
+                  {
+                    "n": 4,
+                    "t": "message",
+                    "v": [
+                      {
+                        "n": 1,
+                        "t": "chaine",
+                        "v": "2026-09-05T00:00:00.000Z"
+                      },
+                      {
+                        "n": 2,
+                        "t": "message",
+                        "v": []
+                      },
+                      {
+                        "n": 4,
+                        "t": "chaine",
+                        "v": "2026-09-05T00:00:00.000000000Z"
+                      },
+                      {
+                        "n": 6,
+                        "t": "message",
+                        "v": [
+                          {
+                            "n": 2,
+                            "t": "varint",
+                            "v": 3
+                          },
+                          {
+                            "n": 3,
+                            "t": "varint",
+                            "v": 9584
+                          },
+                          {
+                            "n": 5,
+                            "t": "chaine",
+                            "v": "s"
+                          }
+                        ]
+                      },
+                      {
+                        "n": 7,
+                        "t": "varint",
+                        "v": 11
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "n": 2,
+                "t": "varint",
+                "v": 302677754147
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "personnage_servi": {
+    "identifiant": 302677754147,
+    "nom": "Namaste",
+    "niveau": 1,
+    "note": "FORMES verifiees sur une trame kva REELLE (world_etapa1 @138) et sur il2cpp.cs ; VALEURS inventees — aucune donnee de compte tiers."
+  }
+}
