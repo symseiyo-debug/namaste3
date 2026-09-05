@@ -46,6 +46,10 @@ Tout est **déterministe** : ce qu'un script peut retrouver n'est jamais deviné
 
 ---
 
+
+> 🔬 **[Protocole observé en session réelle](protocol/observed/)** — 194 opcodes vus vivants,
+> 63 nommés, 7 familles reconstituées par capture. Ce que le binaire ne dit pas.
+
 ## ❌ Ce qui ne marche pas encore — et pourquoi
 
 C'est la section la plus utile du dépôt. On préfère un mur nommé à une promesse.
