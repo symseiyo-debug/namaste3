@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version%20cible-3.6.10.11-E88AAD?style=flat-square" alt="target">
+  <img src="https://img.shields.io/badge/version%20cible-3.6.10.10-E88AAD?style=flat-square" alt="target">
   <img src="https://img.shields.io/badge/messages-2206-F7B7D0?style=flat-square" alt="messages">
   <img src="https://img.shields.io/badge/champs-6278-F7B7D0?style=flat-square" alt="fields">
   <img src="https://img.shields.io/badge/licence-MIT-9C8FB0?style=flat-square" alt="license">
@@ -66,6 +66,11 @@ visible seulement à l'écran.
 
 **La bonne nouvelle symétrique** : entre deux versions *voisines* (3.6.10.10 → 3.6.10.11), la
 rotation est **nulle sur 2 169 identités**. Un correctif ne casse rien ; c'est le saut majeur qui coûte.
+
+> **Pourquoi ce dépôt cible 3.6.10.10 précisément** : c'est la version que fait tourner notre serveur.
+> `3.6.10.10` et `3.6.10.11` sont **le même binaire** — sha256 identique sur `GameAssembly.dll` et
+> `global-metadata.dat` — donc ce n'est pas une limitation : ce qui marche ici marche aussi sur
+> `3.6.10.11`, et ne sera pas périmé à la prochaine build tant que le binaire ne bouge pas vraiment.
 
 **Autres limites connues :**
 - La décompilation native (Ghidra) est **cassée** chez nous : le pré-script de typage ne s'exécute

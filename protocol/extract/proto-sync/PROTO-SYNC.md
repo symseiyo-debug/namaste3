@@ -17,9 +17,9 @@
 cd protocol/extract/proto-sync
 D=../../internal/il2cpp-dump/il2cppinspectorredux/cs/il2cpp.cs      # le dump de LA build
 
-python3 generer_proto.py    --dump $D --build 3.6.10.11 --out ./out --verifier
-python3 generer_dispatch.py --dump $D --build 3.6.10.11 --out ./out --verifier
-python3 gate-proto-sync.py  --out ./out --build 3.6.10.11 --epreuve
+python3 generer_proto.py    --dump $D --build 3.6.10.10 --out ./out --verifier
+python3 generer_dispatch.py --dump $D --build 3.6.10.10 --out ./out --verifier
+python3 gate-proto-sync.py  --out ./out --build 3.6.10.10 --epreuve
 ```
 
 Sorties dans `out/` : `protocole-<build>.proto`, `protocole-<build>.mesures.json`,

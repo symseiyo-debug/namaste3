@@ -1,12 +1,12 @@
 {
-  "build": "3.6.10.11",
+  "build": "3.6.10.10",
   "build_des_mesures": "3.6.10.10",
   "genere_par": "protocol/generer-binding.py",
   "genere_le": "2026-09-05",
   "recroisement_etage5": {
     "table": "protocol/extract/proto-sync/out/dispatch-3.6.10.10.json",
     "build_de_la_table": "3.6.10.10",
-    "note_de_build": "la table de dispatch est mesuree sur 3.6.10.10, nous visons 3.6.10.11 : le recroisement est donc CROSS-BUILD. Il tient parce que les 25 opcodes du chemin critique portent le meme nom obfusque dans les deux builds, ce qui est verifie ici meme — un opcode qui aurait bouge serait rendu ABSENT, pas silencieusement accepte.",
+    "note_de_build": "la table de dispatch et la table de liaison sont mesurees sur la MEME build, 3.6.10.10 : pas de cross-build a couvrir ici. (Avant l'alignement du 05/09, la table visait 3.6.10.11 ; ca tenait deja, puisque 3.6.10.10 et 3.6.10.11 sont le meme binaire — sha256 identique, rotation nulle sur 2 169 identites.)",
     "champs_verifies": [
       {
         "message": "kqz",

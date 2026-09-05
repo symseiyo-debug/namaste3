@@ -7,9 +7,14 @@
 > 36 tests, 0 échec, 0 opcode littéral dans `src/`.
 >
 > Objectif de la soirée, tel que posé par le porteur du projet : *« osef du portage de version pour l'instant,
-> faisons déjà un serveur qui marche »*. Un seul critère mesurable — **le client 3.6.10.11 se
+> faisons déjà un serveur qui marche »*. Un seul critère mesurable — **le client 3.6.10.10 se
 > connecte et affiche un écran**. Ce document dit comment le lancer, et surtout **ce qui est
 > encore faux**.
+>
+> **Aligné le 05/09** sur ordre du porteur du projet — *« mon serveur est la version 3.6.10.10 [...]
+> on essaye sur le mien et non celui de Dofus à jour »* : `3.6.10.10` est la cible de référence.
+> `3.6.10.11` reste mentionnée dans ce document là où c'est un fait mesuré (le même binaire, sha256
+> identique) — jamais comme cible.
 
 ---
 
@@ -25,13 +30,13 @@ dotnet run --project src/Namaste3.Server.Connection
 Au démarrage, le serveur **imprime l'état de sa table AVANT d'ouvrir le port** :
 
 ```
-table de liaison / binding table : .../protocol/binding-3.6.10.11.json
-  build                : 3.6.10.11
+table de liaison / binding table : .../protocol/binding-3.6.10.10.json
+  build                : 3.6.10.10
   opcodes liés / bound : 25
   recroisés étage 1    : 18
   rafale / burst       : 15 messages, 13 opcodes distincts
   garde de ticket      : FERMÉ — seul un ticket émis par la phase nue est accepté
-écoute / listening on 0.0.0.0:18420  (build 3.6.10.11)
+écoute / listening on 0.0.0.0:18420  (build 3.6.10.10)
 annoncé au client / announced to the client: 127.0.0.1:18420
 ```
 
@@ -93,7 +98,7 @@ noir sans journal ne nous apprend rien.
 
 ## 3. La table de liaison — pourquoi aucun opcode n'est dans le code
 
-`protocol/binding-3.6.10.11.json` est **le seul fichier qui nomme des opcodes 3 lettres**. Le
+`protocol/binding-3.6.10.10.json` est **le seul fichier qui nomme des opcodes 3 lettres**. Le
 C# ne connaît que des noms sémantiques stables (`AuthTicket`, `CharactersList`, …).
 
 La raison est mesurée, pas esthétique : l'opcode 3 lettres **est** le nom de classe obfusqué du
@@ -136,11 +141,15 @@ Le piège que ça garde, et il est réel : `kvl` (première sélection de person
 en champ 1 et l'identifiant en champ 2. Lire le champ 1 rendrait `0` ou `1` en guise
 d'identifiant de personnage. L'épreuve de la gate fausse exactement ce numéro et exige un refus.
 
-⚠️ Le recroisement est **cross-build** : la table de dispatch est mesurée sur `3.6.10.10`, nous
-visons `3.6.10.11`. Il tient parce que les 25 opcodes du chemin critique portent le même nom
-obfusqué dans les deux builds — **et c'est vérifié ici même** : un opcode qui aurait bougé serait
-rendu `ABSENT`, pas silencieusement accepté. Le détail de ce qui a été vérifié est écrit dans le
-produit (`recroisement_etage5` du JSON), pas seulement imprimé en console.
+Le recroisement n'est **plus cross-build** depuis l'alignement du 05/09 : la table de dispatch et
+la table de liaison sont désormais mesurées sur la **même** build, `3.6.10.10` — celle réellement
+utilisée par notre serveur. *Avant l'alignement*, la table visait `3.6.10.11` et ça tenait déjà :
+les 25 opcodes du chemin critique portent le même nom obfusqué dans les deux builds, parce que
+`3.6.10.10` et `3.6.10.11` sont **le même binaire** (sha256 identique sur `GameAssembly.dll` et
+`global-metadata.dat`, rotation nulle sur 2 169 identités) — **et c'est vérifié ici même** : un
+opcode qui aurait bougé serait rendu `ABSENT`, pas silencieusement accepté. Le détail de ce qui a
+été vérifié est écrit dans le produit (`recroisement_etage5` du JSON), pas seulement imprimé en
+console.
 
 Régénérer après tout changement de build :
 
@@ -330,7 +339,7 @@ server/
 ├── Namaste3.Server.sln · gate-serveur.sh · RUNBOOK-SERVEUR.md
 ├── protocol/
 │   ├── generer-binding.py          générateur déterministe, recroise l'étage 1
-│   └── binding-3.6.10.11.json      LE seul fichier qui nomme des opcodes
+│   └── binding-3.6.10.10.json      LE seul fichier qui nomme des opcodes
 ├── src/Namaste3.Server.Connection/ (net8.0, référence le codec de l'étage 2, max 460 lignes)
 │   ├── SemanticOp.cs         les noms sémantiques stables
 │   ├── FieldSpec.cs          la forme d'une charge, en donnée + son encodeur

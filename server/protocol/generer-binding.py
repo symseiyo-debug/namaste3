@@ -23,7 +23,7 @@ POURQUOI (05/09/2026) : l'opcode 3 lettres EST le nom de classe obfusqué du cli
     sur 27 examinés).
 
 COMMENT LANCER / USAGE :
-    python3 generer-binding.py                 # écrit protocol/binding-3.6.10.11.json
+    python3 generer-binding.py                 # écrit protocol/binding-3.6.10.10.json
     python3 generer-binding.py --verifier      # ne réécrit rien ; rc=1 si le fichier est périmé
 
 GATE : rc=0 ssi (a) chaque nom clair de la table est confirmé par correspondance-v4.tsv,
@@ -48,12 +48,13 @@ CORRESPONDANCE_V4 = CHANTIER / "etage1-carte" / "matcher" / "correspondance-v4.t
 # / Stage 5's GENERATED dispatch table — a second INDEPENDENT instrument.
 DISPATCH = CHANTIER / "etage5-outils" / "proto-sync" / "out" / "dispatch-3.6.10.10.json"
 
-# La build VISÉE. Le client réel installé est 3.6.10.11 ; les tables de l'étage 1 sont mesurées
-# sur 3.6.10.10 et notre dump. Les deux portent les MÊMES noms obfusqués pour tout le chemin
-# critique — vérifié classe par classe dans il2cpp.cs le 05/09 (kvi, lpg, lpe, lpj, kqz, kvw,
-# kvl, jru, lqu, hoy, kqu, mgq, mgt, hpd, krs, mgz, kqp, kra, kvd, jtg, mhh, mhj, mhl, mia, mik).
+# La build VISÉE. Alignée le 05/09 sur ordre du porteur du projet (« mon serveur est la version
+# 3.6.10.10 [...] on essaye sur le mien et non celui de Dofus à jour ») — sans risque : 3.6.10.10
+# et 3.6.10.11 sont le MÊME binaire (sha256 identique sur GameAssembly.dll et global-metadata.dat,
+# rotation nulle sur 2 169 identités, vérifié classe par classe le 05/09). Les tables de l'étage 1
+# sont mesurées sur 3.6.10.10 et notre dump, donc déjà la MÊME build.
 # / The TARGET build. Same obfuscated names as 3.6.10.10 across the whole critical path.
-BUILD = "3.6.10.11"
+BUILD = "3.6.10.10"
 BUILD_MESURE = "3.6.10.10"
 
 # ------------------------------------------------------------------------------------------
@@ -487,12 +488,23 @@ def construire(refus):
         "recroisement_etage5": {
             "table": str(DISPATCH.relative_to(CHANTIER)) if DISPATCH.exists() else "ABSENTE",
             "build_de_la_table": build_dispatch,
+            # FR/EN : la note s'adapte a BUILD == build_dispatch (sinon "CROSS-BUILD" serait faux
+            #     depuis l'alignement du 05/09) / the note adapts to BUILD == build_dispatch.
             "note_de_build": (
-                "la table de dispatch est mesuree sur %s, nous visons %s : le recroisement est "
-                "donc CROSS-BUILD. Il tient parce que les 25 opcodes du chemin critique portent "
-                "le meme nom obfusque dans les deux builds, ce qui est verifie ici meme — un "
-                "opcode qui aurait bouge serait rendu ABSENT, pas silencieusement accepte."
-                % (build_dispatch or "?", BUILD)),
+                (
+                    "la table de dispatch et la table de liaison sont mesurees sur la MEME build, "
+                    "%s : pas de cross-build a couvrir ici. (Avant l'alignement du 05/09, la table "
+                    "visait 3.6.10.11 ; ca tenait deja, puisque 3.6.10.10 et 3.6.10.11 sont le "
+                    "meme binaire — sha256 identique, rotation nulle sur 2 169 identites.)"
+                    % (BUILD,)
+                ) if build_dispatch == BUILD else (
+                    "la table de dispatch est mesuree sur %s, nous visons %s : le recroisement est "
+                    "donc CROSS-BUILD. Il tient parce que les 25 opcodes du chemin critique portent "
+                    "le meme nom obfusque dans les deux builds, ce qui est verifie ici meme — un "
+                    "opcode qui aurait bouge serait rendu ABSENT, pas silencieusement accepte."
+                    % (build_dispatch or "?", BUILD)
+                )
+            ),
             "champs_verifies": champs_verifies,
         },
         "avertissement": ("Ce fichier est le SEUL a nommer des opcodes 3 lettres. "

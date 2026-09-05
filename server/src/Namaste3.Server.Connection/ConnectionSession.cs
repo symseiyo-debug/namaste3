@@ -5,7 +5,7 @@
 //     trames à émettre. C'est ce qui permet au faux client des tests de jouer tout le scénario
 //     sans réseau.
 // POURQUOI (05/09/2026) : décision du projet — « faisons déjà un serveur qui marche », un seul
-//     objectif mesurable : le client 3.6.10.11 se connecte et affiche un écran. La séquence est
+//     objectif mesurable : le client 3.6.10.10 se connecte et affiche un écran. La séquence est
 //     TRANSCRITE de `SEQUENCE-CHEMIN-CRITIQUE-JONDO.md` (§3.2 à §5.2) et de
 //     `COMPLEMENT-CHEMIN-CRITIQUE-G1.md`, jamais devinée ; chaque forme émise est recroisée
 //     contre le dump de notre client. Aucune ligne de code n'est reprise d'un émulateur tiers.
